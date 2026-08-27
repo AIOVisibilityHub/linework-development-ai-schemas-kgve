@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is clash detection, and how does AI improve it?",
+  "description": "Clash detection identifies where building elements (pipes, ducts, beams) intersect impossibly; AI scans BIM models in real-time, predicts conflicts, and suggest",
+  "url": "https://lineworkdevelopment.com/faq/what-is-clash-detection-and-how-does-ai-improve-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is clash detection, and how does AI improve it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clash detection identifies where building elements (pipes, ducts, beams) intersect impossibly; AI scans BIM models in real-time, predicts conflicts, and suggests resolutions automatically. autodesk​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

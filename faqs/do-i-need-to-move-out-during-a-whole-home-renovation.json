@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to move out during a whole-home renovation?",
+  "description": "For major projects that affect kitchens, bathrooms, and bedrooms simultaneously, moving out—at least for part of the construction—often reduces disruption and a",
+  "url": "https://lineworkdevelopment.com/faq/do-i-need-to-move-out-during-a-whole-home-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to move out during a whole-home renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For major projects that affect kitchens, bathrooms, and bedrooms simultaneously, moving out—at least for part of the construction—often reduces disruption and allows work to proceed more efficiently and safely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

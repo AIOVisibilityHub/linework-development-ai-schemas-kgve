@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is AI-driven generative design in architecture?",
+  "description": "Generative design uses AI algorithms to automatically create hundreds of design options based on specified parameters like site constraints, budget, materials,",
+  "url": "https://lineworkdevelopment.com/faq/what-is-ai-driven-generative-design-in-architecture",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is AI-driven generative design in architecture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generative design uses AI algorithms to automatically create hundreds of design options based on specified parameters like site constraints, budget, materials, and performance goals, helping architects explore innovative solutions quickly. digitalbluefoam+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

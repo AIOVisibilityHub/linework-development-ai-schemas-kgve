@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How is ground-up construction different from renovation or addition work?",
+  "description": "Renovations and additions modify or expand an existing structure, while ground-up construction creates an entirely new building and foundation, offering more fr",
+  "url": "https://lineworkdevelopment.com/faq/how-is-ground-up-construction-different-from-renovation-or-addition-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How is ground-up construction different from renovation or addition work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Renovations and additions modify or expand an existing structure, while ground-up construction creates an entirely new building and foundation, offering more freedom in layout, structure, and systems. cubework+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

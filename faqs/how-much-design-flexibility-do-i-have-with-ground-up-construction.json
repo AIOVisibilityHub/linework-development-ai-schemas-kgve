@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much design flexibility do I have with ground-up construction?",
+  "description": "Ground-up projects offer high flexibility in layout, structure, and systems, constrained mainly by site conditions, codes, and budget, allowing you to tailor th",
+  "url": "https://lineworkdevelopment.com/faq/how-much-design-flexibility-do-i-have-with-ground-up-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much design flexibility do I have with ground-up construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ground-up projects offer high flexibility in layout, structure, and systems, constrained mainly by site conditions, codes, and budget, allowing you to tailor the home closely to how you live. rsvc+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

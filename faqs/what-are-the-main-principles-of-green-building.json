@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main principles of green building?",
+  "description": "Key principles include site sustainability, water efficiency, energy conservation, material selection, indoor air quality, and lifecycle assessment from constru",
+  "url": "https://lineworkdevelopment.com/faq/what-are-the-main-principles-of-green-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main principles of green building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key principles include site sustainability, water efficiency, energy conservation, material selection, indoor air quality, and lifecycle assessment from construction through operation. wbdg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

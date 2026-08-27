@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are smoke/CO detectors required in converted garages?",
+  "description": "Yes, interconnected smoke and carbon monoxide alarms are required in all habitable spaces per California Residential Code, tied to the main house system.",
+  "url": "https://lineworkdevelopment.com/faq/are-smoke-co-detectors-required-in-converted-garages",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are smoke/CO detectors required in converted garages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, interconnected smoke and carbon monoxide alarms are required in all habitable spaces per California Residential Code, tied to the main house system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

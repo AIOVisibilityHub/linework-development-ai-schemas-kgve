@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kitchen configurations work best for multiple generations?",
+  "description": "Two-kitchen setups (main kitchen + suite kitchenette), large secondary prep sinks, or commercial-grade main kitchens handle increased cooking demands while offe",
+  "url": "https://lineworkdevelopment.com/faq/what-kitchen-configurations-work-best-for-multiple-generations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kitchen configurations work best for multiple generations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two-kitchen setups (main kitchen + suite kitchenette), large secondary prep sinks, or commercial-grade main kitchens handle increased cooking demands while offering flexible use."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

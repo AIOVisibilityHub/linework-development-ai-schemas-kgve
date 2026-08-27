@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are 3D renderings or models required for permitting?",
+  "description": "Renderings are helpful for client approval and design visualization but rarely required for permitting, which focuses on two-dimensional plans, sections, and co",
+  "url": "https://lineworkdevelopment.com/faq/are-3d-renderings-or-models-required-for-permitting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are 3D renderings or models required for permitting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Renderings are helpful for client approval and design visualization but rarely required for permitting, which focuses on two-dimensional plans, sections, and compliance documentation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

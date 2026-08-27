@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do design-build firms handle drawings and permitting?",
+  "description": "Design-build teams produce drawings internally, coordinate engineering, submit for permits, and transition seamlessly to construction using the same documents t",
+  "url": "https://lineworkdevelopment.com/faq/how-do-design-build-firms-handle-drawings-and-permitting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do design-build firms handle drawings and permitting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design-build teams produce drawings internally, coordinate engineering, submit for permits, and transition seamlessly to construction using the same documents they permitted."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

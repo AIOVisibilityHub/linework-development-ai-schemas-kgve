@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is ground-up construction more expensive than remodeling an existing home?",
+  "description": "It can be more costly upfront, but ground-up work may be more efficient when an existing structure needs major structural, systems, and layout changes to meet y",
+  "url": "https://lineworkdevelopment.com/faq/is-ground-up-construction-more-expensive-than-remodeling-an-existing-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is ground-up construction more expensive than remodeling an existing home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It can be more costly upfront, but ground-up work may be more efficient when an existing structure needs major structural, systems, and layout changes to meet your goals, and can yield better long-term performance. cubework+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

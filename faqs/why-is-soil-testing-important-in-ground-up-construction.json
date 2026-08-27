@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why is soil testing important in ground-up construction?",
+  "description": "Soil reports confirm bearing capacity, drainage characteristics, and potential issues like expansive clays or fill, helping engineers size foundations correctly",
+  "url": "https://lineworkdevelopment.com/faq/why-is-soil-testing-important-in-ground-up-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why is soil testing important in ground-up construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Soil reports confirm bearing capacity, drainage characteristics, and potential issues like expansive clays or fill, helping engineers size foundations correctly and avoid settlement or structural problems. calahan+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

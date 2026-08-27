@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should multigenerational homes include home offices?",
+  "description": "Yes, private suite offices plus shared workspaces accommodate remote work, homeschooling, and hobbies while maintaining separation from family living areas.",
+  "url": "https://lineworkdevelopment.com/faq/should-multigenerational-homes-include-home-offices",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should multigenerational homes include home offices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, private suite offices plus shared workspaces accommodate remote work, homeschooling, and hobbies while maintaining separation from family living areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

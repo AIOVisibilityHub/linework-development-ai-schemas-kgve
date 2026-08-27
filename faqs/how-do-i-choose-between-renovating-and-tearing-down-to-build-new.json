@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose between renovating and tearing down to build new?",
+  "description": "The decision often comes down to the condition of the structure and systems, the level of layout changes you want, zoning constraints, and cost; a professional",
+  "url": "https://lineworkdevelopment.com/faq/how-do-i-choose-between-renovating-and-tearing-down-to-build-new",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose between renovating and tearing down to build new?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision often comes down to the condition of the structure and systems, the level of layout changes you want, zoning constraints, and cost; a professional assessment can compare renovation versus ground-up options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

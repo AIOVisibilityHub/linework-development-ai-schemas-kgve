@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I decide early to avoid delays or change orders?",
+  "description": "Major decisions such as footprint and layout, structural system, window and door types, roof form, exterior materials, and key mechanical strategies are best lo",
+  "url": "https://lineworkdevelopment.com/faq/what-should-i-decide-early-to-avoid-delays-or-change-orders",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I decide early to avoid delays or change orders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Major decisions such as footprint and layout, structural system, window and door types, roof form, exterior materials, and key mechanical strategies are best locked in before construction starts. rsvc+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are you a licensed contractor in California?",
+  "description": "Yes, LineWork Development holds an active California contractor license (No. 1017174) and is fully qualified to manage residential construction and remodeling p",
+  "url": "https://lineworkdevelopment.com/faq/are-you-a-licensed-contractor-in-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are you a licensed contractor in California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, LineWork Development holds an active California contractor license (No. 1017174) and is fully qualified to manage residential construction and remodeling projects. houzz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

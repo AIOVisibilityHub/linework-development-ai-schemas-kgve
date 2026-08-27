@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does project management include on a residential construction project?",
+  "description": "Project management typically covers planning, scheduling, budgeting, coordination of trades, permitting support, inspections, quality control, and ongoing commu",
+  "url": "https://lineworkdevelopment.com/faq/what-does-project-management-include-on-a-residential-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does project management include on a residential construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Project management typically covers planning, scheduling, budgeting, coordination of trades, permitting support, inspections, quality control, and ongoing communication with the homeowner from start to finish."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

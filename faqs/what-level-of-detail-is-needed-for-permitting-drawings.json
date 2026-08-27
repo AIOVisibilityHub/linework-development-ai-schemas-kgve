@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What level of detail is needed for permitting drawings?",
+  "description": "Permitting typically requires complete floor plans, elevations, sections, site plan, structural notes, and code compliance tables showing exits, ceiling heights",
+  "url": "https://lineworkdevelopment.com/faq/what-level-of-detail-is-needed-for-permitting-drawings",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What level of detail is needed for permitting drawings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permitting typically requires complete floor plans, elevations, sections, site plan, structural notes, and code compliance tables showing exits, ceiling heights, and fire separation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

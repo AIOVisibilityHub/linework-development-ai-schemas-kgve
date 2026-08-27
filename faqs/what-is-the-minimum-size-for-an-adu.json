@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the minimum size for an ADU?",
+  "description": "ADUs must have a minimum living area of 150 square feet to qualify as a complete dwelling unit with required kitchen and bathroom facilities.",
+  "url": "https://lineworkdevelopment.com/faq/what-is-the-minimum-size-for-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum size for an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ADUs must have a minimum living area of 150 square feet to qualify as a complete dwelling unit with required kitchen and bathroom facilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

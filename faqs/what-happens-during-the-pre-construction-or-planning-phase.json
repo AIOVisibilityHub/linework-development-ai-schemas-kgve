@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What happens during the pre-construction or planning phase?",
+  "description": "Pre-construction covers site analysis, budgeting, preliminary schedules, constructability reviews, utility planning, and coordination with designers and consult",
+  "url": "https://lineworkdevelopment.com/faq/what-happens-during-the-pre-construction-or-planning-phase",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens during the pre-construction or planning phase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-construction covers site analysis, budgeting, preliminary schedules, constructability reviews, utility planning, and coordination with designers and consultants to reduce risk before work starts on site. calahan+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

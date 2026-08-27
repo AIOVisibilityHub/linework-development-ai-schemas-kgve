@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does green building improve energy efficiency?",
+  "description": "Green practices optimize insulation, windows, HVAC systems, lighting, and appliances to reduce heating/cooling loads by 30-50% compared to standard construction",
+  "url": "https://lineworkdevelopment.com/faq/how-does-green-building-improve-energy-efficiency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does green building improve energy efficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Green practices optimize insulation, windows, HVAC systems, lighting, and appliances to reduce heating/cooling loads by 30-50% compared to standard construction, lowering utility bills long-term. wbdg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

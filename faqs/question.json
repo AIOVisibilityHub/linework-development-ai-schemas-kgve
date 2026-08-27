@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "question",
+  "description": "answer",
+  "url": "https://lineworkdevelopment.com/faq/question",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "question",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "answer"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

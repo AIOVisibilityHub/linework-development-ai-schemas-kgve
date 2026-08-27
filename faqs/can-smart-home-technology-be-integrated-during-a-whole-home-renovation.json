@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can smart home technology be integrated during a whole-home renovation?",
+  "description": "Whole-home renovations are an ideal time to add smart thermostats, lighting controls, security systems, and structured wiring, since walls are open and access t",
+  "url": "https://lineworkdevelopment.com/faq/can-smart-home-technology-be-integrated-during-a-whole-home-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can smart home technology be integrated during a whole-home renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whole-home renovations are an ideal time to add smart thermostats, lighting controls, security systems, and structured wiring, since walls are open and access to systems is easier."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

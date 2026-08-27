@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is structural optimization using generative AI?",
+  "description": "AI evaluates thousands of beam, column, and foundation configurations under load conditions to create lighter, stronger structures that use less material while",
+  "url": "https://lineworkdevelopment.com/faq/what-is-structural-optimization-using-generative-ai",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is structural optimization using generative AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI evaluates thousands of beam, column, and foundation configurations under load conditions to create lighter, stronger structures that use less material while meeting seismic and wind requirements. tribe+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

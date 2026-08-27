@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you manage multiple trades on a tight site or busy schedule?",
+  "description": "The project manager staggers trades, sequences tasks to minimize overlap, and coordinates deliveries and access, reducing conflicts, rework, and downtime on sit",
+  "url": "https://lineworkdevelopment.com/faq/how-do-you-manage-multiple-trades-on-a-tight-site-or-busy-schedule",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you manage multiple trades on a tight site or busy schedule?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The project manager staggers trades, sequences tasks to minimize overlap, and coordinates deliveries and access, reducing conflicts, rework, and downtime on site."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

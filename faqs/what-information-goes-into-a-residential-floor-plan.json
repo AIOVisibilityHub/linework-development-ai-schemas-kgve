@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What information goes into a residential floor plan?",
+  "description": "Floor plans show room layouts, door/window locations, dimensions, fixtures, circulation paths, and key built-ins, serving as the primary guide for framing and l",
+  "url": "https://lineworkdevelopment.com/faq/what-information-goes-into-a-residential-floor-plan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What information goes into a residential floor plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Floor plans show room layouts, door/window locations, dimensions, fixtures, circulation paths, and key built-ins, serving as the primary guide for framing and layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

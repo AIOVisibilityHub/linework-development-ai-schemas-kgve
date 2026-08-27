@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can ADUs have bedrooms?",
+  "description": "Yes, ADUs can have one or two bedrooms depending on size; units over 1,000 sq ft can typically support two bedrooms while meeting parking and setback rules.",
+  "url": "https://lineworkdevelopment.com/faq/can-adus-have-bedrooms",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can ADUs have bedrooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, ADUs can have one or two bedrooms depending on size; units over 1,000 sq ft can typically support two bedrooms while meeting parking and setback rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

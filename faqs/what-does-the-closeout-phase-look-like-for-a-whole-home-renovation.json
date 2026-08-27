@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does the closeout phase look like for a whole-home renovation?",
+  "description": "At the end, the team conducts a walkthrough and punch list, completes final touch-ups, provides manuals and warranties, and may schedule a follow-up visit to ad",
+  "url": "https://lineworkdevelopment.com/faq/what-does-the-closeout-phase-look-like-for-a-whole-home-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does the closeout phase look like for a whole-home renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At the end, the team conducts a walkthrough and punch list, completes final touch-ups, provides manuals and warranties, and may schedule a follow-up visit to address any minor issues that appear after you’ve moved back in."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

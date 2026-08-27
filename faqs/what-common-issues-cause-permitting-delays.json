@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What common issues cause permitting delays?",
+  "description": "Incomplete drawings, missing engineering stamps, unclear code compliance, zoning conflicts, utility conflicts, or structural concerns often trigger plan check c",
+  "url": "https://lineworkdevelopment.com/faq/what-common-issues-cause-permitting-delays",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What common issues cause permitting delays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Incomplete drawings, missing engineering stamps, unclear code compliance, zoning conflicts, utility conflicts, or structural concerns often trigger plan check comments and resubmittals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

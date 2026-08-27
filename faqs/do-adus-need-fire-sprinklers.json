@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do ADUs need fire sprinklers?",
+  "description": "New detached ADUs typically do not require sprinklers if under certain size/height limits; attached ADUs follow primary residence fire requirements.",
+  "url": "https://lineworkdevelopment.com/faq/do-adus-need-fire-sprinklers",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do ADUs need fire sprinklers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New detached ADUs typically do not require sprinklers if under certain size/height limits; attached ADUs follow primary residence fire requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can generative design incorporate sustainable materials?",
+  "description": "Yes, AI prioritizes low-carbon, recycled, or locally sourced materials within design constraints, balancing environmental impact with performance, cost, and ava",
+  "url": "https://lineworkdevelopment.com/faq/can-generative-design-incorporate-sustainable-materials",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can generative design incorporate sustainable materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, AI prioritizes low-carbon, recycled, or locally sourced materials within design constraints, balancing environmental impact with performance, cost, and availability. tribe+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

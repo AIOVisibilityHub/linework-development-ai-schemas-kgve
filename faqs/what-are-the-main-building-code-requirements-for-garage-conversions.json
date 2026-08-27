@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main building code requirements for garage conversions?",
+  "description": "Conversions must meet minimum ceiling heights (7 ft), natural light (8% of floor area), ventilation (4% openings), insulation per energy code, heating to 68°F,",
+  "url": "https://lineworkdevelopment.com/faq/what-are-the-main-building-code-requirements-for-garage-conversions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main building code requirements for garage conversions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conversions must meet minimum ceiling heights (7 ft), natural light (8% of floor area), ventilation (4% openings), insulation per energy code, heating to 68°F, and proper electrical outlets every 6 ft along walls."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

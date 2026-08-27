@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer project management as a standalone service?",
+  "description": "Our core model is full design-build, but every project includes dedicated project management for schedule, budget, communication, and quality control from start",
+  "url": "https://lineworkdevelopment.com/faq/do-you-offer-project-management-as-a-standalone-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer project management as a standalone service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our core model is full design-build, but every project includes dedicated project management for schedule, budget, communication, and quality control from start to finish. lineworkdevelopment+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

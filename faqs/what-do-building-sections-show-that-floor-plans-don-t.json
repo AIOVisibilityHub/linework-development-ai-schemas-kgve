@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What do building sections show that floor plans don't?",
+  "description": "Sections cut vertically through the building to reveal floor-to-ceiling heights, wall construction, roof structure, stairs, and how different levels connect.",
+  "url": "https://lineworkdevelopment.com/faq/what-do-building-sections-show-that-floor-plans-don-t",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do building sections show that floor plans don't?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sections cut vertically through the building to reveal floor-to-ceiling heights, wall construction, roof structure, stairs, and how different levels connect."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my drawings meet California building codes?",
+  "description": "Drawings should reference specific code sections, include compliance tables for exits, fire ratings, ceiling heights, and openings, and carry professional stamp",
+  "url": "https://lineworkdevelopment.com/faq/how-do-i-know-if-my-drawings-meet-california-building-codes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my drawings meet California building codes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drawings should reference specific code sections, include compliance tables for exits, fire ratings, ceiling heights, and openings, and carry professional stamps where required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

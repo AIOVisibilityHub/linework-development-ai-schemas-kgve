@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why are multigenerational homes becoming more popular?",
+  "description": "Rising housing costs, desire for family support, aging-in-place needs, and cultural preferences for extended family living drive demand for homes that support p",
+  "url": "https://lineworkdevelopment.com/faq/why-are-multigenerational-homes-becoming-more-popular",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why are multigenerational homes becoming more popular?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rising housing costs, desire for family support, aging-in-place needs, and cultural preferences for extended family living drive demand for homes that support privacy alongside togetherness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

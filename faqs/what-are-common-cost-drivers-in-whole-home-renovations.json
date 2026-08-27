@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common cost drivers in whole-home renovations?",
+  "description": "Structural changes, extensive plumbing or electrical relocation, high-end finishes, custom cabinetry, window and door upgrades, and unforeseen conditions behind",
+  "url": "https://lineworkdevelopment.com/faq/what-are-common-cost-drivers-in-whole-home-renovations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common cost drivers in whole-home renovations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Structural changes, extensive plumbing or electrical relocation, high-end finishes, custom cabinetry, window and door upgrades, and unforeseen conditions behind walls are major factors that affect cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

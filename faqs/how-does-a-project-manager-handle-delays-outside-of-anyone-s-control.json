@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a project manager handle delays outside of anyone’s control?",
+  "description": "When delays arise from weather, supply chain, or inspections, the project manager updates the schedule, resequences work where possible, and communicates realis",
+  "url": "https://lineworkdevelopment.com/faq/how-does-a-project-manager-handle-delays-outside-of-anyone-s-control",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a project manager handle delays outside of anyone’s control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When delays arise from weather, supply chain, or inspections, the project manager updates the schedule, resequences work where possible, and communicates realistic revised timelines and options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

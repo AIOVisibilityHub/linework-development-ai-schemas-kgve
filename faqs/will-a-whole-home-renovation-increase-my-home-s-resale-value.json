@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a whole-home renovation increase my home’s resale value?",
+  "description": "While no project guarantees a specific return, thoughtful whole-home renovations that improve layout, update key spaces, and address deferred maintenance typica",
+  "url": "https://lineworkdevelopment.com/faq/will-a-whole-home-renovation-increase-my-home-s-resale-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a whole-home renovation increase my home’s resale value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While no project guarantees a specific return, thoughtful whole-home renovations that improve layout, update key spaces, and address deferred maintenance typically make a property more attractive to future buyers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What tools are used to track progress during construction?",
+  "description": "Many firms use shared calendars, project management software, photo updates, and detailed task lists to track progress, manage deadlines, and keep everyone alig",
+  "url": "https://lineworkdevelopment.com/faq/what-tools-are-used-to-track-progress-during-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What tools are used to track progress during construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many firms use shared calendars, project management software, photo updates, and detailed task lists to track progress, manage deadlines, and keep everyone aligned on the current phase of work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

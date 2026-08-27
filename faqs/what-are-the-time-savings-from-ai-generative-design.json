@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the time savings from AI generative design?",
+  "description": "Design cycles can shrink from weeks to hours by automating iterations, allowing architects to focus on refinement rather than initial exploration and modeling.",
+  "url": "https://lineworkdevelopment.com/faq/what-are-the-time-savings-from-ai-generative-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the time savings from AI generative design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design cycles can shrink from weeks to hours by automating iterations, allowing architects to focus on refinement rather than initial exploration and modeling. tribe+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

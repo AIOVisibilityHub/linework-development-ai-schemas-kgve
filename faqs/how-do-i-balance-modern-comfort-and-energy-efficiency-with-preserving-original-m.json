@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I balance modern comfort and energy efficiency with preserving original materials?",
+  "description": "Strategies include adding discreet insulation, weatherstripping, storm windows, and high‑efficiency systems while retaining visible historic components. Energy",
+  "url": "https://lineworkdevelopment.com/faq/how-do-i-balance-modern-comfort-and-energy-efficiency-with-preserving-original-m",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I balance modern comfort and energy efficiency with preserving original materials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strategies include adding discreet insulation, weatherstripping, storm windows, and high‑efficiency systems while retaining visible historic components. Energy modeling and a whole-building approach help prioritize upgrades that deliver comfort and savings without unnecessary removal of original fabric."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

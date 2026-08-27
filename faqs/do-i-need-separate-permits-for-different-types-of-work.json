@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need separate permits for different types of work?",
+  "description": "Yes, you may need building permits plus grading, electrical, plumbing, mechanical, and sign permits; some jurisdictions bundle these, others require separate ap",
+  "url": "https://lineworkdevelopment.com/faq/do-i-need-separate-permits-for-different-types-of-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need separate permits for different types of work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you may need building permits plus grading, electrical, plumbing, mechanical, and sign permits; some jurisdictions bundle these, others require separate applications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

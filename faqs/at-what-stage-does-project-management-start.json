@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "At what stage does project management start?",
+  "description": "Effective project management begins early in the pre-design or schematic design phase, helping define scope, budget, and timeline before detailed drawings and c",
+  "url": "https://lineworkdevelopment.com/faq/at-what-stage-does-project-management-start",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "At what stage does project management start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective project management begins early in the pre-design or schematic design phase, helping define scope, budget, and timeline before detailed drawings and construction begin."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

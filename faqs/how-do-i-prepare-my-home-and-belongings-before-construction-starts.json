@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare my home and belongings before construction starts?",
+  "description": "Clearing out rooms, protecting or storing furniture, organizing key documents, and setting aside essentials you’ll need during construction help streamline the",
+  "url": "https://lineworkdevelopment.com/faq/how-do-i-prepare-my-home-and-belongings-before-construction-starts",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare my home and belongings before construction starts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clearing out rooms, protecting or storing furniture, organizing key documents, and setting aside essentials you’ll need during construction help streamline the start of work and reduce the risk of damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What parking replacement is required after garage conversion?",
+  "description": "Most areas require one uncovered parking space per converted garage bay if not near transit; California ADU laws often waive this requirement for conversions wi",
+  "url": "https://lineworkdevelopment.com/faq/what-parking-replacement-is-required-after-garage-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What parking replacement is required after garage conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most areas require one uncovered parking space per converted garage bay if not near transit; California ADU laws often waive this requirement for conversions within ½ mile of public transit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

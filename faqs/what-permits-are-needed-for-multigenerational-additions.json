@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for multigenerational additions?",
+  "description": "Bedroom/bath additions typically need building permits; ADU/JADU conversions have streamlined approval processes in many areas, especially California.hardingcon",
+  "url": "https://lineworkdevelopment.com/faq/what-permits-are-needed-for-multigenerational-additions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for multigenerational additions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bedroom/bath additions typically need building permits; ADU/JADU conversions have streamlined approval processes in many areas, especially California.hardingconstruction+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

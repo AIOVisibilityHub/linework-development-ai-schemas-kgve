@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the learning curve for AI generative design tools?",
+  "description": "Modern platforms are increasingly intuitive with visual interfaces, templates, and natural language inputs, though architects benefit from training to interpret",
+  "url": "https://lineworkdevelopment.com/faq/what-is-the-learning-curve-for-ai-generative-design-tools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the learning curve for AI generative design tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern platforms are increasingly intuitive with visual interfaces, templates, and natural language inputs, though architects benefit from training to interpret and refine AI outputs effectively. digitalbluefoam​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

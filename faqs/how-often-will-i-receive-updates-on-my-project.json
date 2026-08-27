@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How often will I receive updates on my project?",
+  "description": "Most projects include weekly or bi-weekly updates, covering schedule status, upcoming work, decisions needed, and any issues uncovered, supplemented by real-tim",
+  "url": "https://lineworkdevelopment.com/faq/how-often-will-i-receive-updates-on-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often will I receive updates on my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most projects include weekly or bi-weekly updates, covering schedule status, upcoming work, decisions needed, and any issues uncovered, supplemented by real-time communication for urgent items."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

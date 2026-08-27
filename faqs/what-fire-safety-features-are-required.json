@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What fire safety features are required?",
+  "description": "Fire-rated drywall between garage and conversion (1-hour rating typical), self-closing doors, draft stopping at ceiling, and sometimes sprinklers if near proper",
+  "url": "https://lineworkdevelopment.com/faq/what-fire-safety-features-are-required",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What fire safety features are required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fire-rated drywall between garage and conversion (1-hour rating typical), self-closing doors, draft stopping at ceiling, and sometimes sprinklers if near property lines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

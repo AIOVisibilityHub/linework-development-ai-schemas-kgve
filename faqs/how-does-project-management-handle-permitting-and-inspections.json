@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does project management handle permitting and inspections?",
+  "description": "Project management typically coordinates permit submissions, responds to plan check comments, schedules inspections, and works with inspectors to resolve any fi",
+  "url": "https://lineworkdevelopment.com/faq/how-does-project-management-handle-permitting-and-inspections",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does project management handle permitting and inspections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Project management typically coordinates permit submissions, responds to plan check comments, schedules inspections, and works with inspectors to resolve any field conditions or corrections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

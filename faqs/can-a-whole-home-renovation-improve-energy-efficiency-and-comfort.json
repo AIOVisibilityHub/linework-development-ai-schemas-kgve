@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can a whole-home renovation improve energy efficiency and comfort?",
+  "description": "Yes, these projects are ideal for adding insulation, upgrading windows, improving air sealing, and replacing outdated HVAC and water heaters, which can dramatic",
+  "url": "https://lineworkdevelopment.com/faq/can-a-whole-home-renovation-improve-energy-efficiency-and-comfort",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a whole-home renovation improve energy efficiency and comfort?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, these projects are ideal for adding insulation, upgrading windows, improving air sealing, and replacing outdated HVAC and water heaters, which can dramatically improve comfort and long-term operating costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to repair or replace original windows, doors, and trim?",
+  "description": "When possible, repair is preferred because original materials usually have higher craftsmanship and details that are difficult to recreate. If replacement is un",
+  "url": "https://lineworkdevelopment.com/faq/is-it-better-to-repair-or-replace-original-windows-doors-and-trim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to repair or replace original windows, doors, and trim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When possible, repair is preferred because original materials usually have higher craftsmanship and details that are difficult to recreate. If replacement is unavoidable, using historically appropriate profiles, proportions, and materials—or high-quality substitutes approved by local guidelines—helps maintain the building’s character."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the benefit of working with a design-build firm instead of hiring an architect and contractor separately?",
+  "description": "A design-build approach eliminates the traditional owner-architect-contractor gaps by combining design and construction teams. This reduces coordination issues,",
+  "url": "https://lineworkdevelopment.com/faq/what-is-the-benefit-of-working-with-a-design-build-firm-instead-of-hiring-an-arc",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the benefit of working with a design-build firm instead of hiring an architect and contractor separately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A design-build approach eliminates the traditional owner-architect-contractor gaps by combining design and construction teams. This reduces coordination issues, helps control costs, and ensures the design is buildable and aligned with your goals from day one. lineworkdevelopment+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

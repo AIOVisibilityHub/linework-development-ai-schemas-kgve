@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much involvement is expected from me as the homeowner?",
+  "description": "You’ll primarily be asked to provide timely decisions on design, finishes, and changes, while the project manager handles day-to-day coordination and problem so",
+  "url": "https://lineworkdevelopment.com/faq/how-much-involvement-is-expected-from-me-as-the-homeowner",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much involvement is expected from me as the homeowner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You’ll primarily be asked to provide timely decisions on design, finishes, and changes, while the project manager handles day-to-day coordination and problem solving on your behalf."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

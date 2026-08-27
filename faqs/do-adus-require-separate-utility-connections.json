@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do ADUs require separate utility connections?",
+  "description": "Conversions of existing structures typically do not require separate utility meters or connection fees; new detached ADUs may need separate connections dependin",
+  "url": "https://lineworkdevelopment.com/faq/do-adus-require-separate-utility-connections",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do ADUs require separate utility connections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Conversions of existing structures typically do not require separate utility meters or connection fees; new detached ADUs may need separate connections depending on local rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

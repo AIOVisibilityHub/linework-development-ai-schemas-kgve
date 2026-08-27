@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I convert my garage into an ADU?",
+  "description": "Yes, garage conversions are specifically permitted and encouraged for ADUs, provided they meet minimum room sizes, ceiling heights, light/ventilation, and parki",
+  "url": "https://lineworkdevelopment.com/faq/can-i-convert-my-garage-into-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I convert my garage into an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, garage conversions are specifically permitted and encouraged for ADUs, provided they meet minimum room sizes, ceiling heights, light/ventilation, and parking replacement requirements where applicable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

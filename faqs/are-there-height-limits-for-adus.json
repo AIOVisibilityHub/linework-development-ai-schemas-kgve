@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there height limits for ADUs?",
+  "description": "State law sets no maximum height for ADUs, but local ordinances cannot require less than 16 feet for single-story or 18 feet for two-story units.",
+  "url": "https://lineworkdevelopment.com/faq/are-there-height-limits-for-adus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there height limits for ADUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State law sets no maximum height for ADUs, but local ordinances cannot require less than 16 feet for single-story or 18 feet for two-story units."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

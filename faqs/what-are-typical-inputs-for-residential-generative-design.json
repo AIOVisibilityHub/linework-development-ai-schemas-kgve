@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are typical inputs for residential generative design?",
+  "description": "Inputs include site boundaries, program requirements (room counts/sizes), budget limits, performance goals (energy, light), material preferences, and style para",
+  "url": "https://lineworkdevelopment.com/faq/what-are-typical-inputs-for-residential-generative-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are typical inputs for residential generative design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Inputs include site boundaries, program requirements (room counts/sizes), budget limits, performance goals (energy, light), material preferences, and style parameters. digitalbluefoam+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

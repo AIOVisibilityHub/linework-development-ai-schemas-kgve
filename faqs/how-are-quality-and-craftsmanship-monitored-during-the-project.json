@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How are quality and craftsmanship monitored during the project?",
+  "description": "Regular site walks, milestone inspections, and checklists help the project manager verify that work matches drawings, specifications, and standards, and address",
+  "url": "https://lineworkdevelopment.com/faq/how-are-quality-and-craftsmanship-monitored-during-the-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are quality and craftsmanship monitored during the project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular site walks, milestone inspections, and checklists help the project manager verify that work matches drawings, specifications, and standards, and address issues before they compound."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

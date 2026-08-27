@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I change the floor plan or add square footage to a historic building?",
+  "description": "Changes to the floor plan and additions are often possible, but they must be carefully designed to be compatible with the original structure. Approvals typicall",
+  "url": "https://lineworkdevelopment.com/faq/can-i-change-the-floor-plan-or-add-square-footage-to-a-historic-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I change the floor plan or add square footage to a historic building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Changes to the floor plan and additions are often possible, but they must be carefully designed to be compatible with the original structure. Approvals typically focus on preserving significant rooms, circulation patterns, and exterior facades while allowing sensitive, reversible alterations and thoughtfully scaled additions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

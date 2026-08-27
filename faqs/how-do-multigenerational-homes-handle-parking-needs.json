@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do multigenerational homes handle parking needs?",
+  "description": "Extra driveways, carports, or tandem parking accommodate multiple vehicles; converted garages often require one replacement uncovered space per bay.",
+  "url": "https://lineworkdevelopment.com/faq/how-do-multigenerational-homes-handle-parking-needs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do multigenerational homes handle parking needs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Extra driveways, carports, or tandem parking accommodate multiple vehicles; converted garages often require one replacement uncovered space per bay."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

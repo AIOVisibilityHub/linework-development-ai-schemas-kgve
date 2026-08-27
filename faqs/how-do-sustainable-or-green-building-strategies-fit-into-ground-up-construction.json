@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do sustainable or green building strategies fit into ground-up construction?",
+  "description": "New builds are ideal for integrating high-performance envelopes, efficient HVAC, solar, water-saving systems, and low-impact materials from the start, rather th",
+  "url": "https://lineworkdevelopment.com/faq/how-do-sustainable-or-green-building-strategies-fit-into-ground-up-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do sustainable or green building strategies fit into ground-up construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New builds are ideal for integrating high-performance envelopes, efficient HVAC, solar, water-saving systems, and low-impact materials from the start, rather than retrofitting them into an older structure. cubework+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

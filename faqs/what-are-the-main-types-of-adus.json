@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main types of ADUs?",
+  "description": "ADUs can be detached (standalone backyard cottage), attached (addition to the main house), or converted from existing space (garage, basement, or attic), while",
+  "url": "https://lineworkdevelopment.com/faq/what-are-the-main-types-of-adus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main types of ADUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ADUs can be detached (standalone backyard cottage), attached (addition to the main house), or converted from existing space (garage, basement, or attic), while JADUs are always internal conversions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

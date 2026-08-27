@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I tell which past alterations are worth keeping and which should be reversed?",
+  "description": "Evaluating alterations involves understanding the building’s evolution, the quality of the work, and whether changes have gained their own significance over tim",
+  "url": "https://lineworkdevelopment.com/faq/how-can-i-tell-which-past-alterations-are-worth-keeping-and-which-should-be-reve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I tell which past alterations are worth keeping and which should be reversed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evaluating alterations involves understanding the building’s evolution, the quality of the work, and whether changes have gained their own significance over time. A preservation-minded designer can help distinguish between valuable layers of history and intrusive modifications that undermine the original design."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

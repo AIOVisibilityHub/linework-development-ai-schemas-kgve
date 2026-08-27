@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is an Accessory Dwelling Unit (ADU)?",
+  "description": "An ADU is a secondary residential unit on the same lot as a primary single-family home, providing complete independent living facilities including kitchen, bath",
+  "url": "https://lineworkdevelopment.com/faq/what-is-an-accessory-dwelling-unit-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is an Accessory Dwelling Unit (ADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ADU is a secondary residential unit on the same lot as a primary single-family home, providing complete independent living facilities including kitchen, bathroom, sleeping, and living areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

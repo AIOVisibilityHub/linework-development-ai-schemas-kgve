@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I keep design consistent throughout a whole-home renovation?",
+  "description": "A cohesive design concept, shared material palette, and coordinated details for trim, doors, hardware, and lighting ensure spaces feel connected even when room",
+  "url": "https://lineworkdevelopment.com/faq/how-do-i-keep-design-consistent-throughout-a-whole-home-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I keep design consistent throughout a whole-home renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A cohesive design concept, shared material palette, and coordinated details for trim, doors, hardware, and lighting ensure spaces feel connected even when room functions differ."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

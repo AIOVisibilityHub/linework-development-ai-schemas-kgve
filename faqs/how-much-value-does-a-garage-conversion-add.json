@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much value does a garage conversion add?",
+  "description": "$100-250/sq ft typically, depending on quality and ADU status; permitted legal units add more value than unpermitted \"bonus rooms.\"",
+  "url": "https://lineworkdevelopment.com/faq/how-much-value-does-a-garage-conversion-add",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much value does a garage conversion add?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$100-250/sq ft typically, depending on quality and ADU status; permitted legal units add more value than unpermitted \"bonus rooms.\""
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

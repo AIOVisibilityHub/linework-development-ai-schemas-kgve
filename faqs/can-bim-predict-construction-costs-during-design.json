@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can BIM predict construction costs during design?",
+  "description": "Yes, BIM models integrate quantity takeoffs, material schedules, and labor estimates, with AI refining predictions based on historical data and real-time market",
+  "url": "https://lineworkdevelopment.com/faq/can-bim-predict-construction-costs-during-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can BIM predict construction costs during design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, BIM models integrate quantity takeoffs, material schedules, and labor estimates, with AI refining predictions based on historical data and real-time market pricing for more accurate budgeting. lumenalta​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

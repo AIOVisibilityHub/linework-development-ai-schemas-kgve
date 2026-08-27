@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What setbacks are required for detached ADUs?",
+  "description": "California state law requires minimum 4-foot side and rear setbacks for most detached ADUs up to 800 sq ft and 16 ft height; larger units may need greater setba",
+  "url": "https://lineworkdevelopment.com/faq/what-setbacks-are-required-for-detached-adus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What setbacks are required for detached ADUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "California state law requires minimum 4-foot side and rear setbacks for most detached ADUs up to 800 sq ft and 16 ft height; larger units may need greater setbacks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the maximum size allowed for an ADU?",
+  "description": "Detached ADUs are typically limited to 1,200 square feet (or local ordinance limits), while attached ADUs are often capped at 50% of the primary home's living a",
+  "url": "https://lineworkdevelopment.com/faq/what-is-the-maximum-size-allowed-for-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the maximum size allowed for an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Detached ADUs are typically limited to 1,200 square feet (or local ordinance limits), while attached ADUs are often capped at 50% of the primary home's living area or 1,200 sq ft, whichever is smaller."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

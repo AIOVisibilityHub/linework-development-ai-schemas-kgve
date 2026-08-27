@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a door and window schedule?",
+  "description": "Schedules list every door and window type with sizes, materials, performance ratings, and locations, so builders install the correct products consistently.",
+  "url": "https://lineworkdevelopment.com/faq/what-is-a-door-and-window-schedule",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a door and window schedule?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Schedules list every door and window type with sizes, materials, performance ratings, and locations, so builders install the correct products consistently."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

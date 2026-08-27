@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is green building?",
+  "description": "Green building uses design, construction, and operation strategies that minimize environmental impact while maximizing occupant health, resource efficiency, and",
+  "url": "https://lineworkdevelopment.com/faq/what-is-green-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is green building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Green building uses design, construction, and operation strategies that minimize environmental impact while maximizing occupant health, resource efficiency, and long-term building performance. inogenalliance+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

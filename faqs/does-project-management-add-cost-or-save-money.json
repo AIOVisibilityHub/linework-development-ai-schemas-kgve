@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does project management add cost or save money?",
+  "description": "While project management is an explicit service, it often saves money by reducing change orders, avoiding rework, keeping the schedule tighter, and catching iss",
+  "url": "https://lineworkdevelopment.com/faq/does-project-management-add-cost-or-save-money",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does project management add cost or save money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While project management is an explicit service, it often saves money by reducing change orders, avoiding rework, keeping the schedule tighter, and catching issues before they become expensive problems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

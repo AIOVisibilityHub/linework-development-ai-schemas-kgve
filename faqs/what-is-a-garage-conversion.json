@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a garage conversion?",
+  "description": "A garage conversion transforms an existing garage space into habitable living area such as a bedroom, office, guest room, or ADU, requiring upgrades to meet res",
+  "url": "https://lineworkdevelopment.com/faq/what-is-a-garage-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a garage conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A garage conversion transforms an existing garage space into habitable living area such as a bedroom, office, guest room, or ADU, requiring upgrades to meet residential building codes for insulation, ventilation, and safety."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

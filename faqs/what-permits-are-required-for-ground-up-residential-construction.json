@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for ground-up residential construction?",
+  "description": "You typically need building permits and may also require grading, demolition, tree removal, utility, and sometimes special zoning or environmental approvals dep",
+  "url": "https://lineworkdevelopment.com/faq/what-permits-are-required-for-ground-up-residential-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for ground-up residential construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You typically need building permits and may also require grading, demolition, tree removal, utility, and sometimes special zoning or environmental approvals depending on location. rsvc+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

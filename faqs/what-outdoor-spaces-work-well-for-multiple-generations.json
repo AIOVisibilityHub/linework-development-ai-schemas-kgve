@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What outdoor spaces work well for multiple generations?",
+  "description": "Large patios/decks with shade options, fenced play areas, accessible paths, and private suite patios create gathering spaces plus individual outdoor retreats.",
+  "url": "https://lineworkdevelopment.com/faq/what-outdoor-spaces-work-well-for-multiple-generations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What outdoor spaces work well for multiple generations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Large patios/decks with shade options, fenced play areas, accessible paths, and private suite patios create gathering spaces plus individual outdoor retreats."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

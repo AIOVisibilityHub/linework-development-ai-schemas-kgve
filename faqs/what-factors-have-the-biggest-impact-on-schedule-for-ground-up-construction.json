@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors have the biggest impact on schedule for ground-up construction?",
+  "description": "Key drivers include permitting timelines, availability of trades and materials, complexity of the design and site, change orders, and inspections or utility con",
+  "url": "https://lineworkdevelopment.com/faq/what-factors-have-the-biggest-impact-on-schedule-for-ground-up-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors have the biggest impact on schedule for ground-up construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key drivers include permitting timelines, availability of trades and materials, complexity of the design and site, change orders, and inspections or utility connections that can only happen in a specific sequence. rsvc+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

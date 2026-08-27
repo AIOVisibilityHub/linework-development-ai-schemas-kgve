@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What role does AI play in automating floor plan generation?",
+  "description": "AI analyzes room requirements, circulation needs, and site geometry to generate multiple floor plan alternatives, ranking them by efficiency, natural light, pri",
+  "url": "https://lineworkdevelopment.com/faq/what-role-does-ai-play-in-automating-floor-plan-generation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role does AI play in automating floor plan generation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI analyzes room requirements, circulation needs, and site geometry to generate multiple floor plan alternatives, ranking them by efficiency, natural light, privacy, and code compliance. tribe​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

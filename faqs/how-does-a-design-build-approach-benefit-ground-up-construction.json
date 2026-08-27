@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a design-build approach benefit ground-up construction?",
+  "description": "Design-build keeps design, pricing, and construction under one team, which helps control cost and schedule, improves constructability, and reduces gaps between",
+  "url": "https://lineworkdevelopment.com/faq/how-does-a-design-build-approach-benefit-ground-up-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a design-build approach benefit ground-up construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design-build keeps design, pricing, and construction under one team, which helps control cost and schedule, improves constructability, and reduces gaps between the architect and contractor. midconstruction+2"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

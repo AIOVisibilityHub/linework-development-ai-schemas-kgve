@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does AI enhance BIM workflows?",
+  "description": "AI automates BIM tasks like clash detection, generates model variations, predicts construction issues, and optimizes elements such as structural layouts or ener",
+  "url": "https://lineworkdevelopment.com/faq/how-does-ai-enhance-bim-workflows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does AI enhance BIM workflows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI automates BIM tasks like clash detection, generates model variations, predicts construction issues, and optimizes elements such as structural layouts or energy performance within the BIM environment. tribe+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

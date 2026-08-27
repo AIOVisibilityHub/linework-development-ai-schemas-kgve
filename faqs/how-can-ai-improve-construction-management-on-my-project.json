@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can AI improve construction management on my project?",
+  "description": "AI tools support better scheduling, risk assessment, and resource allocation, helping reduce delays and cost overruns while providing more transparent tracking",
+  "url": "https://lineworkdevelopment.com/faq/how-can-ai-improve-construction-management-on-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI improve construction management on my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI tools support better scheduling, risk assessment, and resource allocation, helping reduce delays and cost overruns while providing more transparent tracking of project progress."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

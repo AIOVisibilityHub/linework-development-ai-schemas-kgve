@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do HOAs restrict ADUs and JADUs?",
+  "description": "State law requires HOAs to allow ADUs that meet local zoning and building codes; they cannot outright prohibit them but may have reasonable design standards.",
+  "url": "https://lineworkdevelopment.com/faq/do-hoas-restrict-adus-and-jadus",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do HOAs restrict ADUs and JADUs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State law requires HOAs to allow ADUs that meet local zoning and building codes; they cannot outright prohibit them but may have reasonable design standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

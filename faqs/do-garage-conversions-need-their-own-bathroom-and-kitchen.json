@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do garage conversions need their own bathroom and kitchen?",
+  "description": "Full ADUs require complete kitchen/bath; standard habitable conversions need only bathroom if used as bedroom/office—kitchens trigger full ADU classification an",
+  "url": "https://lineworkdevelopment.com/faq/do-garage-conversions-need-their-own-bathroom-and-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do garage conversions need their own bathroom and kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full ADUs require complete kitchen/bath; standard habitable conversions need only bathroom if used as bedroom/office—kitchens trigger full ADU classification and stricter rules."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a Junior Accessory Dwelling Unit (JADU)?",
+  "description": "A JADU is a smaller ADU (max 500 sq ft) contained entirely within the existing walls of a single-family home, typically created by converting existing space lik",
+  "url": "https://lineworkdevelopment.com/faq/what-is-a-junior-accessory-dwelling-unit-jadu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Junior Accessory Dwelling Unit (JADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A JADU is a smaller ADU (max 500 sq ft) contained entirely within the existing walls of a single-family home, typically created by converting existing space like a bedroom or attached garage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

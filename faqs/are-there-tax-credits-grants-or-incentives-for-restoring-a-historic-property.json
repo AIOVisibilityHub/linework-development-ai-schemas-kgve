@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there tax credits, grants, or incentives for restoring a historic property?",
+  "description": "Many jurisdictions offer federal, state, or local tax credits and sometimes grants for qualified rehabilitation work on designated historic properties. These pr",
+  "url": "https://lineworkdevelopment.com/faq/are-there-tax-credits-grants-or-incentives-for-restoring-a-historic-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there tax credits, grants, or incentives for restoring a historic property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many jurisdictions offer federal, state, or local tax credits and sometimes grants for qualified rehabilitation work on designated historic properties. These programs usually require adherence to specific preservation standards and a review process, but they can significantly offset project costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

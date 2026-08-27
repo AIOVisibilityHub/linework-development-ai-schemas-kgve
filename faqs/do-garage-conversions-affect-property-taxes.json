@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do garage conversions affect property taxes?",
+  "description": "Yes, assessor re-evaluates after permitting; added habitable square footage increases assessed value, though ADUs under 750 sq ft often get impact fee exemption",
+  "url": "https://lineworkdevelopment.com/faq/do-garage-conversions-affect-property-taxes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do garage conversions affect property taxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, assessor re-evaluates after permitting; added habitable square footage increases assessed value, though ADUs under 750 sq ft often get impact fee exemptions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

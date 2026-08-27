@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main types of architectural drawings for a home project?",
+  "description": "Key types include site plans, floor plans, elevations, sections, details, and schedules that together define layout, structure, finishes, and how elements come",
+  "url": "https://lineworkdevelopment.com/faq/what-are-the-main-types-of-architectural-drawings-for-a-home-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main types of architectural drawings for a home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key types include site plans, floor plans, elevations, sections, details, and schedules that together define layout, structure, finishes, and how elements come together."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

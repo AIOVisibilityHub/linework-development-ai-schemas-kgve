@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do insurance and property value work for historic homes compared to newer homes?",
+  "description": "Historic homes may have higher replacement costs and specialized coverage needs due to custom materials and craftsmanship. At the same time, well-executed prese",
+  "url": "https://lineworkdevelopment.com/faq/how-do-insurance-and-property-value-work-for-historic-homes-compared-to-newer-ho",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do insurance and property value work for historic homes compared to newer homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Historic homes may have higher replacement costs and specialized coverage needs due to custom materials and craftsmanship. At the same time, well-executed preservation and restoration can enhance long-term property value by maintaining architectural integrity and neighborhood appeal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

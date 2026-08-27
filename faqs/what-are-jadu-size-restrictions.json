@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are JADU size restrictions?",
+  "description": "JADUs cannot exceed 500 square feet and must be created entirely within the existing single-family home structure—no new additions or detached buildings qualify",
+  "url": "https://lineworkdevelopment.com/faq/what-are-jadu-size-restrictions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are JADU size restrictions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JADUs cannot exceed 500 square feet and must be created entirely within the existing single-family home structure—no new additions or detached buildings qualify as JADUs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

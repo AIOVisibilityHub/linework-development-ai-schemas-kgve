@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a site plan, and why is it required?",
+  "description": "A site plan shows property lines, building placement, setbacks, access, utilities, and grading to confirm the project fits zoning rules and site conditions befo",
+  "url": "https://lineworkdevelopment.com/faq/what-is-a-site-plan-and-why-is-it-required",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a site plan, and why is it required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A site plan shows property lines, building placement, setbacks, access, utilities, and grading to confirm the project fits zoning rules and site conditions before permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

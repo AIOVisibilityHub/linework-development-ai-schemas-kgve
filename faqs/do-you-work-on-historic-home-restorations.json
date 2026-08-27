@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you work on historic home restorations?",
+  "description": "Yes, we renovate and restore historic properties, aiming to preserve original character and details while upgrading systems, comfort, and performance where appr",
+  "url": "https://lineworkdevelopment.com/faq/do-you-work-on-historic-home-restorations",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you work on historic home restorations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we renovate and restore historic properties, aiming to preserve original character and details while upgrading systems, comfort, and performance where appropriate. houzz​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

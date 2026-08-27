@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are two primary bedroom suites standard?",
+  "description": "Yes, most designs include two large master suites (one main-level) plus secondary bedrooms, creating equal-quality private retreats for different household head",
+  "url": "https://lineworkdevelopment.com/faq/are-two-primary-bedroom-suites-standard",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are two primary bedroom suites standard?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, most designs include two large master suites (one main-level) plus secondary bedrooms, creating equal-quality private retreats for different household heads."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
