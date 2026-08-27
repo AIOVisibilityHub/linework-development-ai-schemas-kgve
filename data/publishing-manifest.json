@@ -1,0 +1,2126 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T19:29:13.236Z",
+  "client": {
+    "name": "LineWork Development",
+    "canonicalUrl": "https://lineworkdevelopment.aiovisibility.net",
+    "primaryWebsiteUrl": "https://lineworkdevelopment.com",
+    "pagesUrl": "https://lineworkdevelopment.aiovisibility.net",
+    "phone": "(626) 594-5005",
+    "email": "linework.dv@gmail.com",
+    "locations": [
+      {
+        "name": "LineWork Development Office",
+        "address": "2275 Huntington Dr. #796",
+        "city": "San Marino",
+        "state": "CA",
+        "zip": "91108",
+        "phone": "(626) 594-5005",
+        "email": "linework.dv@gmail.com"
+      }
+    ],
+    "services": [
+      "interior renovations"
+    ],
+    "cities": [
+      "Southern California"
+    ]
+  },
+  "package": {
+    "totalFiles": 408,
+    "totalBytes": 1157627,
+    "stats": {
+      "faqs": 295,
+      "helpArticles": 0,
+      "services": 1,
+      "webpages": 0,
+      "personnel": 7,
+      "products": 0,
+      "locations": 1,
+      "awards": 20,
+      "caseStudies": 20,
+      "organization": 1,
+      "press": 20,
+      "reviews": 20,
+      "qna": 0,
+      "research": 0,
+      "total": 386
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/question.json",
+        "bytes": 381,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-the-design-build-process-at-linework-development-work.json",
+        "bytes": 963,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-residential-projects-do-you-specialize-in.json",
+        "bytes": 884,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-areas-do-you-serve-in-los-angeles-and-orange-county.json",
+        "bytes": 987,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-you-a-licensed-contractor-in-california.json",
+        "bytes": 813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-benefit-of-working-with-a-design-build-firm-instead-of-hiring-an-arc.json",
+        "bytes": 1092,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-handle-accessory-dwelling-units-adus-and-junior-adus-jadus.json",
+        "bytes": 921,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-help-with-architectural-drawings-and-permitting.json",
+        "bytes": 872,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-linework-use-ai-and-bim-in-residential-design.json",
+        "bytes": 903,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-ai-improve-construction-management-on-my-project.json",
+        "bytes": 854,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-role-does-ai-play-in-home-remodeling-and-renovations.json",
+        "bytes": 907,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-design-and-build-adus-with-a-focus-on-sustainability.json",
+        "bytes": 855,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-help-with-multigenerational-home-design.json",
+        "bytes": 824,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-support-green-building-and-historic-conservation-work.json",
+        "bytes": 896,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-work-on-historic-home-restorations.json",
+        "bytes": 807,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-construction-site-security-measures-do-you-use.json",
+        "bytes": 848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-you-handle-outdoor-living-projects-like-outdoor-kitchens-and-pool-houses.json",
+        "bytes": 927,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-project-management-as-a-standalone-service.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-specialty-systems-can-you-help-design-like-radiant-floor-heating-o.json",
+        "bytes": 962,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-get-started-with-linework-development.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-historic-preservation-restoration-and-renovation.json",
+        "bytes": 1155,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-home-or-building-is-considered-historic.json",
+        "bytes": 1050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-first-steps-i-should-take-before-starting-work-on-a-historic-proper.json",
+        "bytes": 1077,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-special-approvals-or-permits-to-work-on-a-historic-home.json",
+        "bytes": 1019,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-find-out-what-regulations-apply-to-my-historic-district-or-landmark-pr.json",
+        "bytes": 1072,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-change-the-floor-plan-or-add-square-footage-to-a-historic-building.json",
+        "bytes": 1050,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-original-features-should-i-prioritize-preserving-in-a-historic-home.json",
+        "bytes": 1040,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-it-better-to-repair-or-replace-original-windows-doors-and-trim.json",
+        "bytes": 1048,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-modernize-mechanical-systems-without-damaging-historic-character.json",
+        "bytes": 1043,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-hidden-issues-in-historic-homes-that-can-affect-budget.json",
+        "bytes": 1037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-balance-modern-comfort-and-energy-efficiency-with-preserving-original-m.json",
+        "bytes": 1070,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-tax-credits-grants-or-incentives-for-restoring-a-historic-property.json",
+        "bytes": 1037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-insurance-and-property-value-work-for-historic-homes-compared-to-newer-ho.json",
+        "bytes": 1037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-use-modern-materials-if-the-originals-are-unavailable-or-too-expensive.json",
+        "bytes": 1022,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-a-sympathetic-addition-or-alteration-to-a-historic-building.json",
+        "bytes": 1039,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-finishes-colors-and-fixtures-appropriate-to-my-home-s-era.json",
+        "bytes": 1013,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-professionals-should-be-on-my-team-for-historic-conservation-projects.json",
+        "bytes": 1064,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-do-historic-conservation-projects-typically-take-compared-to-standard-r.json",
+        "bytes": 1018,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-look-for-when-selecting-a-contractor-experienced-in-historic-work.json",
+        "bytes": 1031,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-tell-which-past-alterations-are-worth-keeping-and-which-should-be-reve.json",
+        "bytes": 1072,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-sustainable-or-green-building-strategies-that-work-well-with-historic.json",
+        "bytes": 1092,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-handle-lead-paint-asbestos-or-other-hazardous-materials-in-an-older-bui.json",
+        "bytes": 1022,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-documentation-should-i-keep-during-a-historic-conservation-project.json",
+        "bytes": 1008,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-phase-the-work-if-i-can-t-afford-to-restore-everything-at-once.json",
+        "bytes": 1013,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-ongoing-maintenance-is-required-after-a-historic-restoration-is-complete.json",
+        "bytes": 1021,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-project-management-include-on-a-residential-construction-project.json",
+        "bytes": 938,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-do-i-need-a-dedicated-project-manager-for-my-remodel-or-new-build.json",
+        "bytes": 918,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-project-management-different-in-a-design-build-model.json",
+        "bytes": 902,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/at-what-stage-does-project-management-start.json",
+        "bytes": 814,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-project-manager-help-keep-my-project-on-schedule.json",
+        "bytes": 885,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-project-manager-help-control-costs.json",
+        "bytes": 828,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-i-have-a-single-point-of-contact-throughout-the-project.json",
+        "bytes": 879,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-often-will-i-receive-updates-on-my-project.json",
+        "bytes": 838,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-changes-or-new-ideas-handled-once-construction-has-started.json",
+        "bytes": 896,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-project-management-handle-permitting-and-inspections.json",
+        "bytes": 880,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-tools-are-used-to-track-progress-during-construction.json",
+        "bytes": 871,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-manage-multiple-trades-on-a-tight-site-or-busy-schedule.json",
+        "bytes": 867,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-quality-and-craftsmanship-monitored-during-the-project.json",
+        "bytes": 882,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-unexpected-issues-are-discovered-during-demolition.json",
+        "bytes": 904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-project-management-support-communication-between-designer-engineer-and.json",
+        "bytes": 956,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-project-management-help-if-i-am-living-in-the-home-during-construction.json",
+        "bytes": 917,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-risk-managed-in-residential-construction-projects.json",
+        "bytes": 881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-role-does-project-management-play-in-safety-on-the-jobsite.json",
+        "bytes": 883,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-the-project-budget-reported-to-me-over-time.json",
+        "bytes": 854,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-at-the-end-of-the-project-from-a-management-standpoint.json",
+        "bytes": 892,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-project-management-services-help-with-product-and-finish-selections.json",
+        "bytes": 911,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-project-manager-handle-delays-outside-of-anyone-s-control.json",
+        "bytes": 909,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-project-management-add-cost-or-save-money.json",
+        "bytes": 847,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-involvement-is-expected-from-me-as-the-homeowner.json",
+        "bytes": 863,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-project-management-is-working-well-on-my-project.json",
+        "bytes": 904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-ground-up-construction.json",
+        "bytes": 820,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-ground-up-construction-different-from-renovation-or-addition-work.json",
+        "bytes": 934,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-is-ground-up-construction-the-right-choice-for-a-residential-project.json",
+        "bytes": 948,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-phases-of-a-ground-up-construction-project.json",
+        "bytes": 914,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-during-the-pre-construction-or-planning-phase.json",
+        "bytes": 898,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-involved-in-site-preparation-for-a-new-home.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-soil-testing-important-in-ground-up-construction.json",
+        "bytes": 887,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-foundations-are-used-in-ground-up-residential-builds.json",
+        "bytes": 907,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-typical-ground-up-home-build-take.json",
+        "bytes": 872,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-factors-have-the-biggest-impact-on-schedule-for-ground-up-construction.json",
+        "bytes": 952,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-the-budget-for-a-ground-up-home-established.json",
+        "bytes": 884,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-unexpected-costs-in-ground-up-construction.json",
+        "bytes": 873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ground-up-construction-affect-long-term-flexibility-and-performance.json",
+        "bytes": 954,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-professionals-are-typically-involved-in-a-ground-up-residential-project.json",
+        "bytes": 957,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-survey-before-starting-ground-up-construction.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-utilities-handled-for-a-new-build-on-vacant-land.json",
+        "bytes": 875,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-are-required-for-ground-up-residential-construction.json",
+        "bytes": 885,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-a-design-build-approach-benefit-ground-up-construction.json",
+        "bytes": 902,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-design-flexibility-do-i-have-with-ground-up-construction.json",
+        "bytes": 900,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-quality-controlled-during-a-ground-up-build.json",
+        "bytes": 852,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-risks-with-ground-up-construction-and-how-are-they-managed.json",
+        "bytes": 954,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-ground-up-construction-more-expensive-than-remodeling-an-existing-home.json",
+        "bytes": 951,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-sustainable-or-green-building-strategies-fit-into-ground-up-construction.json",
+        "bytes": 960,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-decide-early-to-avoid-delays-or-change-orders.json",
+        "bytes": 886,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-get-started-with-a-ground-up-home-project.json",
+        "bytes": 897,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-considered-a-whole-home-renovation.json",
+        "bytes": 850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-a-whole-home-renovation-different-from-a-standard-remodel.json",
+        "bytes": 925,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-does-it-make-sense-to-renovate-the-whole-house-instead-of-moving.json",
+        "bytes": 920,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-first-steps-in-planning-a-whole-home-renovation.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-a-typical-whole-home-renovation-take.json",
+        "bytes": 845,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-move-out-during-a-whole-home-renovation.json",
+        "bytes": 881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-the-budget-for-a-whole-home-renovation-developed.json",
+        "bytes": 873,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-cost-drivers-in-whole-home-renovations.json",
+        "bytes": 871,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-prioritize-my-wish-list-for-a-whole-home-renovation.json",
+        "bytes": 889,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-whole-home-renovation-improve-energy-efficiency-and-comfort.json",
+        "bytes": 913,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-between-renovating-and-tearing-down-to-build-new.json",
+        "bytes": 917,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-a-whole-home-renovation-increase-my-home-s-resale-value.json",
+        "bytes": 904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-professionals-should-be-involved-in-a-whole-home-renovation.json",
+        "bytes": 913,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-permits-work-for-a-whole-home-renovation.json",
+        "bytes": 896,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-a-whole-home-renovation-phased-to-minimize-disruption.json",
+        "bytes": 899,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-surprises-uncovered-during-a-whole-home-renovation.json",
+        "bytes": 907,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-reduce-the-risk-of-change-orders-during-construction.json",
+        "bytes": 903,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-keep-design-consistent-throughout-a-whole-home-renovation.json",
+        "bytes": 881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-update-my-home-s-style-without-losing-its-original-character.json",
+        "bytes": 918,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-will-a-whole-home-renovation-affect-my-daily-routine.json",
+        "bytes": 884,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-manage-safety-and-cleanliness-during-a-whole-home-renovation.json",
+        "bytes": 886,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-decisions-should-i-make-early-in-the-design-process.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-smart-home-technology-be-integrated-during-a-whole-home-renovation.json",
+        "bytes": 897,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-prepare-my-home-and-belongings-before-construction-starts.json",
+        "bytes": 912,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-the-closeout-phase-look-like-for-a-whole-home-renovation.json",
+        "bytes": 929,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-architectural-drawings-used-for-in-residential-construction.json",
+        "bytes": 881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-types-of-architectural-drawings-for-a-home-project.json",
+        "bytes": 879,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-site-plan-and-why-is-it-required.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-information-goes-into-a-residential-floor-plan.json",
+        "bytes": 826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-elevations-in-architectural-drawings.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-do-building-sections-show-that-floor-plans-don-t.json",
+        "bytes": 820,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-are-construction-details-needed-in-drawings.json",
+        "bytes": 838,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-door-and-window-schedule.json",
+        "bytes": 759,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-architectural-drawings-coordinate-with-engineering-plans.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-level-of-detail-is-needed-for-permitting-drawings.json",
+        "bytes": 851,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/who-prepares-architectural-drawings-for-residential-projects.json",
+        "bytes": 855,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-it-take-to-complete-a-full-set-of-architectural-drawings.json",
+        "bytes": 894,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-make-changes-to-drawings-after-permitting.json",
+        "bytes": 821,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-permitting-process-for-residential-construction.json",
+        "bytes": 864,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-residential-permitting-typically-take.json",
+        "bytes": 828,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-common-issues-cause-permitting-delays.json",
+        "bytes": 818,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-separate-permits-for-different-types-of-work.json",
+        "bytes": 840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-plan-check-and-how-do-i-prepare-for-it.json",
+        "bytes": 830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-the-same-drawings-be-used-for-bidding-and-permitting.json",
+        "bytes": 844,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-design-build-firms-handle-drawings-and-permitting.json",
+        "bytes": 849,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-role-does-the-contractor-play-during-permitting.json",
+        "bytes": 826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-3d-renderings-or-models-required-for-permitting.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-know-if-my-drawings-meet-california-building-codes.json",
+        "bytes": 861,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-during-the-final-building-inspection.json",
+        "bytes": 840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-reuse-drawings-from-a-previous-project.json",
+        "bytes": 818,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-an-accessory-dwelling-unit-adu.json",
+        "bytes": 818,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-junior-accessory-dwelling-unit-jadu.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-types-of-adus.json",
+        "bytes": 797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-minimum-size-for-an-adu.json",
+        "bytes": 734,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-maximum-size-allowed-for-an-adu.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-convert-my-garage-into-an-adu.json",
+        "bytes": 817,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-jadu-size-restrictions.json",
+        "bytes": 774,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-adus-require-separate-utility-connections.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-parking-required-for-adus-and-jadus.json",
+        "bytes": 779,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-rent-out-my-adu-or-jadu.json",
+        "bytes": 746,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-setbacks-are-required-for-detached-adus.json",
+        "bytes": 803,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-hoas-restrict-adus-and-jadus.json",
+        "bytes": 754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-permitting-take-for-an-adu.json",
+        "bytes": 787,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-an-adu-on-a-multifamily-property.json",
+        "bytes": 801,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kitchen-requirements-apply-to-adus-jadus.json",
+        "bytes": 784,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-height-limits-for-adus.json",
+        "bytes": 733,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-adus-have-bedrooms.json",
+        "bytes": 725,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-own-the-property-to-build-an-adu.json",
+        "bytes": 752,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-impact-fees-apply-to-adus.json",
+        "bytes": 737,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-finance-adu-construction.json",
+        "bytes": 759,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-adus-need-fire-sprinklers.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-build-an-adu-before-the-primary-house.json",
+        "bytes": 790,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-design-standards-apply-to-adus.json",
+        "bytes": 764,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-an-adu-add-to-property-value.json",
+        "bytes": 783,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-tenants-in-adus-use-the-primary-home-s-amenities.json",
+        "bytes": 823,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-ai-driven-generative-design-in-architecture.json",
+        "bytes": 916,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-generative-design-differ-from-traditional-architectural-methods.json",
+        "bytes": 957,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-building-information-modeling-bim.json",
+        "bytes": 866,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-enhance-bim-workflows.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-benefits-of-generative-design-for-residential-projects.json",
+        "bytes": 923,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-generative-design-handle-complex-residential-constraints.json",
+        "bytes": 904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-bim-improve-coordination-between-architects-and-contractors.json",
+        "bytes": 916,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-role-does-ai-play-in-automating-floor-plan-generation.json",
+        "bytes": 876,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-generative-design-improve-energy-efficiency-in-home-design.json",
+        "bytes": 917,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-bim-predict-construction-costs-during-design.json",
+        "bytes": 861,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-structural-optimization-using-generative-ai.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-assist-with-code-compliance-in-residential-design.json",
+        "bytes": 914,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-time-savings-from-ai-generative-design.json",
+        "bytes": 826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-bim-support-prefabrication-and-modular-construction.json",
+        "bytes": 867,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-generative-design-incorporate-sustainable-materials.json",
+        "bytes": 850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-clash-detection-and-how-does-ai-improve-it.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-generative-ai-handle-site-specific-design-challenges.json",
+        "bytes": 881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-bim-track-changes-throughout-a-project-s-lifecycle.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-typical-inputs-for-residential-generative-design.json",
+        "bytes": 863,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-ai-improve-client-presentations-and-decisions.json",
+        "bytes": 854,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-generative-design-optimize-for-multigenerational-homes.json",
+        "bytes": 851,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-learning-curve-for-ai-generative-design-tools.json",
+        "bytes": 892,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-bim-integration-reduce-construction-errors.json",
+        "bytes": 838,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-ai-generative-design-support-historic-renovations.json",
+        "bytes": 870,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-future-of-ai-and-bim-in-residential-construction.json",
+        "bytes": 886,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-garage-conversion.json",
+        "bytes": 812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-building-permit-required-for-garage-conversions.json",
+        "bytes": 850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-building-code-requirements-for-garage-conversions.json",
+        "bytes": 922,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-to-replace-the-garage-door-during-conversion.json",
+        "bytes": 870,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-seal-the-garage-slab-floor-for-habitable-use.json",
+        "bytes": 861,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-parking-replacement-is-required-after-garage-conversion.json",
+        "bytes": 878,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-convert-my-garage-into-a-bedroom.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-electrical-upgrades-are-needed-for-garage-conversion.json",
+        "bytes": 862,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-a-garage-conversion-require-separate-hvac.json",
+        "bytes": 822,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-smoke-co-detectors-required-in-converted-garages.json",
+        "bytes": 809,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-keep-part-of-the-garage-as-parking-after-partial-conversion.json",
+        "bytes": 877,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-insulation-is-required-for-garage-conversions.json",
+        "bytes": 819,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-garage-conversions-need-their-own-bathroom-and-kitchen.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-natural-light-is-required-in-a-converted-garage.json",
+        "bytes": 817,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-structural-upgrades-are-typically-needed.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-garage-conversions-allowed-in-all-residential-zones.json",
+        "bytes": 806,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-does-garage-conversion-permitting-take.json",
+        "bytes": 794,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-rent-out-my-garage-conversion.json",
+        "bytes": 770,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-hidden-costs-in-garage-conversions.json",
+        "bytes": 797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-garage-conversions-affect-property-taxes.json",
+        "bytes": 798,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-convert-a-detached-garage.json",
+        "bytes": 763,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-fire-safety-features-are-required.json",
+        "bytes": 790,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-value-does-a-garage-conversion-add.json",
+        "bytes": 742,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-hoa-approval-for-garage-conversion.json",
+        "bytes": 767,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-inspections-are-required-during-garage-conversion.json",
+        "bytes": 797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-multigenerational-home-design.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-are-multigenerational-homes-becoming-more-popular.json",
+        "bytes": 856,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-layout-types-for-multigenerational-homes.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-balance-privacy-and-shared-living-spaces.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-accessibility-features-should-multigenerational-homes-include.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-multigenerational-homes-have-separate-entrances.json",
+        "bytes": 830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-kitchen-configurations-work-best-for-multiple-generations.json",
+        "bytes": 871,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-design-bathrooms-for-multigenerational-use.json",
+        "bytes": 844,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-laundry-solutions-work-for-multigenerational-homes.json",
+        "bytes": 840,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-square-footage-is-needed-for-multigenerational-living.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-existing-homes-be-adapted-for-multigenerational-living.json",
+        "bytes": 842,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-soundproofing-is-needed-between-living-areas.json",
+        "bytes": 824,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-multigenerational-homes-have-separate-hvac-zones.json",
+        "bytes": 836,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-design-storage-for-multiple-households.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-lighting-strategies-work-for-multigenerational-homes.json",
+        "bytes": 851,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-open-floor-plans-good-for-multigenerational-living.json",
+        "bytes": 813,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-future-proof-multigenerational-homes.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-challenges-in-multigenerational-design.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-multigenerational-homes-include-home-offices.json",
+        "bytes": 812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-multigenerational-homes-handle-parking-needs.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-outdoor-spaces-work-well-for-multiple-generations.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-multigenerational-homes-support-aging-in-place.json",
+        "bytes": 822,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-coordinate-interior-design-across-generations.json",
+        "bytes": 833,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-two-primary-bedroom-suites-standard.json",
+        "bytes": 786,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-permits-are-needed-for-multigenerational-additions.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-green-building.json",
+        "bytes": 782,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-main-principles-of-green-building.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-leed-certification-mean-for-residential-projects.json",
+        "bytes": 929,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-green-building-improve-energy-efficiency.json",
+        "bytes": 857,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-water-conservation-features-are-common-in-green-homes.json",
+        "bytes": 860,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-choose-sustainable-building-materials.json",
+        "bytes": 848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-embodied-carbon-and-why-does-it-matter.json",
+        "bytes": 846,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-solar-panels-required-for-green-building-certification.json",
+        "bytes": 852,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-indoor-air-quality-practices-are-used-in-green-homes.json",
+        "bytes": 850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-site-selection-impact-green-building-performance.json",
+        "bytes": 857,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-passive-house-design-and-how-does-it-work.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-green-buildings-cost-more-to-build.json",
+        "bytes": 798,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-national-green-building-standard-ngbs.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-green-building-support-wildfire-resilience.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-role-does-waste-management-play-in-green-construction.json",
+        "bytes": 876,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-existing-homes-achieve-green-building-standards.json",
+        "bytes": 834,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-low-voc-materials-and-why-use-them.json",
+        "bytes": 815,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-green-building-improve-occupant-health.json",
+        "bytes": 824,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-net-zero-energy-design.json",
+        "bytes": 774,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-heat-pump-systems-standard-in-green-homes.json",
+        "bytes": 800,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-cool-roofing-and-how-does-it-help.json",
+        "bytes": 788,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-native-plants-contribute-to-green-building.json",
+        "bytes": 816,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-certifications-verify-green-building-claims.json",
+        "bytes": 842,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-green-building-qualify-for-rebates-or-incentives.json",
+        "bytes": 826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-measure-green-building-success-long-term.json",
+        "bytes": 834,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-outdoor-living-projects-for-southern-california-homes.json",
+        "bytes": 914,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-outdoor-kitchens-enhance-home-value-in-los-angeles.json",
+        "bytes": 869,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-materials-work-best-for-outdoor-kitchens-in-coastal-climates.json",
+        "bytes": 889,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-outdoor-kitchens-require-building-permits.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-size-outdoor-kitchen-fits-most-residential-backyards.json",
+        "bytes": 846,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-much-does-a-mid-range-outdoor-kitchen-cost.json",
+        "bytes": 812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-utilities-are-needed-for-a-functional-outdoor-kitchen.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-outdoor-kitchens-be-covered-or-roofed.json",
+        "bytes": 797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-seating-arrangements-work-best-for-outdoor-kitchens.json",
+        "bytes": 835,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-design-outdoor-kitchens-for-entertaining-flow.json",
+        "bytes": 850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-pool-house-and-what-functions-does-it-serve.json",
+        "bytes": 850,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-standard-pool-house-sizes-for-residential-lots.json",
+        "bytes": 814,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-pool-houses-require-separate-plumbing-and-electrical.json",
+        "bytes": 828,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-materials-are-best-for-pool-house-exteriors.json",
+        "bytes": 821,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-pool-houses-double-as-guest-houses-or-adus.json",
+        "bytes": 793,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-prevent-moisture-damage-in-pool-houses.json",
+        "bytes": 814,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-fire-safety-features-are-required-near-pools.json",
+        "bytes": 790,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-outdoor-living-projects-integrate-with-pools.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-popular-outdoor-living-lighting-strategies.json",
+        "bytes": 820,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-outdoor-living-projects-need-hoa-approval.json",
+        "bytes": 783,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-design-outdoor-living-for-year-round-california-use.json",
+        "bytes": 854,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-landscaping-complements-outdoor-kitchens-pool-houses.json",
+        "bytes": 845,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-outdoor-living-spaces-include-home-offices.json",
+        "bytes": 785,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-manage-noise-privacy-in-outdoor-living-areas.json",
+        "bytes": 836,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-maintenance-is-required-for-outdoor-kitchens-pool-houses.json",
+        "bytes": 855,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/interior-renovations-service.json",
+        "bytes": 5288,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/eric-lin-profile.json",
+        "bytes": 4216,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/eric-lin-southern-california.json",
+        "bytes": 4214,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/eric-lin-residential-design-build-southern-california-faq.json",
+        "bytes": 3103,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/eric-lin-residential-construction-southern-california-faq.json",
+        "bytes": 3103,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/eric-lin-general-contracting-southern-california-faq.json",
+        "bytes": 3083,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/eric-lin-architectural-design-coordination-southern-california-faq.json",
+        "bytes": 3139,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/eric-lin-residential-design-southern-california-faq.json",
+        "bytes": 3079,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/linework-development-office.json",
+        "bytes": 338,
+        "purpose": "schema"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards/san-gabriel-valley-contractor-of-the-year.json",
+        "bytes": 370,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/pasadena-historic-preservation-award.json",
+        "bytes": 340,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/best-adu-design-build-project.json",
+        "bytes": 340,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/luxury-kitchen-remodel-excellence.json",
+        "bytes": 354,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/green-building-innovation-award.json",
+        "bytes": 338,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/craftsman-restoration-masterwork.json",
+        "bytes": 339,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/design-build-firm-of-the-year.json",
+        "bytes": 330,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/multigenerational-housing-design.json",
+        "bytes": 335,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/outdoor-living-space-excellence.json",
+        "bytes": 345,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/emerging-contractor-achievement.json",
+        "bytes": 332,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/cslb-excellence-in-licensing.json",
+        "bytes": 338,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/san-marino-business-spotlight.json",
+        "bytes": 339,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/reader-s-choice-kitchen-remodel.json",
+        "bytes": 328,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/bbb-torch-award-for-marketplace-ethics.json",
+        "bytes": 349,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/home-addition-innovation.json",
+        "bytes": 323,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/adu-jadu-specialist-recognition.json",
+        "bytes": 342,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/houzz-best-of-service-2024.json",
+        "bytes": 308,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/client-satisfaction-diamond-award.json",
+        "bytes": 326,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/preservation-project-of-the-year.json",
+        "bytes": 338,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/sustainable-remodel-leadership.json",
+        "bytes": 325,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/pasadena-craftsman-adu-conversion.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/beverly-hills-chef-s-kitchen-remodel.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-marino-historic-whole-home-restoration.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/south-pasadena-family-room-addition.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/la-canada-garage-to-adu-transformation.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/brentwood-contemporary-home-addition.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/culver-city-kitchen-bath-remodel.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-gabriel-historic-bungalow-refresh.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/woodland-hills-outdoor-living-oasis.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/sherman-oaks-multigenerational-suite.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/santa-monica-modern-adu-pool.json",
+        "bytes": 528,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/glendale-foundation-systems-retrofit.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/calabasas-contemporary-farmhouse.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/hollywood-hills-kitchen-remodel.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/mar-vista-green-kitchen-remodel.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/century-city-penthouse-addition.json",
+        "bytes": 512,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/burbank-home-office-gym-suite.json",
+        "bytes": 519,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-gabriel-valley-pool-house.json",
+        "bytes": 519,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/pasadena-historic-kitchen-restoration.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/beverly-hills-whole-home-remodel.json",
+        "bytes": 546,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/linework-development-organization.json",
+        "bytes": 5226,
+        "purpose": "schema"
+      }
+    ],
+    "press": [
+      {
+        "path": "press/san-marino-design-build-firm-expands-services.json",
+        "bytes": 376,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/local-contractor-masters-adu-permitting-streamline.json",
+        "bytes": 379,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/historic-pasadena-bungalow-restoration-showcase.json",
+        "bytes": 380,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/design-build-success-linework-s-chef-kitchen.json",
+        "bytes": 367,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/southern-california-adu-leader-profile.json",
+        "bytes": 369,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/san-gabriel-valley-contractor-of-the-year.json",
+        "bytes": 368,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/multigenerational-design-excellence.json",
+        "bytes": 359,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/green-building-pioneer-in-pasadena.json",
+        "bytes": 353,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/luxury-outdoor-kitchen-feature.json",
+        "bytes": 348,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/craftsman-restoration-masterclass.json",
+        "bytes": 348,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/linework-development-houzz-profile-launch.json",
+        "bytes": 358,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/san-marino-contractor-expands-to-beverly-hills.json",
+        "bytes": 365,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/adu-conversion-specialist-spotlight.json",
+        "bytes": 330,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/design-build-firm-tackles-historic-challenges.json",
+        "bytes": 359,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/pasadena-kitchen-remodel-wins-local-award.json",
+        "bytes": 348,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/southern-california-home-addition-experts.json",
+        "bytes": 347,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/linework-featured-in-bbb-spotlight.json",
+        "bytes": 342,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/emerging-design-build-firms-2023.json",
+        "bytes": 347,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/san-marino-contractor-license-milestone.json",
+        "bytes": 369,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/local-firm-specializes-in-adu-jadu.json",
+        "bytes": 345,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/seamless-design-build-process-1-review.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/outstanding-adu-conversion-2-review.json",
+        "bytes": 521,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/whole-home-renovation-experts-3-review.json",
+        "bytes": 506,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/kitchen-remodel-perfection-4-review.json",
+        "bytes": 487,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/professional-and-reliable-5-review.json",
+        "bytes": 477,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/historic-restoration-masters-6-review.json",
+        "bytes": 503,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/accessory-dwelling-unit-success-7-review.json",
+        "bytes": 479,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/complete-home-transformation-8-review.json",
+        "bytes": 466,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/attention-to-every-detail-9-review.json",
+        "bytes": 478,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/professional-from-start-to-finish-10-review.json",
+        "bytes": 486,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/modern-farmhouse-masterpiece-11-review.json",
+        "bytes": 479,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/trustworthy-and-skilled-12-review.json",
+        "bytes": 467,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceptional-craftsmanship-13-review.json",
+        "bytes": 464,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/reliable-local-contractor-14-review.json",
+        "bytes": 452,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/design-build-done-right-15-review.json",
+        "bytes": 450,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/highly-recommend-eric-lin-16-review.json",
+        "bytes": 481,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/true-professionals-17-review.json",
+        "bytes": 448,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/outstanding-customer-service-18-review.json",
+        "bytes": 441,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/perfectionists-in-construction-19-review.json",
+        "bytes": 461,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/beyond-expectations-20-review.json",
+        "bytes": 429,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 220,
+        "purpose": "schema"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 21054,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 72201,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 22215,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "reviews.html",
+        "bytes": 29400,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 13237,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 203307,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 36063,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 40455,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 331,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 1260,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 366,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 214,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1437,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 178071,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 49642,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 49642,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 1261,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 58235,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 52915,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1036,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/linework-development-ai-schemas-kgve"
+    }
+  }
+}

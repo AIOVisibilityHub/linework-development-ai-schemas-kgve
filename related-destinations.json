@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-27T19:29:13.228Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "LineWork Development",
+    "canonicalUrl": "https://lineworkdevelopment.aiovisibility.net",
+    "primaryWebsiteUrl": "https://lineworkdevelopment.com",
+    "aiDataHub": "https://lineworkdevelopment.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "LineWork Development — canonical website",
+      "url": "https://lineworkdevelopment.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "LineWork Development — AI Data Hub",
+      "url": "https://lineworkdevelopment.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/linework-development-ai-schemas-kgve"
+    }
+  }
+}

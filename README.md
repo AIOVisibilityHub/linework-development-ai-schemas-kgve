@@ -1,2 +1,457 @@
-# linework-development-ai-schemas-kgve
-LineWork Development — Schema.org validated JSON-LD structured data
+# LineWork Development — AI Data Package
+
+Canonical AI Data Package for LineWork Development.
+
+- Canonical: https://lineworkdevelopment.aiovisibility.net
+- Master index: [ai-data.html](./ai-data.html)
+- Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
+
+- LLM hint: [llms.txt](./llms.txt)
+
+## Stats
+- 295 faqs
+- 1 services
+- 7 personnel
+- 1 locations
+- 20 awards
+- 20 caseStudies
+- 1 organization
+- 20 press
+- 20 reviews
+- **386** total
+
+## Cross-Destination Index — Related AI Data Sources
+- [canonical] LineWork Development — canonical website — https://lineworkdevelopment.aiovisibility.net
+- [ai-data-hub] LineWork Development — AI Data Hub — https://lineworkdevelopment.aiovisibility.net/ai-data.html
+- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve
+
+Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+
+
+## Package Contents
+
+Every file below is listed in [`data/publishing-manifest.json`](./data/publishing-manifest.json) — the manifest is the source of truth.
+
+### Root AI Files (6)
+- [`.nojekyll`](./.nojekyll) — Disable Jekyll on GitHub Pages
+- [`index.html`](./index.html) — Landing page (redirects to ai-data.html)
+- [`llms.txt`](./llms.txt) — LLM hint
+- [`manifest.json`](./manifest.json) — Web app manifest
+- [`related-destinations.json`](./related-destinations.json) — Cross-Destination Index (Related AI Data Sources)
+- [`robots.txt`](./robots.txt) — Robots policy
+
+### Organization & About (1)
+- [`organization/linework-development-organization.json`](./organization/linework-development-organization.json) — schema
+
+### Services (1)
+- [`services/interior-renovations-service.json`](./services/interior-renovations-service.json) — schema
+
+### Locations (1)
+- [`locations/linework-development-office.json`](./locations/linework-development-office.json) — schema
+
+### Team Members (7)
+- [`team/eric-lin-architectural-design-coordination-southern-california-faq.json`](./team/eric-lin-architectural-design-coordination-southern-california-faq.json) — schema
+- [`team/eric-lin-general-contracting-southern-california-faq.json`](./team/eric-lin-general-contracting-southern-california-faq.json) — schema
+- [`team/eric-lin-profile.json`](./team/eric-lin-profile.json) — schema
+- [`team/eric-lin-residential-construction-southern-california-faq.json`](./team/eric-lin-residential-construction-southern-california-faq.json) — schema
+- [`team/eric-lin-residential-design-build-southern-california-faq.json`](./team/eric-lin-residential-design-build-southern-california-faq.json) — schema
+- [`team/eric-lin-residential-design-southern-california-faq.json`](./team/eric-lin-residential-design-southern-california-faq.json) — schema
+- [`team/eric-lin-southern-california.json`](./team/eric-lin-southern-california.json) — schema
+
+### FAQs (295)
+- [`faqs/are-3d-renderings-or-models-required-for-permitting.json`](./faqs/are-3d-renderings-or-models-required-for-permitting.json) — schema
+- [`faqs/are-garage-conversions-allowed-in-all-residential-zones.json`](./faqs/are-garage-conversions-allowed-in-all-residential-zones.json) — schema
+- [`faqs/are-heat-pump-systems-standard-in-green-homes.json`](./faqs/are-heat-pump-systems-standard-in-green-homes.json) — schema
+- [`faqs/are-open-floor-plans-good-for-multigenerational-living.json`](./faqs/are-open-floor-plans-good-for-multigenerational-living.json) — schema
+- [`faqs/are-smoke-co-detectors-required-in-converted-garages.json`](./faqs/are-smoke-co-detectors-required-in-converted-garages.json) — schema
+- [`faqs/are-solar-panels-required-for-green-building-certification.json`](./faqs/are-solar-panels-required-for-green-building-certification.json) — schema
+- [`faqs/are-there-height-limits-for-adus.json`](./faqs/are-there-height-limits-for-adus.json) — schema
+- [`faqs/are-there-sustainable-or-green-building-strategies-that-work-well-with-historic.json`](./faqs/are-there-sustainable-or-green-building-strategies-that-work-well-with-historic.json) — schema
+- [`faqs/are-there-tax-credits-grants-or-incentives-for-restoring-a-historic-property.json`](./faqs/are-there-tax-credits-grants-or-incentives-for-restoring-a-historic-property.json) — schema
+- [`faqs/are-two-primary-bedroom-suites-standard.json`](./faqs/are-two-primary-bedroom-suites-standard.json) — schema
+- [`faqs/are-you-a-licensed-contractor-in-california.json`](./faqs/are-you-a-licensed-contractor-in-california.json) — schema
+- [`faqs/at-what-stage-does-project-management-start.json`](./faqs/at-what-stage-does-project-management-start.json) — schema
+- [`faqs/can-a-whole-home-renovation-improve-energy-efficiency-and-comfort.json`](./faqs/can-a-whole-home-renovation-improve-energy-efficiency-and-comfort.json) — schema
+- [`faqs/can-adus-have-bedrooms.json`](./faqs/can-adus-have-bedrooms.json) — schema
+- [`faqs/can-ai-generative-design-handle-complex-residential-constraints.json`](./faqs/can-ai-generative-design-handle-complex-residential-constraints.json) — schema
+- [`faqs/can-ai-generative-design-support-historic-renovations.json`](./faqs/can-ai-generative-design-support-historic-renovations.json) — schema
+- [`faqs/can-bim-predict-construction-costs-during-design.json`](./faqs/can-bim-predict-construction-costs-during-design.json) — schema
+- [`faqs/can-bim-track-changes-throughout-a-project-s-lifecycle.json`](./faqs/can-bim-track-changes-throughout-a-project-s-lifecycle.json) — schema
+- [`faqs/can-existing-homes-achieve-green-building-standards.json`](./faqs/can-existing-homes-achieve-green-building-standards.json) — schema
+- [`faqs/can-existing-homes-be-adapted-for-multigenerational-living.json`](./faqs/can-existing-homes-be-adapted-for-multigenerational-living.json) — schema
+- [`faqs/can-generative-design-incorporate-sustainable-materials.json`](./faqs/can-generative-design-incorporate-sustainable-materials.json) — schema
+- [`faqs/can-generative-design-optimize-for-multigenerational-homes.json`](./faqs/can-generative-design-optimize-for-multigenerational-homes.json) — schema
+- [`faqs/can-i-build-an-adu-before-the-primary-house.json`](./faqs/can-i-build-an-adu-before-the-primary-house.json) — schema
+- [`faqs/can-i-build-an-adu-on-a-multifamily-property.json`](./faqs/can-i-build-an-adu-on-a-multifamily-property.json) — schema
+- [`faqs/can-i-change-the-floor-plan-or-add-square-footage-to-a-historic-building.json`](./faqs/can-i-change-the-floor-plan-or-add-square-footage-to-a-historic-building.json) — schema
+- [`faqs/can-i-convert-a-detached-garage.json`](./faqs/can-i-convert-a-detached-garage.json) — schema
+- [`faqs/can-i-convert-my-garage-into-a-bedroom.json`](./faqs/can-i-convert-my-garage-into-a-bedroom.json) — schema
+- [`faqs/can-i-convert-my-garage-into-an-adu.json`](./faqs/can-i-convert-my-garage-into-an-adu.json) — schema
+- [`faqs/can-i-finance-adu-construction.json`](./faqs/can-i-finance-adu-construction.json) — schema
+- [`faqs/can-i-keep-part-of-the-garage-as-parking-after-partial-conversion.json`](./faqs/can-i-keep-part-of-the-garage-as-parking-after-partial-conversion.json) — schema
+- [`faqs/can-i-make-changes-to-drawings-after-permitting.json`](./faqs/can-i-make-changes-to-drawings-after-permitting.json) — schema
+- [`faqs/can-i-rent-out-my-adu-or-jadu.json`](./faqs/can-i-rent-out-my-adu-or-jadu.json) — schema
+- [`faqs/can-i-rent-out-my-garage-conversion.json`](./faqs/can-i-rent-out-my-garage-conversion.json) — schema
+- [`faqs/can-i-reuse-drawings-from-a-previous-project.json`](./faqs/can-i-reuse-drawings-from-a-previous-project.json) — schema
+- [`faqs/can-i-update-my-home-s-style-without-losing-its-original-character.json`](./faqs/can-i-update-my-home-s-style-without-losing-its-original-character.json) — schema
+- [`faqs/can-i-use-modern-materials-if-the-originals-are-unavailable-or-too-expensive.json`](./faqs/can-i-use-modern-materials-if-the-originals-are-unavailable-or-too-expensive.json) — schema
+- [`faqs/can-multigenerational-homes-support-aging-in-place.json`](./faqs/can-multigenerational-homes-support-aging-in-place.json) — schema
+- [`faqs/can-outdoor-kitchens-be-covered-or-roofed.json`](./faqs/can-outdoor-kitchens-be-covered-or-roofed.json) — schema
+- [`faqs/can-outdoor-living-spaces-include-home-offices.json`](./faqs/can-outdoor-living-spaces-include-home-offices.json) — schema
+- [`faqs/can-pool-houses-double-as-guest-houses-or-adus.json`](./faqs/can-pool-houses-double-as-guest-houses-or-adus.json) — schema
+- [`faqs/can-project-management-help-if-i-am-living-in-the-home-during-construction.json`](./faqs/can-project-management-help-if-i-am-living-in-the-home-during-construction.json) — schema
+- [`faqs/can-project-management-services-help-with-product-and-finish-selections.json`](./faqs/can-project-management-services-help-with-product-and-finish-selections.json) — schema
+- [`faqs/can-smart-home-technology-be-integrated-during-a-whole-home-renovation.json`](./faqs/can-smart-home-technology-be-integrated-during-a-whole-home-renovation.json) — schema
+- [`faqs/can-tenants-in-adus-use-the-primary-home-s-amenities.json`](./faqs/can-tenants-in-adus-use-the-primary-home-s-amenities.json) — schema
+- [`faqs/can-the-same-drawings-be-used-for-bidding-and-permitting.json`](./faqs/can-the-same-drawings-be-used-for-bidding-and-permitting.json) — schema
+- [`faqs/can-you-handle-outdoor-living-projects-like-outdoor-kitchens-and-pool-houses.json`](./faqs/can-you-handle-outdoor-living-projects-like-outdoor-kitchens-and-pool-houses.json) — schema
+- [`faqs/can-you-help-with-architectural-drawings-and-permitting.json`](./faqs/can-you-help-with-architectural-drawings-and-permitting.json) — schema
+- [`faqs/can-you-help-with-multigenerational-home-design.json`](./faqs/can-you-help-with-multigenerational-home-design.json) — schema
+- [`faqs/do-adus-need-fire-sprinklers.json`](./faqs/do-adus-need-fire-sprinklers.json) — schema
+- [`faqs/do-adus-require-separate-utility-connections.json`](./faqs/do-adus-require-separate-utility-connections.json) — schema
+- [`faqs/do-garage-conversions-affect-property-taxes.json`](./faqs/do-garage-conversions-affect-property-taxes.json) — schema
+- [`faqs/do-garage-conversions-need-their-own-bathroom-and-kitchen.json`](./faqs/do-garage-conversions-need-their-own-bathroom-and-kitchen.json) — schema
+- [`faqs/do-green-buildings-cost-more-to-build.json`](./faqs/do-green-buildings-cost-more-to-build.json) — schema
+- [`faqs/do-hoas-restrict-adus-and-jadus.json`](./faqs/do-hoas-restrict-adus-and-jadus.json) — schema
+- [`faqs/do-i-need-a-survey-before-starting-ground-up-construction.json`](./faqs/do-i-need-a-survey-before-starting-ground-up-construction.json) — schema
+- [`faqs/do-i-need-hoa-approval-for-garage-conversion.json`](./faqs/do-i-need-hoa-approval-for-garage-conversion.json) — schema
+- [`faqs/do-i-need-separate-permits-for-different-types-of-work.json`](./faqs/do-i-need-separate-permits-for-different-types-of-work.json) — schema
+- [`faqs/do-i-need-special-approvals-or-permits-to-work-on-a-historic-home.json`](./faqs/do-i-need-special-approvals-or-permits-to-work-on-a-historic-home.json) — schema
+- [`faqs/do-i-need-to-move-out-during-a-whole-home-renovation.json`](./faqs/do-i-need-to-move-out-during-a-whole-home-renovation.json) — schema
+- [`faqs/do-i-need-to-own-the-property-to-build-an-adu.json`](./faqs/do-i-need-to-own-the-property-to-build-an-adu.json) — schema
+- [`faqs/do-i-need-to-replace-the-garage-door-during-conversion.json`](./faqs/do-i-need-to-replace-the-garage-door-during-conversion.json) — schema
+- [`faqs/do-outdoor-kitchens-require-building-permits.json`](./faqs/do-outdoor-kitchens-require-building-permits.json) — schema
+- [`faqs/do-outdoor-living-projects-need-hoa-approval.json`](./faqs/do-outdoor-living-projects-need-hoa-approval.json) — schema
+- [`faqs/do-pool-houses-require-separate-plumbing-and-electrical.json`](./faqs/do-pool-houses-require-separate-plumbing-and-electrical.json) — schema
+- [`faqs/do-you-design-and-build-adus-with-a-focus-on-sustainability.json`](./faqs/do-you-design-and-build-adus-with-a-focus-on-sustainability.json) — schema
+- [`faqs/do-you-handle-accessory-dwelling-units-adus-and-junior-adus-jadus.json`](./faqs/do-you-handle-accessory-dwelling-units-adus-and-junior-adus-jadus.json) — schema
+- [`faqs/do-you-offer-project-management-as-a-standalone-service.json`](./faqs/do-you-offer-project-management-as-a-standalone-service.json) — schema
+- [`faqs/do-you-work-on-historic-home-restorations.json`](./faqs/do-you-work-on-historic-home-restorations.json) — schema
+- [`faqs/does-a-garage-conversion-require-separate-hvac.json`](./faqs/does-a-garage-conversion-require-separate-hvac.json) — schema
+- [`faqs/does-green-building-qualify-for-rebates-or-incentives.json`](./faqs/does-green-building-qualify-for-rebates-or-incentives.json) — schema
+- [`faqs/does-project-management-add-cost-or-save-money.json`](./faqs/does-project-management-add-cost-or-save-money.json) — schema
+- [`faqs/how-are-changes-or-new-ideas-handled-once-construction-has-started.json`](./faqs/how-are-changes-or-new-ideas-handled-once-construction-has-started.json) — schema
+- [`faqs/how-are-quality-and-craftsmanship-monitored-during-the-project.json`](./faqs/how-are-quality-and-craftsmanship-monitored-during-the-project.json) — schema
+- [`faqs/how-are-utilities-handled-for-a-new-build-on-vacant-land.json`](./faqs/how-are-utilities-handled-for-a-new-build-on-vacant-land.json) — schema
+- [`faqs/how-can-ai-improve-construction-management-on-my-project.json`](./faqs/how-can-ai-improve-construction-management-on-my-project.json) — schema
+- [`faqs/how-can-i-find-out-what-regulations-apply-to-my-historic-district-or-landmark-pr.json`](./faqs/how-can-i-find-out-what-regulations-apply-to-my-historic-district-or-landmark-pr.json) — schema
+- [`faqs/how-can-i-phase-the-work-if-i-can-t-afford-to-restore-everything-at-once.json`](./faqs/how-can-i-phase-the-work-if-i-can-t-afford-to-restore-everything-at-once.json) — schema
+- [`faqs/how-can-i-prioritize-my-wish-list-for-a-whole-home-renovation.json`](./faqs/how-can-i-prioritize-my-wish-list-for-a-whole-home-renovation.json) — schema
+- [`faqs/how-can-i-reduce-the-risk-of-change-orders-during-construction.json`](./faqs/how-can-i-reduce-the-risk-of-change-orders-during-construction.json) — schema
+- [`faqs/how-can-i-tell-which-past-alterations-are-worth-keeping-and-which-should-be-reve.json`](./faqs/how-can-i-tell-which-past-alterations-are-worth-keeping-and-which-should-be-reve.json) — schema
+- [`faqs/how-do-architectural-drawings-coordinate-with-engineering-plans.json`](./faqs/how-do-architectural-drawings-coordinate-with-engineering-plans.json) — schema
+- [`faqs/how-do-design-build-firms-handle-drawings-and-permitting.json`](./faqs/how-do-design-build-firms-handle-drawings-and-permitting.json) — schema
+- [`faqs/how-do-i-balance-modern-comfort-and-energy-efficiency-with-preserving-original-m.json`](./faqs/how-do-i-balance-modern-comfort-and-energy-efficiency-with-preserving-original-m.json) — schema
+- [`faqs/how-do-i-choose-between-renovating-and-tearing-down-to-build-new.json`](./faqs/how-do-i-choose-between-renovating-and-tearing-down-to-build-new.json) — schema
+- [`faqs/how-do-i-choose-finishes-colors-and-fixtures-appropriate-to-my-home-s-era.json`](./faqs/how-do-i-choose-finishes-colors-and-fixtures-appropriate-to-my-home-s-era.json) — schema
+- [`faqs/how-do-i-get-started-with-a-ground-up-home-project.json`](./faqs/how-do-i-get-started-with-a-ground-up-home-project.json) — schema
+- [`faqs/how-do-i-get-started-with-linework-development.json`](./faqs/how-do-i-get-started-with-linework-development.json) — schema
+- [`faqs/how-do-i-handle-lead-paint-asbestos-or-other-hazardous-materials-in-an-older-bui.json`](./faqs/how-do-i-handle-lead-paint-asbestos-or-other-hazardous-materials-in-an-older-bui.json) — schema
+- [`faqs/how-do-i-keep-design-consistent-throughout-a-whole-home-renovation.json`](./faqs/how-do-i-keep-design-consistent-throughout-a-whole-home-renovation.json) — schema
+- [`faqs/how-do-i-know-if-my-drawings-meet-california-building-codes.json`](./faqs/how-do-i-know-if-my-drawings-meet-california-building-codes.json) — schema
+- [`faqs/how-do-i-know-if-my-home-or-building-is-considered-historic.json`](./faqs/how-do-i-know-if-my-home-or-building-is-considered-historic.json) — schema
+- [`faqs/how-do-i-know-if-project-management-is-working-well-on-my-project.json`](./faqs/how-do-i-know-if-project-management-is-working-well-on-my-project.json) — schema
+- [`faqs/how-do-i-modernize-mechanical-systems-without-damaging-historic-character.json`](./faqs/how-do-i-modernize-mechanical-systems-without-damaging-historic-character.json) — schema
+- [`faqs/how-do-i-prepare-my-home-and-belongings-before-construction-starts.json`](./faqs/how-do-i-prepare-my-home-and-belongings-before-construction-starts.json) — schema
+- [`faqs/how-do-i-seal-the-garage-slab-floor-for-habitable-use.json`](./faqs/how-do-i-seal-the-garage-slab-floor-for-habitable-use.json) — schema
+- [`faqs/how-do-insurance-and-property-value-work-for-historic-homes-compared-to-newer-ho.json`](./faqs/how-do-insurance-and-property-value-work-for-historic-homes-compared-to-newer-ho.json) — schema
+- [`faqs/how-do-multigenerational-homes-handle-parking-needs.json`](./faqs/how-do-multigenerational-homes-handle-parking-needs.json) — schema
+- [`faqs/how-do-native-plants-contribute-to-green-building.json`](./faqs/how-do-native-plants-contribute-to-green-building.json) — schema
+- [`faqs/how-do-outdoor-kitchens-enhance-home-value-in-los-angeles.json`](./faqs/how-do-outdoor-kitchens-enhance-home-value-in-los-angeles.json) — schema
+- [`faqs/how-do-outdoor-living-projects-integrate-with-pools.json`](./faqs/how-do-outdoor-living-projects-integrate-with-pools.json) — schema
+- [`faqs/how-do-permits-work-for-a-whole-home-renovation.json`](./faqs/how-do-permits-work-for-a-whole-home-renovation.json) — schema
+- [`faqs/how-do-sustainable-or-green-building-strategies-fit-into-ground-up-construction.json`](./faqs/how-do-sustainable-or-green-building-strategies-fit-into-ground-up-construction.json) — schema
+- [`faqs/how-do-you-balance-privacy-and-shared-living-spaces.json`](./faqs/how-do-you-balance-privacy-and-shared-living-spaces.json) — schema
+- [`faqs/how-do-you-choose-sustainable-building-materials.json`](./faqs/how-do-you-choose-sustainable-building-materials.json) — schema
+- [`faqs/how-do-you-coordinate-interior-design-across-generations.json`](./faqs/how-do-you-coordinate-interior-design-across-generations.json) — schema
+- [`faqs/how-do-you-design-bathrooms-for-multigenerational-use.json`](./faqs/how-do-you-design-bathrooms-for-multigenerational-use.json) — schema
+- [`faqs/how-do-you-design-outdoor-kitchens-for-entertaining-flow.json`](./faqs/how-do-you-design-outdoor-kitchens-for-entertaining-flow.json) — schema
+- [`faqs/how-do-you-design-outdoor-living-for-year-round-california-use.json`](./faqs/how-do-you-design-outdoor-living-for-year-round-california-use.json) — schema
+- [`faqs/how-do-you-design-storage-for-multiple-households.json`](./faqs/how-do-you-design-storage-for-multiple-households.json) — schema
+- [`faqs/how-do-you-future-proof-multigenerational-homes.json`](./faqs/how-do-you-future-proof-multigenerational-homes.json) — schema
+- [`faqs/how-do-you-manage-multiple-trades-on-a-tight-site-or-busy-schedule.json`](./faqs/how-do-you-manage-multiple-trades-on-a-tight-site-or-busy-schedule.json) — schema
+- [`faqs/how-do-you-manage-noise-privacy-in-outdoor-living-areas.json`](./faqs/how-do-you-manage-noise-privacy-in-outdoor-living-areas.json) — schema
+- [`faqs/how-do-you-manage-safety-and-cleanliness-during-a-whole-home-renovation.json`](./faqs/how-do-you-manage-safety-and-cleanliness-during-a-whole-home-renovation.json) — schema
+- [`faqs/how-do-you-measure-green-building-success-long-term.json`](./faqs/how-do-you-measure-green-building-success-long-term.json) — schema
+- [`faqs/how-do-you-prevent-moisture-damage-in-pool-houses.json`](./faqs/how-do-you-prevent-moisture-damage-in-pool-houses.json) — schema
+- [`faqs/how-does-a-design-build-approach-benefit-ground-up-construction.json`](./faqs/how-does-a-design-build-approach-benefit-ground-up-construction.json) — schema
+- [`faqs/how-does-a-project-manager-handle-delays-outside-of-anyone-s-control.json`](./faqs/how-does-a-project-manager-handle-delays-outside-of-anyone-s-control.json) — schema
+- [`faqs/how-does-a-project-manager-help-control-costs.json`](./faqs/how-does-a-project-manager-help-control-costs.json) — schema
+- [`faqs/how-does-a-project-manager-help-keep-my-project-on-schedule.json`](./faqs/how-does-a-project-manager-help-keep-my-project-on-schedule.json) — schema
+- [`faqs/how-does-ai-assist-with-code-compliance-in-residential-design.json`](./faqs/how-does-ai-assist-with-code-compliance-in-residential-design.json) — schema
+- [`faqs/how-does-ai-enhance-bim-workflows.json`](./faqs/how-does-ai-enhance-bim-workflows.json) — schema
+- [`faqs/how-does-ai-improve-client-presentations-and-decisions.json`](./faqs/how-does-ai-improve-client-presentations-and-decisions.json) — schema
+- [`faqs/how-does-ai-support-green-building-and-historic-conservation-work.json`](./faqs/how-does-ai-support-green-building-and-historic-conservation-work.json) — schema
+- [`faqs/how-does-bim-improve-coordination-between-architects-and-contractors.json`](./faqs/how-does-bim-improve-coordination-between-architects-and-contractors.json) — schema
+- [`faqs/how-does-bim-integration-reduce-construction-errors.json`](./faqs/how-does-bim-integration-reduce-construction-errors.json) — schema
+- [`faqs/how-does-bim-support-prefabrication-and-modular-construction.json`](./faqs/how-does-bim-support-prefabrication-and-modular-construction.json) — schema
+- [`faqs/how-does-generative-ai-handle-site-specific-design-challenges.json`](./faqs/how-does-generative-ai-handle-site-specific-design-challenges.json) — schema
+- [`faqs/how-does-generative-design-differ-from-traditional-architectural-methods.json`](./faqs/how-does-generative-design-differ-from-traditional-architectural-methods.json) — schema
+- [`faqs/how-does-generative-design-improve-energy-efficiency-in-home-design.json`](./faqs/how-does-generative-design-improve-energy-efficiency-in-home-design.json) — schema
+- [`faqs/how-does-green-building-improve-energy-efficiency.json`](./faqs/how-does-green-building-improve-energy-efficiency.json) — schema
+- [`faqs/how-does-green-building-improve-occupant-health.json`](./faqs/how-does-green-building-improve-occupant-health.json) — schema
+- [`faqs/how-does-green-building-support-wildfire-resilience.json`](./faqs/how-does-green-building-support-wildfire-resilience.json) — schema
+- [`faqs/how-does-ground-up-construction-affect-long-term-flexibility-and-performance.json`](./faqs/how-does-ground-up-construction-affect-long-term-flexibility-and-performance.json) — schema
+- [`faqs/how-does-linework-use-ai-and-bim-in-residential-design.json`](./faqs/how-does-linework-use-ai-and-bim-in-residential-design.json) — schema
+- [`faqs/how-does-project-management-handle-permitting-and-inspections.json`](./faqs/how-does-project-management-handle-permitting-and-inspections.json) — schema
+- [`faqs/how-does-project-management-support-communication-between-designer-engineer-and.json`](./faqs/how-does-project-management-support-communication-between-designer-engineer-and.json) — schema
+- [`faqs/how-does-site-selection-impact-green-building-performance.json`](./faqs/how-does-site-selection-impact-green-building-performance.json) — schema
+- [`faqs/how-does-the-design-build-process-at-linework-development-work.json`](./faqs/how-does-the-design-build-process-at-linework-development-work.json) — schema
+- [`faqs/how-is-a-whole-home-renovation-different-from-a-standard-remodel.json`](./faqs/how-is-a-whole-home-renovation-different-from-a-standard-remodel.json) — schema
+- [`faqs/how-is-a-whole-home-renovation-phased-to-minimize-disruption.json`](./faqs/how-is-a-whole-home-renovation-phased-to-minimize-disruption.json) — schema
+- [`faqs/how-is-ground-up-construction-different-from-renovation-or-addition-work.json`](./faqs/how-is-ground-up-construction-different-from-renovation-or-addition-work.json) — schema
+- [`faqs/how-is-project-management-different-in-a-design-build-model.json`](./faqs/how-is-project-management-different-in-a-design-build-model.json) — schema
+- [`faqs/how-is-quality-controlled-during-a-ground-up-build.json`](./faqs/how-is-quality-controlled-during-a-ground-up-build.json) — schema
+- [`faqs/how-is-risk-managed-in-residential-construction-projects.json`](./faqs/how-is-risk-managed-in-residential-construction-projects.json) — schema
+- [`faqs/how-is-the-budget-for-a-ground-up-home-established.json`](./faqs/how-is-the-budget-for-a-ground-up-home-established.json) — schema
+- [`faqs/how-is-the-budget-for-a-whole-home-renovation-developed.json`](./faqs/how-is-the-budget-for-a-whole-home-renovation-developed.json) — schema
+- [`faqs/how-is-the-project-budget-reported-to-me-over-time.json`](./faqs/how-is-the-project-budget-reported-to-me-over-time.json) — schema
+- [`faqs/how-long-do-historic-conservation-projects-typically-take-compared-to-standard-r.json`](./faqs/how-long-do-historic-conservation-projects-typically-take-compared-to-standard-r.json) — schema
+- [`faqs/how-long-does-a-typical-ground-up-home-build-take.json`](./faqs/how-long-does-a-typical-ground-up-home-build-take.json) — schema
+- [`faqs/how-long-does-a-typical-whole-home-renovation-take.json`](./faqs/how-long-does-a-typical-whole-home-renovation-take.json) — schema
+- [`faqs/how-long-does-garage-conversion-permitting-take.json`](./faqs/how-long-does-garage-conversion-permitting-take.json) — schema
+- [`faqs/how-long-does-it-take-to-complete-a-full-set-of-architectural-drawings.json`](./faqs/how-long-does-it-take-to-complete-a-full-set-of-architectural-drawings.json) — schema
+- [`faqs/how-long-does-permitting-take-for-an-adu.json`](./faqs/how-long-does-permitting-take-for-an-adu.json) — schema
+- [`faqs/how-long-does-residential-permitting-typically-take.json`](./faqs/how-long-does-residential-permitting-typically-take.json) — schema
+- [`faqs/how-much-design-flexibility-do-i-have-with-ground-up-construction.json`](./faqs/how-much-design-flexibility-do-i-have-with-ground-up-construction.json) — schema
+- [`faqs/how-much-does-a-mid-range-outdoor-kitchen-cost.json`](./faqs/how-much-does-a-mid-range-outdoor-kitchen-cost.json) — schema
+- [`faqs/how-much-does-an-adu-add-to-property-value.json`](./faqs/how-much-does-an-adu-add-to-property-value.json) — schema
+- [`faqs/how-much-involvement-is-expected-from-me-as-the-homeowner.json`](./faqs/how-much-involvement-is-expected-from-me-as-the-homeowner.json) — schema
+- [`faqs/how-much-natural-light-is-required-in-a-converted-garage.json`](./faqs/how-much-natural-light-is-required-in-a-converted-garage.json) — schema
+- [`faqs/how-much-square-footage-is-needed-for-multigenerational-living.json`](./faqs/how-much-square-footage-is-needed-for-multigenerational-living.json) — schema
+- [`faqs/how-much-value-does-a-garage-conversion-add.json`](./faqs/how-much-value-does-a-garage-conversion-add.json) — schema
+- [`faqs/how-often-will-i-receive-updates-on-my-project.json`](./faqs/how-often-will-i-receive-updates-on-my-project.json) — schema
+- [`faqs/how-will-a-whole-home-renovation-affect-my-daily-routine.json`](./faqs/how-will-a-whole-home-renovation-affect-my-daily-routine.json) — schema
+- [`faqs/is-a-building-permit-required-for-garage-conversions.json`](./faqs/is-a-building-permit-required-for-garage-conversions.json) — schema
+- [`faqs/is-ground-up-construction-more-expensive-than-remodeling-an-existing-home.json`](./faqs/is-ground-up-construction-more-expensive-than-remodeling-an-existing-home.json) — schema
+- [`faqs/is-it-better-to-repair-or-replace-original-windows-doors-and-trim.json`](./faqs/is-it-better-to-repair-or-replace-original-windows-doors-and-trim.json) — schema
+- [`faqs/is-parking-required-for-adus-and-jadus.json`](./faqs/is-parking-required-for-adus-and-jadus.json) — schema
+- [`faqs/question.json`](./faqs/question.json) — schema
+- [`faqs/should-multigenerational-homes-have-separate-entrances.json`](./faqs/should-multigenerational-homes-have-separate-entrances.json) — schema
+- [`faqs/should-multigenerational-homes-have-separate-hvac-zones.json`](./faqs/should-multigenerational-homes-have-separate-hvac-zones.json) — schema
+- [`faqs/should-multigenerational-homes-include-home-offices.json`](./faqs/should-multigenerational-homes-include-home-offices.json) — schema
+- [`faqs/what-accessibility-features-should-multigenerational-homes-include.json`](./faqs/what-accessibility-features-should-multigenerational-homes-include.json) — schema
+- [`faqs/what-are-architectural-drawings-used-for-in-residential-construction.json`](./faqs/what-are-architectural-drawings-used-for-in-residential-construction.json) — schema
+- [`faqs/what-are-common-challenges-in-multigenerational-design.json`](./faqs/what-are-common-challenges-in-multigenerational-design.json) — schema
+- [`faqs/what-are-common-cost-drivers-in-whole-home-renovations.json`](./faqs/what-are-common-cost-drivers-in-whole-home-renovations.json) — schema
+- [`faqs/what-are-common-hidden-costs-in-garage-conversions.json`](./faqs/what-are-common-hidden-costs-in-garage-conversions.json) — schema
+- [`faqs/what-are-common-hidden-issues-in-historic-homes-that-can-affect-budget.json`](./faqs/what-are-common-hidden-issues-in-historic-homes-that-can-affect-budget.json) — schema
+- [`faqs/what-are-common-outdoor-living-projects-for-southern-california-homes.json`](./faqs/what-are-common-outdoor-living-projects-for-southern-california-homes.json) — schema
+- [`faqs/what-are-common-surprises-uncovered-during-a-whole-home-renovation.json`](./faqs/what-are-common-surprises-uncovered-during-a-whole-home-renovation.json) — schema
+- [`faqs/what-are-common-unexpected-costs-in-ground-up-construction.json`](./faqs/what-are-common-unexpected-costs-in-ground-up-construction.json) — schema
+- [`faqs/what-are-elevations-in-architectural-drawings.json`](./faqs/what-are-elevations-in-architectural-drawings.json) — schema
+- [`faqs/what-are-jadu-size-restrictions.json`](./faqs/what-are-jadu-size-restrictions.json) — schema
+- [`faqs/what-are-low-voc-materials-and-why-use-them.json`](./faqs/what-are-low-voc-materials-and-why-use-them.json) — schema
+- [`faqs/what-are-popular-outdoor-living-lighting-strategies.json`](./faqs/what-are-popular-outdoor-living-lighting-strategies.json) — schema
+- [`faqs/what-are-standard-pool-house-sizes-for-residential-lots.json`](./faqs/what-are-standard-pool-house-sizes-for-residential-lots.json) — schema
+- [`faqs/what-are-the-first-steps-i-should-take-before-starting-work-on-a-historic-proper.json`](./faqs/what-are-the-first-steps-i-should-take-before-starting-work-on-a-historic-proper.json) — schema
+- [`faqs/what-are-the-first-steps-in-planning-a-whole-home-renovation.json`](./faqs/what-are-the-first-steps-in-planning-a-whole-home-renovation.json) — schema
+- [`faqs/what-are-the-main-benefits-of-generative-design-for-residential-projects.json`](./faqs/what-are-the-main-benefits-of-generative-design-for-residential-projects.json) — schema
+- [`faqs/what-are-the-main-building-code-requirements-for-garage-conversions.json`](./faqs/what-are-the-main-building-code-requirements-for-garage-conversions.json) — schema
+- [`faqs/what-are-the-main-layout-types-for-multigenerational-homes.json`](./faqs/what-are-the-main-layout-types-for-multigenerational-homes.json) — schema
+- [`faqs/what-are-the-main-phases-of-a-ground-up-construction-project.json`](./faqs/what-are-the-main-phases-of-a-ground-up-construction-project.json) — schema
+- [`faqs/what-are-the-main-principles-of-green-building.json`](./faqs/what-are-the-main-principles-of-green-building.json) — schema
+- [`faqs/what-are-the-main-risks-with-ground-up-construction-and-how-are-they-managed.json`](./faqs/what-are-the-main-risks-with-ground-up-construction-and-how-are-they-managed.json) — schema
+- [`faqs/what-are-the-main-types-of-adus.json`](./faqs/what-are-the-main-types-of-adus.json) — schema
+- [`faqs/what-are-the-main-types-of-architectural-drawings-for-a-home-project.json`](./faqs/what-are-the-main-types-of-architectural-drawings-for-a-home-project.json) — schema
+- [`faqs/what-are-the-time-savings-from-ai-generative-design.json`](./faqs/what-are-the-time-savings-from-ai-generative-design.json) — schema
+- [`faqs/what-are-typical-inputs-for-residential-generative-design.json`](./faqs/what-are-typical-inputs-for-residential-generative-design.json) — schema
+- [`faqs/what-certifications-verify-green-building-claims.json`](./faqs/what-certifications-verify-green-building-claims.json) — schema
+- [`faqs/what-common-issues-cause-permitting-delays.json`](./faqs/what-common-issues-cause-permitting-delays.json) — schema
+- [`faqs/what-construction-site-security-measures-do-you-use.json`](./faqs/what-construction-site-security-measures-do-you-use.json) — schema
+- [`faqs/what-decisions-should-i-make-early-in-the-design-process.json`](./faqs/what-decisions-should-i-make-early-in-the-design-process.json) — schema
+- [`faqs/what-design-standards-apply-to-adus.json`](./faqs/what-design-standards-apply-to-adus.json) — schema
+- [`faqs/what-do-building-sections-show-that-floor-plans-don-t.json`](./faqs/what-do-building-sections-show-that-floor-plans-don-t.json) — schema
+- [`faqs/what-documentation-should-i-keep-during-a-historic-conservation-project.json`](./faqs/what-documentation-should-i-keep-during-a-historic-conservation-project.json) — schema
+- [`faqs/what-does-leed-certification-mean-for-residential-projects.json`](./faqs/what-does-leed-certification-mean-for-residential-projects.json) — schema
+- [`faqs/what-does-project-management-include-on-a-residential-construction-project.json`](./faqs/what-does-project-management-include-on-a-residential-construction-project.json) — schema
+- [`faqs/what-does-the-closeout-phase-look-like-for-a-whole-home-renovation.json`](./faqs/what-does-the-closeout-phase-look-like-for-a-whole-home-renovation.json) — schema
+- [`faqs/what-electrical-upgrades-are-needed-for-garage-conversion.json`](./faqs/what-electrical-upgrades-are-needed-for-garage-conversion.json) — schema
+- [`faqs/what-factors-have-the-biggest-impact-on-schedule-for-ground-up-construction.json`](./faqs/what-factors-have-the-biggest-impact-on-schedule-for-ground-up-construction.json) — schema
+- [`faqs/what-fire-safety-features-are-required-near-pools.json`](./faqs/what-fire-safety-features-are-required-near-pools.json) — schema
+- [`faqs/what-fire-safety-features-are-required.json`](./faqs/what-fire-safety-features-are-required.json) — schema
+- [`faqs/what-happens-at-the-end-of-the-project-from-a-management-standpoint.json`](./faqs/what-happens-at-the-end-of-the-project-from-a-management-standpoint.json) — schema
+- [`faqs/what-happens-during-the-final-building-inspection.json`](./faqs/what-happens-during-the-final-building-inspection.json) — schema
+- [`faqs/what-happens-during-the-pre-construction-or-planning-phase.json`](./faqs/what-happens-during-the-pre-construction-or-planning-phase.json) — schema
+- [`faqs/what-happens-if-unexpected-issues-are-discovered-during-demolition.json`](./faqs/what-happens-if-unexpected-issues-are-discovered-during-demolition.json) — schema
+- [`faqs/what-impact-fees-apply-to-adus.json`](./faqs/what-impact-fees-apply-to-adus.json) — schema
+- [`faqs/what-indoor-air-quality-practices-are-used-in-green-homes.json`](./faqs/what-indoor-air-quality-practices-are-used-in-green-homes.json) — schema
+- [`faqs/what-information-goes-into-a-residential-floor-plan.json`](./faqs/what-information-goes-into-a-residential-floor-plan.json) — schema
+- [`faqs/what-inspections-are-required-during-garage-conversion.json`](./faqs/what-inspections-are-required-during-garage-conversion.json) — schema
+- [`faqs/what-insulation-is-required-for-garage-conversions.json`](./faqs/what-insulation-is-required-for-garage-conversions.json) — schema
+- [`faqs/what-is-a-door-and-window-schedule.json`](./faqs/what-is-a-door-and-window-schedule.json) — schema
+- [`faqs/what-is-a-garage-conversion.json`](./faqs/what-is-a-garage-conversion.json) — schema
+- [`faqs/what-is-a-junior-accessory-dwelling-unit-jadu.json`](./faqs/what-is-a-junior-accessory-dwelling-unit-jadu.json) — schema
+- [`faqs/what-is-a-plan-check-and-how-do-i-prepare-for-it.json`](./faqs/what-is-a-plan-check-and-how-do-i-prepare-for-it.json) — schema
+- [`faqs/what-is-a-pool-house-and-what-functions-does-it-serve.json`](./faqs/what-is-a-pool-house-and-what-functions-does-it-serve.json) — schema
+- [`faqs/what-is-a-site-plan-and-why-is-it-required.json`](./faqs/what-is-a-site-plan-and-why-is-it-required.json) — schema
+- [`faqs/what-is-ai-driven-generative-design-in-architecture.json`](./faqs/what-is-ai-driven-generative-design-in-architecture.json) — schema
+- [`faqs/what-is-an-accessory-dwelling-unit-adu.json`](./faqs/what-is-an-accessory-dwelling-unit-adu.json) — schema
+- [`faqs/what-is-building-information-modeling-bim.json`](./faqs/what-is-building-information-modeling-bim.json) — schema
+- [`faqs/what-is-clash-detection-and-how-does-ai-improve-it.json`](./faqs/what-is-clash-detection-and-how-does-ai-improve-it.json) — schema
+- [`faqs/what-is-considered-a-whole-home-renovation.json`](./faqs/what-is-considered-a-whole-home-renovation.json) — schema
+- [`faqs/what-is-cool-roofing-and-how-does-it-help.json`](./faqs/what-is-cool-roofing-and-how-does-it-help.json) — schema
+- [`faqs/what-is-embodied-carbon-and-why-does-it-matter.json`](./faqs/what-is-embodied-carbon-and-why-does-it-matter.json) — schema
+- [`faqs/what-is-green-building.json`](./faqs/what-is-green-building.json) — schema
+- [`faqs/what-is-ground-up-construction.json`](./faqs/what-is-ground-up-construction.json) — schema
+- [`faqs/what-is-involved-in-site-preparation-for-a-new-home.json`](./faqs/what-is-involved-in-site-preparation-for-a-new-home.json) — schema
+- [`faqs/what-is-multigenerational-home-design.json`](./faqs/what-is-multigenerational-home-design.json) — schema
+- [`faqs/what-is-net-zero-energy-design.json`](./faqs/what-is-net-zero-energy-design.json) — schema
+- [`faqs/what-is-passive-house-design-and-how-does-it-work.json`](./faqs/what-is-passive-house-design-and-how-does-it-work.json) — schema
+- [`faqs/what-is-structural-optimization-using-generative-ai.json`](./faqs/what-is-structural-optimization-using-generative-ai.json) — schema
+- [`faqs/what-is-the-benefit-of-working-with-a-design-build-firm-instead-of-hiring-an-arc.json`](./faqs/what-is-the-benefit-of-working-with-a-design-build-firm-instead-of-hiring-an-arc.json) — schema
+- [`faqs/what-is-the-difference-between-historic-preservation-restoration-and-renovation.json`](./faqs/what-is-the-difference-between-historic-preservation-restoration-and-renovation.json) — schema
+- [`faqs/what-is-the-future-of-ai-and-bim-in-residential-construction.json`](./faqs/what-is-the-future-of-ai-and-bim-in-residential-construction.json) — schema
+- [`faqs/what-is-the-learning-curve-for-ai-generative-design-tools.json`](./faqs/what-is-the-learning-curve-for-ai-generative-design-tools.json) — schema
+- [`faqs/what-is-the-maximum-size-allowed-for-an-adu.json`](./faqs/what-is-the-maximum-size-allowed-for-an-adu.json) — schema
+- [`faqs/what-is-the-minimum-size-for-an-adu.json`](./faqs/what-is-the-minimum-size-for-an-adu.json) — schema
+- [`faqs/what-is-the-national-green-building-standard-ngbs.json`](./faqs/what-is-the-national-green-building-standard-ngbs.json) — schema
+- [`faqs/what-is-the-permitting-process-for-residential-construction.json`](./faqs/what-is-the-permitting-process-for-residential-construction.json) — schema
+- [`faqs/what-kitchen-configurations-work-best-for-multiple-generations.json`](./faqs/what-kitchen-configurations-work-best-for-multiple-generations.json) — schema
+- [`faqs/what-kitchen-requirements-apply-to-adus-jadus.json`](./faqs/what-kitchen-requirements-apply-to-adus-jadus.json) — schema
+- [`faqs/what-landscaping-complements-outdoor-kitchens-pool-houses.json`](./faqs/what-landscaping-complements-outdoor-kitchens-pool-houses.json) — schema
+- [`faqs/what-laundry-solutions-work-for-multigenerational-homes.json`](./faqs/what-laundry-solutions-work-for-multigenerational-homes.json) — schema
+- [`faqs/what-level-of-detail-is-needed-for-permitting-drawings.json`](./faqs/what-level-of-detail-is-needed-for-permitting-drawings.json) — schema
+- [`faqs/what-lighting-strategies-work-for-multigenerational-homes.json`](./faqs/what-lighting-strategies-work-for-multigenerational-homes.json) — schema
+- [`faqs/what-maintenance-is-required-for-outdoor-kitchens-pool-houses.json`](./faqs/what-maintenance-is-required-for-outdoor-kitchens-pool-houses.json) — schema
+- [`faqs/what-makes-a-sympathetic-addition-or-alteration-to-a-historic-building.json`](./faqs/what-makes-a-sympathetic-addition-or-alteration-to-a-historic-building.json) — schema
+- [`faqs/what-materials-are-best-for-pool-house-exteriors.json`](./faqs/what-materials-are-best-for-pool-house-exteriors.json) — schema
+- [`faqs/what-materials-work-best-for-outdoor-kitchens-in-coastal-climates.json`](./faqs/what-materials-work-best-for-outdoor-kitchens-in-coastal-climates.json) — schema
+- [`faqs/what-ongoing-maintenance-is-required-after-a-historic-restoration-is-complete.json`](./faqs/what-ongoing-maintenance-is-required-after-a-historic-restoration-is-complete.json) — schema
+- [`faqs/what-original-features-should-i-prioritize-preserving-in-a-historic-home.json`](./faqs/what-original-features-should-i-prioritize-preserving-in-a-historic-home.json) — schema
+- [`faqs/what-outdoor-spaces-work-well-for-multiple-generations.json`](./faqs/what-outdoor-spaces-work-well-for-multiple-generations.json) — schema
+- [`faqs/what-parking-replacement-is-required-after-garage-conversion.json`](./faqs/what-parking-replacement-is-required-after-garage-conversion.json) — schema
+- [`faqs/what-permits-are-needed-for-multigenerational-additions.json`](./faqs/what-permits-are-needed-for-multigenerational-additions.json) — schema
+- [`faqs/what-permits-are-required-for-ground-up-residential-construction.json`](./faqs/what-permits-are-required-for-ground-up-residential-construction.json) — schema
+- [`faqs/what-professionals-are-typically-involved-in-a-ground-up-residential-project.json`](./faqs/what-professionals-are-typically-involved-in-a-ground-up-residential-project.json) — schema
+- [`faqs/what-professionals-should-be-involved-in-a-whole-home-renovation.json`](./faqs/what-professionals-should-be-involved-in-a-whole-home-renovation.json) — schema
+- [`faqs/what-professionals-should-be-on-my-team-for-historic-conservation-projects.json`](./faqs/what-professionals-should-be-on-my-team-for-historic-conservation-projects.json) — schema
+- [`faqs/what-role-does-ai-play-in-automating-floor-plan-generation.json`](./faqs/what-role-does-ai-play-in-automating-floor-plan-generation.json) — schema
+- [`faqs/what-role-does-ai-play-in-home-remodeling-and-renovations.json`](./faqs/what-role-does-ai-play-in-home-remodeling-and-renovations.json) — schema
+- [`faqs/what-role-does-project-management-play-in-safety-on-the-jobsite.json`](./faqs/what-role-does-project-management-play-in-safety-on-the-jobsite.json) — schema
+- [`faqs/what-role-does-the-contractor-play-during-permitting.json`](./faqs/what-role-does-the-contractor-play-during-permitting.json) — schema
+- [`faqs/what-role-does-waste-management-play-in-green-construction.json`](./faqs/what-role-does-waste-management-play-in-green-construction.json) — schema
+- [`faqs/what-seating-arrangements-work-best-for-outdoor-kitchens.json`](./faqs/what-seating-arrangements-work-best-for-outdoor-kitchens.json) — schema
+- [`faqs/what-setbacks-are-required-for-detached-adus.json`](./faqs/what-setbacks-are-required-for-detached-adus.json) — schema
+- [`faqs/what-should-i-decide-early-to-avoid-delays-or-change-orders.json`](./faqs/what-should-i-decide-early-to-avoid-delays-or-change-orders.json) — schema
+- [`faqs/what-should-i-look-for-when-selecting-a-contractor-experienced-in-historic-work.json`](./faqs/what-should-i-look-for-when-selecting-a-contractor-experienced-in-historic-work.json) — schema
+- [`faqs/what-size-outdoor-kitchen-fits-most-residential-backyards.json`](./faqs/what-size-outdoor-kitchen-fits-most-residential-backyards.json) — schema
+- [`faqs/what-soundproofing-is-needed-between-living-areas.json`](./faqs/what-soundproofing-is-needed-between-living-areas.json) — schema
+- [`faqs/what-structural-upgrades-are-typically-needed.json`](./faqs/what-structural-upgrades-are-typically-needed.json) — schema
+- [`faqs/what-tools-are-used-to-track-progress-during-construction.json`](./faqs/what-tools-are-used-to-track-progress-during-construction.json) — schema
+- [`faqs/what-types-of-foundations-are-used-in-ground-up-residential-builds.json`](./faqs/what-types-of-foundations-are-used-in-ground-up-residential-builds.json) — schema
+- [`faqs/what-types-of-residential-projects-do-you-specialize-in.json`](./faqs/what-types-of-residential-projects-do-you-specialize-in.json) — schema
+- [`faqs/what-types-of-specialty-systems-can-you-help-design-like-radiant-floor-heating-o.json`](./faqs/what-types-of-specialty-systems-can-you-help-design-like-radiant-floor-heating-o.json) — schema
+- [`faqs/what-utilities-are-needed-for-a-functional-outdoor-kitchen.json`](./faqs/what-utilities-are-needed-for-a-functional-outdoor-kitchen.json) — schema
+- [`faqs/what-water-conservation-features-are-common-in-green-homes.json`](./faqs/what-water-conservation-features-are-common-in-green-homes.json) — schema
+- [`faqs/when-are-construction-details-needed-in-drawings.json`](./faqs/when-are-construction-details-needed-in-drawings.json) — schema
+- [`faqs/when-does-it-make-sense-to-renovate-the-whole-house-instead-of-moving.json`](./faqs/when-does-it-make-sense-to-renovate-the-whole-house-instead-of-moving.json) — schema
+- [`faqs/when-is-ground-up-construction-the-right-choice-for-a-residential-project.json`](./faqs/when-is-ground-up-construction-the-right-choice-for-a-residential-project.json) — schema
+- [`faqs/which-areas-do-you-serve-in-los-angeles-and-orange-county.json`](./faqs/which-areas-do-you-serve-in-los-angeles-and-orange-county.json) — schema
+- [`faqs/who-prepares-architectural-drawings-for-residential-projects.json`](./faqs/who-prepares-architectural-drawings-for-residential-projects.json) — schema
+- [`faqs/why-are-multigenerational-homes-becoming-more-popular.json`](./faqs/why-are-multigenerational-homes-becoming-more-popular.json) — schema
+- [`faqs/why-do-i-need-a-dedicated-project-manager-for-my-remodel-or-new-build.json`](./faqs/why-do-i-need-a-dedicated-project-manager-for-my-remodel-or-new-build.json) — schema
+- [`faqs/why-is-soil-testing-important-in-ground-up-construction.json`](./faqs/why-is-soil-testing-important-in-ground-up-construction.json) — schema
+- [`faqs/will-a-whole-home-renovation-increase-my-home-s-resale-value.json`](./faqs/will-a-whole-home-renovation-increase-my-home-s-resale-value.json) — schema
+- [`faqs/will-i-have-a-single-point-of-contact-throughout-the-project.json`](./faqs/will-i-have-a-single-point-of-contact-throughout-the-project.json) — schema
+
+### Public Pages (8)
+- [`about.html`](./about.html) — LLM-optimized public page
+- [`case-studies.html`](./case-studies.html) — LLM-optimized public page
+- [`contact.html`](./contact.html) — LLM-optimized public page
+- [`faqs.html`](./faqs.html) — LLM-optimized public page
+- [`index.html`](./index.html) — LLM-optimized public page
+- [`reviews.html`](./reviews.html) — LLM-optimized public page
+- [`services.html`](./services.html) — LLM-optimized public page
+- [`team-members.html`](./team-members.html) — LLM-optimized public page
+
+### Reviews (21)
+- [`reviews/accessory-dwelling-unit-success-7-review.json`](./reviews/accessory-dwelling-unit-success-7-review.json) — schema
+- [`reviews/aggregate-rating.json`](./reviews/aggregate-rating.json) — schema
+- [`reviews/attention-to-every-detail-9-review.json`](./reviews/attention-to-every-detail-9-review.json) — schema
+- [`reviews/beyond-expectations-20-review.json`](./reviews/beyond-expectations-20-review.json) — schema
+- [`reviews/complete-home-transformation-8-review.json`](./reviews/complete-home-transformation-8-review.json) — schema
+- [`reviews/design-build-done-right-15-review.json`](./reviews/design-build-done-right-15-review.json) — schema
+- [`reviews/exceptional-craftsmanship-13-review.json`](./reviews/exceptional-craftsmanship-13-review.json) — schema
+- [`reviews/highly-recommend-eric-lin-16-review.json`](./reviews/highly-recommend-eric-lin-16-review.json) — schema
+- [`reviews/historic-restoration-masters-6-review.json`](./reviews/historic-restoration-masters-6-review.json) — schema
+- [`reviews/kitchen-remodel-perfection-4-review.json`](./reviews/kitchen-remodel-perfection-4-review.json) — schema
+- [`reviews/modern-farmhouse-masterpiece-11-review.json`](./reviews/modern-farmhouse-masterpiece-11-review.json) — schema
+- [`reviews/outstanding-adu-conversion-2-review.json`](./reviews/outstanding-adu-conversion-2-review.json) — schema
+- [`reviews/outstanding-customer-service-18-review.json`](./reviews/outstanding-customer-service-18-review.json) — schema
+- [`reviews/perfectionists-in-construction-19-review.json`](./reviews/perfectionists-in-construction-19-review.json) — schema
+- [`reviews/professional-and-reliable-5-review.json`](./reviews/professional-and-reliable-5-review.json) — schema
+- [`reviews/professional-from-start-to-finish-10-review.json`](./reviews/professional-from-start-to-finish-10-review.json) — schema
+- [`reviews/reliable-local-contractor-14-review.json`](./reviews/reliable-local-contractor-14-review.json) — schema
+- [`reviews/seamless-design-build-process-1-review.json`](./reviews/seamless-design-build-process-1-review.json) — schema
+- [`reviews/true-professionals-17-review.json`](./reviews/true-professionals-17-review.json) — schema
+- [`reviews/trustworthy-and-skilled-12-review.json`](./reviews/trustworthy-and-skilled-12-review.json) — schema
+- [`reviews/whole-home-renovation-experts-3-review.json`](./reviews/whole-home-renovation-experts-3-review.json) — schema
+
+### Press (20)
+- [`press/adu-conversion-specialist-spotlight.json`](./press/adu-conversion-specialist-spotlight.json) — schema
+- [`press/craftsman-restoration-masterclass.json`](./press/craftsman-restoration-masterclass.json) — schema
+- [`press/design-build-firm-tackles-historic-challenges.json`](./press/design-build-firm-tackles-historic-challenges.json) — schema
+- [`press/design-build-success-linework-s-chef-kitchen.json`](./press/design-build-success-linework-s-chef-kitchen.json) — schema
+- [`press/emerging-design-build-firms-2023.json`](./press/emerging-design-build-firms-2023.json) — schema
+- [`press/green-building-pioneer-in-pasadena.json`](./press/green-building-pioneer-in-pasadena.json) — schema
+- [`press/historic-pasadena-bungalow-restoration-showcase.json`](./press/historic-pasadena-bungalow-restoration-showcase.json) — schema
+- [`press/linework-development-houzz-profile-launch.json`](./press/linework-development-houzz-profile-launch.json) — schema
+- [`press/linework-featured-in-bbb-spotlight.json`](./press/linework-featured-in-bbb-spotlight.json) — schema
+- [`press/local-contractor-masters-adu-permitting-streamline.json`](./press/local-contractor-masters-adu-permitting-streamline.json) — schema
+- [`press/local-firm-specializes-in-adu-jadu.json`](./press/local-firm-specializes-in-adu-jadu.json) — schema
+- [`press/luxury-outdoor-kitchen-feature.json`](./press/luxury-outdoor-kitchen-feature.json) — schema
+- [`press/multigenerational-design-excellence.json`](./press/multigenerational-design-excellence.json) — schema
+- [`press/pasadena-kitchen-remodel-wins-local-award.json`](./press/pasadena-kitchen-remodel-wins-local-award.json) — schema
+- [`press/san-gabriel-valley-contractor-of-the-year.json`](./press/san-gabriel-valley-contractor-of-the-year.json) — schema
+- [`press/san-marino-contractor-expands-to-beverly-hills.json`](./press/san-marino-contractor-expands-to-beverly-hills.json) — schema
+- [`press/san-marino-contractor-license-milestone.json`](./press/san-marino-contractor-license-milestone.json) — schema
+- [`press/san-marino-design-build-firm-expands-services.json`](./press/san-marino-design-build-firm-expands-services.json) — schema
+- [`press/southern-california-adu-leader-profile.json`](./press/southern-california-adu-leader-profile.json) — schema
+- [`press/southern-california-home-addition-experts.json`](./press/southern-california-home-addition-experts.json) — schema
+
+### Awards (20)
+- [`awards/adu-jadu-specialist-recognition.json`](./awards/adu-jadu-specialist-recognition.json) — schema
+- [`awards/bbb-torch-award-for-marketplace-ethics.json`](./awards/bbb-torch-award-for-marketplace-ethics.json) — schema
+- [`awards/best-adu-design-build-project.json`](./awards/best-adu-design-build-project.json) — schema
+- [`awards/client-satisfaction-diamond-award.json`](./awards/client-satisfaction-diamond-award.json) — schema
+- [`awards/craftsman-restoration-masterwork.json`](./awards/craftsman-restoration-masterwork.json) — schema
+- [`awards/cslb-excellence-in-licensing.json`](./awards/cslb-excellence-in-licensing.json) — schema
+- [`awards/design-build-firm-of-the-year.json`](./awards/design-build-firm-of-the-year.json) — schema
+- [`awards/emerging-contractor-achievement.json`](./awards/emerging-contractor-achievement.json) — schema
+- [`awards/green-building-innovation-award.json`](./awards/green-building-innovation-award.json) — schema
+- [`awards/home-addition-innovation.json`](./awards/home-addition-innovation.json) — schema
+- [`awards/houzz-best-of-service-2024.json`](./awards/houzz-best-of-service-2024.json) — schema
+- [`awards/luxury-kitchen-remodel-excellence.json`](./awards/luxury-kitchen-remodel-excellence.json) — schema
+- [`awards/multigenerational-housing-design.json`](./awards/multigenerational-housing-design.json) — schema
+- [`awards/outdoor-living-space-excellence.json`](./awards/outdoor-living-space-excellence.json) — schema
+- [`awards/pasadena-historic-preservation-award.json`](./awards/pasadena-historic-preservation-award.json) — schema
+- [`awards/preservation-project-of-the-year.json`](./awards/preservation-project-of-the-year.json) — schema
+- [`awards/reader-s-choice-kitchen-remodel.json`](./awards/reader-s-choice-kitchen-remodel.json) — schema
+- [`awards/san-gabriel-valley-contractor-of-the-year.json`](./awards/san-gabriel-valley-contractor-of-the-year.json) — schema
+- [`awards/san-marino-business-spotlight.json`](./awards/san-marino-business-spotlight.json) — schema
+- [`awards/sustainable-remodel-leadership.json`](./awards/sustainable-remodel-leadership.json) — schema
+
+### Case Studies (20)
+- [`case-studies/beverly-hills-chef-s-kitchen-remodel.json`](./case-studies/beverly-hills-chef-s-kitchen-remodel.json) — schema
+- [`case-studies/beverly-hills-whole-home-remodel.json`](./case-studies/beverly-hills-whole-home-remodel.json) — schema
+- [`case-studies/brentwood-contemporary-home-addition.json`](./case-studies/brentwood-contemporary-home-addition.json) — schema
+- [`case-studies/burbank-home-office-gym-suite.json`](./case-studies/burbank-home-office-gym-suite.json) — schema
+- [`case-studies/calabasas-contemporary-farmhouse.json`](./case-studies/calabasas-contemporary-farmhouse.json) — schema
+- [`case-studies/century-city-penthouse-addition.json`](./case-studies/century-city-penthouse-addition.json) — schema
+- [`case-studies/culver-city-kitchen-bath-remodel.json`](./case-studies/culver-city-kitchen-bath-remodel.json) — schema
+- [`case-studies/glendale-foundation-systems-retrofit.json`](./case-studies/glendale-foundation-systems-retrofit.json) — schema
+- [`case-studies/hollywood-hills-kitchen-remodel.json`](./case-studies/hollywood-hills-kitchen-remodel.json) — schema
+- [`case-studies/la-canada-garage-to-adu-transformation.json`](./case-studies/la-canada-garage-to-adu-transformation.json) — schema
+- [`case-studies/mar-vista-green-kitchen-remodel.json`](./case-studies/mar-vista-green-kitchen-remodel.json) — schema
+- [`case-studies/pasadena-craftsman-adu-conversion.json`](./case-studies/pasadena-craftsman-adu-conversion.json) — schema
+- [`case-studies/pasadena-historic-kitchen-restoration.json`](./case-studies/pasadena-historic-kitchen-restoration.json) — schema
+- [`case-studies/san-gabriel-historic-bungalow-refresh.json`](./case-studies/san-gabriel-historic-bungalow-refresh.json) — schema
+- [`case-studies/san-gabriel-valley-pool-house.json`](./case-studies/san-gabriel-valley-pool-house.json) — schema
+- [`case-studies/san-marino-historic-whole-home-restoration.json`](./case-studies/san-marino-historic-whole-home-restoration.json) — schema
+- [`case-studies/santa-monica-modern-adu-pool.json`](./case-studies/santa-monica-modern-adu-pool.json) — schema
+- [`case-studies/sherman-oaks-multigenerational-suite.json`](./case-studies/sherman-oaks-multigenerational-suite.json) — schema
+- [`case-studies/south-pasadena-family-room-addition.json`](./case-studies/south-pasadena-family-room-addition.json) — schema
+- [`case-studies/woodland-hills-outdoor-living-oasis.json`](./case-studies/woodland-hills-outdoor-living-oasis.json) — schema
+
+
