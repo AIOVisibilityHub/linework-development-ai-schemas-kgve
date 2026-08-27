@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "LineWork Development - LineWork Development Office",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2275 Huntington Dr. #796",
+    "addressLocality": "San Marino",
+    "addressRegion": "CA",
+    "postalCode": "91108"
+  },
+  "telephone": "(626) 594-5005",
+  "url": "https://lineworkdevelopment.com"
+}

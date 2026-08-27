@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "LineWork Featured in BBB Spotlight",
+  "datePublished": "45129",
+  "url": "https://bbb.org/linework-spotlight",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Better Business Bureau"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

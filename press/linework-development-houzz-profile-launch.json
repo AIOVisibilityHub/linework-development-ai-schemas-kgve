@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "LineWork Development Houzz Profile Launch",
+  "datePublished": "45455",
+  "url": "https://www.houzz.com/news/linework-development-profile",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Houzz News"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

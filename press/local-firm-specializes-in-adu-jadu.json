@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Local Firm Specializes in ADU/JADU",
+  "datePublished": "44938",
+  "url": "https://ocregister.com/adu-specialist",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Orange County Register"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

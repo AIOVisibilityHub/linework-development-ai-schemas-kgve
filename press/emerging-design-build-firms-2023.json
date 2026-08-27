@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Emerging Design-Build Firms 2023",
+  "datePublished": "45056",
+  "url": "https://labusinessjournal.com/emerging-firms",
+  "publisher": {
+    "@type": "Organization",
+    "name": "LA Business Journal"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

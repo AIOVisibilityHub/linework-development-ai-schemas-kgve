@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Calabasas Contemporary Farmhouse",
+  "articleBody": "4,200 sq ft ground-up new construction blending modern farmhouse exterior with open-plan luxury interior\n\nOutcome: Net-zero ready design. Solar + Tesla Powerwall. Neighborhood architectural standout",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

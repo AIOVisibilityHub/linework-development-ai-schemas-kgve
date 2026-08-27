@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Multigenerational Design Excellence",
+  "datePublished": "45698",
+  "url": "https://local.admagazine.com/multigen-linework",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Architectural Digest Local"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Mar Vista Green Kitchen Remodel",
+  "articleBody": "Sustainable luxury kitchen: FSC cabinets, recycled glass counters, induction cooking, greywater system\n\nOutcome: 52% energy reduction. Water use -40%. LEED certification points earned",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

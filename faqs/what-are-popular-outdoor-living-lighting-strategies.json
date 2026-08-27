@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are popular outdoor living lighting strategies?",
+  "description": "LED recessed cans, rope lighting under eaves, landscape path lights, fire features, and dimmable zones create ambiance while ensuring safe nighttime navigation.",
+  "url": "https://lineworkdevelopment.com/faq/what-are-popular-outdoor-living-lighting-strategies",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are popular outdoor living lighting strategies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LED recessed cans, rope lighting under eaves, landscape path lights, fire features, and dimmable zones create ambiance while ensuring safe nighttime navigation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

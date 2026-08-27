@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "ADU/JADU Specialist Recognition",
+  "datePublished": "44938",
+  "provider": {
+    "@type": "Organization",
+    "name": "Orange County ADU Association"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "ADU/JADU Specialist Recognition"
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are solar panels required for green building certification?",
+  "description": "No, but on-site renewable energy contributes points toward certifications like LEED, NGBS, or Green Globes, often offsetting 20-100% of annual energy use. inoge",
+  "url": "https://lineworkdevelopment.com/faq/are-solar-panels-required-for-green-building-certification",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are solar panels required for green building certification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, but on-site renewable energy contributes points toward certifications like LEED, NGBS, or Green Globes, often offsetting 20-100% of annual energy use. inogenalliance+1"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

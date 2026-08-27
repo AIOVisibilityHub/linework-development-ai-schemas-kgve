@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "BBB Torch Award for Marketplace Ethics",
+  "datePublished": "45129",
+  "provider": {
+    "@type": "Organization",
+    "name": "Better Business Bureau"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "BBB Torch Award for Marketplace Ethics"
+}

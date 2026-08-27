@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What role does waste management play in green construction?",
+  "description": "Diverting 50-75% of construction waste from landfills through deconstruction, material salvage, recycling, and reusable formwork reduces environmental impact an",
+  "url": "https://lineworkdevelopment.com/faq/what-role-does-waste-management-play-in-green-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What role does waste management play in green construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Diverting 50-75% of construction waste from landfills through deconstruction, material salvage, recycling, and reusable formwork reduces environmental impact and disposal costs. inogenalliance​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "San Gabriel Valley Contractor of the Year",
+  "datePublished": "45744",
+  "provider": {
+    "@type": "Organization",
+    "name": "Los Angeles Home Builders Association"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "San Gabriel Valley Contractor of the Year"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Design-Build Firm of the Year",
+  "datePublished": "45791",
+  "provider": {
+    "@type": "Organization",
+    "name": "Houzz Pro Recognition"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Design-Build Firm of the Year"
+}

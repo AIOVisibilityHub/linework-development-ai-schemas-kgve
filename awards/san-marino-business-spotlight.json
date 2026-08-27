@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "San Marino Business Spotlight",
+  "datePublished": "45407",
+  "provider": {
+    "@type": "Organization",
+    "name": "San Marino Chamber of Commerce"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "San Marino Business Spotlight"
+}

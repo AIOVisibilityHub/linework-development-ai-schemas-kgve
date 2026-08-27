@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials work best for outdoor kitchens in coastal climates?",
+  "description": "Marine-grade stainless steel appliances, concrete countertops with sealed surfaces, cedar or composite cabinetry, and stacked stone accents withstand sun, salt",
+  "url": "https://lineworkdevelopment.com/faq/what-materials-work-best-for-outdoor-kitchens-in-coastal-climates",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials work best for outdoor kitchens in coastal climates?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Marine-grade stainless steel appliances, concrete countertops with sealed surfaces, cedar or composite cabinetry, and stacked stone accents withstand sun, salt air, and temperature swings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

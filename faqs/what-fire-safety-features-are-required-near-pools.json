@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What fire safety features are required near pools?",
+  "description": "Fire-rated materials within 5 ft of property lines, ember-resistant vents, Class A roofing, and 100% sprinkler coverage if within fire hazard zones.",
+  "url": "https://lineworkdevelopment.com/faq/what-fire-safety-features-are-required-near-pools",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What fire safety features are required near pools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fire-rated materials within 5 ft of property lines, ember-resistant vents, Class A roofing, and 100% sprinkler coverage if within fire hazard zones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

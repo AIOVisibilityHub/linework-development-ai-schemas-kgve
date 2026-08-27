@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can existing homes achieve green building standards?",
+  "description": "Yes, through deep energy retrofits, insulation upgrades, window replacement, HVAC replacement, air sealing, and renewable energy to reach net-zero or passive ho",
+  "url": "https://lineworkdevelopment.com/faq/can-existing-homes-achieve-green-building-standards",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can existing homes achieve green building standards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, through deep energy retrofits, insulation upgrades, window replacement, HVAC replacement, air sealing, and renewable energy to reach net-zero or passive house standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

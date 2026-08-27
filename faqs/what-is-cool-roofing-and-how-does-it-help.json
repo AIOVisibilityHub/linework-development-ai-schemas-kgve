@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is cool roofing, and how does it help?",
+  "description": "Cool roofs with high solar reflectance (white coatings, tiles, metal) reduce roof temperatures by 50°F, cutting cooling loads 10-15% and extending roof life.",
+  "url": "https://lineworkdevelopment.com/faq/what-is-cool-roofing-and-how-does-it-help",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is cool roofing, and how does it help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cool roofs with high solar reflectance (white coatings, tiles, metal) reduce roof temperatures by 50°F, cutting cooling loads 10-15% and extending roof life."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

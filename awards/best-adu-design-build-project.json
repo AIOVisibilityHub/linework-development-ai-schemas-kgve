@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Best ADU Design-Build Project",
+  "datePublished": "45979",
+  "provider": {
+    "@type": "Organization",
+    "name": "Southern California ADU Council"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Best ADU Design-Build Project"
+}

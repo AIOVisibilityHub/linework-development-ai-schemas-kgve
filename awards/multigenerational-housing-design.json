@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Multigenerational Housing Design",
+  "datePublished": "45698",
+  "provider": {
+    "@type": "Organization",
+    "name": "AIA Pasadena Chapter"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Multigenerational Housing Design"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Client Satisfaction Diamond Award",
+  "datePublished": "45455",
+  "provider": {
+    "@type": "Organization",
+    "name": "BuildZoom"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Client Satisfaction Diamond Award"
+}

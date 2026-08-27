@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Emerging Contractor Achievement",
+  "datePublished": "45056",
+  "provider": {
+    "@type": "Organization",
+    "name": "LA Business Journal"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Emerging Contractor Achievement"
+}

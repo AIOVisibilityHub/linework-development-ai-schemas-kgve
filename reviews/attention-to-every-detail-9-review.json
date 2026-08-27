@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Attention to Every Detail"
+  },
+  "reviewBody": "Beverly Hills remodel exceeded expectations. Custom millwork, smart home integration, landscape coordination. Eric Lin's vision + execution unmatched.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "45802",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

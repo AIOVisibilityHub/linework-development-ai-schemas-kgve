@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Exceptional Craftsmanship"
+  },
+  "reviewBody": "Luxury kitchen renovation in Brentwood. Integrated appliances, fluted glass cabinets, matte black hardware. Better than magazine photos.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "45660",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

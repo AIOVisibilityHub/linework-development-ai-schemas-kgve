@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "CSLB Excellence in Licensing",
+  "datePublished": "44990",
+  "provider": {
+    "@type": "Organization",
+    "name": "Contractors State License Board"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "CSLB Excellence in Licensing"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Green Building Pioneer in Pasadena",
+  "datePublished": "45641",
+  "url": "https://lagreenbuild.com/linework-sustainable",
+  "publisher": {
+    "@type": "Organization",
+    "name": "LA Green Building News"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

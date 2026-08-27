@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "San Marino Historic Whole-Home Restoration",
+  "articleBody": "Restored 1908 Craftsman bungalow preserving original woodwork/windows while upgrading MEP systems, adding multigen suite\n\nOutcome: Preservation board approval. Tax assessment stabilized. Family legacy preserved",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you design outdoor living for year-round California use?",
+  "description": "Include heaters (infrared, fire pits), ceiling fans, retractable awnings, outdoor rugs, and weather-resistant furniture to handle cool evenings and mild winters",
+  "url": "https://lineworkdevelopment.com/faq/how-do-you-design-outdoor-living-for-year-round-california-use",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you design outdoor living for year-round California use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Include heaters (infrared, fire pits), ceiling fans, retractable awnings, outdoor rugs, and weather-resistant furniture to handle cool evenings and mild winters."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

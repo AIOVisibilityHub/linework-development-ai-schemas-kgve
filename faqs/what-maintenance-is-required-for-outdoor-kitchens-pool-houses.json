@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for outdoor kitchens/pool houses?",
+  "description": "Annual stainless steel cleaning, resealing stone/concrete surfaces, clearing drains/gutters, inspecting gas lines, and re-waterproofing wood elements every 2-3",
+  "url": "https://lineworkdevelopment.com/faq/what-maintenance-is-required-for-outdoor-kitchens-pool-houses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for outdoor kitchens/pool houses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Annual stainless steel cleaning, resealing stone/concrete surfaces, clearing drains/gutters, inspecting gas lines, and re-waterproofing wood elements every 2-3 years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

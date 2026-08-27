@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Sustainable Remodel Leadership",
+  "datePublished": "45580",
+  "provider": {
+    "@type": "Organization",
+    "name": "Build It Green"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Sustainable Remodel Leadership"
+}

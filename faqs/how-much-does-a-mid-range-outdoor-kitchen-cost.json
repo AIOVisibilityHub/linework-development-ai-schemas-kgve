@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a mid-range outdoor kitchen cost?",
+  "description": "Expect $25,000-$60,000 for stainless steel appliances, concrete/stone counters, gas grill, sink, mini-fridge, and basic cabinetry; high-end custom builds exceed",
+  "url": "https://lineworkdevelopment.com/faq/how-much-does-a-mid-range-outdoor-kitchen-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a mid-range outdoor kitchen cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect $25,000-$60,000 for stainless steel appliances, concrete/stone counters, gas grill, sink, mini-fridge, and basic cabinetry; high-end custom builds exceed $100K."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

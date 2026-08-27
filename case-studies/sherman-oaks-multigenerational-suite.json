@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Sherman Oaks Multigenerational Suite",
+  "articleBody": "900 sq ft attached suite with private entrance, full kitchen, soundproofing for boomerang adult children\n\nOutcome: Family harmony restored. Privacy maintained. Future rental flexibility",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

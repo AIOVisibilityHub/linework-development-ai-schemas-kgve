@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are best for pool house exteriors?",
+  "description": "Stucco, cedar siding, stone veneer, and metal roofs match Southern California architecture while resisting moisture; HardiePlank or composite trim prevents rot",
+  "url": "https://lineworkdevelopment.com/faq/what-materials-are-best-for-pool-house-exteriors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are best for pool house exteriors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco, cedar siding, stone veneer, and metal roofs match Southern California architecture while resisting moisture; HardiePlank or composite trim prevents rot near pools."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

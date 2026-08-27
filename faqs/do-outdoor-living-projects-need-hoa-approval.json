@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do outdoor living projects need HOA approval?",
+  "description": "Most require architectural review for structures over 100 sq ft, fencing changes, or visible exterior modifications; submit plans early to avoid delays.",
+  "url": "https://lineworkdevelopment.com/faq/do-outdoor-living-projects-need-hoa-approval",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do outdoor living projects need HOA approval?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most require architectural review for structures over 100 sq ft, fencing changes, or visible exterior modifications; submit plans early to avoid delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Historic Restoration Masters"
+  },
+  "reviewBody": "Restored 1905 Craftsman in San Gabriel. Original wood windows repaired, plaster walls conserved, new mechanicals hidden discreetly. Preservation board approved all changes.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "45887",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

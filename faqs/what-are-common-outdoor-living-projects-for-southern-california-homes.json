@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common outdoor living projects for Southern California homes?",
+  "description": "Popular projects include outdoor kitchens, fire pits, pergolas, pool houses, covered patios, built-in seating, water features, and turf play areas that extend i",
+  "url": "https://lineworkdevelopment.com/faq/what-are-common-outdoor-living-projects-for-southern-california-homes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common outdoor living projects for Southern California homes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Popular projects include outdoor kitchens, fire pits, pergolas, pool houses, covered patios, built-in seating, water features, and turf play areas that extend indoor living to the backyard year-round."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

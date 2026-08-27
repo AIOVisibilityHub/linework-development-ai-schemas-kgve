@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What seating arrangements work best for outdoor kitchens?",
+  "description": "Built-in concrete benches with cushions, modular sectional sofas, bar-height counter stools, and dining tables accommodate casual gatherings and formal dinners.",
+  "url": "https://lineworkdevelopment.com/faq/what-seating-arrangements-work-best-for-outdoor-kitchens",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What seating arrangements work best for outdoor kitchens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Built-in concrete benches with cushions, modular sectional sofas, bar-height counter stools, and dining tables accommodate casual gatherings and formal dinners."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

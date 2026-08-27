@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What utilities are needed for a functional outdoor kitchen?",
+  "description": "Natural gas or propane for cooking/heating, 220V electrical for lighting/appliances, water line for sink, drainage for wastewater, and sometimes sewer connectio",
+  "url": "https://lineworkdevelopment.com/faq/what-utilities-are-needed-for-a-functional-outdoor-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What utilities are needed for a functional outdoor kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural gas or propane for cooking/heating, 220V electrical for lighting/appliances, water line for sink, drainage for wastewater, and sometimes sewer connection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

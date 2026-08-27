@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Beverly Hills Whole-Home Remodel",
+  "articleBody": "Complete 5,000 sq ft renovation preserving 1920s Spanish details while creating luxury contemporary interior\n\nOutcome: Triple square footage value. Multi-gen living solved. Legacy estate established",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

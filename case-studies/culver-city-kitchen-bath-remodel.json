@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Culver City Kitchen/Bath Remodel",
+  "articleBody": "Simultaneous renovation of kitchen + 3 baths using matching quartzite, matte black hardware throughout\n\nOutcome: Design continuity achieved. Timeline compressed 25%. Client thrilled with cohesion",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

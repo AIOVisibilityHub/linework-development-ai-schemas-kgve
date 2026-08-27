@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is net-zero energy design?",
+  "description": "Net-zero homes produce as much renewable energy on-site as they consume annually, achieved through high efficiency plus solar PV, battery storage, and energy ma",
+  "url": "https://lineworkdevelopment.com/faq/what-is-net-zero-energy-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is net-zero energy design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Net-zero homes produce as much renewable energy on-site as they consume annually, achieved through high efficiency plus solar PV, battery storage, and energy management systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

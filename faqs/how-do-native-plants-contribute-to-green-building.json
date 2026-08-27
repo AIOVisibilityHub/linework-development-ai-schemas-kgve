@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do native plants contribute to green building?",
+  "description": "Drought-tolerant native landscaping cuts irrigation 50-75%, supports biodiversity, reduces maintenance/chemicals, and preserves local hydrology versus turf gras",
+  "url": "https://lineworkdevelopment.com/faq/how-do-native-plants-contribute-to-green-building",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do native plants contribute to green building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drought-tolerant native landscaping cuts irrigation 50-75%, supports biodiversity, reduces maintenance/chemicals, and preserves local hydrology versus turf grass."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

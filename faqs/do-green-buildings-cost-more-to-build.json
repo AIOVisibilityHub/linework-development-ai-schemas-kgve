@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do green buildings cost more to build?",
+  "description": "Green homes typically cost 2-5% more upfront but save 20-40% on energy bills annually; certifications like NGBS show payback through 8-12 years via reduced oper",
+  "url": "https://lineworkdevelopment.com/faq/do-green-buildings-cost-more-to-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do green buildings cost more to build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Green homes typically cost 2-5% more upfront but save 20-40% on energy bills annually; certifications like NGBS show payback through 8-12 years via reduced operating costs. nahb​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

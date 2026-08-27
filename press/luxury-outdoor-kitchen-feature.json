@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Luxury Outdoor Kitchen Feature",
+  "datePublished": "45573",
+  "url": "https://californiachd.com/outdoor-linework",
+  "publisher": {
+    "@type": "Organization",
+    "name": "California Home + Design"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

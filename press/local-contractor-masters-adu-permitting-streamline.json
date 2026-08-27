@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Local Contractor Masters ADU Permitting Streamline",
+  "datePublished": "45979",
+  "url": "https://www.latimes.com/business/story/adu-contractors-socal",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Los Angeles Times"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

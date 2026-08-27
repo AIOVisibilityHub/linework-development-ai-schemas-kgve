@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Beverly Hills Chef's Kitchen Remodel",
+  "articleBody": "Complete gut renovation of 1980s kitchen into 450 sq ft luxury chef's space with Wolf/Sub-Zero appliances, fluted glass cabinets\n\nOutcome: 5-star entertaining space. Energy costs -38%. Resale value premium established",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

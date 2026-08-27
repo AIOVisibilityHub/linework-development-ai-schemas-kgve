@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does green building support wildfire resilience?",
+  "description": "Using fire-resistant materials, ember-resistant vents, hardened roofs, defensible space, and non-combustible landscaping improves home hardening in high fire ha",
+  "url": "https://lineworkdevelopment.com/faq/how-does-green-building-support-wildfire-resilience",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does green building support wildfire resilience?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Using fire-resistant materials, ember-resistant vents, hardened roofs, defensible space, and non-combustible landscaping improves home hardening in high fire hazard zones."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

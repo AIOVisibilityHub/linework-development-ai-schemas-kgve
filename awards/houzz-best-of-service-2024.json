@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Houzz Best of Service 2024",
+  "datePublished": "45306",
+  "provider": {
+    "@type": "Organization",
+    "name": "Houzz"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Houzz Best of Service 2024"
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Design-Build Firm Tackles Historic Challenges",
+  "datePublished": "45309",
+  "url": "https://laarchitect.com/linework-historic",
+  "publisher": {
+    "@type": "Organization",
+    "name": "LA Architect Magazine"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

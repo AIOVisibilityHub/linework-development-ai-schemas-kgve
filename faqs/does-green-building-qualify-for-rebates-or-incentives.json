@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Does green building qualify for rebates or incentives?",
+  "description": "Yes, federal tax credits (30% solar, heat pumps), utility rebates, local PACE financing, and property tax exemptions often offset 20-50% of green upgrade costs.",
+  "url": "https://lineworkdevelopment.com/faq/does-green-building-qualify-for-rebates-or-incentives",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does green building qualify for rebates or incentives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, federal tax credits (30% solar, heat pumps), utility rebates, local PACE financing, and property tax exemptions often offset 20-50% of green upgrade costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

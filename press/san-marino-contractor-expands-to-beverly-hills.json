@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "San Marino Contractor Expands to Beverly Hills",
+  "datePublished": "45407",
+  "url": "https://sanmarinotribune.com/contractor-expansion",
+  "publisher": {
+    "@type": "Organization",
+    "name": "San Marino Tribune"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

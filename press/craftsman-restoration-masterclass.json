@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Craftsman Restoration Masterclass",
+  "datePublished": "45524",
+  "url": "https://oldhousejournal.com/linework-craftsman",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Old House Journal"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

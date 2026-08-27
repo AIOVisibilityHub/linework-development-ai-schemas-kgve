@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you manage noise/privacy in outdoor living areas?",
+  "description": "Acoustic panels on pergolas, tall hedges/trellises, water features for white noise, and outdoor-rated speakers with directional sound control neighbors effectiv",
+  "url": "https://lineworkdevelopment.com/faq/how-do-you-manage-noise-privacy-in-outdoor-living-areas",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you manage noise/privacy in outdoor living areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Acoustic panels on pergolas, tall hedges/trellises, water features for white noise, and outdoor-rated speakers with directional sound control neighbors effectively."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

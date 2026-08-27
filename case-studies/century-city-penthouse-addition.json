@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Century City Penthouse Addition",
+  "articleBody": "Rooftop deck + outdoor kitchen addition to mid-century modern condo with city/ocean views\n\nOutcome: 360° entertaining deck. Property value doubled. HOA design award",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

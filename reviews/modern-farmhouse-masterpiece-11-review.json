@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Modern Farmhouse Masterpiece"
+  },
+  "reviewBody": "Ground-up 3,800 sq ft new construction in Calabasas. Contemporary farmhouse perfectly executed. Green building features, solar, pool—all flawless.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "45736",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

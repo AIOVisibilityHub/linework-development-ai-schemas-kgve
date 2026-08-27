@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Pasadena Kitchen Remodel Wins Local Award",
+  "datePublished": "45260",
+  "url": "https://pasadenaweekly.com/kitchen-award",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pasadena Weekly"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

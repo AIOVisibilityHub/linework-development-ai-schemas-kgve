@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "San Gabriel Valley Contractor of the Year",
+  "datePublished": "45744",
+  "url": "https://lahba.org/2025-awards/linework-development",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Home Builders Association"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

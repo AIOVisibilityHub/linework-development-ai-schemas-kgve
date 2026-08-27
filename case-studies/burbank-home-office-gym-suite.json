@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Burbank Home Office + Gym Suite",
+  "articleBody": "600 sq ft ground-floor addition creating dedicated office/gym with soundproofing, AC, kitchenette\n\nOutcome: Work-from-home productivity soared. Fitness routine established.",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

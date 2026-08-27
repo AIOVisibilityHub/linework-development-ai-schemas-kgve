@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Pasadena Historic Kitchen Restoration",
+  "articleBody": "1905 Craftsman kitchen restoration preserving original cabinets as display, new cooking behind vintage fronts\n\nOutcome: Authentic period charm + modern function. Historic society feature article",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

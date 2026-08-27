@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "San Marino Contractor License Milestone",
+  "datePublished": "44990",
+  "url": "https://cslb.ca.gov/news/linework-milestone",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Contractor State License Board News"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

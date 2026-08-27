@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Luxury Kitchen Remodel Excellence",
+  "datePublished": "45860",
+  "provider": {
+    "@type": "Organization",
+    "name": "California Kitchen & Bath Association"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Luxury Kitchen Remodel Excellence"
+}

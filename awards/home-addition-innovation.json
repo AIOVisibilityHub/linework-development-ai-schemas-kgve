@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Home Addition Innovation",
+  "datePublished": "45184",
+  "provider": {
+    "@type": "Organization",
+    "name": "SoCal Home Digest Awards"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Home Addition Innovation"
+}

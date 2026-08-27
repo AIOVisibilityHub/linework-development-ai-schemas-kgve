@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Reliable Local Contractor"
+  },
+  "reviewBody": "Whole-house restoration in Culver City. Foundation retrofit, new roof, systems upgrade. Transparent pricing, no corners cut.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "45636",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

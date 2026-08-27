@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do you prevent moisture damage in pool houses?",
+  "description": "Elevate foundations 12-18\" above grade, use cement board or fiber cement siding, install proper roof overhangs/flashing, and include exhaust fans in wet areas.",
+  "url": "https://lineworkdevelopment.com/faq/how-do-you-prevent-moisture-damage-in-pool-houses",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you prevent moisture damage in pool houses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elevate foundations 12-18\" above grade, use cement board or fiber cement siding, install proper roof overhangs/flashing, and include exhaust fans in wet areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Design-Build Success: LineWork's Chef Kitchen",
+  "datePublished": "45860",
+  "url": "https://dwell.com/article/linework-beverly-hills-kitchen",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Dwell Magazine"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

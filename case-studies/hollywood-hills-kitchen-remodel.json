@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Hollywood Hills Kitchen Remodel",
+  "articleBody": "1920s Spanish colonial kitchen transformed into chef's dream with La Cornue range, Calacatta marble\n\nOutcome: Magazine-worthy result. Cooking passion reignited. Guests refuse to leave",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "genre": "Case Study"
+}

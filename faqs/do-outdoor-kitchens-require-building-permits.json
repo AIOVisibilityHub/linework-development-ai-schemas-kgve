@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do outdoor kitchens require building permits?",
+  "description": "Yes, outdoor kitchens typically need building permits for gas lines, electrical, plumbing, concrete pads, and structures over 120 sq ft; compliance ensures safe",
+  "url": "https://lineworkdevelopment.com/faq/do-outdoor-kitchens-require-building-permits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do outdoor kitchens require building permits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, outdoor kitchens typically need building permits for gas lines, electrical, plumbing, concrete pads, and structures over 120 sq ft; compliance ensures safety and insurance coverage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

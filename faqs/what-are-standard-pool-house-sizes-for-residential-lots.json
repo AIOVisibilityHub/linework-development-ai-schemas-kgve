@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are standard pool house sizes for residential lots?",
+  "description": "200-600 sq ft fits most backyards: 12x16 ft for basic changing/storage, 16x20 ft for bath + kitchenette, larger for guest suite or entertainment space.",
+  "url": "https://lineworkdevelopment.com/faq/what-are-standard-pool-house-sizes-for-residential-lots",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are standard pool house sizes for residential lots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "200-600 sq ft fits most backyards: 12x16 ft for basic changing/storage, 16x20 ft for bath + kitchenette, larger for guest suite or entertainment space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

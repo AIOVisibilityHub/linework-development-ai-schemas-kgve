@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Green Building Innovation Award",
+  "datePublished": "45641",
+  "provider": {
+    "@type": "Organization",
+    "name": "LA Green Building Council"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "award": "Green Building Innovation Award"
+}

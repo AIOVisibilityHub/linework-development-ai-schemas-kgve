@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": "Southern California Home Addition Experts",
+  "datePublished": "45184",
+  "url": "https://socalhomedigest.com/additions",
+  "publisher": {
+    "@type": "Organization",
+    "name": "SoCal Home Digest"
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  }
+}

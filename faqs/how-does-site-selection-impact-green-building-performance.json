@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does site selection impact green building performance?",
+  "description": "Choosing flat sites, preserving existing trees/soil, orienting for passive solar, and avoiding flood zones reduces grading, erosion, and energy needed for heati",
+  "url": "https://lineworkdevelopment.com/faq/how-does-site-selection-impact-green-building-performance",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does site selection impact green building performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing flat sites, preserving existing trees/soil, orienting for passive solar, and avoiding flood zones reduces grading, erosion, and energy needed for heating/cooling. wbdg​"
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
