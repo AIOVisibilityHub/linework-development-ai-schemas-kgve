@@ -20,6 +20,7 @@ Package contents:
 - [canonical] LineWork Development — canonical website — https://lineworkdevelopment.aiovisibility.net
 - [ai-data-hub] LineWork Development — AI Data Hub — https://lineworkdevelopment.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/linework-development-ai-schemas-kgve/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
