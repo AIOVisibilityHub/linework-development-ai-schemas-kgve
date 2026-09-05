@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-27T19:29:23.592Z",
+  "generatedAt": "2026-09-05T21:37:40.379Z",
   "client": {
     "name": "LineWork Development",
     "canonicalUrl": "https://lineworkdevelopment.aiovisibility.net",
@@ -10,13 +10,13 @@
     "email": "linework.dv@gmail.com",
     "locations": [
       {
-        "name": "LineWork Development Office",
-        "address": "2275 Huntington Dr. #796",
-        "city": "San Marino",
-        "state": "CA",
         "zip": "91108",
+        "city": "San Marino",
+        "name": "LineWork Development Office",
+        "email": "linework.dv@gmail.com",
         "phone": "(626) 594-5005",
-        "email": "linework.dv@gmail.com"
+        "state": "CA",
+        "address": "2275 Huntington Dr. #796"
       }
     ],
     "services": [
@@ -28,23 +28,23 @@
   },
   "package": {
     "totalFiles": 408,
-    "totalBytes": 1135906,
+    "totalBytes": 1154784,
     "stats": {
+      "qna": 0,
       "faqs": 295,
-      "helpArticles": 0,
+      "press": 20,
+      "total": 386,
+      "awards": 20,
+      "reviews": 20,
+      "products": 0,
+      "research": 0,
       "services": 1,
       "webpages": 0,
-      "personnel": 7,
-      "products": 0,
       "locations": 1,
-      "awards": 20,
+      "personnel": 7,
       "caseStudies": 20,
-      "organization": 1,
-      "press": 20,
-      "reviews": 20,
-      "qna": 0,
-      "research": 0,
-      "total": 386
+      "helpArticles": 0,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -2009,42 +2009,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 17987,
+        "bytes": 16895,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 69254,
+        "bytes": 72256,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 19421,
+        "bytes": 22215,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 26651,
+        "bytes": 29400,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10413,
+        "bytes": 13237,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 200453,
+        "bytes": 203307,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 33128,
+        "bytes": 36063,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 37643,
+        "bytes": 40455,
         "purpose": "LLM-optimized public page"
       }
     ],
