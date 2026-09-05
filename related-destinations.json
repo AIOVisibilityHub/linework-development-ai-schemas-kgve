@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:37:40.375Z",
+  "generatedAt": "2026-09-05T21:37:51.083Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/linework-development-ai-schemas-kgve/ai-data.html"
+      "url": "https://lineworkdevelopment.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve",
-      "pagesUrl": "https://aiovisibilityhub.github.io/linework-development-ai-schemas-kgve/",
+      "pagesUrl": "https://lineworkdevelopment.aiovisibility.net/",
       "repo": "AIOVisibilityHub/linework-development-ai-schemas-kgve"
     }
   }
