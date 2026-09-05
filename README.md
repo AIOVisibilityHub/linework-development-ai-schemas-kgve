@@ -10,14 +10,14 @@ Canonical AI Data Package for LineWork Development.
 
 ## Stats
 - 295 faqs
-- 1 services
-- 7 personnel
-- 1 locations
+- 20 press
 - 20 awards
+- 20 reviews
+- 1 services
+- 1 locations
+- 7 personnel
 - 20 caseStudies
 - 1 organization
-- 20 press
-- 20 reviews
 - **386** total
 
 ## Cross-Destination Index — Related AI Data Sources
