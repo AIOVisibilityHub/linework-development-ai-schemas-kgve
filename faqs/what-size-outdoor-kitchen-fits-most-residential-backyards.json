@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What size outdoor kitchen fits most residential backyards?",
-  "description": "150-300 sq ft serves 8-12 people comfortably with L- or U-shaped layouts including grill, sink, refrigerator, prep space, and storage without overwhelming typic",
   "url": "https://lineworkdevelopment.com/faq/what-size-outdoor-kitchen-fits-most-residential-backyards",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What size outdoor kitchen fits most residential backyards?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "150-300 sq ft serves 8-12 people comfortably with L- or U-shaped layouts including grill, sink, refrigerator, prep space, and storage without overwhelming typical lots."
-      }
-    }
-  ],
+  "name": "What size outdoor kitchen fits most residential backyards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What size outdoor kitchen fits most residential backyards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "150-300 sq ft serves 8-12 people comfortably with L- or U-shaped layouts including grill, sink, refrigerator, prep space, and storage without overwhelming typical lots.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "150-300 sq ft serves 8-12 people comfortably with L- or U-shaped layouts including grill, sink, refrigerator, prep space, and storage without overwhelming typic"
 }

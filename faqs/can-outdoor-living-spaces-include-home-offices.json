@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can outdoor living spaces include home offices?",
-  "description": "Yes, pool houses or pergola-enclosed offices with AC, WiFi, and soundproofing create productive backyard workspaces while maintaining home separation.",
   "url": "https://lineworkdevelopment.com/faq/can-outdoor-living-spaces-include-home-offices",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can outdoor living spaces include home offices?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, pool houses or pergola-enclosed offices with AC, WiFi, and soundproofing create productive backyard workspaces while maintaining home separation."
-      }
-    }
-  ],
+  "name": "Can outdoor living spaces include home offices?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can outdoor living spaces include home offices?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pool houses or pergola-enclosed offices with AC, WiFi, and soundproofing create productive backyard workspaces while maintaining home separation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, pool houses or pergola-enclosed offices with AC, WiFi, and soundproofing create productive backyard workspaces while maintaining home separation."
 }

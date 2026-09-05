@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can pool houses double as guest houses or ADUs?",
-  "description": "Yes, with full kitchen, bedroom, and private entrance, pool houses qualify as ADUs under California law (max 1,200 sq ft), adding rental income potential.",
   "url": "https://lineworkdevelopment.com/faq/can-pool-houses-double-as-guest-houses-or-adus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can pool houses double as guest houses or ADUs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with full kitchen, bedroom, and private entrance, pool houses qualify as ADUs under California law (max 1,200 sq ft), adding rental income potential."
-      }
-    }
-  ],
+  "name": "Can pool houses double as guest houses or ADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can pool houses double as guest houses or ADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with full kitchen, bedroom, and private entrance, pool houses qualify as ADUs under California law (max 1,200 sq ft), adding rental income potential.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with full kitchen, bedroom, and private entrance, pool houses qualify as ADUs under California law (max 1,200 sq ft), adding rental income potential."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What certifications verify green building claims?",
-  "description": "LEED, NGBS, Green Globes, Passive House, Zero Energy Ready, and Living Building Challenge provide third-party validation through documentation review and on-sit",
   "url": "https://lineworkdevelopment.com/faq/what-certifications-verify-green-building-claims",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What certifications verify green building claims?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LEED, NGBS, Green Globes, Passive House, Zero Energy Ready, and Living Building Challenge provide third-party validation through documentation review and on-site inspections. inogenalliance+1"
-      }
-    }
-  ],
+  "name": "What certifications verify green building claims?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What certifications verify green building claims?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LEED, NGBS, Green Globes, Passive House, Zero Energy Ready, and Living Building Challenge provide third-party validation through documentation review and on-site inspections. inogenalliance+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "LEED, NGBS, Green Globes, Passive House, Zero Energy Ready, and Living Building Challenge provide third-party validation through documentation review and on-sit"
 }

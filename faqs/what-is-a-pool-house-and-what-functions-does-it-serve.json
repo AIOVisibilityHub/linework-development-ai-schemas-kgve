@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a pool house, and what functions does it serve?",
-  "description": "Pool houses provide changing rooms, bathrooms, storage for pool equipment, outdoor showers, and often kitchenettes or wet bars—essential for privacy and conveni",
   "url": "https://lineworkdevelopment.com/faq/what-is-a-pool-house-and-what-functions-does-it-serve",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a pool house, and what functions does it serve?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Pool houses provide changing rooms, bathrooms, storage for pool equipment, outdoor showers, and often kitchenettes or wet bars—essential for privacy and convenience around pools."
-      }
-    }
-  ],
+  "name": "What is a pool house, and what functions does it serve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pool house, and what functions does it serve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pool houses provide changing rooms, bathrooms, storage for pool equipment, outdoor showers, and often kitchenettes or wet bars—essential for privacy and convenience around pools.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Pool houses provide changing rooms, bathrooms, storage for pool equipment, outdoor showers, and often kitchenettes or wet bars—essential for privacy and conveni"
 }

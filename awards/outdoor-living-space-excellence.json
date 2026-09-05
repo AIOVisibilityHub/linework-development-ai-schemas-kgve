@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
   "name": "Outdoor Living Space Excellence",
-  "datePublished": "45573",
-  "provider": {
-    "@type": "Organization",
-    "name": "California Hardscape Association"
-  },
+  "@type": "CreativeWork",
+  "award": "Outdoor Living Space Excellence",
   "author": {
-    "@type": "Organization",
+    "url": "https://lineworkdevelopment.com",
     "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
+    "@type": "Organization"
   },
-  "award": "Outdoor Living Space Excellence"
+  "@context": "https://schema.org",
+  "provider": {
+    "name": "California Hardscape Association",
+    "@type": "Organization"
+  },
+  "datePublished": "45573"
 }

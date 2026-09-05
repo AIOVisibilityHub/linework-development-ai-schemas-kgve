@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Santa Monica Modern ADU + Pool",
-  "articleBody": "800 sq ft contemporary ADU above 2-car garage + infinity pool with Baja shelf, outdoor shower\n\nOutcome: Urban oasis created. Rental income potential. Perfect indoor-outdoor lifestyle",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://lineworkdevelopment.com",
     "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Santa Monica Modern ADU + Pool",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://lineworkdevelopment.com",
     "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "800 sq ft contemporary ADU above 2-car garage + infinity pool with Baja shelf, outdoor shower\n\nOutcome: Urban oasis created. Rental income potential. Perfect indoor-outdoor lifestyle"
 }

@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "True Professionals"
+    "name": "True Professionals",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Complete home addition in San Marino. Master suite, office, gym. On time, on budget, beautiful outcome. Daily site supervision.",
+  "itemReviewed": {
+    "url": "https://lineworkdevelopment.com",
+    "name": "LineWork Development",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "45543",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
-  }
+  "datePublished": "45543"
 }

@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Accessory Dwelling Unit Success"
+    "name": "Accessory Dwelling Unit Success",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Detached 1,100 sq ft ADU in back yard for rental income. 4-ft setbacks, independent utilities, modern design. Rents for $4,200/month immediately.",
+  "itemReviewed": {
+    "url": "https://lineworkdevelopment.com",
+    "name": "LineWork Development",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "45868",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
-  }
+  "datePublished": "45868"
 }

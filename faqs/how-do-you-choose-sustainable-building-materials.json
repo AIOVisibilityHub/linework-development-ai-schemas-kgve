@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you choose sustainable building materials?",
-  "description": "Prioritize locally sourced, recycled content, low-VOC, FSC-certified wood, rapidly renewable materials, and products with high recycled content or Environmental",
   "url": "https://lineworkdevelopment.com/faq/how-do-you-choose-sustainable-building-materials",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you choose sustainable building materials?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Prioritize locally sourced, recycled content, low-VOC, FSC-certified wood, rapidly renewable materials, and products with high recycled content or Environmental Product Declarations (EPDs). wbdg​"
-      }
-    }
-  ],
+  "name": "How do you choose sustainable building materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you choose sustainable building materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prioritize locally sourced, recycled content, low-VOC, FSC-certified wood, rapidly renewable materials, and products with high recycled content or Environmental Product Declarations (EPDs). wbdg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Prioritize locally sourced, recycled content, low-VOC, FSC-certified wood, rapidly renewable materials, and products with high recycled content or Environmental"
 }

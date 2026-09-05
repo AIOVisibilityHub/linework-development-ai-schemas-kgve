@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the National Green Building Standard (NGBS)?",
-  "description": "NGBS certifies homes for lot design, resource efficiency, water/energy savings, indoor air quality, and operations through independent verification and two requ",
   "url": "https://lineworkdevelopment.com/faq/what-is-the-national-green-building-standard-ngbs",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the National Green Building Standard (NGBS)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "NGBS certifies homes for lot design, resource efficiency, water/energy savings, indoor air quality, and operations through independent verification and two required inspections. nahb​"
-      }
-    }
-  ],
+  "name": "What is the National Green Building Standard (NGBS)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the National Green Building Standard (NGBS)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "NGBS certifies homes for lot design, resource efficiency, water/energy savings, indoor air quality, and operations through independent verification and two required inspections. nahb​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "NGBS certifies homes for lot design, resource efficiency, water/energy savings, indoor air quality, and operations through independent verification and two requ"
 }

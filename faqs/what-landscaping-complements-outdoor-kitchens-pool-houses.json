@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What landscaping complements outdoor kitchens/pool houses?",
-  "description": "Drought-tolerant California natives (manzanita, lavender), turf alternatives, vertical gardens, and edible landscapes frame hardscape while reducing water/maint",
   "url": "https://lineworkdevelopment.com/faq/what-landscaping-complements-outdoor-kitchens-pool-houses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What landscaping complements outdoor kitchens/pool houses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drought-tolerant California natives (manzanita, lavender), turf alternatives, vertical gardens, and edible landscapes frame hardscape while reducing water/maintenance."
-      }
-    }
-  ],
+  "name": "What landscaping complements outdoor kitchens/pool houses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What landscaping complements outdoor kitchens/pool houses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drought-tolerant California natives (manzanita, lavender), turf alternatives, vertical gardens, and edible landscapes frame hardscape while reducing water/maintenance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Drought-tolerant California natives (manzanita, lavender), turf alternatives, vertical gardens, and edible landscapes frame hardscape while reducing water/maint"
 }

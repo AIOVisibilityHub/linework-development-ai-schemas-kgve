@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you design outdoor kitchens for entertaining flow?",
-  "description": "Position serving areas near doors/windows, create multiple prep zones, include warming drawers, and design 36-42\" wide paths between counters for smooth guest/h",
   "url": "https://lineworkdevelopment.com/faq/how-do-you-design-outdoor-kitchens-for-entertaining-flow",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you design outdoor kitchens for entertaining flow?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Position serving areas near doors/windows, create multiple prep zones, include warming drawers, and design 36-42\" wide paths between counters for smooth guest/host movement."
-      }
-    }
-  ],
+  "name": "How do you design outdoor kitchens for entertaining flow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you design outdoor kitchens for entertaining flow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Position serving areas near doors/windows, create multiple prep zones, include warming drawers, and design 36-42\" wide paths between counters for smooth guest/host movement.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Position serving areas near doors/windows, create multiple prep zones, include warming drawers, and design 36-42\" wide paths between counters for smooth guest/h"
 }

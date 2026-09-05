@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What indoor air quality practices are used in green homes?",
-  "description": "Low-VOC paints/finishes, MERV 13+ filtration, exhaust fans in kitchens/baths, radon mitigation, and operable windows for ventilation reduce pollutants and aller",
   "url": "https://lineworkdevelopment.com/faq/what-indoor-air-quality-practices-are-used-in-green-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What indoor air quality practices are used in green homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Low-VOC paints/finishes, MERV 13+ filtration, exhaust fans in kitchens/baths, radon mitigation, and operable windows for ventilation reduce pollutants and allergens. wbdg+1"
-      }
-    }
-  ],
+  "name": "What indoor air quality practices are used in green homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What indoor air quality practices are used in green homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low-VOC paints/finishes, MERV 13+ filtration, exhaust fans in kitchens/baths, radon mitigation, and operable windows for ventilation reduce pollutants and allergens. wbdg+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Low-VOC paints/finishes, MERV 13+ filtration, exhaust fans in kitchens/baths, radon mitigation, and operable windows for ventilation reduce pollutants and aller"
 }

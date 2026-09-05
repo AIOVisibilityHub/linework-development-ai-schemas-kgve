@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Pasadena Craftsman ADU Conversion",
-  "articleBody": "Converted 1923 garage into 720 sq ft modern ADU with full kitchen/bath for aging parents while preserving bungalow aesthetic\n\nOutcome: Completed 6 weeks early. Family independence achieved. Property value +$220K",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://lineworkdevelopment.com",
     "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Pasadena Craftsman ADU Conversion",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://lineworkdevelopment.com",
     "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "Converted 1923 garage into 720 sq ft modern ADU with full kitchen/bath for aging parents while preserving bungalow aesthetic\n\nOutcome: Completed 6 weeks early. Family independence achieved. Property value +$220K"
 }

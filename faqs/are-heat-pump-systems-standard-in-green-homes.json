@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are heat pump systems standard in green homes?",
-  "description": "Yes, air-source or ground-source heat pumps provide efficient heating, cooling, and hot water, often replacing fossil fuel furnaces to cut emissions by 50-70%.",
   "url": "https://lineworkdevelopment.com/faq/are-heat-pump-systems-standard-in-green-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are heat pump systems standard in green homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, air-source or ground-source heat pumps provide efficient heating, cooling, and hot water, often replacing fossil fuel furnaces to cut emissions by 50-70%."
-      }
-    }
-  ],
+  "name": "Are heat pump systems standard in green homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are heat pump systems standard in green homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, air-source or ground-source heat pumps provide efficient heating, cooling, and hot water, often replacing fossil fuel furnaces to cut emissions by 50-70%.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, air-source or ground-source heat pumps provide efficient heating, cooling, and hot water, often replacing fossil fuel furnaces to cut emissions by 50-70%."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do outdoor living projects integrate with pools?",
-  "description": "Infinity edges, Baja shelves, negative-edge spas, and swim-up bars connect water features with hardscape; strategic lighting and heaters extend usability year-r",
   "url": "https://lineworkdevelopment.com/faq/how-do-outdoor-living-projects-integrate-with-pools",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do outdoor living projects integrate with pools?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Infinity edges, Baja shelves, negative-edge spas, and swim-up bars connect water features with hardscape; strategic lighting and heaters extend usability year-round."
-      }
-    }
-  ],
+  "name": "How do outdoor living projects integrate with pools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do outdoor living projects integrate with pools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Infinity edges, Baja shelves, negative-edge spas, and swim-up bars connect water features with hardscape; strategic lighting and heaters extend usability year-round.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Infinity edges, Baja shelves, negative-edge spas, and swim-up bars connect water features with hardscape; strategic lighting and heaters extend usability year-r"
 }

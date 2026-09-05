@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are low-VOC materials, and why use them?",
-  "description": "Low-VOC paints, adhesives, carpets, and finishes emit fewer volatile organic compounds, reducing indoor air pollution and health risks like respiratory irritati",
   "url": "https://lineworkdevelopment.com/faq/what-are-low-voc-materials-and-why-use-them",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are low-VOC materials, and why use them?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Low-VOC paints, adhesives, carpets, and finishes emit fewer volatile organic compounds, reducing indoor air pollution and health risks like respiratory irritation and headaches."
-      }
-    }
-  ],
+  "name": "What are low-VOC materials, and why use them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are low-VOC materials, and why use them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low-VOC paints, adhesives, carpets, and finishes emit fewer volatile organic compounds, reducing indoor air pollution and health risks like respiratory irritation and headaches.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Low-VOC paints, adhesives, carpets, and finishes emit fewer volatile organic compounds, reducing indoor air pollution and health risks like respiratory irritati"
 }

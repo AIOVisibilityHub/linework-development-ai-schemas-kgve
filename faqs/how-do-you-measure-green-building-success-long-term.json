@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you measure green building success long-term?",
-  "description": "Track HERS scores, utility bills, water use, indoor air quality, and post-occupancy surveys; recertification every 3-5 years verifies continued performance. ino",
   "url": "https://lineworkdevelopment.com/faq/how-do-you-measure-green-building-success-long-term",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you measure green building success long-term?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Track HERS scores, utility bills, water use, indoor air quality, and post-occupancy surveys; recertification every 3-5 years verifies continued performance. inogenalliance​"
-      }
-    }
-  ],
+  "name": "How do you measure green building success long-term?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you measure green building success long-term?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Track HERS scores, utility bills, water use, indoor air quality, and post-occupancy surveys; recertification every 3-5 years verifies continued performance. inogenalliance​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Track HERS scores, utility bills, water use, indoor air quality, and post-occupancy surveys; recertification every 3-5 years verifies continued performance. ino"
 }

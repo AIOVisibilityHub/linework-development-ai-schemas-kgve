@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Trustworthy and Skilled"
+    "name": "Trustworthy and Skilled",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Added multigenerational suite to Glendale home. Private entrance, full kitchen/bath, soundproofed. Aging parents comfortable and independent.",
+  "itemReviewed": {
+    "url": "https://lineworkdevelopment.com",
+    "name": "LineWork Development",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "45702",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
-  }
+  "datePublished": "45702"
 }

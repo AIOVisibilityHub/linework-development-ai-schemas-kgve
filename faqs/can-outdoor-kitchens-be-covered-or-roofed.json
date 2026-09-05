@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can outdoor kitchens be covered or roofed?",
-  "description": "Yes, pergolas, ramadas, or solid roofs with skylights provide shade and rain protection; permits required for enclosed structures over 10 ft tall or attached to",
   "url": "https://lineworkdevelopment.com/faq/can-outdoor-kitchens-be-covered-or-roofed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can outdoor kitchens be covered or roofed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, pergolas, ramadas, or solid roofs with skylights provide shade and rain protection; permits required for enclosed structures over 10 ft tall or attached to house."
-      }
-    }
-  ],
+  "name": "Can outdoor kitchens be covered or roofed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can outdoor kitchens be covered or roofed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pergolas, ramadas, or solid roofs with skylights provide shade and rain protection; permits required for enclosed structures over 10 ft tall or attached to house.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, pergolas, ramadas, or solid roofs with skylights provide shade and rain protection; permits required for enclosed structures over 10 ft tall or attached to"
 }

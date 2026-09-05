@@ -1,20 +1,20 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Perfectionists in Construction"
+    "name": "Perfectionists in Construction",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "Luxury outdoor kitchen + pool house in Woodland Hills. Stainless appliances, concrete counters, fire pit. Entertains 20+ easily.",
+  "itemReviewed": {
+    "url": "https://lineworkdevelopment.com",
+    "name": "LineWork Development",
+    "@type": "Organization"
+  },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
+    "bestRating": 5,
+    "ratingValue": 5
   },
-  "datePublished": "45485",
-  "itemReviewed": {
-    "@type": "Organization",
-    "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
-  }
+  "datePublished": "45485"
 }

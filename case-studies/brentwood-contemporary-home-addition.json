@@ -1,17 +1,17 @@
 {
-  "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Brentwood Contemporary Home Addition",
-  "articleBody": "1,200 sq ft 2-story addition featuring glass walls, floating stair, rooftop deck while maintaining modernist facade\n\nOutcome: Contemporary art collection displayed perfectly. Natural light tripled. Views unobstructed",
+  "genre": "Case Study",
   "author": {
-    "@type": "Organization",
+    "url": "https://lineworkdevelopment.com",
     "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
+    "@type": "Organization"
   },
+  "@context": "https://schema.org",
+  "headline": "Brentwood Contemporary Home Addition",
   "publisher": {
-    "@type": "Organization",
+    "url": "https://lineworkdevelopment.com",
     "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
+    "@type": "Organization"
   },
-  "genre": "Case Study"
+  "articleBody": "1,200 sq ft 2-story addition featuring glass walls, floating stair, rooftop deck while maintaining modernist facade\n\nOutcome: Contemporary art collection displayed perfectly. Natural light tripled. Views unobstructed"
 }

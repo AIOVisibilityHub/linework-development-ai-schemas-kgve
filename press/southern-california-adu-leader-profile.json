@@ -1,16 +1,16 @@
 {
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Southern California ADU Leader Profile",
-  "datePublished": "45791",
   "url": "https://www.houzz.com/pro/stories/linework-development-profile",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Houzz Pro Stories"
-  },
+  "@type": "NewsArticle",
   "about": {
-    "@type": "Organization",
+    "url": "https://lineworkdevelopment.com",
     "name": "LineWork Development",
-    "url": "https://lineworkdevelopment.com"
-  }
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Southern California ADU Leader Profile",
+  "publisher": {
+    "name": "Houzz Pro Stories",
+    "@type": "Organization"
+  },
+  "datePublished": "45791"
 }

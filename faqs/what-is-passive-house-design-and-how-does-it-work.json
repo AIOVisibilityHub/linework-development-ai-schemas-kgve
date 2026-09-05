@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is passive house design, and how does it work?",
-  "description": "Passive House achieves 90% energy savings through super-insulation, airtight envelopes, high-performance windows, balanced ventilation with heat recovery, and m",
   "url": "https://lineworkdevelopment.com/faq/what-is-passive-house-design-and-how-does-it-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is passive house design, and how does it work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Passive House achieves 90% energy savings through super-insulation, airtight envelopes, high-performance windows, balanced ventilation with heat recovery, and minimal thermal bridges."
-      }
-    }
-  ],
+  "name": "What is passive house design, and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is passive house design, and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Passive House achieves 90% energy savings through super-insulation, airtight envelopes, high-performance windows, balanced ventilation with heat recovery, and minimal thermal bridges.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Passive House achieves 90% energy savings through super-insulation, airtight envelopes, high-performance windows, balanced ventilation with heat recovery, and m"
 }

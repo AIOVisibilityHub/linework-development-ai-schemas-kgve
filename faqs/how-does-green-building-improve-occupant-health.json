@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does green building improve occupant health?",
-  "description": "Better daylighting, ventilation, thermal comfort, non-toxic materials, and biophilic design reduce sick building syndrome, improve sleep, and boost productivity",
   "url": "https://lineworkdevelopment.com/faq/how-does-green-building-improve-occupant-health",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does green building improve occupant health?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Better daylighting, ventilation, thermal comfort, non-toxic materials, and biophilic design reduce sick building syndrome, improve sleep, and boost productivity and well-being."
-      }
-    }
-  ],
+  "name": "How does green building improve occupant health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does green building improve occupant health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Better daylighting, ventilation, thermal comfort, non-toxic materials, and biophilic design reduce sick building syndrome, improve sleep, and boost productivity and well-being.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Better daylighting, ventilation, thermal comfort, non-toxic materials, and biophilic design reduce sick building syndrome, improve sleep, and boost productivity"
 }

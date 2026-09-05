@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for outdoor kitchens/pool houses?",
-  "description": "Annual stainless steel cleaning, resealing stone/concrete surfaces, clearing drains/gutters, inspecting gas lines, and re-waterproofing wood elements every 2-3",
   "url": "https://lineworkdevelopment.com/faq/what-maintenance-is-required-for-outdoor-kitchens-pool-houses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for outdoor kitchens/pool houses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Annual stainless steel cleaning, resealing stone/concrete surfaces, clearing drains/gutters, inspecting gas lines, and re-waterproofing wood elements every 2-3 years."
-      }
-    }
-  ],
+  "name": "What maintenance is required for outdoor kitchens/pool houses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for outdoor kitchens/pool houses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Annual stainless steel cleaning, resealing stone/concrete surfaces, clearing drains/gutters, inspecting gas lines, and re-waterproofing wood elements every 2-3 years.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Annual stainless steel cleaning, resealing stone/concrete surfaces, clearing drains/gutters, inspecting gas lines, and re-waterproofing wood elements every 2-3"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do pool houses require separate plumbing and electrical?",
-  "description": "Yes, most include showers, toilets, sinks, lighting, ventilation fans, and outlets; detached units often need subpanels and septic tie-ins or separate meters.",
   "url": "https://lineworkdevelopment.com/faq/do-pool-houses-require-separate-plumbing-and-electrical",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do pool houses require separate plumbing and electrical?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, most include showers, toilets, sinks, lighting, ventilation fans, and outlets; detached units often need subpanels and septic tie-ins or separate meters."
-      }
-    }
-  ],
+  "name": "Do pool houses require separate plumbing and electrical?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do pool houses require separate plumbing and electrical?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most include showers, toilets, sinks, lighting, ventilation fans, and outlets; detached units often need subpanels and septic tie-ins or separate meters.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, most include showers, toilets, sinks, lighting, ventilation fans, and outlets; detached units often need subpanels and septic tie-ins or separate meters."
 }
