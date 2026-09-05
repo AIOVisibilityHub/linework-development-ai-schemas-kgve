@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I build an ADU before the primary house?",
-  "description": "Yes, some jurisdictions allow ADUs as the first structure on a vacant lot, with the primary residence required within a specific timeframe (usually 3 years).",
   "url": "https://lineworkdevelopment.com/faq/can-i-build-an-adu-before-the-primary-house",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I build an ADU before the primary house?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, some jurisdictions allow ADUs as the first structure on a vacant lot, with the primary residence required within a specific timeframe (usually 3 years)."
-      }
-    }
-  ],
+  "name": "Can I build an ADU before the primary house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build an ADU before the primary house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some jurisdictions allow ADUs as the first structure on a vacant lot, with the primary residence required within a specific timeframe (usually 3 years).",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, some jurisdictions allow ADUs as the first structure on a vacant lot, with the primary residence required within a specific timeframe (usually 3 years)."
 }

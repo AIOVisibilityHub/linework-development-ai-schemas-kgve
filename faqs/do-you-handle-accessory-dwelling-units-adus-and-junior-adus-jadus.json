@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do you handle accessory dwelling units (ADUs) and junior ADUs (JADUs)?",
-  "description": "Yes, we design and build ADUs and JADUs for rental income, multigenerational living, or guest space, including garage conversions and new detached units that co",
   "url": "https://lineworkdevelopment.com/faq/do-you-handle-accessory-dwelling-units-adus-and-junior-adus-jadus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do you handle accessory dwelling units (ADUs) and junior ADUs (JADUs)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we design and build ADUs and JADUs for rental income, multigenerational living, or guest space, including garage conversions and new detached units that comply with local zoning and building codes. houzz​"
-      }
-    }
-  ],
+  "name": "Do you handle accessory dwelling units (ADUs) and junior ADUs (JADUs)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle accessory dwelling units (ADUs) and junior ADUs (JADUs)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we design and build ADUs and JADUs for rental income, multigenerational living, or guest space, including garage conversions and new detached units that comply with local zoning and building codes. houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, we design and build ADUs and JADUs for rental income, multigenerational living, or guest space, including garage conversions and new detached units that co"
 }

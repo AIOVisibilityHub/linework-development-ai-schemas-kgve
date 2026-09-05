@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are open floor plans good for multigenerational living?",
-  "description": "Modified open plans work well—large great rooms connect kitchen/dining/living while pocket doors or screens create quiet zones when privacy is needed.",
   "url": "https://lineworkdevelopment.com/faq/are-open-floor-plans-good-for-multigenerational-living",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are open floor plans good for multigenerational living?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modified open plans work well—large great rooms connect kitchen/dining/living while pocket doors or screens create quiet zones when privacy is needed."
-      }
-    }
-  ],
+  "name": "Are open floor plans good for multigenerational living?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are open floor plans good for multigenerational living?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modified open plans work well—large great rooms connect kitchen/dining/living while pocket doors or screens create quiet zones when privacy is needed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Modified open plans work well—large great rooms connect kitchen/dining/living while pocket doors or screens create quiet zones when privacy is needed."
 }

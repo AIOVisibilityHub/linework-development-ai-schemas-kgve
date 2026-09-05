@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I keep part of the garage as parking after partial conversion?",
-  "description": "Yes, partial conversions are allowed with fire-rated separations (½\" drywall min), no openings between spaces, and proper separation of conditioned vs unconditi",
   "url": "https://lineworkdevelopment.com/faq/can-i-keep-part-of-the-garage-as-parking-after-partial-conversion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I keep part of the garage as parking after partial conversion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, partial conversions are allowed with fire-rated separations (½\" drywall min), no openings between spaces, and proper separation of conditioned vs unconditioned areas."
-      }
-    }
-  ],
+  "name": "Can I keep part of the garage as parking after partial conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep part of the garage as parking after partial conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, partial conversions are allowed with fire-rated separations (½\" drywall min), no openings between spaces, and proper separation of conditioned vs unconditioned areas.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, partial conversions are allowed with fire-rated separations (½\" drywall min), no openings between spaces, and proper separation of conditioned vs unconditi"
 }

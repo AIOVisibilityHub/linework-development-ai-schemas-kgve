@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to replace the garage door during conversion?",
-  "description": "Typically yes—the garage door opening must be closed with a framed wall, insulated, and fitted with windows or solid sheathing plus a 6-inch concrete curb if th",
   "url": "https://lineworkdevelopment.com/faq/do-i-need-to-replace-the-garage-door-during-conversion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to replace the garage door during conversion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Typically yes—the garage door opening must be closed with a framed wall, insulated, and fitted with windows or solid sheathing plus a 6-inch concrete curb if the driveway slopes toward the opening."
-      }
-    }
-  ],
+  "name": "Do I need to replace the garage door during conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the garage door during conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically yes—the garage door opening must be closed with a framed wall, insulated, and fitted with windows or solid sheathing plus a 6-inch concrete curb if the driveway slopes toward the opening.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Typically yes—the garage door opening must be closed with a framed wall, insulated, and fitted with windows or solid sheathing plus a 6-inch concrete curb if th"
 }

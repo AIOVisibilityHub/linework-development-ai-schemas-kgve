@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there sustainable or green building strategies that work well with historic properties?",
-  "description": "Many historic buildings already embody sustainable principles through durable materials, passive ventilation, and thoughtful siting. Enhancing performance with",
   "url": "https://lineworkdevelopment.com/faq/are-there-sustainable-or-green-building-strategies-that-work-well-with-historic",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there sustainable or green building strategies that work well with historic properties?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many historic buildings already embody sustainable principles through durable materials, passive ventilation, and thoughtful siting. Enhancing performance with targeted upgrades—like insulation in non-character-defining areas, efficient systems, and careful air sealing—can improve comfort while respecting historic fabric."
-      }
-    }
-  ],
+  "name": "Are there sustainable or green building strategies that work well with historic properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there sustainable or green building strategies that work well with historic properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many historic buildings already embody sustainable principles through durable materials, passive ventilation, and thoughtful siting. Enhancing performance with targeted upgrades—like insulation in non-character-defining areas, efficient systems, and careful air sealing—can improve comfort while respecting historic fabric.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Many historic buildings already embody sustainable principles through durable materials, passive ventilation, and thoughtful siting. Enhancing performance with"
 }

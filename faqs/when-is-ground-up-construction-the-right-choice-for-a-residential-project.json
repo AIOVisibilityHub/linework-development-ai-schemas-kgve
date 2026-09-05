@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is ground-up construction the right choice for a residential project?",
-  "description": "Ground-up construction makes sense when an existing home cannot economically meet your needs due to layout, condition, structural limits, or zoning constraints,",
   "url": "https://lineworkdevelopment.com/faq/when-is-ground-up-construction-the-right-choice-for-a-residential-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is ground-up construction the right choice for a residential project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ground-up construction makes sense when an existing home cannot economically meet your needs due to layout, condition, structural limits, or zoning constraints, or when you already own or are purchasing vacant land. rsvc+1"
-      }
-    }
-  ],
+  "name": "When is ground-up construction the right choice for a residential project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is ground-up construction the right choice for a residential project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up construction makes sense when an existing home cannot economically meet your needs due to layout, condition, structural limits, or zoning constraints, or when you already own or are purchasing vacant land. rsvc+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Ground-up construction makes sense when an existing home cannot economically meet your needs due to layout, condition, structural limits, or zoning constraints,"
 }

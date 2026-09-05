@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is the budget for a ground-up home established?",
-  "description": "The budget is developed by aligning target cost with scope and quality, using conceptual pricing early, then refining costs as drawings progress and trade bids",
   "url": "https://lineworkdevelopment.com/faq/how-is-the-budget-for-a-ground-up-home-established",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is the budget for a ground-up home established?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The budget is developed by aligning target cost with scope and quality, using conceptual pricing early, then refining costs as drawings progress and trade bids are obtained for structure, systems, and finishes. midconstruction+2"
-      }
-    }
-  ],
+  "name": "How is the budget for a ground-up home established?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is the budget for a ground-up home established?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The budget is developed by aligning target cost with scope and quality, using conceptual pricing early, then refining costs as drawings progress and trade bids are obtained for structure, systems, and finishes. midconstruction+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The budget is developed by aligning target cost with scope and quality, using conceptual pricing early, then refining costs as drawings progress and trade bids"
 }

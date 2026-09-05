@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can project management services help with product and finish selections?",
-  "description": "Yes, project managers often coordinate with designers to keep selections on schedule, confirm availability and lead times, and align choices with the overall bu",
   "url": "https://lineworkdevelopment.com/faq/can-project-management-services-help-with-product-and-finish-selections",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can project management services help with product and finish selections?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, project managers often coordinate with designers to keep selections on schedule, confirm availability and lead times, and align choices with the overall budget and construction sequence."
-      }
-    }
-  ],
+  "name": "Can project management services help with product and finish selections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can project management services help with product and finish selections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, project managers often coordinate with designers to keep selections on schedule, confirm availability and lead times, and align choices with the overall budget and construction sequence.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, project managers often coordinate with designers to keep selections on schedule, confirm availability and lead times, and align choices with the overall bu"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will I have a single point of contact throughout the project?",
-  "description": "Yes, in a well-run design-build project you typically work with one primary project manager or project lead who coordinates the larger team and communicates upd",
   "url": "https://lineworkdevelopment.com/faq/will-i-have-a-single-point-of-contact-throughout-the-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will I have a single point of contact throughout the project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, in a well-run design-build project you typically work with one primary project manager or project lead who coordinates the larger team and communicates updates, next steps, and decisions."
-      }
-    }
-  ],
+  "name": "Will I have a single point of contact throughout the project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will I have a single point of contact throughout the project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in a well-run design-build project you typically work with one primary project manager or project lead who coordinates the larger team and communicates updates, next steps, and decisions.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, in a well-run design-build project you typically work with one primary project manager or project lead who coordinates the larger team and communicates upd"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens at the end of the project from a management standpoint?",
-  "description": "Near completion, the project manager coordinates punchlist walks, manages final corrections, collects warranties and manuals, and oversees final inspections and",
   "url": "https://lineworkdevelopment.com/faq/what-happens-at-the-end-of-the-project-from-a-management-standpoint",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens at the end of the project from a management standpoint?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Near completion, the project manager coordinates punchlist walks, manages final corrections, collects warranties and manuals, and oversees final inspections and closeout documentation."
-      }
-    }
-  ],
+  "name": "What happens at the end of the project from a management standpoint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens at the end of the project from a management standpoint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Near completion, the project manager coordinates punchlist walks, manages final corrections, collects warranties and manuals, and oversees final inspections and closeout documentation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Near completion, the project manager coordinates punchlist walks, manages final corrections, collects warranties and manuals, and oversees final inspections and"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does garage conversion permitting take?",
-  "description": "30-90 days typical; streamlined ADU conversions often get 60-day approval; complex structural work or non-compliant existing conditions extend timelines.",
   "url": "https://lineworkdevelopment.com/faq/how-long-does-garage-conversion-permitting-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does garage conversion permitting take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "30-90 days typical; streamlined ADU conversions often get 60-day approval; complex structural work or non-compliant existing conditions extend timelines."
-      }
-    }
-  ],
+  "name": "How long does garage conversion permitting take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does garage conversion permitting take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "30-90 days typical; streamlined ADU conversions often get 60-day approval; complex structural work or non-compliant existing conditions extend timelines.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "30-90 days typical; streamlined ADU conversions often get 60-day approval; complex structural work or non-compliant existing conditions extend timelines."
 }

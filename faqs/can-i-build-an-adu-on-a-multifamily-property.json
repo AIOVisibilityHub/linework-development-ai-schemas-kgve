@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I build an ADU on a multifamily property?",
-  "description": "Yes, multifamily properties can add ADUs equal to a percentage of existing units plus detached units, with specific rules for conversions versus new constructio",
   "url": "https://lineworkdevelopment.com/faq/can-i-build-an-adu-on-a-multifamily-property",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I build an ADU on a multifamily property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, multifamily properties can add ADUs equal to a percentage of existing units plus detached units, with specific rules for conversions versus new construction."
-      }
-    }
-  ],
+  "name": "Can I build an ADU on a multifamily property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build an ADU on a multifamily property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, multifamily properties can add ADUs equal to a percentage of existing units plus detached units, with specific rules for conversions versus new construction.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, multifamily properties can add ADUs equal to a percentage of existing units plus detached units, with specific rules for conversions versus new constructio"
 }

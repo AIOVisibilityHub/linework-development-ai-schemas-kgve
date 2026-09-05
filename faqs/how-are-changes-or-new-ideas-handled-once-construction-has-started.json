@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How are changes or new ideas handled once construction has started?",
-  "description": "Changes are documented as change orders, priced, and reviewed with you for approval before work proceeds, and the project manager updates the schedule and budge",
   "url": "https://lineworkdevelopment.com/faq/how-are-changes-or-new-ideas-handled-once-construction-has-started",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How are changes or new ideas handled once construction has started?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Changes are documented as change orders, priced, and reviewed with you for approval before work proceeds, and the project manager updates the schedule and budget to reflect the revised scope."
-      }
-    }
-  ],
+  "name": "How are changes or new ideas handled once construction has started?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How are changes or new ideas handled once construction has started?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Changes are documented as change orders, priced, and reviewed with you for approval before work proceeds, and the project manager updates the schedule and budget to reflect the revised scope.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Changes are documented as change orders, priced, and reviewed with you for approval before work proceeds, and the project manager updates the schedule and budge"
 }

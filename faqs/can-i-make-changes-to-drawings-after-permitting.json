@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I make changes to drawings after permitting?",
-  "description": "Minor field adjustments are often allowed, but significant changes typically require revised drawings and amended permits to maintain code compliance and inspec",
   "url": "https://lineworkdevelopment.com/faq/can-i-make-changes-to-drawings-after-permitting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I make changes to drawings after permitting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Minor field adjustments are often allowed, but significant changes typically require revised drawings and amended permits to maintain code compliance and inspector approval."
-      }
-    }
-  ],
+  "name": "Can I make changes to drawings after permitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to drawings after permitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor field adjustments are often allowed, but significant changes typically require revised drawings and amended permits to maintain code compliance and inspector approval.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Minor field adjustments are often allowed, but significant changes typically require revised drawings and amended permits to maintain code compliance and inspec"
 }

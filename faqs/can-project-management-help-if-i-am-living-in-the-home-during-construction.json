@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can project management help if I am living in the home during construction?",
-  "description": "Yes, the project manager can phase work, coordinate noisy or disruptive tasks, and set up clear boundaries and protection so the project advances while minimizi",
   "url": "https://lineworkdevelopment.com/faq/can-project-management-help-if-i-am-living-in-the-home-during-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can project management help if I am living in the home during construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, the project manager can phase work, coordinate noisy or disruptive tasks, and set up clear boundaries and protection so the project advances while minimizing disruption to daily life."
-      }
-    }
-  ],
+  "name": "Can project management help if I am living in the home during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can project management help if I am living in the home during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the project manager can phase work, coordinate noisy or disruptive tasks, and set up clear boundaries and protection so the project advances while minimizing disruption to daily life.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, the project manager can phase work, coordinate noisy or disruptive tasks, and set up clear boundaries and protection so the project advances while minimizi"
 }

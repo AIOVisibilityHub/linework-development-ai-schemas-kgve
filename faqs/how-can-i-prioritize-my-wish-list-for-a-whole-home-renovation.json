@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I prioritize my wish list for a whole-home renovation?",
-  "description": "Start by identifying must-haves, nice-to-haves, and long-term wants, then focus first on layout improvements, structural and system upgrades, and core finishes",
   "url": "https://lineworkdevelopment.com/faq/how-can-i-prioritize-my-wish-list-for-a-whole-home-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I prioritize my wish list for a whole-home renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Start by identifying must-haves, nice-to-haves, and long-term wants, then focus first on layout improvements, structural and system upgrades, and core finishes that will have the biggest daily impact."
-      }
-    }
-  ],
+  "name": "How can I prioritize my wish list for a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prioritize my wish list for a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start by identifying must-haves, nice-to-haves, and long-term wants, then focus first on layout improvements, structural and system upgrades, and core finishes that will have the biggest daily impact.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Start by identifying must-haves, nice-to-haves, and long-term wants, then focus first on layout improvements, structural and system upgrades, and core finishes"
 }

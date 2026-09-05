@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "question",
-  "description": "answer",
   "url": "https://lineworkdevelopment.com/faq/question",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "question",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "answer"
-      }
-    }
-  ],
+  "name": "question",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "question",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "answer",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "answer"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you manage safety and cleanliness during a whole-home renovation?",
-  "description": "Good projects use dust barriers, floor protection, regular site cleanup, and clear access routes, along with safety protocols that protect both workers and occu",
   "url": "https://lineworkdevelopment.com/faq/how-do-you-manage-safety-and-cleanliness-during-a-whole-home-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you manage safety and cleanliness during a whole-home renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Good projects use dust barriers, floor protection, regular site cleanup, and clear access routes, along with safety protocols that protect both workers and occupants."
-      }
-    }
-  ],
+  "name": "How do you manage safety and cleanliness during a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you manage safety and cleanliness during a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Good projects use dust barriers, floor protection, regular site cleanup, and clear access routes, along with safety protocols that protect both workers and occupants.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Good projects use dust barriers, floor protection, regular site cleanup, and clear access routes, along with safety protocols that protect both workers and occu"
 }

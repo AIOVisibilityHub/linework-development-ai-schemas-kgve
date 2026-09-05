@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I handle lead paint, asbestos, or other hazardous materials in an older building?",
-  "description": "Hazardous materials should be identified through professional testing and addressed by licensed abatement or remediation contractors. Proper containment, remova",
   "url": "https://lineworkdevelopment.com/faq/how-do-i-handle-lead-paint-asbestos-or-other-hazardous-materials-in-an-older-bui",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I handle lead paint, asbestos, or other hazardous materials in an older building?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hazardous materials should be identified through professional testing and addressed by licensed abatement or remediation contractors. Proper containment, removal, and disposal protect occupants and workers while avoiding unnecessary damage to historic elements."
-      }
-    }
-  ],
+  "name": "How do I handle lead paint, asbestos, or other hazardous materials in an older building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I handle lead paint, asbestos, or other hazardous materials in an older building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hazardous materials should be identified through professional testing and addressed by licensed abatement or remediation contractors. Proper containment, removal, and disposal protect occupants and workers while avoiding unnecessary damage to historic elements.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hazardous materials should be identified through professional testing and addressed by licensed abatement or remediation contractors. Proper containment, remova"
 }

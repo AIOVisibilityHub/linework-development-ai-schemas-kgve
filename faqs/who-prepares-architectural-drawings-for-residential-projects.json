@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Who prepares architectural drawings for residential projects?",
-  "description": "A licensed architect, designer, or design-build firm with architectural expertise creates drawings, often coordinating with engineers for structural and MEP com",
   "url": "https://lineworkdevelopment.com/faq/who-prepares-architectural-drawings-for-residential-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Who prepares architectural drawings for residential projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A licensed architect, designer, or design-build firm with architectural expertise creates drawings, often coordinating with engineers for structural and MEP components."
-      }
-    }
-  ],
+  "name": "Who prepares architectural drawings for residential projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Who prepares architectural drawings for residential projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A licensed architect, designer, or design-build firm with architectural expertise creates drawings, often coordinating with engineers for structural and MEP components.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A licensed architect, designer, or design-build firm with architectural expertise creates drawings, often coordinating with engineers for structural and MEP com"
 }

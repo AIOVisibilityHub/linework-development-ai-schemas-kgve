@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common unexpected costs in ground-up construction?",
-  "description": "Hidden site conditions, required utility upgrades, retaining walls, drainage improvements, plan check or impact fees, and owner-driven design changes are freque",
   "url": "https://lineworkdevelopment.com/faq/what-are-common-unexpected-costs-in-ground-up-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common unexpected costs in ground-up construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hidden site conditions, required utility upgrades, retaining walls, drainage improvements, plan check or impact fees, and owner-driven design changes are frequent sources of added cost. rsvc+2"
-      }
-    }
-  ],
+  "name": "What are common unexpected costs in ground-up construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common unexpected costs in ground-up construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden site conditions, required utility upgrades, retaining walls, drainage improvements, plan check or impact fees, and owner-driven design changes are frequent sources of added cost. rsvc+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hidden site conditions, required utility upgrades, retaining walls, drainage improvements, plan check or impact fees, and owner-driven design changes are freque"
 }

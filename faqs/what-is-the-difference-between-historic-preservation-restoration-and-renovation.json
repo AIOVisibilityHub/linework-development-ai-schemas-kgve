@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between historic preservation, restoration, and renovation?",
-  "description": "Historic preservation focuses on maintaining and repairing existing historic materials and retaining a property’s form as it has evolved over time. Historic res",
   "url": "https://lineworkdevelopment.com/faq/what-is-the-difference-between-historic-preservation-restoration-and-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between historic preservation, restoration, and renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Historic preservation focuses on maintaining and repairing existing historic materials and retaining a property’s form as it has evolved over time. Historic restoration aims to return a building to a specific period, removing elements from other eras where appropriate. Renovation is more flexible and can include updating, altering, or reconfiguring spaces while still respecting key historic features."
-      }
-    }
-  ],
+  "name": "What is the difference between historic preservation, restoration, and renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between historic preservation, restoration, and renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic preservation focuses on maintaining and repairing existing historic materials and retaining a property’s form as it has evolved over time. Historic restoration aims to return a building to a specific period, removing elements from other eras where appropriate. Renovation is more flexible and can include updating, altering, or reconfiguring spaces while still respecting key historic features.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Historic preservation focuses on maintaining and repairing existing historic materials and retaining a property’s form as it has evolved over time. Historic res"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What ongoing maintenance is required after a historic restoration is complete?",
-  "description": "Regular inspections of roofs, gutters, paint, masonry, and wood elements help catch small issues before they become major problems. Gentle cleaning, prompt repa",
   "url": "https://lineworkdevelopment.com/faq/what-ongoing-maintenance-is-required-after-a-historic-restoration-is-complete",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What ongoing maintenance is required after a historic restoration is complete?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Regular inspections of roofs, gutters, paint, masonry, and wood elements help catch small issues before they become major problems. Gentle cleaning, prompt repairs, and attention to drainage and vegetation around the building are key to preserving your investment over the long term."
-      }
-    }
-  ],
+  "name": "What ongoing maintenance is required after a historic restoration is complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What ongoing maintenance is required after a historic restoration is complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular inspections of roofs, gutters, paint, masonry, and wood elements help catch small issues before they become major problems. Gentle cleaning, prompt repairs, and attention to drainage and vegetation around the building are key to preserving your investment over the long term.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Regular inspections of roofs, gutters, paint, masonry, and wood elements help catch small issues before they become major problems. Gentle cleaning, prompt repa"
 }

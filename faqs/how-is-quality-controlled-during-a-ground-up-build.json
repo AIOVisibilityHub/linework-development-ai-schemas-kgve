@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is quality controlled during a ground-up build?",
-  "description": "Quality is managed through detailed plans and specs, pre-construction coordination, inspections at key milestones, on-site supervision, and addressing issues qu",
   "url": "https://lineworkdevelopment.com/faq/how-is-quality-controlled-during-a-ground-up-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is quality controlled during a ground-up build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Quality is managed through detailed plans and specs, pre-construction coordination, inspections at key milestones, on-site supervision, and addressing issues quickly as work progresses. calahan+2"
-      }
-    }
-  ],
+  "name": "How is quality controlled during a ground-up build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is quality controlled during a ground-up build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quality is managed through detailed plans and specs, pre-construction coordination, inspections at key milestones, on-site supervision, and addressing issues quickly as work progresses. calahan+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Quality is managed through detailed plans and specs, pre-construction coordination, inspections at key milestones, on-site supervision, and addressing issues qu"
 }

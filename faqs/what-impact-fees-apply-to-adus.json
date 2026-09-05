@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What impact fees apply to ADUs?",
-  "description": "State law exempts ADUs under 750 sq ft from impact fees, with larger units paying a proportional share based on size relative to the primary dwelling.",
   "url": "https://lineworkdevelopment.com/faq/what-impact-fees-apply-to-adus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What impact fees apply to ADUs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "State law exempts ADUs under 750 sq ft from impact fees, with larger units paying a proportional share based on size relative to the primary dwelling."
-      }
-    }
-  ],
+  "name": "What impact fees apply to ADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What impact fees apply to ADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "State law exempts ADUs under 750 sq ft from impact fees, with larger units paying a proportional share based on size relative to the primary dwelling.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "State law exempts ADUs under 750 sq ft from impact fees, with larger units paying a proportional share based on size relative to the primary dwelling."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does an ADU add to property value?",
-  "description": "ADUs typically add $150-$300 per square foot to property value, depending on location, quality, and rental income potential in high-demand housing markets.",
   "url": "https://lineworkdevelopment.com/faq/how-much-does-an-adu-add-to-property-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does an ADU add to property value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ADUs typically add $150-$300 per square foot to property value, depending on location, quality, and rental income potential in high-demand housing markets."
-      }
-    }
-  ],
+  "name": "How much does an ADU add to property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an ADU add to property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADUs typically add $150-$300 per square foot to property value, depending on location, quality, and rental income potential in high-demand housing markets.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "ADUs typically add $150-$300 per square foot to property value, depending on location, quality, and rental income potential in high-demand housing markets."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is multigenerational home design?",
-  "description": "Multigenerational home design creates living spaces that accommodate multiple family generations under one roof, balancing private suites, shared areas, and acc",
   "url": "https://lineworkdevelopment.com/faq/what-is-multigenerational-home-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is multigenerational home design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Multigenerational home design creates living spaces that accommodate multiple family generations under one roof, balancing private suites, shared areas, and accessibility for all ages and abilities."
-      }
-    }
-  ],
+  "name": "What is multigenerational home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is multigenerational home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multigenerational home design creates living spaces that accommodate multiple family generations under one roof, balancing private suites, shared areas, and accessibility for all ages and abilities.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Multigenerational home design creates living spaces that accommodate multiple family generations under one roof, balancing private suites, shared areas, and acc"
 }

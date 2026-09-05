@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is the project budget reported to me over time?",
-  "description": "You typically receive periodic budget snapshots or cost reports that summarize original contract amounts, approved changes, allowances, and remaining contingenc",
   "url": "https://lineworkdevelopment.com/faq/how-is-the-project-budget-reported-to-me-over-time",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is the project budget reported to me over time?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You typically receive periodic budget snapshots or cost reports that summarize original contract amounts, approved changes, allowances, and remaining contingency so you always know where you stand."
-      }
-    }
-  ],
+  "name": "How is the project budget reported to me over time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is the project budget reported to me over time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically receive periodic budget snapshots or cost reports that summarize original contract amounts, approved changes, allowances, and remaining contingency so you always know where you stand.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You typically receive periodic budget snapshots or cost reports that summarize original contract amounts, approved changes, allowances, and remaining contingenc"
 }

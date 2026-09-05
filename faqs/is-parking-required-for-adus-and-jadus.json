@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is parking required for ADUs and JADUs?",
-  "description": "Most jurisdictions do not require additional parking for ADUs/JADUs, especially when located within ½ mile of public transit, to encourage housing production.",
   "url": "https://lineworkdevelopment.com/faq/is-parking-required-for-adus-and-jadus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is parking required for ADUs and JADUs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most jurisdictions do not require additional parking for ADUs/JADUs, especially when located within ½ mile of public transit, to encourage housing production."
-      }
-    }
-  ],
+  "name": "Is parking required for ADUs and JADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is parking required for ADUs and JADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most jurisdictions do not require additional parking for ADUs/JADUs, especially when located within ½ mile of public transit, to encourage housing production.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Most jurisdictions do not require additional parking for ADUs/JADUs, especially when located within ½ mile of public transit, to encourage housing production."
 }

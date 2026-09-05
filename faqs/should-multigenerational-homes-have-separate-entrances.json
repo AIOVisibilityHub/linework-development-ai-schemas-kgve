@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should multigenerational homes have separate entrances?",
-  "description": "Yes, private entrances for suites or ADUs provide independence, reduce daily traffic through main living areas, and allow caregivers or visitors discreet access",
   "url": "https://lineworkdevelopment.com/faq/should-multigenerational-homes-have-separate-entrances",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should multigenerational homes have separate entrances?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, private entrances for suites or ADUs provide independence, reduce daily traffic through main living areas, and allow caregivers or visitors discreet access."
-      }
-    }
-  ],
+  "name": "Should multigenerational homes have separate entrances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should multigenerational homes have separate entrances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, private entrances for suites or ADUs provide independence, reduce daily traffic through main living areas, and allow caregivers or visitors discreet access.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, private entrances for suites or ADUs provide independence, reduce daily traffic through main living areas, and allow caregivers or visitors discreet access"
 }

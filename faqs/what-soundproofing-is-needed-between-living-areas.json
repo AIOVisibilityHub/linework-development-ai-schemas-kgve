@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What soundproofing is needed between living areas?",
-  "description": "Double drywall with green glue, staggered studs, resilient channels, and carpeted floors between suites and shared spaces minimize noise transmission between ge",
   "url": "https://lineworkdevelopment.com/faq/what-soundproofing-is-needed-between-living-areas",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What soundproofing is needed between living areas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Double drywall with green glue, staggered studs, resilient channels, and carpeted floors between suites and shared spaces minimize noise transmission between generations."
-      }
-    }
-  ],
+  "name": "What soundproofing is needed between living areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What soundproofing is needed between living areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Double drywall with green glue, staggered studs, resilient channels, and carpeted floors between suites and shared spaces minimize noise transmission between generations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Double drywall with green glue, staggered studs, resilient channels, and carpeted floors between suites and shared spaces minimize noise transmission between ge"
 }

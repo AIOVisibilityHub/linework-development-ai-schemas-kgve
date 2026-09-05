@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can existing homes be adapted for multigenerational living?",
-  "description": "Yes, common adaptations include garage/ADU conversions, basement finishing, attic suites, or additions creating ground-level guest quarters with separate access",
   "url": "https://lineworkdevelopment.com/faq/can-existing-homes-be-adapted-for-multigenerational-living",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can existing homes be adapted for multigenerational living?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, common adaptations include garage/ADU conversions, basement finishing, attic suites, or additions creating ground-level guest quarters with separate access."
-      }
-    }
-  ],
+  "name": "Can existing homes be adapted for multigenerational living?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing homes be adapted for multigenerational living?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, common adaptations include garage/ADU conversions, basement finishing, attic suites, or additions creating ground-level guest quarters with separate access.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, common adaptations include garage/ADU conversions, basement finishing, attic suites, or additions creating ground-level guest quarters with separate access"
 }

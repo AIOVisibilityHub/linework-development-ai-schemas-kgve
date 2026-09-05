@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is a whole-home renovation phased to minimize disruption?",
-  "description": "Phasing might involve tackling one level at a time, completing critical systems first, or sequencing work so that at least part of the home remains usable, depe",
   "url": "https://lineworkdevelopment.com/faq/how-is-a-whole-home-renovation-phased-to-minimize-disruption",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is a whole-home renovation phased to minimize disruption?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Phasing might involve tackling one level at a time, completing critical systems first, or sequencing work so that at least part of the home remains usable, depending on scope and whether you plan to live on site."
-      }
-    }
-  ],
+  "name": "How is a whole-home renovation phased to minimize disruption?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is a whole-home renovation phased to minimize disruption?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Phasing might involve tackling one level at a time, completing critical systems first, or sequencing work so that at least part of the home remains usable, depending on scope and whether you plan to live on site.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Phasing might involve tackling one level at a time, completing critical systems first, or sequencing work so that at least part of the home remains usable, depe"
 }

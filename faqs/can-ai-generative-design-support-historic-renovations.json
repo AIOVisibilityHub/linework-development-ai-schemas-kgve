@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can AI generative design support historic renovations?",
-  "description": "AI analyzes existing conditions, respects character-defining features, and generates sympathetic additions or interventions that meet preservation standards whi",
   "url": "https://lineworkdevelopment.com/faq/can-ai-generative-design-support-historic-renovations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can AI generative design support historic renovations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI analyzes existing conditions, respects character-defining features, and generates sympathetic additions or interventions that meet preservation standards while improving performance. digitalbluefoam​"
-      }
-    }
-  ],
+  "name": "Can AI generative design support historic renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can AI generative design support historic renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI analyzes existing conditions, respects character-defining features, and generates sympathetic additions or interventions that meet preservation standards while improving performance. digitalbluefoam​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "AI analyzes existing conditions, respects character-defining features, and generates sympathetic additions or interventions that meet preservation standards whi"
 }

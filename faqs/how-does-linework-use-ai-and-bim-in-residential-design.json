@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does LineWork use AI and BIM in residential design?",
-  "description": "We leverage AI-driven generative design and Building Information Modeling (BIM) to optimize floor plans, improve accuracy, support code compliance, and explore",
   "url": "https://lineworkdevelopment.com/faq/how-does-linework-use-ai-and-bim-in-residential-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does LineWork use AI and BIM in residential design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We leverage AI-driven generative design and Building Information Modeling (BIM) to optimize floor plans, improve accuracy, support code compliance, and explore design options more efficiently for renovations, additions, and new builds."
-      }
-    }
-  ],
+  "name": "How does LineWork use AI and BIM in residential design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does LineWork use AI and BIM in residential design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We leverage AI-driven generative design and Building Information Modeling (BIM) to optimize floor plans, improve accuracy, support code compliance, and explore design options more efficiently for renovations, additions, and new builds.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We leverage AI-driven generative design and Building Information Modeling (BIM) to optimize floor plans, improve accuracy, support code compliance, and explore"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the main layout types for multigenerational homes?",
-  "description": "Common layouts include in-law suites, attached ADUs, separate wings with private entrances, main-level guest quarters, or flexible bonus spaces that convert to",
   "url": "https://lineworkdevelopment.com/faq/what-are-the-main-layout-types-for-multigenerational-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the main layout types for multigenerational homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common layouts include in-law suites, attached ADUs, separate wings with private entrances, main-level guest quarters, or flexible bonus spaces that convert to independent living areas."
-      }
-    }
-  ],
+  "name": "What are the main layout types for multigenerational homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main layout types for multigenerational homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common layouts include in-law suites, attached ADUs, separate wings with private entrances, main-level guest quarters, or flexible bonus spaces that convert to independent living areas.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Common layouts include in-law suites, attached ADUs, separate wings with private entrances, main-level guest quarters, or flexible bonus spaces that convert to"
 }

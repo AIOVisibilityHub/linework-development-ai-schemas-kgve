@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What decisions should I make early in the design process?",
-  "description": "Early decisions should cover overall layout, locations of kitchens and bathrooms, major structural changes, window and door configurations, and mechanical strat",
   "url": "https://lineworkdevelopment.com/faq/what-decisions-should-i-make-early-in-the-design-process",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What decisions should I make early in the design process?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Early decisions should cover overall layout, locations of kitchens and bathrooms, major structural changes, window and door configurations, and mechanical strategies, as these have big cost and schedule implications."
-      }
-    }
-  ],
+  "name": "What decisions should I make early in the design process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What decisions should I make early in the design process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Early decisions should cover overall layout, locations of kitchens and bathrooms, major structural changes, window and door configurations, and mechanical strategies, as these have big cost and schedule implications.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Early decisions should cover overall layout, locations of kitchens and bathrooms, major structural changes, window and door configurations, and mechanical strat"
 }

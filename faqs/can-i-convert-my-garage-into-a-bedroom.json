@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I convert my garage into a bedroom?",
-  "description": "Yes, but bedrooms need emergency egress windows (min 5.7 sq ft opening, 20\" wide x 24\" high, sill ≤44\" above floor) and cannot have openings directly into remai",
   "url": "https://lineworkdevelopment.com/faq/can-i-convert-my-garage-into-a-bedroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I convert my garage into a bedroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but bedrooms need emergency egress windows (min 5.7 sq ft opening, 20\" wide x 24\" high, sill ≤44\" above floor) and cannot have openings directly into remaining garage space."
-      }
-    }
-  ],
+  "name": "Can I convert my garage into a bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage into a bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but bedrooms need emergency egress windows (min 5.7 sq ft opening, 20\" wide x 24\" high, sill ≤44\" above floor) and cannot have openings directly into remaining garage space.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, but bedrooms need emergency egress windows (min 5.7 sq ft opening, 20\" wide x 24\" high, sill ≤44\" above floor) and cannot have openings directly into remai"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common surprises uncovered during a whole-home renovation?",
-  "description": "Hidden issues can include outdated wiring, undersized or damaged plumbing, structural deficiencies, moisture damage, inadequate insulation, and previous unpermi",
   "url": "https://lineworkdevelopment.com/faq/what-are-common-surprises-uncovered-during-a-whole-home-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common surprises uncovered during a whole-home renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hidden issues can include outdated wiring, undersized or damaged plumbing, structural deficiencies, moisture damage, inadequate insulation, and previous unpermitted work that must be brought up to code."
-      }
-    }
-  ],
+  "name": "What are common surprises uncovered during a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common surprises uncovered during a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hidden issues can include outdated wiring, undersized or damaged plumbing, structural deficiencies, moisture damage, inadequate insulation, and previous unpermitted work that must be brought up to code.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Hidden issues can include outdated wiring, undersized or damaged plumbing, structural deficiencies, moisture damage, inadequate insulation, and previous unpermi"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Why do I need a dedicated project manager for my remodel or new build?",
-  "description": "A project manager acts as your single point of contact, coordinating all moving parts so you do not have to manage contractors, schedules, and issues yourself,",
   "url": "https://lineworkdevelopment.com/faq/why-do-i-need-a-dedicated-project-manager-for-my-remodel-or-new-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Why do I need a dedicated project manager for my remodel or new build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A project manager acts as your single point of contact, coordinating all moving parts so you do not have to manage contractors, schedules, and issues yourself, reducing stress, delays, and costly mistakes."
-      }
-    }
-  ],
+  "name": "Why do I need a dedicated project manager for my remodel or new build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need a dedicated project manager for my remodel or new build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A project manager acts as your single point of contact, coordinating all moving parts so you do not have to manage contractors, schedules, and issues yourself, reducing stress, delays, and costly mistakes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A project manager acts as your single point of contact, coordinating all moving parts so you do not have to manage contractors, schedules, and issues yourself,"
 }

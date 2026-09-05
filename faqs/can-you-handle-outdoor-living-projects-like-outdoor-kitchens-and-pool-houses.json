@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you handle outdoor living projects like outdoor kitchens and pool houses?",
-  "description": "Yes, we design and build outdoor kitchens, pool houses, and related outdoor living spaces that coordinate with your main home and suit Southern California’s cli",
   "url": "https://lineworkdevelopment.com/faq/can-you-handle-outdoor-living-projects-like-outdoor-kitchens-and-pool-houses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you handle outdoor living projects like outdoor kitchens and pool houses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, we design and build outdoor kitchens, pool houses, and related outdoor living spaces that coordinate with your main home and suit Southern California’s climate and lifestyle. houzz​"
-      }
-    }
-  ],
+  "name": "Can you handle outdoor living projects like outdoor kitchens and pool houses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you handle outdoor living projects like outdoor kitchens and pool houses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we design and build outdoor kitchens, pool houses, and related outdoor living spaces that coordinate with your main home and suit Southern California’s climate and lifestyle. houzz​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, we design and build outdoor kitchens, pool houses, and related outdoor living spaces that coordinate with your main home and suit Southern California’s cli"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is considered a whole-home renovation?",
-  "description": "A whole-home renovation typically involves updating or reconfiguring most or all major areas of the house—layout, finishes, systems, and sometimes structure—rat",
   "url": "https://lineworkdevelopment.com/faq/what-is-considered-a-whole-home-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is considered a whole-home renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A whole-home renovation typically involves updating or reconfiguring most or all major areas of the house—layout, finishes, systems, and sometimes structure—rather than focusing on a single room or small area."
-      }
-    }
-  ],
+  "name": "What is considered a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home renovation typically involves updating or reconfiguring most or all major areas of the house—layout, finishes, systems, and sometimes structure—rather than focusing on a single room or small area.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A whole-home renovation typically involves updating or reconfiguring most or all major areas of the house—layout, finishes, systems, and sometimes structure—rat"
 }

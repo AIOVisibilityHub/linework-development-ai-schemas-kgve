@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a plan check, and how do I prepare for it?",
-  "description": "Plan check is when building officials review drawings for code compliance; thorough, complete, and well-organized submittals with code tables reduce review time",
   "url": "https://lineworkdevelopment.com/faq/what-is-a-plan-check-and-how-do-i-prepare-for-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a plan check, and how do I prepare for it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Plan check is when building officials review drawings for code compliance; thorough, complete, and well-organized submittals with code tables reduce review time and corrections."
-      }
-    }
-  ],
+  "name": "What is a plan check, and how do I prepare for it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a plan check, and how do I prepare for it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plan check is when building officials review drawings for code compliance; thorough, complete, and well-organized submittals with code tables reduce review time and corrections.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Plan check is when building officials review drawings for code compliance; thorough, complete, and well-organized submittals with code tables reduce review time"
 }

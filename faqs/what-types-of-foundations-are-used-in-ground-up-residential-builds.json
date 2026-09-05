@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of foundations are used in ground-up residential builds?",
-  "description": "Common foundation types include slab-on-grade, raised perimeter or crawlspace foundations, and full basements, selected based on soil conditions, local climate,",
   "url": "https://lineworkdevelopment.com/faq/what-types-of-foundations-are-used-in-ground-up-residential-builds",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of foundations are used in ground-up residential builds?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common foundation types include slab-on-grade, raised perimeter or crawlspace foundations, and full basements, selected based on soil conditions, local climate, codes, and design goals. directsteelllc+1"
-      }
-    }
-  ],
+  "name": "What types of foundations are used in ground-up residential builds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of foundations are used in ground-up residential builds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common foundation types include slab-on-grade, raised perimeter or crawlspace foundations, and full basements, selected based on soil conditions, local climate, codes, and design goals. directsteelllc+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Common foundation types include slab-on-grade, raised perimeter or crawlspace foundations, and full basements, selected based on soil conditions, local climate,"
 }

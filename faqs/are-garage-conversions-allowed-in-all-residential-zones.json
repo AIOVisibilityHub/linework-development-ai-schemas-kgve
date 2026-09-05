@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are garage conversions allowed in all residential zones?",
-  "description": "Yes in single-family zones with existing house; some areas restrict based on lot size (<7,000 sq ft may need parking review) or historic districts.",
   "url": "https://lineworkdevelopment.com/faq/are-garage-conversions-allowed-in-all-residential-zones",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are garage conversions allowed in all residential zones?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes in single-family zones with existing house; some areas restrict based on lot size (<7,000 sq ft may need parking review) or historic districts."
-      }
-    }
-  ],
+  "name": "Are garage conversions allowed in all residential zones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are garage conversions allowed in all residential zones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes in single-family zones with existing house; some areas restrict based on lot size (<7,000 sq ft may need parking review) or historic districts.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes in single-family zones with existing house; some areas restrict based on lot size (<7,000 sq ft may need parking review) or historic districts."
 }

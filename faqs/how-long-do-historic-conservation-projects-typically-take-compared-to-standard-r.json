@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long do historic conservation projects typically take compared to standard remodels?",
-  "description": "Historic projects often take longer because of additional design review, permitting, careful demolition, and specialized repair techniques. Discovery of hidden",
   "url": "https://lineworkdevelopment.com/faq/how-long-do-historic-conservation-projects-typically-take-compared-to-standard-r",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long do historic conservation projects typically take compared to standard remodels?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Historic projects often take longer because of additional design review, permitting, careful demolition, and specialized repair techniques. Discovery of hidden conditions can also extend timelines, so building schedule flexibility into the plan is important."
-      }
-    }
-  ],
+  "name": "How long do historic conservation projects typically take compared to standard remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long do historic conservation projects typically take compared to standard remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic projects often take longer because of additional design review, permitting, careful demolition, and specialized repair techniques. Discovery of hidden conditions can also extend timelines, so building schedule flexibility into the plan is important.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Historic projects often take longer because of additional design review, permitting, careful demolition, and specialized repair techniques. Discovery of hidden"
 }

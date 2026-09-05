@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to own the property to build an ADU?",
-  "description": "Yes, ADUs/JADUs require property ownership or legal control; they cannot be built speculatively without a primary residence on the lot.",
   "url": "https://lineworkdevelopment.com/faq/do-i-need-to-own-the-property-to-build-an-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to own the property to build an ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, ADUs/JADUs require property ownership or legal control; they cannot be built speculatively without a primary residence on the lot."
-      }
-    }
-  ],
+  "name": "Do I need to own the property to build an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to own the property to build an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, ADUs/JADUs require property ownership or legal control; they cannot be built speculatively without a primary residence on the lot.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, ADUs/JADUs require property ownership or legal control; they cannot be built speculatively without a primary residence on the lot."
 }

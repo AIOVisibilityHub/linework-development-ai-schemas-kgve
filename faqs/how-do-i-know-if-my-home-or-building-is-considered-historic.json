@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my home or building is considered “historic”?",
-  "description": "A property is often considered historic if it is listed on a local, state, or national register, or is located within a designated historic district. Age alone",
   "url": "https://lineworkdevelopment.com/faq/how-do-i-know-if-my-home-or-building-is-considered-historic",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my home or building is considered “historic”?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A property is often considered historic if it is listed on a local, state, or national register, or is located within a designated historic district. Age alone is not enough; significance in architecture, history, or association with important people or events also matters. Checking with your local planning or preservation office is the best first step."
-      }
-    }
-  ],
+  "name": "How do I know if my home or building is considered “historic”?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home or building is considered “historic”?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A property is often considered historic if it is listed on a local, state, or national register, or is located within a designated historic district. Age alone is not enough; significance in architecture, history, or association with important people or events also matters. Checking with your local planning or preservation office is the best first step.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A property is often considered historic if it is listed on a local, state, or national register, or is located within a designated historic district. Age alone"
 }

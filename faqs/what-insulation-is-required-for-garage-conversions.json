@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What insulation is required for garage conversions?",
-  "description": "Walls, ceiling, and floor must meet California Energy Code (R-19 walls, R-38 ceiling, R-10 slab edge typical); vapor barriers prevent moisture from concrete sla",
   "url": "https://lineworkdevelopment.com/faq/what-insulation-is-required-for-garage-conversions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What insulation is required for garage conversions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Walls, ceiling, and floor must meet California Energy Code (R-19 walls, R-38 ceiling, R-10 slab edge typical); vapor barriers prevent moisture from concrete slab."
-      }
-    }
-  ],
+  "name": "What insulation is required for garage conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What insulation is required for garage conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walls, ceiling, and floor must meet California Energy Code (R-19 walls, R-38 ceiling, R-10 slab edge typical); vapor barriers prevent moisture from concrete slab.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Walls, ceiling, and floor must meet California Energy Code (R-19 walls, R-38 ceiling, R-10 slab edge typical); vapor barriers prevent moisture from concrete sla"
 }

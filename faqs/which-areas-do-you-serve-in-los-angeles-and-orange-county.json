@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Which areas do you serve in Los Angeles and Orange County?",
-  "description": "We primarily serve Pasadena, South Pasadena, San Marino, La Canada, San Gabriel, Beverly Hills, Brentwood, Santa Monica, Hollywood, Burbank, Glendale, Culver Ci",
   "url": "https://lineworkdevelopment.com/faq/which-areas-do-you-serve-in-los-angeles-and-orange-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Which areas do you serve in Los Angeles and Orange County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We primarily serve Pasadena, South Pasadena, San Marino, La Canada, San Gabriel, Beverly Hills, Brentwood, Santa Monica, Hollywood, Burbank, Glendale, Culver City, Century City, Mar Vista, Sherman Oaks, Woodland Hills, and Calabasas, along with nearby neighborhoods in Los Angeles and Orange Counties. houzz+1"
-      }
-    }
-  ],
+  "name": "Which areas do you serve in Los Angeles and Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Which areas do you serve in Los Angeles and Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily serve Pasadena, South Pasadena, San Marino, La Canada, San Gabriel, Beverly Hills, Brentwood, Santa Monica, Hollywood, Burbank, Glendale, Culver City, Century City, Mar Vista, Sherman Oaks, Woodland Hills, and Calabasas, along with nearby neighborhoods in Los Angeles and Orange Counties. houzz+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We primarily serve Pasadena, South Pasadena, San Marino, La Canada, San Gabriel, Beverly Hills, Brentwood, Santa Monica, Hollywood, Burbank, Glendale, Culver Ci"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What makes a “sympathetic” addition or alteration to a historic building?",
-  "description": "A sympathetic intervention respects the original building’s scale, proportions, roof forms, and materials while remaining visually distinguishable as new work.",
   "url": "https://lineworkdevelopment.com/faq/what-makes-a-sympathetic-addition-or-alteration-to-a-historic-building",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What makes a “sympathetic” addition or alteration to a historic building?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A sympathetic intervention respects the original building’s scale, proportions, roof forms, and materials while remaining visually distinguishable as new work. It should not overwhelm or mimic the historic portions, but rather read as a harmonious extension that preserves the primary facades and character."
-      }
-    }
-  ],
+  "name": "What makes a “sympathetic” addition or alteration to a historic building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a “sympathetic” addition or alteration to a historic building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sympathetic intervention respects the original building’s scale, proportions, roof forms, and materials while remaining visually distinguishable as new work. It should not overwhelm or mimic the historic portions, but rather read as a harmonious extension that preserves the primary facades and character.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A sympathetic intervention respects the original building’s scale, proportions, roof forms, and materials while remaining visually distinguishable as new work."
 }

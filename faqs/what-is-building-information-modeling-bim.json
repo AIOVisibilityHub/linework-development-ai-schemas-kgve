@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is Building Information Modeling (BIM)?",
-  "description": "BIM is a digital 3D model that contains detailed building data—including geometry, materials, systems, and schedules—enabling real-time collaboration, clash det",
   "url": "https://lineworkdevelopment.com/faq/what-is-building-information-modeling-bim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is Building Information Modeling (BIM)?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "BIM is a digital 3D model that contains detailed building data—including geometry, materials, systems, and schedules—enabling real-time collaboration, clash detection, and lifecycle management beyond just design. autodesk​"
-      }
-    }
-  ],
+  "name": "What is Building Information Modeling (BIM)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is Building Information Modeling (BIM)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "BIM is a digital 3D model that contains detailed building data—including geometry, materials, systems, and schedules—enabling real-time collaboration, clash detection, and lifecycle management beyond just design. autodesk​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "BIM is a digital 3D model that contains detailed building data—including geometry, materials, systems, and schedules—enabling real-time collaboration, clash det"
 }

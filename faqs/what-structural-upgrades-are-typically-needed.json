@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What structural upgrades are typically needed?",
-  "description": "Garage foundations may need retrofit for habitable loads; walls require additional framing/insulation; roof may need upgrading if attic space is conditioned.",
   "url": "https://lineworkdevelopment.com/faq/what-structural-upgrades-are-typically-needed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What structural upgrades are typically needed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Garage foundations may need retrofit for habitable loads; walls require additional framing/insulation; roof may need upgrading if attic space is conditioned."
-      }
-    }
-  ],
+  "name": "What structural upgrades are typically needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What structural upgrades are typically needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage foundations may need retrofit for habitable loads; walls require additional framing/insulation; roof may need upgrading if attic space is conditioned.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Garage foundations may need retrofit for habitable loads; walls require additional framing/insulation; roof may need upgrading if attic space is conditioned."
 }

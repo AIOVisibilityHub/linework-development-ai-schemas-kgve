@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is the budget for a whole-home renovation developed?",
-  "description": "The budget is built by matching your priorities to realistic cost ranges, then refining numbers as the design progresses, major selections are made, and key tra",
   "url": "https://lineworkdevelopment.com/faq/how-is-the-budget-for-a-whole-home-renovation-developed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is the budget for a whole-home renovation developed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The budget is built by matching your priorities to realistic cost ranges, then refining numbers as the design progresses, major selections are made, and key trades provide input or preliminary pricing."
-      }
-    }
-  ],
+  "name": "How is the budget for a whole-home renovation developed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is the budget for a whole-home renovation developed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The budget is built by matching your priorities to realistic cost ranges, then refining numbers as the design progresses, major selections are made, and key trades provide input or preliminary pricing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The budget is built by matching your priorities to realistic cost ranges, then refining numbers as the design progresses, major selections are made, and key tra"
 }

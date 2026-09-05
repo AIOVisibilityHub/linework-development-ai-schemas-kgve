@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I get started with a ground-up home project?",
-  "description": "The first steps are clarifying budget and goals, evaluating your lot or potential sites, engaging a qualified design or design-build team, and beginning feasibi",
   "url": "https://lineworkdevelopment.com/faq/how-do-i-get-started-with-a-ground-up-home-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I get started with a ground-up home project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The first steps are clarifying budget and goals, evaluating your lot or potential sites, engaging a qualified design or design-build team, and beginning feasibility and concept design before moving into detailed plans and permitting. rsvc+2"
-      }
-    }
-  ],
+  "name": "How do I get started with a ground-up home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get started with a ground-up home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps are clarifying budget and goals, evaluating your lot or potential sites, engaging a qualified design or design-build team, and beginning feasibility and concept design before moving into detailed plans and permitting. rsvc+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The first steps are clarifying budget and goals, evaluating your lot or potential sites, engaging a qualified design or design-build team, and beginning feasibi"
 }

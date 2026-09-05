@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose finishes, colors, and fixtures appropriate to my home’s era?",
-  "description": "Researching period photographs, historic paint catalogs, and architectural style guides can help narrow down appropriate palettes and details. Many owners combi",
   "url": "https://lineworkdevelopment.com/faq/how-do-i-choose-finishes-colors-and-fixtures-appropriate-to-my-home-s-era",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose finishes, colors, and fixtures appropriate to my home’s era?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Researching period photographs, historic paint catalogs, and architectural style guides can help narrow down appropriate palettes and details. Many owners combine historically informed colors and fixtures on key surfaces with subtle contemporary touches to support modern living."
-      }
-    }
-  ],
+  "name": "How do I choose finishes, colors, and fixtures appropriate to my home’s era?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose finishes, colors, and fixtures appropriate to my home’s era?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Researching period photographs, historic paint catalogs, and architectural style guides can help narrow down appropriate palettes and details. Many owners combine historically informed colors and fixtures on key surfaces with subtle contemporary touches to support modern living.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Researching period photographs, historic paint catalogs, and architectural style guides can help narrow down appropriate palettes and details. Many owners combi"
 }

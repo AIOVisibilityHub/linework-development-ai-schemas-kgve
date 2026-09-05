@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the first steps in planning a whole-home renovation?",
-  "description": "The first steps are clarifying your goals and budget, documenting existing conditions, and working with a designer or design-build firm to create a master plan",
   "url": "https://lineworkdevelopment.com/faq/what-are-the-first-steps-in-planning-a-whole-home-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the first steps in planning a whole-home renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The first steps are clarifying your goals and budget, documenting existing conditions, and working with a designer or design-build firm to create a master plan that phases work and aligns scope with costs."
-      }
-    }
-  ],
+  "name": "What are the first steps in planning a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps in planning a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps are clarifying your goals and budget, documenting existing conditions, and working with a designer or design-build firm to create a master plan that phases work and aligns scope with costs.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The first steps are clarifying your goals and budget, documenting existing conditions, and working with a designer or design-build firm to create a master plan"
 }

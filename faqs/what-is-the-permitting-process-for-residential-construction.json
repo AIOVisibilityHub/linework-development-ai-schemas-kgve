@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the permitting process for residential construction?",
-  "description": "Permitting involves submitting drawings and forms to the building department for plan check, addressing comments, paying fees, and receiving approval before wor",
   "url": "https://lineworkdevelopment.com/faq/what-is-the-permitting-process-for-residential-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the permitting process for residential construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Permitting involves submitting drawings and forms to the building department for plan check, addressing comments, paying fees, and receiving approval before work can legally start."
-      }
-    }
-  ],
+  "name": "What is the permitting process for residential construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the permitting process for residential construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permitting involves submitting drawings and forms to the building department for plan check, addressing comments, paying fees, and receiving approval before work can legally start.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Permitting involves submitting drawings and forms to the building department for plan check, addressing comments, paying fees, and receiving approval before wor"
 }

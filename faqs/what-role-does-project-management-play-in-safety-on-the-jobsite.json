@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What role does project management play in safety on the jobsite?",
-  "description": "The project manager reinforces safety expectations, monitors site conditions, ensures trades follow regulations, and coordinates access so the site remains safe",
   "url": "https://lineworkdevelopment.com/faq/what-role-does-project-management-play-in-safety-on-the-jobsite",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What role does project management play in safety on the jobsite?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The project manager reinforces safety expectations, monitors site conditions, ensures trades follow regulations, and coordinates access so the site remains safe for workers and occupants."
-      }
-    }
-  ],
+  "name": "What role does project management play in safety on the jobsite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What role does project management play in safety on the jobsite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The project manager reinforces safety expectations, monitors site conditions, ensures trades follow regulations, and coordinates access so the site remains safe for workers and occupants.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The project manager reinforces safety expectations, monitors site conditions, ensures trades follow regulations, and coordinates access so the site remains safe"
 }

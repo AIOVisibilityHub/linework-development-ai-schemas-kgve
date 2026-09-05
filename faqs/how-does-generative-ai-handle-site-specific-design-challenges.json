@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does generative AI handle site-specific design challenges?",
-  "description": "AI factors in topography, solar orientation, views, wind patterns, and microclimate data to generate site-optimized designs that maximize passive performance an",
   "url": "https://lineworkdevelopment.com/faq/how-does-generative-ai-handle-site-specific-design-challenges",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does generative AI handle site-specific design challenges?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI factors in topography, solar orientation, views, wind patterns, and microclimate data to generate site-optimized designs that maximize passive performance and livability. digitalbluefoam+1"
-      }
-    }
-  ],
+  "name": "How does generative AI handle site-specific design challenges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does generative AI handle site-specific design challenges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI factors in topography, solar orientation, views, wind patterns, and microclimate data to generate site-optimized designs that maximize passive performance and livability. digitalbluefoam+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "AI factors in topography, solar orientation, views, wind patterns, and microclimate data to generate site-optimized designs that maximize passive performance an"
 }

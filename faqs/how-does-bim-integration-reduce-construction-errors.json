@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does BIM integration reduce construction errors?",
-  "description": "By providing precise 3D coordination and embedded specs, BIM catches issues pre-construction, minimizing costly field fixes, rework, and delays from misaligned",
   "url": "https://lineworkdevelopment.com/faq/how-does-bim-integration-reduce-construction-errors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does BIM integration reduce construction errors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "By providing precise 3D coordination and embedded specs, BIM catches issues pre-construction, minimizing costly field fixes, rework, and delays from misaligned trades. autodesk​"
-      }
-    }
-  ],
+  "name": "How does BIM integration reduce construction errors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does BIM integration reduce construction errors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "By providing precise 3D coordination and embedded specs, BIM catches issues pre-construction, minimizing costly field fixes, rework, and delays from misaligned trades. autodesk​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "By providing precise 3D coordination and embedded specs, BIM catches issues pre-construction, minimizing costly field fixes, rework, and delays from misaligned"
 }

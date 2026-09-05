@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you coordinate interior design across generations?",
-  "description": "Neutral shared-space palettes with bold accent walls in private suites, flexible furniture, and quality materials that age gracefully appeal to diverse tastes.",
   "url": "https://lineworkdevelopment.com/faq/how-do-you-coordinate-interior-design-across-generations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you coordinate interior design across generations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Neutral shared-space palettes with bold accent walls in private suites, flexible furniture, and quality materials that age gracefully appeal to diverse tastes."
-      }
-    }
-  ],
+  "name": "How do you coordinate interior design across generations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you coordinate interior design across generations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Neutral shared-space palettes with bold accent walls in private suites, flexible furniture, and quality materials that age gracefully appeal to diverse tastes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Neutral shared-space palettes with bold accent walls in private suites, flexible furniture, and quality materials that age gracefully appeal to diverse tastes."
 }

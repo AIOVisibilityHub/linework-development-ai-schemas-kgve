@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What construction site security measures do you use?",
-  "description": "We can integrate AI-enabled surveillance and monitoring solutions to help deter theft and vandalism, which is especially important on high-value residential pro",
   "url": "https://lineworkdevelopment.com/faq/what-construction-site-security-measures-do-you-use",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What construction site security measures do you use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We can integrate AI-enabled surveillance and monitoring solutions to help deter theft and vandalism, which is especially important on high-value residential projects in busy urban markets."
-      }
-    }
-  ],
+  "name": "What construction site security measures do you use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What construction site security measures do you use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We can integrate AI-enabled surveillance and monitoring solutions to help deter theft and vandalism, which is especially important on high-value residential projects in busy urban markets.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We can integrate AI-enabled surveillance and monitoring solutions to help deter theft and vandalism, which is especially important on high-value residential pro"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of residential projects do you specialize in?",
-  "description": "We focus on home remodeling, additions, ADUs/JADUs, ground-up construction, and whole-home renovations, with a strong emphasis on thoughtful residential design",
   "url": "https://lineworkdevelopment.com/faq/what-types-of-residential-projects-do-you-specialize-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of residential projects do you specialize in?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We focus on home remodeling, additions, ADUs/JADUs, ground-up construction, and whole-home renovations, with a strong emphasis on thoughtful residential design for Southern California living. lineworkdevelopment+1"
-      }
-    }
-  ],
+  "name": "What types of residential projects do you specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of residential projects do you specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We focus on home remodeling, additions, ADUs/JADUs, ground-up construction, and whole-home renovations, with a strong emphasis on thoughtful residential design for Southern California living. lineworkdevelopment+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We focus on home remodeling, additions, ADUs/JADUs, ground-up construction, and whole-home renovations, with a strong emphasis on thoughtful residential design"
 }

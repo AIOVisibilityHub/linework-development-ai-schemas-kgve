@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I phase the work if I can’t afford to restore everything at once?",
-  "description": "A phased approach typically starts with structural stability, water management, and building envelope repairs before addressing interiors and finishes. Prioriti",
   "url": "https://lineworkdevelopment.com/faq/how-can-i-phase-the-work-if-i-can-t-afford-to-restore-everything-at-once",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I phase the work if I can’t afford to restore everything at once?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A phased approach typically starts with structural stability, water management, and building envelope repairs before addressing interiors and finishes. Prioritizing critical preservation tasks and creating a long-range plan lets you protect the building while spreading costs over time."
-      }
-    }
-  ],
+  "name": "How can I phase the work if I can’t afford to restore everything at once?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I phase the work if I can’t afford to restore everything at once?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A phased approach typically starts with structural stability, water management, and building envelope repairs before addressing interiors and finishes. Prioritizing critical preservation tasks and creating a long-range plan lets you protect the building while spreading costs over time.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A phased approach typically starts with structural stability, water management, and building envelope repairs before addressing interiors and finishes. Prioriti"
 }

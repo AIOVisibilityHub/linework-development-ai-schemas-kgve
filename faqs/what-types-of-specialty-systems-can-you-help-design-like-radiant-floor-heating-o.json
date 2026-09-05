@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of specialty systems can you help design, like radiant floor heating or rooftop decks?",
-  "description": "We plan and coordinate specialty systems such as radiant floor heating and rooftop decks using simulations and best practices to ensure comfort, performance, an",
   "url": "https://lineworkdevelopment.com/faq/what-types-of-specialty-systems-can-you-help-design-like-radiant-floor-heating-o",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of specialty systems can you help design, like radiant floor heating or rooftop decks?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We plan and coordinate specialty systems such as radiant floor heating and rooftop decks using simulations and best practices to ensure comfort, performance, and structural integrity."
-      }
-    }
-  ],
+  "name": "What types of specialty systems can you help design, like radiant floor heating or rooftop decks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of specialty systems can you help design, like radiant floor heating or rooftop decks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We plan and coordinate specialty systems such as radiant floor heating and rooftop decks using simulations and best practices to ensure comfort, performance, and structural integrity.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We plan and coordinate specialty systems such as radiant floor heating and rooftop decks using simulations and best practices to ensure comfort, performance, an"
 }

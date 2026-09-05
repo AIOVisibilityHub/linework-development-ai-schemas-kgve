@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What water conservation features are common in green homes?",
-  "description": "Low-flow fixtures, dual-flush toilets, greywater systems, rainwater harvesting, drought-tolerant landscaping, and smart irrigation controllers can cut water use",
   "url": "https://lineworkdevelopment.com/faq/what-water-conservation-features-are-common-in-green-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What water conservation features are common in green homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Low-flow fixtures, dual-flush toilets, greywater systems, rainwater harvesting, drought-tolerant landscaping, and smart irrigation controllers can cut water use by 40-60%. wbdg​"
-      }
-    }
-  ],
+  "name": "What water conservation features are common in green homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What water conservation features are common in green homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low-flow fixtures, dual-flush toilets, greywater systems, rainwater harvesting, drought-tolerant landscaping, and smart irrigation controllers can cut water use by 40-60%. wbdg​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Low-flow fixtures, dual-flush toilets, greywater systems, rainwater harvesting, drought-tolerant landscaping, and smart irrigation controllers can cut water use"
 }

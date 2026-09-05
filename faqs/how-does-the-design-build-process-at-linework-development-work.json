@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does the design-build process at LineWork Development work?",
-  "description": "We provide a single point of contact from concept to completion, integrating architectural design, permitting, and construction under one roof. This streamlines",
   "url": "https://lineworkdevelopment.com/faq/how-does-the-design-build-process-at-linework-development-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does the design-build process at LineWork Development work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We provide a single point of contact from concept to completion, integrating architectural design, permitting, and construction under one roof. This streamlines communication, reduces delays, and keeps your project aligned with budget and schedule. lineworkdevelopment+1"
-      }
-    }
-  ],
+  "name": "How does the design-build process at LineWork Development work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does the design-build process at LineWork Development work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide a single point of contact from concept to completion, integrating architectural design, permitting, and construction under one roof. This streamlines communication, reduces delays, and keeps your project aligned with budget and schedule. lineworkdevelopment+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We provide a single point of contact from concept to completion, integrating architectural design, permitting, and construction under one roof. This streamlines"
 }

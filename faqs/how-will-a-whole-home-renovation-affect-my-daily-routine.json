@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How will a whole-home renovation affect my daily routine?",
-  "description": "Expect noise, dust, and periodic utility interruptions, as well as limited access to certain rooms; a clear communication plan and temporary setups for kitchen",
   "url": "https://lineworkdevelopment.com/faq/how-will-a-whole-home-renovation-affect-my-daily-routine",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How will a whole-home renovation affect my daily routine?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Expect noise, dust, and periodic utility interruptions, as well as limited access to certain rooms; a clear communication plan and temporary setups for kitchen and bathing functions help manage day-to-day life."
-      }
-    }
-  ],
+  "name": "How will a whole-home renovation affect my daily routine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How will a whole-home renovation affect my daily routine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expect noise, dust, and periodic utility interruptions, as well as limited access to certain rooms; a clear communication plan and temporary setups for kitchen and bathing functions help manage day-to-day life.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Expect noise, dust, and periodic utility interruptions, as well as limited access to certain rooms; a clear communication plan and temporary setups for kitchen"
 }

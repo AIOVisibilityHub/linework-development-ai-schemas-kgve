@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do architectural drawings coordinate with engineering plans?",
-  "description": "Architects provide the overall layout and dimensions; engineers overlay structural, mechanical, electrical, and plumbing systems to create a complete buildable",
   "url": "https://lineworkdevelopment.com/faq/how-do-architectural-drawings-coordinate-with-engineering-plans",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do architectural drawings coordinate with engineering plans?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Architects provide the overall layout and dimensions; engineers overlay structural, mechanical, electrical, and plumbing systems to create a complete buildable set."
-      }
-    }
-  ],
+  "name": "How do architectural drawings coordinate with engineering plans?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do architectural drawings coordinate with engineering plans?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architects provide the overall layout and dimensions; engineers overlay structural, mechanical, electrical, and plumbing systems to create a complete buildable set.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Architects provide the overall layout and dimensions; engineers overlay structural, mechanical, electrical, and plumbing systems to create a complete buildable"
 }

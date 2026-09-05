@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I get started with LineWork Development?",
-  "description": "You can contact us by phone or email to schedule an initial consultation, where we review your goals, property, and budget and outline next steps for design and",
   "url": "https://lineworkdevelopment.com/faq/how-do-i-get-started-with-linework-development",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I get started with LineWork Development?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can contact us by phone or email to schedule an initial consultation, where we review your goals, property, and budget and outline next steps for design and construction. houzz+1"
-      }
-    }
-  ],
+  "name": "How do I get started with LineWork Development?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get started with LineWork Development?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can contact us by phone or email to schedule an initial consultation, where we review your goals, property, and budget and outline next steps for design and construction. houzz+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You can contact us by phone or email to schedule an initial consultation, where we review your goals, property, and budget and outline next steps for design and"
 }

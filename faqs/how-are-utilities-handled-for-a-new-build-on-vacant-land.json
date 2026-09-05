@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How are utilities handled for a new build on vacant land?",
-  "description": "The team coordinates with local providers to bring in or upgrade water, sewer or septic, power, gas, communications, and sometimes stormwater systems, often as",
   "url": "https://lineworkdevelopment.com/faq/how-are-utilities-handled-for-a-new-build-on-vacant-land",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How are utilities handled for a new build on vacant land?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The team coordinates with local providers to bring in or upgrade water, sewer or septic, power, gas, communications, and sometimes stormwater systems, often as part of early site work. directsteelllc+2"
-      }
-    }
-  ],
+  "name": "How are utilities handled for a new build on vacant land?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How are utilities handled for a new build on vacant land?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The team coordinates with local providers to bring in or upgrade water, sewer or septic, power, gas, communications, and sometimes stormwater systems, often as part of early site work. directsteelllc+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The team coordinates with local providers to bring in or upgrade water, sewer or septic, power, gas, communications, and sometimes stormwater systems, often as"
 }

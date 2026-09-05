@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can the same drawings be used for bidding and permitting?",
-  "description": "Yes, construction documents serve both purposes—detailed enough for accurate contractor pricing while meeting permitting requirements for code compliance and sa",
   "url": "https://lineworkdevelopment.com/faq/can-the-same-drawings-be-used-for-bidding-and-permitting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can the same drawings be used for bidding and permitting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, construction documents serve both purposes—detailed enough for accurate contractor pricing while meeting permitting requirements for code compliance and safety."
-      }
-    }
-  ],
+  "name": "Can the same drawings be used for bidding and permitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can the same drawings be used for bidding and permitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, construction documents serve both purposes—detailed enough for accurate contractor pricing while meeting permitting requirements for code compliance and safety.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, construction documents serve both purposes—detailed enough for accurate contractor pricing while meeting permitting requirements for code compliance and sa"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Is a building permit required for garage conversions?",
-  "description": "Yes, all garage conversions require building permits plus electrical, plumbing, and mechanical permits to ensure the space meets current residential standards f",
   "url": "https://lineworkdevelopment.com/faq/is-a-building-permit-required-for-garage-conversions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is a building permit required for garage conversions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, all garage conversions require building permits plus electrical, plumbing, and mechanical permits to ensure the space meets current residential standards for habitability and safety."
-      }
-    }
-  ],
+  "name": "Is a building permit required for garage conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Is a building permit required for garage conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, all garage conversions require building permits plus electrical, plumbing, and mechanical permits to ensure the space meets current residential standards for habitability and safety.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, all garage conversions require building permits plus electrical, plumbing, and mechanical permits to ensure the space meets current residential standards f"
 }

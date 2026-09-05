@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can multigenerational homes support aging-in-place?",
-  "description": "Yes, single-story ranches, elevator-ready shafts, accessible baths, and main-floor master suites allow seniors to remain independent without stairs or modificat",
   "url": "https://lineworkdevelopment.com/faq/can-multigenerational-homes-support-aging-in-place",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can multigenerational homes support aging-in-place?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, single-story ranches, elevator-ready shafts, accessible baths, and main-floor master suites allow seniors to remain independent without stairs or modifications."
-      }
-    }
-  ],
+  "name": "Can multigenerational homes support aging-in-place?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can multigenerational homes support aging-in-place?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, single-story ranches, elevator-ready shafts, accessible baths, and main-floor master suites allow seniors to remain independent without stairs or modifications.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, single-story ranches, elevator-ready shafts, accessible baths, and main-floor master suites allow seniors to remain independent without stairs or modificat"
 }

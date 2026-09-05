@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What professionals are typically involved in a ground-up residential project?",
-  "description": "A typical team includes an architect or design-build firm, structural and possibly civil engineers, a general contractor, specialty subcontractors, surveyors, a",
   "url": "https://lineworkdevelopment.com/faq/what-professionals-are-typically-involved-in-a-ground-up-residential-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What professionals are typically involved in a ground-up residential project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical team includes an architect or design-build firm, structural and possibly civil engineers, a general contractor, specialty subcontractors, surveyors, and sometimes geotechnical and landscape consultants. calahan+2"
-      }
-    }
-  ],
+  "name": "What professionals are typically involved in a ground-up residential project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What professionals are typically involved in a ground-up residential project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical team includes an architect or design-build firm, structural and possibly civil engineers, a general contractor, specialty subcontractors, surveyors, and sometimes geotechnical and landscape consultants. calahan+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A typical team includes an architect or design-build firm, structural and possibly civil engineers, a general contractor, specialty subcontractors, surveyors, a"
 }

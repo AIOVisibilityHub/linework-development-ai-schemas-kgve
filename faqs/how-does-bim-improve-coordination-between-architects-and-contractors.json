@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does BIM improve coordination between architects and contractors?",
-  "description": "BIM provides a shared, real-time 3D model with embedded data, allowing all team members to visualize clashes, track changes, and access schedules/materials info",
   "url": "https://lineworkdevelopment.com/faq/how-does-bim-improve-coordination-between-architects-and-contractors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does BIM improve coordination between architects and contractors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "BIM provides a shared, real-time 3D model with embedded data, allowing all team members to visualize clashes, track changes, and access schedules/materials info, reducing field errors and RFIs. autodesk​"
-      }
-    }
-  ],
+  "name": "How does BIM improve coordination between architects and contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does BIM improve coordination between architects and contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "BIM provides a shared, real-time 3D model with embedded data, allowing all team members to visualize clashes, track changes, and access schedules/materials info, reducing field errors and RFIs. autodesk​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "BIM provides a shared, real-time 3D model with embedded data, allowing all team members to visualize clashes, track changes, and access schedules/materials info"
 }

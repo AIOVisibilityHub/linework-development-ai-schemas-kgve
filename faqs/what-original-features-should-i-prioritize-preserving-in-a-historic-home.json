@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What original features should I prioritize preserving in a historic home?",
-  "description": "Key character-defining elements often include windows, doors, trim, staircases, built-ins, fireplaces, and distinctive exterior details like porches and cornice",
   "url": "https://lineworkdevelopment.com/faq/what-original-features-should-i-prioritize-preserving-in-a-historic-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What original features should I prioritize preserving in a historic home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Key character-defining elements often include windows, doors, trim, staircases, built-ins, fireplaces, and distinctive exterior details like porches and cornices. Preserving these features helps maintain the home’s authenticity and can be crucial for meeting local preservation guidelines or incentive requirements."
-      }
-    }
-  ],
+  "name": "What original features should I prioritize preserving in a historic home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What original features should I prioritize preserving in a historic home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key character-defining elements often include windows, doors, trim, staircases, built-ins, fireplaces, and distinctive exterior details like porches and cornices. Preserving these features helps maintain the home’s authenticity and can be crucial for meeting local preservation guidelines or incentive requirements.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Key character-defining elements often include windows, doors, trim, staircases, built-ins, fireplaces, and distinctive exterior details like porches and cornice"
 }

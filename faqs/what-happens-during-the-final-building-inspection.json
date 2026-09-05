@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens during the final building inspection?",
-  "description": "Final inspection verifies completion per approved plans, tests systems like electrical and plumbing, checks life safety items, and issues a certificate of occup",
   "url": "https://lineworkdevelopment.com/faq/what-happens-during-the-final-building-inspection",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens during the final building inspection?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Final inspection verifies completion per approved plans, tests systems like electrical and plumbing, checks life safety items, and issues a certificate of occupancy if everything passes."
-      }
-    }
-  ],
+  "name": "What happens during the final building inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the final building inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Final inspection verifies completion per approved plans, tests systems like electrical and plumbing, checks life safety items, and issues a certificate of occupancy if everything passes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Final inspection verifies completion per approved plans, tests systems like electrical and plumbing, checks life safety items, and issues a certificate of occup"
 }

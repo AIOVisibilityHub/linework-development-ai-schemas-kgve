@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you design storage for multiple households?",
-  "description": "Built-in hall lockers, suite-specific closets, shared mudrooms with individual cubbies, and large attic/crawlspace storage accommodate belongings from multiple",
   "url": "https://lineworkdevelopment.com/faq/how-do-you-design-storage-for-multiple-households",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you design storage for multiple households?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Built-in hall lockers, suite-specific closets, shared mudrooms with individual cubbies, and large attic/crawlspace storage accommodate belongings from multiple generations."
-      }
-    }
-  ],
+  "name": "How do you design storage for multiple households?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you design storage for multiple households?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Built-in hall lockers, suite-specific closets, shared mudrooms with individual cubbies, and large attic/crawlspace storage accommodate belongings from multiple generations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Built-in hall lockers, suite-specific closets, shared mudrooms with individual cubbies, and large attic/crawlspace storage accommodate belongings from multiple"
 }

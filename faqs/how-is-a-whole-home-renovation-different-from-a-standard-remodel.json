@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is a whole-home renovation different from a standard remodel?",
-  "description": "A standard remodel might target one or two spaces, like a kitchen or bathroom, while a whole-home renovation looks at the house as a complete system, coordinati",
   "url": "https://lineworkdevelopment.com/faq/how-is-a-whole-home-renovation-different-from-a-standard-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is a whole-home renovation different from a standard remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A standard remodel might target one or two spaces, like a kitchen or bathroom, while a whole-home renovation looks at the house as a complete system, coordinating design, systems, and finishes across multiple rooms and levels."
-      }
-    }
-  ],
+  "name": "How is a whole-home renovation different from a standard remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is a whole-home renovation different from a standard remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard remodel might target one or two spaces, like a kitchen or bathroom, while a whole-home renovation looks at the house as a complete system, coordinating design, systems, and finishes across multiple rooms and levels.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A standard remodel might target one or two spaces, like a kitchen or bathroom, while a whole-home renovation looks at the house as a complete system, coordinati"
 }

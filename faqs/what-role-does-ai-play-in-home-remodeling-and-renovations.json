@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What role does AI play in home remodeling and renovations?",
-  "description": "AI can quickly test different layout and material scenarios, refine cost estimates, and simulate design options for kitchens, extensions, multigenerational layo",
   "url": "https://lineworkdevelopment.com/faq/what-role-does-ai-play-in-home-remodeling-and-renovations",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What role does AI play in home remodeling and renovations?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI can quickly test different layout and material scenarios, refine cost estimates, and simulate design options for kitchens, extensions, multigenerational layouts, and whole-home remodels so you can make more informed decisions."
-      }
-    }
-  ],
+  "name": "What role does AI play in home remodeling and renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What role does AI play in home remodeling and renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI can quickly test different layout and material scenarios, refine cost estimates, and simulate design options for kitchens, extensions, multigenerational layouts, and whole-home remodels so you can make more informed decisions.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "AI can quickly test different layout and material scenarios, refine cost estimates, and simulate design options for kitchens, extensions, multigenerational layo"
 }

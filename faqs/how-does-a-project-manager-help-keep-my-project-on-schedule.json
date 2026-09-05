@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does a project manager help keep my project on schedule?",
-  "description": "The project manager develops a master schedule, sequences trades, tracks milestones, and adjusts the plan when issues arise, ensuring decisions and approvals ha",
   "url": "https://lineworkdevelopment.com/faq/how-does-a-project-manager-help-keep-my-project-on-schedule",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does a project manager help keep my project on schedule?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The project manager develops a master schedule, sequences trades, tracks milestones, and adjusts the plan when issues arise, ensuring decisions and approvals happen in time to avoid unnecessary delays."
-      }
-    }
-  ],
+  "name": "How does a project manager help keep my project on schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does a project manager help keep my project on schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The project manager develops a master schedule, sequences trades, tracks milestones, and adjusts the plan when issues arise, ensuring decisions and approvals happen in time to avoid unnecessary delays.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The project manager develops a master schedule, sequences trades, tracks milestones, and adjusts the plan when issues arise, ensuring decisions and approvals ha"
 }

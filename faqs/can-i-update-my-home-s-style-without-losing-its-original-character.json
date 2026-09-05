@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I update my home’s style without losing its original character?",
-  "description": "Yes, many projects blend modern functionality with preserved elements such as original floors, trim, stair details, or fireplaces, creating a balanced look that",
   "url": "https://lineworkdevelopment.com/faq/can-i-update-my-home-s-style-without-losing-its-original-character",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I update my home’s style without losing its original character?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, many projects blend modern functionality with preserved elements such as original floors, trim, stair details, or fireplaces, creating a balanced look that honors the home’s roots while feeling current."
-      }
-    }
-  ],
+  "name": "Can I update my home’s style without losing its original character?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I update my home’s style without losing its original character?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many projects blend modern functionality with preserved elements such as original floors, trim, stair details, or fireplaces, creating a balanced look that honors the home’s roots while feeling current.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, many projects blend modern functionality with preserved elements such as original floors, trim, stair details, or fireplaces, creating a balanced look that"
 }

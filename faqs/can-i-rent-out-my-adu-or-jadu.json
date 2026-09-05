@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I rent out my ADU or JADU?",
-  "description": "Yes, ADUs and JADUs can be rented long-term for income or used for family members, though some areas restrict short-term rentals like Airbnb in these units.",
   "url": "https://lineworkdevelopment.com/faq/can-i-rent-out-my-adu-or-jadu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I rent out my ADU or JADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, ADUs and JADUs can be rented long-term for income or used for family members, though some areas restrict short-term rentals like Airbnb in these units."
-      }
-    }
-  ],
+  "name": "Can I rent out my ADU or JADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my ADU or JADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, ADUs and JADUs can be rented long-term for income or used for family members, though some areas restrict short-term rentals like Airbnb in these units.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, ADUs and JADUs can be rented long-term for income or used for family members, though some areas restrict short-term rentals like Airbnb in these units."
 }

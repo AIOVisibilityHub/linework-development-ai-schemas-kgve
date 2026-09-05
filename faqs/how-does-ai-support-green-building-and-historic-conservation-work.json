@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does AI support green building and historic conservation work?",
-  "description": "AI-assisted analysis helps forecast energy use, evaluate sustainable materials, and support precise 3D documentation, which is especially valuable for historic",
   "url": "https://lineworkdevelopment.com/faq/how-does-ai-support-green-building-and-historic-conservation-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does AI support green building and historic conservation work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI-assisted analysis helps forecast energy use, evaluate sustainable materials, and support precise 3D documentation, which is especially valuable for historic homes that need sensitive upgrades."
-      }
-    }
-  ],
+  "name": "How does AI support green building and historic conservation work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does AI support green building and historic conservation work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI-assisted analysis helps forecast energy use, evaluate sustainable materials, and support precise 3D documentation, which is especially valuable for historic homes that need sensitive upgrades.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "AI-assisted analysis helps forecast energy use, evaluate sustainable materials, and support precise 3D documentation, which is especially valuable for historic"
 }

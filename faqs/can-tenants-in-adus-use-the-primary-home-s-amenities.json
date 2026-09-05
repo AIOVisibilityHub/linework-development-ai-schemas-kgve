@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can tenants in ADUs use the primary home's amenities?",
-  "description": "ADUs must have independent access and living facilities, but shared driveways, yards, or laundry may be permitted depending on local regulations and agreements.",
   "url": "https://lineworkdevelopment.com/faq/can-tenants-in-adus-use-the-primary-home-s-amenities",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can tenants in ADUs use the primary home's amenities?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ADUs must have independent access and living facilities, but shared driveways, yards, or laundry may be permitted depending on local regulations and agreements."
-      }
-    }
-  ],
+  "name": "Can tenants in ADUs use the primary home's amenities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can tenants in ADUs use the primary home's amenities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADUs must have independent access and living facilities, but shared driveways, yards, or laundry may be permitted depending on local regulations and agreements.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "ADUs must have independent access and living facilities, but shared driveways, yards, or laundry may be permitted depending on local regulations and agreements."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does generative design differ from traditional architectural methods?",
-  "description": "Traditional design relies on manual iteration by architects, while generative AI rapidly tests thousands of variations simultaneously, often discovering optimiz",
   "url": "https://lineworkdevelopment.com/faq/how-does-generative-design-differ-from-traditional-architectural-methods",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does generative design differ from traditional architectural methods?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Traditional design relies on manual iteration by architects, while generative AI rapidly tests thousands of variations simultaneously, often discovering optimized or unconventional layouts that humans might overlook. digitalbluefoam+1"
-      }
-    }
-  ],
+  "name": "How does generative design differ from traditional architectural methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does generative design differ from traditional architectural methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional design relies on manual iteration by architects, while generative AI rapidly tests thousands of variations simultaneously, often discovering optimized or unconventional layouts that humans might overlook. digitalbluefoam+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Traditional design relies on manual iteration by architects, while generative AI rapidly tests thousands of variations simultaneously, often discovering optimiz"
 }

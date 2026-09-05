@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What happens if unexpected issues are discovered during demolition?",
-  "description": "The project manager documents the issue, consults with the design and structural team if needed, develops options and cost/schedule impacts, and helps you decid",
   "url": "https://lineworkdevelopment.com/faq/what-happens-if-unexpected-issues-are-discovered-during-demolition",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What happens if unexpected issues are discovered during demolition?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The project manager documents the issue, consults with the design and structural team if needed, develops options and cost/schedule impacts, and helps you decide on the most appropriate path forward."
-      }
-    }
-  ],
+  "name": "What happens if unexpected issues are discovered during demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if unexpected issues are discovered during demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The project manager documents the issue, consults with the design and structural team if needed, develops options and cost/schedule impacts, and helps you decide on the most appropriate path forward.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The project manager documents the issue, consults with the design and structural team if needed, develops options and cost/schedule impacts, and helps you decid"
 }

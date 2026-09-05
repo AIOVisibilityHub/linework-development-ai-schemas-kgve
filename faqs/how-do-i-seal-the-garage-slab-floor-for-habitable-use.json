@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I seal the garage slab floor for habitable use?",
-  "description": "The concrete slab must be sealed with vapor retarder, insulated (R-19 typical), and covered with gypcrete, raised flooring, or finished subfloor to meet energy",
   "url": "https://lineworkdevelopment.com/faq/how-do-i-seal-the-garage-slab-floor-for-habitable-use",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I seal the garage slab floor for habitable use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The concrete slab must be sealed with vapor retarder, insulated (R-19 typical), and covered with gypcrete, raised flooring, or finished subfloor to meet energy code and prevent moisture intrusion."
-      }
-    }
-  ],
+  "name": "How do I seal the garage slab floor for habitable use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I seal the garage slab floor for habitable use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The concrete slab must be sealed with vapor retarder, insulated (R-19 typical), and covered with gypcrete, raised flooring, or finished subfloor to meet energy code and prevent moisture intrusion.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The concrete slab must be sealed with vapor retarder, insulated (R-19 typical), and covered with gypcrete, raised flooring, or finished subfloor to meet energy"
 }

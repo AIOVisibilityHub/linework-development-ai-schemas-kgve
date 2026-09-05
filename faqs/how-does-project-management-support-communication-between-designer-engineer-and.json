@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does project management support communication between designer, engineer, and contractor?",
-  "description": "The project manager facilitates coordination meetings, shares updated drawings and details, records decisions, and ensures that everyone is working from the sam",
   "url": "https://lineworkdevelopment.com/faq/how-does-project-management-support-communication-between-designer-engineer-and",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does project management support communication between designer, engineer, and contractor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The project manager facilitates coordination meetings, shares updated drawings and details, records decisions, and ensures that everyone is working from the same current information set."
-      }
-    }
-  ],
+  "name": "How does project management support communication between designer, engineer, and contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does project management support communication between designer, engineer, and contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The project manager facilitates coordination meetings, shares updated drawings and details, records decisions, and ensures that everyone is working from the same current information set.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The project manager facilitates coordination meetings, shares updated drawings and details, records decisions, and ensures that everyone is working from the sam"
 }

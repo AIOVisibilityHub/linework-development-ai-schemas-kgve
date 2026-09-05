@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kitchen requirements apply to ADUs/JADUs?",
-  "description": "ADUs need full kitchens with sink, range/oven, and refrigerator; JADUs require the same but may share sanitation facilities with the primary residence.",
   "url": "https://lineworkdevelopment.com/faq/what-kitchen-requirements-apply-to-adus-jadus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kitchen requirements apply to ADUs/JADUs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ADUs need full kitchens with sink, range/oven, and refrigerator; JADUs require the same but may share sanitation facilities with the primary residence."
-      }
-    }
-  ],
+  "name": "What kitchen requirements apply to ADUs/JADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kitchen requirements apply to ADUs/JADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADUs need full kitchens with sink, range/oven, and refrigerator; JADUs require the same but may share sanitation facilities with the primary residence.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "ADUs need full kitchens with sink, range/oven, and refrigerator; JADUs require the same but may share sanitation facilities with the primary residence."
 }

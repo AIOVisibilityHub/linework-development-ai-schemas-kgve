@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I use modern materials if the originals are unavailable or too expensive?",
-  "description": "In many cases, compatible modern materials are allowed if they closely match the appearance, scale, and detailing of the originals. Documenting why substitution",
   "url": "https://lineworkdevelopment.com/faq/can-i-use-modern-materials-if-the-originals-are-unavailable-or-too-expensive",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I use modern materials if the originals are unavailable or too expensive?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In many cases, compatible modern materials are allowed if they closely match the appearance, scale, and detailing of the originals. Documenting why substitution is necessary and choosing durable, visually appropriate products can help secure approvals while keeping the project feasible."
-      }
-    }
-  ],
+  "name": "Can I use modern materials if the originals are unavailable or too expensive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use modern materials if the originals are unavailable or too expensive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, compatible modern materials are allowed if they closely match the appearance, scale, and detailing of the originals. Documenting why substitution is necessary and choosing durable, visually appropriate products can help secure approvals while keeping the project feasible.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In many cases, compatible modern materials are allowed if they closely match the appearance, scale, and detailing of the originals. Documenting why substitution"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What professionals should be on my team for historic conservation projects?",
-  "description": "Successful projects usually involve an architect or designer experienced in historic work, a contractor who understands traditional construction methods, and, w",
   "url": "https://lineworkdevelopment.com/faq/what-professionals-should-be-on-my-team-for-historic-conservation-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What professionals should be on my team for historic conservation projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Successful projects usually involve an architect or designer experienced in historic work, a contractor who understands traditional construction methods, and, when needed, structural engineers or preservation consultants. This team helps interpret guidelines, develop solutions, and execute details that respect the original structure."
-      }
-    }
-  ],
+  "name": "What professionals should be on my team for historic conservation projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What professionals should be on my team for historic conservation projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Successful projects usually involve an architect or designer experienced in historic work, a contractor who understands traditional construction methods, and, when needed, structural engineers or preservation consultants. This team helps interpret guidelines, develop solutions, and execute details that respect the original structure.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Successful projects usually involve an architect or designer experienced in historic work, a contractor who understands traditional construction methods, and, w"
 }

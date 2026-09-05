@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is risk managed in residential construction projects?",
-  "description": "Risk is managed through clear contracts, realistic contingency budgets, thorough site investigation, careful sequencing, safety protocols, and proactive communi",
   "url": "https://lineworkdevelopment.com/faq/how-is-risk-managed-in-residential-construction-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is risk managed in residential construction projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Risk is managed through clear contracts, realistic contingency budgets, thorough site investigation, careful sequencing, safety protocols, and proactive communication when conditions or requirements change."
-      }
-    }
-  ],
+  "name": "How is risk managed in residential construction projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is risk managed in residential construction projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Risk is managed through clear contracts, realistic contingency budgets, thorough site investigation, careful sequencing, safety protocols, and proactive communication when conditions or requirements change.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Risk is managed through clear contracts, realistic contingency budgets, thorough site investigation, careful sequencing, safety protocols, and proactive communi"
 }

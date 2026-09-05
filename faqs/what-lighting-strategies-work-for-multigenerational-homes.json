@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What lighting strategies work for multigenerational homes?",
-  "description": "Layered lighting (ambient, task, accent) with dimmers, motion-sensor hall lights, and individually controlled suite lighting accommodate different schedules and",
   "url": "https://lineworkdevelopment.com/faq/what-lighting-strategies-work-for-multigenerational-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What lighting strategies work for multigenerational homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Layered lighting (ambient, task, accent) with dimmers, motion-sensor hall lights, and individually controlled suite lighting accommodate different schedules and preferences."
-      }
-    }
-  ],
+  "name": "What lighting strategies work for multigenerational homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What lighting strategies work for multigenerational homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Layered lighting (ambient, task, accent) with dimmers, motion-sensor hall lights, and individually controlled suite lighting accommodate different schedules and preferences.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Layered lighting (ambient, task, accent) with dimmers, motion-sensor hall lights, and individually controlled suite lighting accommodate different schedules and"
 }

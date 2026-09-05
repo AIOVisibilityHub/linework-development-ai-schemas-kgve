@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do permits work for a whole-home renovation?",
-  "description": "Whole-home renovations usually require building permits and may trigger additional reviews if structural changes, electrical upgrades, plumbing relocations, or",
   "url": "https://lineworkdevelopment.com/faq/how-do-permits-work-for-a-whole-home-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do permits work for a whole-home renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Whole-home renovations usually require building permits and may trigger additional reviews if structural changes, electrical upgrades, plumbing relocations, or exterior modifications are involved; your project team typically coordinates submissions."
-      }
-    }
-  ],
+  "name": "How do permits work for a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do permits work for a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole-home renovations usually require building permits and may trigger additional reviews if structural changes, electrical upgrades, plumbing relocations, or exterior modifications are involved; your project team typically coordinates submissions.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Whole-home renovations usually require building permits and may trigger additional reviews if structural changes, electrical upgrades, plumbing relocations, or"
 }

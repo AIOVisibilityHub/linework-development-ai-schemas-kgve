@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What design standards apply to ADUs?",
-  "description": "Streamlined ADUs are often exempt from design review; non-exempt units must be architecturally compatible with the primary residence in style and materials.",
   "url": "https://lineworkdevelopment.com/faq/what-design-standards-apply-to-adus",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What design standards apply to ADUs?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Streamlined ADUs are often exempt from design review; non-exempt units must be architecturally compatible with the primary residence in style and materials."
-      }
-    }
-  ],
+  "name": "What design standards apply to ADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What design standards apply to ADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Streamlined ADUs are often exempt from design review; non-exempt units must be architecturally compatible with the primary residence in style and materials.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Streamlined ADUs are often exempt from design review; non-exempt units must be architecturally compatible with the primary residence in style and materials."
 }

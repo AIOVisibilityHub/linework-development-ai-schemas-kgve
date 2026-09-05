@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What documentation should I keep during a historic conservation project?",
-  "description": "Keeping thorough records—existing-condition photos, measured drawings, product data, and before-and-after images—helps track work and support future maintenance",
   "url": "https://lineworkdevelopment.com/faq/what-documentation-should-i-keep-during-a-historic-conservation-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What documentation should I keep during a historic conservation project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Keeping thorough records—existing-condition photos, measured drawings, product data, and before-and-after images—helps track work and support future maintenance or incentives. This documentation can also be valuable if you later seek designation, tax credits, or insurance claims."
-      }
-    }
-  ],
+  "name": "What documentation should I keep during a historic conservation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation should I keep during a historic conservation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping thorough records—existing-condition photos, measured drawings, product data, and before-and-after images—helps track work and support future maintenance or incentives. This documentation can also be valuable if you later seek designation, tax credits, or insurance claims.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Keeping thorough records—existing-condition photos, measured drawings, product data, and before-and-after images—helps track work and support future maintenance"
 }

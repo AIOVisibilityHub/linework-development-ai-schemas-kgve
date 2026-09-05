@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the main risks with ground-up construction, and how are they managed?",
-  "description": "Risks include site surprises, permitting delays, price volatility, and coordination issues; they’re mitigated through early due diligence, contingencies, realis",
   "url": "https://lineworkdevelopment.com/faq/what-are-the-main-risks-with-ground-up-construction-and-how-are-they-managed",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the main risks with ground-up construction, and how are they managed?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Risks include site surprises, permitting delays, price volatility, and coordination issues; they’re mitigated through early due diligence, contingencies, realistic scheduling, and strong project management. rsvc+2"
-      }
-    }
-  ],
+  "name": "What are the main risks with ground-up construction, and how are they managed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main risks with ground-up construction, and how are they managed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Risks include site surprises, permitting delays, price volatility, and coordination issues; they’re mitigated through early due diligence, contingencies, realistic scheduling, and strong project management. rsvc+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Risks include site surprises, permitting delays, price volatility, and coordination issues; they’re mitigated through early due diligence, contingencies, realis"
 }

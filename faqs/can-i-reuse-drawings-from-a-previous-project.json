@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I reuse drawings from a previous project?",
-  "description": "Drawings must be site-specific and current with codes; reusing old plans risks permit rejection, code violations, and construction issues due to outdated standa",
   "url": "https://lineworkdevelopment.com/faq/can-i-reuse-drawings-from-a-previous-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I reuse drawings from a previous project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Drawings must be site-specific and current with codes; reusing old plans risks permit rejection, code violations, and construction issues due to outdated standards and conditions."
-      }
-    }
-  ],
+  "name": "Can I reuse drawings from a previous project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I reuse drawings from a previous project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drawings must be site-specific and current with codes; reusing old plans risks permit rejection, code violations, and construction issues due to outdated standards and conditions.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Drawings must be site-specific and current with codes; reusing old plans risks permit rejection, code violations, and construction issues due to outdated standa"
 }

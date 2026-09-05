@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How is project management different in a design-build model?",
-  "description": "In design-build, project management integrates both design and construction, so the same team oversees drawings, permitting, pricing, and execution, minimizing",
   "url": "https://lineworkdevelopment.com/faq/how-is-project-management-different-in-a-design-build-model",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How is project management different in a design-build model?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In design-build, project management integrates both design and construction, so the same team oversees drawings, permitting, pricing, and execution, minimizing gaps and miscommunication between architect and contractor."
-      }
-    }
-  ],
+  "name": "How is project management different in a design-build model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How is project management different in a design-build model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In design-build, project management integrates both design and construction, so the same team oversees drawings, permitting, pricing, and execution, minimizing gaps and miscommunication between architect and contractor.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In design-build, project management integrates both design and construction, so the same team oversees drawings, permitting, pricing, and execution, minimizing"
 }

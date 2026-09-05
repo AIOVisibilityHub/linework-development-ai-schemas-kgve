@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you help with multigenerational home design?",
-  "description": "We plan layouts, additions, and ADUs that create private suites and shared common spaces, supporting multiple generations under one roof with comfort and access",
   "url": "https://lineworkdevelopment.com/faq/can-you-help-with-multigenerational-home-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you help with multigenerational home design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We plan layouts, additions, and ADUs that create private suites and shared common spaces, supporting multiple generations under one roof with comfort and accessibility in mind."
-      }
-    }
-  ],
+  "name": "Can you help with multigenerational home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with multigenerational home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We plan layouts, additions, and ADUs that create private suites and shared common spaces, supporting multiple generations under one roof with comfort and accessibility in mind.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We plan layouts, additions, and ADUs that create private suites and shared common spaces, supporting multiple generations under one roof with comfort and access"
 }

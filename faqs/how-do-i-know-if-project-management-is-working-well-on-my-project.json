@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if project management is working well on my project?",
-  "description": "Clear communication, few surprises, documented decisions, visible progress aligned with the schedule, and well-managed handoffs between phases are strong indica",
   "url": "https://lineworkdevelopment.com/faq/how-do-i-know-if-project-management-is-working-well-on-my-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if project management is working well on my project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Clear communication, few surprises, documented decisions, visible progress aligned with the schedule, and well-managed handoffs between phases are strong indicators that project management is effective."
-      }
-    }
-  ],
+  "name": "How do I know if project management is working well on my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if project management is working well on my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clear communication, few surprises, documented decisions, visible progress aligned with the schedule, and well-managed handoffs between phases are strong indicators that project management is effective.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Clear communication, few surprises, documented decisions, visible progress aligned with the schedule, and well-managed handoffs between phases are strong indica"
 }

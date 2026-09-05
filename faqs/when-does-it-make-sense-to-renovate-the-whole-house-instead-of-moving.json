@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When does it make sense to renovate the whole house instead of moving?",
-  "description": "A whole-home renovation is often a good choice when you like your neighborhood, lot, and basic house bones but need better layout, more space, updated systems,",
   "url": "https://lineworkdevelopment.com/faq/when-does-it-make-sense-to-renovate-the-whole-house-instead-of-moving",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When does it make sense to renovate the whole house instead of moving?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A whole-home renovation is often a good choice when you like your neighborhood, lot, and basic house bones but need better layout, more space, updated systems, and a refreshed look to match how you live now."
-      }
-    }
-  ],
+  "name": "When does it make sense to renovate the whole house instead of moving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When does it make sense to renovate the whole house instead of moving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home renovation is often a good choice when you like your neighborhood, lot, and basic house bones but need better layout, more space, updated systems, and a refreshed look to match how you live now.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A whole-home renovation is often a good choice when you like your neighborhood, lot, and basic house bones but need better layout, more space, updated systems,"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I rent out my garage conversion?",
-  "description": "Yes as ADU/JADU rental if permitted and meets habitability standards; standard habitable conversions better for family use unless pursuing full ADU permitting.",
   "url": "https://lineworkdevelopment.com/faq/can-i-rent-out-my-garage-conversion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I rent out my garage conversion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes as ADU/JADU rental if permitted and meets habitability standards; standard habitable conversions better for family use unless pursuing full ADU permitting."
-      }
-    }
-  ],
+  "name": "Can I rent out my garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes as ADU/JADU rental if permitted and meets habitability standards; standard habitable conversions better for family use unless pursuing full ADU permitting.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes as ADU/JADU rental if permitted and meets habitability standards; standard habitable conversions better for family use unless pursuing full ADU permitting."
 }

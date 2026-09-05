@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does a garage conversion require separate HVAC?",
-  "description": "Converted spaces need heating to 68°F (mini-splits, baseboard, or ductless systems common); cooling is recommended but not always required unless used as bedroo",
   "url": "https://lineworkdevelopment.com/faq/does-a-garage-conversion-require-separate-hvac",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does a garage conversion require separate HVAC?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Converted spaces need heating to 68°F (mini-splits, baseboard, or ductless systems common); cooling is recommended but not always required unless used as bedroom/living space."
-      }
-    }
-  ],
+  "name": "Does a garage conversion require separate HVAC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does a garage conversion require separate HVAC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converted spaces need heating to 68°F (mini-splits, baseboard, or ductless systems common); cooling is recommended but not always required unless used as bedroom/living space.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Converted spaces need heating to 68°F (mini-splits, baseboard, or ductless systems common); cooling is recommended but not always required unless used as bedroo"
 }

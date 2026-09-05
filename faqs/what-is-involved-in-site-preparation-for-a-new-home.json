@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is involved in site preparation for a new home?",
-  "description": "Site prep may include clearing vegetation and debris, grading and drainage planning, temporary utilities, access paths, and any soil testing needed to design ap",
   "url": "https://lineworkdevelopment.com/faq/what-is-involved-in-site-preparation-for-a-new-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is involved in site preparation for a new home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Site prep may include clearing vegetation and debris, grading and drainage planning, temporary utilities, access paths, and any soil testing needed to design appropriate foundations. directsteelllc+2"
-      }
-    }
-  ],
+  "name": "What is involved in site preparation for a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in site preparation for a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Site prep may include clearing vegetation and debris, grading and drainage planning, temporary utilities, access paths, and any soil testing needed to design appropriate foundations. directsteelllc+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Site prep may include clearing vegetation and debris, grading and drainage planning, temporary utilities, access paths, and any soil testing needed to design ap"
 }

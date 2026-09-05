@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What inspections are required during garage conversion?",
-  "description": "Foundation, framing, electrical rough-in, plumbing rough-in, insulation, drywall, HVAC, and final building inspection before occupancy approval.",
   "url": "https://lineworkdevelopment.com/faq/what-inspections-are-required-during-garage-conversion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What inspections are required during garage conversion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Foundation, framing, electrical rough-in, plumbing rough-in, insulation, drywall, HVAC, and final building inspection before occupancy approval."
-      }
-    }
-  ],
+  "name": "What inspections are required during garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What inspections are required during garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foundation, framing, electrical rough-in, plumbing rough-in, insulation, drywall, HVAC, and final building inspection before occupancy approval.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Foundation, framing, electrical rough-in, plumbing rough-in, insulation, drywall, HVAC, and final building inspection before occupancy approval."
 }

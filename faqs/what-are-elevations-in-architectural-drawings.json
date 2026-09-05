@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are elevations in architectural drawings?",
-  "description": "Elevations are two-dimensional views of the exterior walls showing height, materials, windows, doors, rooflines, and trim to guide siding, fenestration, and det",
   "url": "https://lineworkdevelopment.com/faq/what-are-elevations-in-architectural-drawings",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are elevations in architectural drawings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Elevations are two-dimensional views of the exterior walls showing height, materials, windows, doors, rooflines, and trim to guide siding, fenestration, and detailing."
-      }
-    }
-  ],
+  "name": "What are elevations in architectural drawings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are elevations in architectural drawings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Elevations are two-dimensional views of the exterior walls showing height, materials, windows, doors, rooflines, and trim to guide siding, fenestration, and detailing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Elevations are two-dimensional views of the exterior walls showing height, materials, windows, doors, rooflines, and trim to guide siding, fenestration, and det"
 }

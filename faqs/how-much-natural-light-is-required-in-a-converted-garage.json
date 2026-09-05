@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much natural light is required in a converted garage?",
-  "description": "Windows/glazing must provide at least 8% of floor area for daylight and 4% for ventilation; existing garage windows often need enlargement or addition.",
   "url": "https://lineworkdevelopment.com/faq/how-much-natural-light-is-required-in-a-converted-garage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much natural light is required in a converted garage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Windows/glazing must provide at least 8% of floor area for daylight and 4% for ventilation; existing garage windows often need enlargement or addition."
-      }
-    }
-  ],
+  "name": "How much natural light is required in a converted garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much natural light is required in a converted garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Windows/glazing must provide at least 8% of floor area for daylight and 4% for ventilation; existing garage windows often need enlargement or addition.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Windows/glazing must provide at least 8% of floor area for daylight and 4% for ventilation; existing garage windows often need enlargement or addition."
 }

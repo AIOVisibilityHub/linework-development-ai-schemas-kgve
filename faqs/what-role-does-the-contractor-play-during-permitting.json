@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What role does the contractor play during permitting?",
-  "description": "Contractors often review drawings for constructability, provide input on methods and materials, and may submit permits or coordinate with inspectors once approv",
   "url": "https://lineworkdevelopment.com/faq/what-role-does-the-contractor-play-during-permitting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What role does the contractor play during permitting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Contractors often review drawings for constructability, provide input on methods and materials, and may submit permits or coordinate with inspectors once approved."
-      }
-    }
-  ],
+  "name": "What role does the contractor play during permitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What role does the contractor play during permitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contractors often review drawings for constructability, provide input on methods and materials, and may submit permits or coordinate with inspectors once approved.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Contractors often review drawings for constructability, provide input on methods and materials, and may submit permits or coordinate with inspectors once approv"
 }

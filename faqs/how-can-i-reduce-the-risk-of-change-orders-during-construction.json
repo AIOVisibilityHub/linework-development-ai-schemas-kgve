@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I reduce the risk of change orders during construction?",
-  "description": "Invest in thorough planning, detailed drawings, and early selections for fixtures and finishes; clear scope definition and contingency budgeting also help absor",
   "url": "https://lineworkdevelopment.com/faq/how-can-i-reduce-the-risk-of-change-orders-during-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I reduce the risk of change orders during construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Invest in thorough planning, detailed drawings, and early selections for fixtures and finishes; clear scope definition and contingency budgeting also help absorb necessary changes without derailing the project."
-      }
-    }
-  ],
+  "name": "How can I reduce the risk of change orders during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I reduce the risk of change orders during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Invest in thorough planning, detailed drawings, and early selections for fixtures and finishes; clear scope definition and contingency budgeting also help absorb necessary changes without derailing the project.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Invest in thorough planning, detailed drawings, and early selections for fixtures and finishes; clear scope definition and contingency budgeting also help absor"
 }

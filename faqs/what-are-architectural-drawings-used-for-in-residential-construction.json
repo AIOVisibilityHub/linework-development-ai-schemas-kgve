@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are architectural drawings used for in residential construction?",
-  "description": "Architectural drawings communicate the design intent, dimensions, materials, and construction details needed for permitting, bidding, and building the project a",
   "url": "https://lineworkdevelopment.com/faq/what-are-architectural-drawings-used-for-in-residential-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are architectural drawings used for in residential construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Architectural drawings communicate the design intent, dimensions, materials, and construction details needed for permitting, bidding, and building the project accurately."
-      }
-    }
-  ],
+  "name": "What are architectural drawings used for in residential construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are architectural drawings used for in residential construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architectural drawings communicate the design intent, dimensions, materials, and construction details needed for permitting, bidding, and building the project accurately.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Architectural drawings communicate the design intent, dimensions, materials, and construction details needed for permitting, bidding, and building the project a"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When are construction details needed in drawings?",
-  "description": "Details zoom in on complex joints, transitions, and assemblies—like window rough openings, stair framing, or cornice construction—to ensure proper installation",
   "url": "https://lineworkdevelopment.com/faq/when-are-construction-details-needed-in-drawings",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When are construction details needed in drawings?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Details zoom in on complex joints, transitions, and assemblies—like window rough openings, stair framing, or cornice construction—to ensure proper installation and weatherproofing."
-      }
-    }
-  ],
+  "name": "When are construction details needed in drawings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When are construction details needed in drawings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Details zoom in on complex joints, transitions, and assemblies—like window rough openings, stair framing, or cornice construction—to ensure proper installation and weatherproofing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Details zoom in on complex joints, transitions, and assemblies—like window rough openings, stair framing, or cornice construction—to ensure proper installation"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do you balance privacy and shared living spaces?",
-  "description": "Designs separate private bedroom/bath suites from communal kitchen, living, and dining areas, often with soundproofing, individual temperature controls, and ded",
   "url": "https://lineworkdevelopment.com/faq/how-do-you-balance-privacy-and-shared-living-spaces",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do you balance privacy and shared living spaces?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Designs separate private bedroom/bath suites from communal kitchen, living, and dining areas, often with soundproofing, individual temperature controls, and dedicated entrances."
-      }
-    }
-  ],
+  "name": "How do you balance privacy and shared living spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do you balance privacy and shared living spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designs separate private bedroom/bath suites from communal kitchen, living, and dining areas, often with soundproofing, individual temperature controls, and dedicated entrances.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Designs separate private bedroom/bath suites from communal kitchen, living, and dining areas, often with soundproofing, individual temperature controls, and ded"
 }

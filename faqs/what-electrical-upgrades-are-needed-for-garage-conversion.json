@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What electrical upgrades are needed for garage conversion?",
-  "description": "Receptacles every 6 ft along walls, dedicated circuits for lights/fans, AFCI protection, and often a subpanel upgrade to handle residential loads; GFCI outlets",
   "url": "https://lineworkdevelopment.com/faq/what-electrical-upgrades-are-needed-for-garage-conversion",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What electrical upgrades are needed for garage conversion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Receptacles every 6 ft along walls, dedicated circuits for lights/fans, AFCI protection, and often a subpanel upgrade to handle residential loads; GFCI outlets near sinks/water sources."
-      }
-    }
-  ],
+  "name": "What electrical upgrades are needed for garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What electrical upgrades are needed for garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Receptacles every 6 ft along walls, dedicated circuits for lights/fans, AFCI protection, and often a subpanel upgrade to handle residential loads; GFCI outlets near sinks/water sources.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Receptacles every 6 ft along walls, dedicated circuits for lights/fans, AFCI protection, and often a subpanel upgrade to handle residential loads; GFCI outlets"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What does LEED certification mean for residential projects?",
-  "description": "LEED (Leadership in Energy and Environmental Design) verifies that homes meet rigorous standards for energy savings, water efficiency, sustainable sites, materi",
   "url": "https://lineworkdevelopment.com/faq/what-does-leed-certification-mean-for-residential-projects",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does LEED certification mean for residential projects?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "LEED (Leadership in Energy and Environmental Design) verifies that homes meet rigorous standards for energy savings, water efficiency, sustainable sites, materials, and indoor environmental quality through third-party verification. inogenalliance+1"
-      }
-    }
-  ],
+  "name": "What does LEED certification mean for residential projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What does LEED certification mean for residential projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LEED (Leadership in Energy and Environmental Design) verifies that homes meet rigorous standards for energy savings, water efficiency, sustainable sites, materials, and indoor environmental quality through third-party verification. inogenalliance+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "LEED (Leadership in Energy and Environmental Design) verifies that homes meet rigorous standards for energy savings, water efficiency, sustainable sites, materi"
 }

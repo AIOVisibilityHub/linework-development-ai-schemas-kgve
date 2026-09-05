@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need special approvals or permits to work on a historic home?",
-  "description": "Many historic homes require additional review or approval if they are in a designated district or individually landmarked. Exterior changes, additions, and visi",
   "url": "https://lineworkdevelopment.com/faq/do-i-need-special-approvals-or-permits-to-work-on-a-historic-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need special approvals or permits to work on a historic home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many historic homes require additional review or approval if they are in a designated district or individually landmarked. Exterior changes, additions, and visible materials often trigger design review, in addition to standard building permits, so it is important to confirm requirements before you start design work."
-      }
-    }
-  ],
+  "name": "Do I need special approvals or permits to work on a historic home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special approvals or permits to work on a historic home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many historic homes require additional review or approval if they are in a designated district or individually landmarked. Exterior changes, additions, and visible materials often trigger design review, in addition to standard building permits, so it is important to confirm requirements before you start design work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Many historic homes require additional review or approval if they are in a designated district or individually landmarked. Exterior changes, additions, and visi"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can AI generative design handle complex residential constraints?",
-  "description": "Yes, it simultaneously optimizes for multiple factors like zoning setbacks, structural loads, natural light, views, ceiling heights, and budget while generating",
   "url": "https://lineworkdevelopment.com/faq/can-ai-generative-design-handle-complex-residential-constraints",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can AI generative design handle complex residential constraints?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, it simultaneously optimizes for multiple factors like zoning setbacks, structural loads, natural light, views, ceiling heights, and budget while generating compliant, buildable options. digitalbluefoam+1"
-      }
-    }
-  ],
+  "name": "Can AI generative design handle complex residential constraints?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can AI generative design handle complex residential constraints?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it simultaneously optimizes for multiple factors like zoning setbacks, structural loads, natural light, views, ceiling heights, and budget while generating compliant, buildable options. digitalbluefoam+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, it simultaneously optimizes for multiple factors like zoning setbacks, structural loads, natural light, views, ceiling heights, and budget while generating"
 }

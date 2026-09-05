@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can you help with architectural drawings and permitting?",
-  "description": "We produce architectural drawings, floor plans, and construction documents and coordinate with local agencies to navigate the permitting process as part of our",
   "url": "https://lineworkdevelopment.com/faq/can-you-help-with-architectural-drawings-and-permitting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can you help with architectural drawings and permitting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "We produce architectural drawings, floor plans, and construction documents and coordinate with local agencies to navigate the permitting process as part of our integrated service. lineworkdevelopment+1"
-      }
-    }
-  ],
+  "name": "Can you help with architectural drawings and permitting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with architectural drawings and permitting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We produce architectural drawings, floor plans, and construction documents and coordinate with local agencies to navigate the permitting process as part of our integrated service. lineworkdevelopment+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We produce architectural drawings, floor plans, and construction documents and coordinate with local agencies to navigate the permitting process as part of our"
 }

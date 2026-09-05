@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common hidden costs in garage conversions?",
-  "description": "Foundation retrofit ($5-15K), electrical panel upgrade ($3-8K), HVAC ($4-12K), egress windows ($2-5K each), and parking area improvements if required.",
   "url": "https://lineworkdevelopment.com/faq/what-are-common-hidden-costs-in-garage-conversions",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common hidden costs in garage conversions?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Foundation retrofit ($5-15K), electrical panel upgrade ($3-8K), HVAC ($4-12K), egress windows ($2-5K each), and parking area improvements if required."
-      }
-    }
-  ],
+  "name": "What are common hidden costs in garage conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common hidden costs in garage conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foundation retrofit ($5-15K), electrical panel upgrade ($3-8K), HVAC ($4-12K), egress windows ($2-5K each), and parking area improvements if required.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Foundation retrofit ($5-15K), electrical panel upgrade ($3-8K), HVAC ($4-12K), egress windows ($2-5K each), and parking area improvements if required."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common challenges in multigenerational design?",
-  "description": "Balancing generational tastes in finishes, managing shared-space scheduling, providing adequate parking, and ensuring sufficient bathrooms without overbuilding.",
   "url": "https://lineworkdevelopment.com/faq/what-are-common-challenges-in-multigenerational-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common challenges in multigenerational design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Balancing generational tastes in finishes, managing shared-space scheduling, providing adequate parking, and ensuring sufficient bathrooms without overbuilding."
-      }
-    }
-  ],
+  "name": "What are common challenges in multigenerational design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in multigenerational design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Balancing generational tastes in finishes, managing shared-space scheduling, providing adequate parking, and ensuring sufficient bathrooms without overbuilding.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Balancing generational tastes in finishes, managing shared-space scheduling, providing adequate parking, and ensuring sufficient bathrooms without overbuilding."
 }

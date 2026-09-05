@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does AI assist with code compliance in residential design?",
-  "description": "Generative tools cross-reference designs against building codes for egress, fire separation, ceiling heights, parking, and setbacks, flagging non-compliant opti",
   "url": "https://lineworkdevelopment.com/faq/how-does-ai-assist-with-code-compliance-in-residential-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does AI assist with code compliance in residential design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Generative tools cross-reference designs against building codes for egress, fire separation, ceiling heights, parking, and setbacks, flagging non-compliant options and prioritizing code-ready alternatives. digitalbluefoam​"
-      }
-    }
-  ],
+  "name": "How does AI assist with code compliance in residential design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does AI assist with code compliance in residential design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generative tools cross-reference designs against building codes for egress, fire separation, ceiling heights, parking, and setbacks, flagging non-compliant options and prioritizing code-ready alternatives. digitalbluefoam​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Generative tools cross-reference designs against building codes for egress, fire separation, ceiling heights, parking, and setbacks, flagging non-compliant opti"
 }

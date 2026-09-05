@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What professionals should be involved in a whole-home renovation?",
-  "description": "A typical team includes a designer or architect, a general contractor or design-build firm, structural engineers if changes affect framing, and specialty trades",
   "url": "https://lineworkdevelopment.com/faq/what-professionals-should-be-involved-in-a-whole-home-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What professionals should be involved in a whole-home renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A typical team includes a designer or architect, a general contractor or design-build firm, structural engineers if changes affect framing, and specialty trades such as electricians, plumbers, and HVAC contractors."
-      }
-    }
-  ],
+  "name": "What professionals should be involved in a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What professionals should be involved in a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical team includes a designer or architect, a general contractor or design-build firm, structural engineers if changes affect framing, and specialty trades such as electricians, plumbers, and HVAC contractors.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A typical team includes a designer or architect, a general contractor or design-build firm, structural engineers if changes affect framing, and specialty trades"
 }

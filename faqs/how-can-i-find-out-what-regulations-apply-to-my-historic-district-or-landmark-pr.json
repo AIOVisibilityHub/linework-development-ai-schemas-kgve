@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How can I find out what regulations apply to my historic district or landmark property?",
-  "description": "You can contact your city’s planning department, preservation commission, or historic resources office to obtain guidelines, design standards, and maps for your",
   "url": "https://lineworkdevelopment.com/faq/how-can-i-find-out-what-regulations-apply-to-my-historic-district-or-landmark-pr",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How can I find out what regulations apply to my historic district or landmark property?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can contact your city’s planning department, preservation commission, or historic resources office to obtain guidelines, design standards, and maps for your district. Many municipalities also publish these rules online, including what work is exempt, what needs approval, and how the review process works."
-      }
-    }
-  ],
+  "name": "How can I find out what regulations apply to my historic district or landmark property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How can I find out what regulations apply to my historic district or landmark property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can contact your city’s planning department, preservation commission, or historic resources office to obtain guidelines, design standards, and maps for your district. Many municipalities also publish these rules online, including what work is exempt, what needs approval, and how the review process works.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You can contact your city’s planning department, preservation commission, or historic resources office to obtain guidelines, design standards, and maps for your"
 }

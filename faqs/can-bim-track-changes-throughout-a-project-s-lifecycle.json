@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can BIM track changes throughout a project's lifecycle?",
-  "description": "BIM serves as a \"single source of truth,\" logging all revisions with timestamps and authorship, enabling as-built documentation and future maintenance or renova",
   "url": "https://lineworkdevelopment.com/faq/can-bim-track-changes-throughout-a-project-s-lifecycle",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can BIM track changes throughout a project's lifecycle?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "BIM serves as a \"single source of truth,\" logging all revisions with timestamps and authorship, enabling as-built documentation and future maintenance or renovation planning. autodesk​"
-      }
-    }
-  ],
+  "name": "Can BIM track changes throughout a project's lifecycle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can BIM track changes throughout a project's lifecycle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "BIM serves as a \"single source of truth,\" logging all revisions with timestamps and authorship, enabling as-built documentation and future maintenance or renovation planning. autodesk​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "BIM serves as a \"single source of truth,\" logging all revisions with timestamps and authorship, enabling as-built documentation and future maintenance or renova"
 }

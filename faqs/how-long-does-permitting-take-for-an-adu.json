@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does permitting take for an ADU?",
-  "description": "Many areas offer streamlined permitting (30-60 days) for ADUs under 1,200 sq ft that meet ministerial standards without discretionary review or public hearings.",
   "url": "https://lineworkdevelopment.com/faq/how-long-does-permitting-take-for-an-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does permitting take for an ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many areas offer streamlined permitting (30-60 days) for ADUs under 1,200 sq ft that meet ministerial standards without discretionary review or public hearings."
-      }
-    }
-  ],
+  "name": "How long does permitting take for an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does permitting take for an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many areas offer streamlined permitting (30-60 days) for ADUs under 1,200 sq ft that meet ministerial standards without discretionary review or public hearings.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Many areas offer streamlined permitting (30-60 days) for ADUs under 1,200 sq ft that meet ministerial standards without discretionary review or public hearings."
 }

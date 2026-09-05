@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How does generative design improve energy efficiency in home design?",
-  "description": "AI simulates thermal performance, solar gain, ventilation, and insulation options across design iterations to identify layouts and materials that minimize energ",
   "url": "https://lineworkdevelopment.com/faq/how-does-generative-design-improve-energy-efficiency-in-home-design",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How does generative design improve energy efficiency in home design?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI simulates thermal performance, solar gain, ventilation, and insulation options across design iterations to identify layouts and materials that minimize energy use while maximizing comfort. digitalbluefoam+1"
-      }
-    }
-  ],
+  "name": "How does generative design improve energy efficiency in home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How does generative design improve energy efficiency in home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI simulates thermal performance, solar gain, ventilation, and insulation options across design iterations to identify layouts and materials that minimize energy use while maximizing comfort. digitalbluefoam+1",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "AI simulates thermal performance, solar gain, ventilation, and insulation options across design iterations to identify layouts and materials that minimize energ"
 }

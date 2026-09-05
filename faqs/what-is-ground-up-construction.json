@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is ground-up construction?",
-  "description": "Ground-up construction is the process of building a new structure from scratch on an undeveloped or cleared site, starting with planning and site work and conti",
   "url": "https://lineworkdevelopment.com/faq/what-is-ground-up-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is ground-up construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ground-up construction is the process of building a new structure from scratch on an undeveloped or cleared site, starting with planning and site work and continuing through to final finishes and occupancy. directsteelllc+2"
-      }
-    }
-  ],
+  "name": "What is ground-up construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is ground-up construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up construction is the process of building a new structure from scratch on an undeveloped or cleared site, starting with planning and site work and continuing through to final finishes and occupancy. directsteelllc+2",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Ground-up construction is the process of building a new structure from scratch on an undeveloped or cleared site, starting with planning and site work and conti"
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common hidden issues in historic homes that can affect budget?",
-  "description": "Older properties frequently conceal structural damage, outdated wiring, undersized plumbing, termites, dry rot, and moisture problems behind walls and finishes.",
   "url": "https://lineworkdevelopment.com/faq/what-are-common-hidden-issues-in-historic-homes-that-can-affect-budget",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common hidden issues in historic homes that can affect budget?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Older properties frequently conceal structural damage, outdated wiring, undersized plumbing, termites, dry rot, and moisture problems behind walls and finishes. Allowing a contingency in the budget for discoveries during demolition is critical, as investigating and resolving these issues often drives cost and schedule."
-      }
-    }
-  ],
+  "name": "What are common hidden issues in historic homes that can affect budget?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common hidden issues in historic homes that can affect budget?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older properties frequently conceal structural damage, outdated wiring, undersized plumbing, termites, dry rot, and moisture problems behind walls and finishes. Allowing a contingency in the budget for discoveries during demolition is critical, as investigating and resolving these issues often drives cost and schedule.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Older properties frequently conceal structural damage, outdated wiring, undersized plumbing, termites, dry rot, and moisture problems behind walls and finishes."
 }

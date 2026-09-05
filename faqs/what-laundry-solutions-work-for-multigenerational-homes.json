@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What laundry solutions work for multigenerational homes?",
-  "description": "Main-level laundry plus suite laundry closets, stackable units in smaller spaces, or large-capacity shared machines accommodate multiple households without bott",
   "url": "https://lineworkdevelopment.com/faq/what-laundry-solutions-work-for-multigenerational-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What laundry solutions work for multigenerational homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Main-level laundry plus suite laundry closets, stackable units in smaller spaces, or large-capacity shared machines accommodate multiple households without bottlenecks."
-      }
-    }
-  ],
+  "name": "What laundry solutions work for multigenerational homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What laundry solutions work for multigenerational homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Main-level laundry plus suite laundry closets, stackable units in smaller spaces, or large-capacity shared machines accommodate multiple households without bottlenecks.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Main-level laundry plus suite laundry closets, stackable units in smaller spaces, or large-capacity shared machines accommodate multiple households without bott"
 }

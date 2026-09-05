@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should multigenerational homes have separate HVAC zones?",
-  "description": "Yes, individual thermostats and ductless mini-splits for private suites allow temperature preferences while shared areas maintain comfortable communal temperatu",
   "url": "https://lineworkdevelopment.com/faq/should-multigenerational-homes-have-separate-hvac-zones",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should multigenerational homes have separate HVAC zones?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, individual thermostats and ductless mini-splits for private suites allow temperature preferences while shared areas maintain comfortable communal temperatures."
-      }
-    }
-  ],
+  "name": "Should multigenerational homes have separate HVAC zones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should multigenerational homes have separate HVAC zones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, individual thermostats and ductless mini-splits for private suites allow temperature preferences while shared areas maintain comfortable communal temperatures.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, individual thermostats and ductless mini-splits for private suites allow temperature preferences while shared areas maintain comfortable communal temperatu"
 }
