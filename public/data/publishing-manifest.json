@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-02T23:22:36.273Z",
+  "generatedAt": "2026-10-02T23:26:13.424Z",
   "client": {
     "name": "LineWork Development",
     "canonicalUrl": "https://lineworkdevelopment.aiovisibility.net",
@@ -80,7 +80,7 @@
   },
   "package": {
     "totalFiles": 445,
-    "totalBytes": 1209209,
+    "totalBytes": 1217712,
     "stats": {
       "faqs": 295,
       "helpArticles": 0,
@@ -2293,7 +2293,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 2586,
+        "bytes": 3441,
         "purpose": "LLM hint"
       },
       {
@@ -2313,32 +2313,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1676,
+        "bytes": 3995,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 191177,
+        "bytes": 193086,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 54737,
+        "bytes": 55592,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 54737,
+        "bytes": 55592,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 2588,
+        "bytes": 3443,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 62255,
+        "bytes": 63110,
         "purpose": "Repository README"
       },
       {
@@ -2358,6 +2358,25 @@
       "url": "https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve",
       "pagesUrl": "https://lineworkdevelopment.aiovisibility.net/",
       "repo": "AIOVisibilityHub/linework-development-ai-schemas-kgve"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/linework-development-ai-schemas-y9s8",
+      "pagesUrl": "https://linework-development-ai-schemas-y9s8-0cd220.gitlab.io/"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/linework-development-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/linework-development-ai-schemas/",
+      "repo": "aiovisibilityhub/linework-development-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/linework-development-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23112291"
     }
   }
 }
