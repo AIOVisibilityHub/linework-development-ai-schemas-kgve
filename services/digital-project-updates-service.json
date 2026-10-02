@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "GeneralContractor",
+  "name": "Digital Project Updates",
+  "serviceType": "Digital Project Updates",
+  "provider": {
+    "@type": "GeneralContractor",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com",
+    "telephone": "(626) 594-5005"
+  },
+  "url": "https://lineworkdevelopment.com",
+  "telephone": "(626) 594-5005",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Marino"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ]
+}
