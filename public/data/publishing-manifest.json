@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-02T23:22:21.904Z",
+  "generatedAt": "2026-10-02T23:22:36.273Z",
   "client": {
     "name": "LineWork Development",
     "canonicalUrl": "https://lineworkdevelopment.aiovisibility.net",
@@ -80,7 +80,7 @@
   },
   "package": {
     "totalFiles": 445,
-    "totalBytes": 1244160,
+    "totalBytes": 1209209,
     "stats": {
       "faqs": 295,
       "helpArticles": 0,
@@ -2246,42 +2246,42 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20251,
+        "bytes": 15699,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 68877,
+        "bytes": 64465,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 49860,
+        "bytes": 45338,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 33651,
+        "bytes": 29441,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17608,
+        "bytes": 13323,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 207558,
+        "bytes": 203237,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 40314,
+        "bytes": 35928,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 28259,
+        "bytes": 23996,
         "purpose": "LLM-optimized public page"
       }
     ],
