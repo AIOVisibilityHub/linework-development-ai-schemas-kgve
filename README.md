@@ -10,15 +10,15 @@ Canonical AI Data Package for LineWork Development.
 
 ## Stats
 - 295 faqs
-- 20 press
-- 20 awards
-- 20 reviews
-- 1 services
+- 43 services
+- 2 personnel
 - 1 locations
-- 7 personnel
+- 20 awards
 - 20 caseStudies
 - 1 organization
-- **386** total
+- 20 press
+- 20 reviews
+- **423** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] LineWork Development — canonical website — https://lineworkdevelopment.aiovisibility.net
@@ -44,19 +44,56 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 ### Organization & About (1)
 - [`organization/linework-development-organization.json`](./organization/linework-development-organization.json) — schema
 
-### Services (1)
+### Services (43)
+- [`services/accessory-dwelling-units-adus-service.json`](./services/accessory-dwelling-units-adus-service.json) — schema
+- [`services/architectural-design-coordination-service.json`](./services/architectural-design-coordination-service.json) — schema
+- [`services/backyard-offices-service.json`](./services/backyard-offices-service.json) — schema
+- [`services/bathroom-renovations-service.json`](./services/bathroom-renovations-service.json) — schema
+- [`services/battery-storage-integration-service.json`](./services/battery-storage-integration-service.json) — schema
+- [`services/budget-management-service.json`](./services/budget-management-service.json) — schema
+- [`services/construction-management-service.json`](./services/construction-management-service.json) — schema
+- [`services/creative-studios-service.json`](./services/creative-studios-service.json) — schema
+- [`services/custom-cabinetry-service.json`](./services/custom-cabinetry-service.json) — schema
+- [`services/custom-home-construction-service.json`](./services/custom-home-construction-service.json) — schema
+- [`services/custom-interior-remodeling-service.json`](./services/custom-interior-remodeling-service.json) — schema
+- [`services/custom-millwork-service.json`](./services/custom-millwork-service.json) — schema
+- [`services/design-build-services-service.json`](./services/design-build-services-service.json) — schema
+- [`services/development-incentive-documentation-support-service.json`](./services/development-incentive-documentation-support-service.json) — schema
+- [`services/digital-project-updates-service.json`](./services/digital-project-updates-service.json) — schema
+- [`services/energy-efficient-construction-planning-service.json`](./services/energy-efficient-construction-planning-service.json) — schema
+- [`services/federal-and-state-tax-credit-strategy-service.json`](./services/federal-and-state-tax-credit-strategy-service.json) — schema
+- [`services/garage-conversions-service.json`](./services/garage-conversions-service.json) — schema
+- [`services/great-room-additions-service.json`](./services/great-room-additions-service.json) — schema
+- [`services/ground-up-home-construction-service.json`](./services/ground-up-home-construction-service.json) — schema
+- [`services/guest-houses-service.json`](./services/guest-houses-service.json) — schema
+- [`services/high-end-finish-upgrades-service.json`](./services/high-end-finish-upgrades-service.json) — schema
+- [`services/historic-rehabilitation-incentive-support-service.json`](./services/historic-rehabilitation-incentive-support-service.json) — schema
+- [`services/home-additions-service.json`](./services/home-additions-service.json) — schema
+- [`services/home-renovations-remodels-service.json`](./services/home-renovations-remodels-service.json) — schema
 - [`services/interior-renovations-service.json`](./services/interior-renovations-service.json) — schema
+- [`services/kitchen-renovations-service.json`](./services/kitchen-renovations-service.json) — schema
+- [`services/luxury-home-expansions-service.json`](./services/luxury-home-expansions-service.json) — schema
+- [`services/multi-story-additions-service.json`](./services/multi-story-additions-service.json) — schema
+- [`services/new-construction-service.json`](./services/new-construction-service.json) — schema
+- [`services/open-concept-floor-plans-service.json`](./services/open-concept-floor-plans-service.json) — schema
+- [`services/pantry-renovations-service.json`](./services/pantry-renovations-service.json) — schema
+- [`services/permit-management-service.json`](./services/permit-management-service.json) — schema
+- [`services/primary-suite-additions-service.json`](./services/primary-suite-additions-service.json) — schema
+- [`services/project-management-service.json`](./services/project-management-service.json) — schema
+- [`services/rental-adus-service.json`](./services/rental-adus-service.json) — schema
+- [`services/solar-energy-integration-service.json`](./services/solar-energy-integration-service.json) — schema
+- [`services/structural-engineering-coordination-service.json`](./services/structural-engineering-coordination-service.json) — schema
+- [`services/structural-reconfiguration-service.json`](./services/structural-reconfiguration-service.json) — schema
+- [`services/timeline-management-service.json`](./services/timeline-management-service.json) — schema
+- [`services/utility-integration-service.json`](./services/utility-integration-service.json) — schema
+- [`services/whole-home-renovations-service.json`](./services/whole-home-renovations-service.json) — schema
+- [`services/zoning-navigation-service.json`](./services/zoning-navigation-service.json) — schema
 
 ### Locations (1)
 - [`locations/linework-development-office.json`](./locations/linework-development-office.json) — schema
 
-### Team Members (7)
-- [`team/eric-lin-architectural-design-coordination-southern-california-faq.json`](./team/eric-lin-architectural-design-coordination-southern-california-faq.json) — schema
-- [`team/eric-lin-general-contracting-southern-california-faq.json`](./team/eric-lin-general-contracting-southern-california-faq.json) — schema
+### Team Members (2)
 - [`team/eric-lin-profile.json`](./team/eric-lin-profile.json) — schema
-- [`team/eric-lin-residential-construction-southern-california-faq.json`](./team/eric-lin-residential-construction-southern-california-faq.json) — schema
-- [`team/eric-lin-residential-design-build-southern-california-faq.json`](./team/eric-lin-residential-design-build-southern-california-faq.json) — schema
-- [`team/eric-lin-residential-design-southern-california-faq.json`](./team/eric-lin-residential-design-southern-california-faq.json) — schema
 - [`team/eric-lin-southern-california.json`](./team/eric-lin-southern-california.json) — schema
 
 ### FAQs (295)

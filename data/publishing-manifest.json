@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:37:51.087Z",
+  "generatedAt": "2026-10-02T23:22:21.904Z",
   "client": {
     "name": "LineWork Development",
     "canonicalUrl": "https://lineworkdevelopment.aiovisibility.net",
@@ -20,31 +20,83 @@
       }
     ],
     "services": [
-      "interior renovations"
+      "Custom Interior Remodeling",
+      "Home Renovations & Remodels",
+      "Interior Renovations",
+      "Whole-Home Renovations",
+      "Structural Reconfiguration",
+      "Open-Concept Floor Plans",
+      "Kitchen Renovations",
+      "Pantry Renovations",
+      "Bathroom Renovations",
+      "Custom Cabinetry",
+      "Custom Millwork",
+      "High-End Finish Upgrades",
+      "Home Additions",
+      "Primary Suite Additions",
+      "Great Room Additions",
+      "Multi-Story Additions",
+      "Luxury Home Expansions",
+      "Accessory Dwelling Units (ADUs)",
+      "Guest Houses",
+      "Rental ADUs",
+      "Backyard Offices",
+      "Creative Studios",
+      "Garage Conversions",
+      "New Construction",
+      "Ground-Up Home Construction",
+      "Custom Home Construction",
+      "Architectural Design Coordination",
+      "Design-Build Services",
+      "Structural Engineering Coordination",
+      "Project Management",
+      "Construction Management",
+      "Permit Management",
+      "Zoning Navigation",
+      "Utility Integration",
+      "Budget Management",
+      "Timeline Management",
+      "Digital Project Updates",
+      "Solar Energy Integration",
+      "Battery Storage Integration",
+      "Energy-Efficient Construction Planning",
+      "Federal and State Tax Credit Strategy",
+      "Historic Rehabilitation Incentive Support",
+      "Development Incentive Documentation Support"
     ],
     "cities": [
-      "Southern California"
+      "San Marino",
+      "Pasadena",
+      "South Pasadena",
+      "San Gabriel",
+      "San Gabriel Valley",
+      "Alhambra",
+      "Arcadia",
+      "Temple City",
+      "San Gabriel",
+      "Rosemead",
+      "Monterey Park"
     ]
   },
   "package": {
-    "totalFiles": 408,
-    "totalBytes": 1131568,
+    "totalFiles": 445,
+    "totalBytes": 1244160,
     "stats": {
-      "qna": 0,
       "faqs": 295,
-      "press": 20,
-      "total": 386,
-      "awards": 20,
-      "reviews": 20,
-      "products": 0,
-      "research": 0,
-      "services": 1,
-      "webpages": 0,
-      "locations": 1,
-      "personnel": 7,
-      "caseStudies": 20,
       "helpArticles": 0,
-      "organization": 1
+      "services": 43,
+      "webpages": 0,
+      "personnel": 2,
+      "products": 0,
+      "locations": 1,
+      "awards": 20,
+      "caseStudies": 20,
+      "organization": 1,
+      "press": 20,
+      "reviews": 20,
+      "qna": 0,
+      "research": 0,
+      "total": 423
     }
   },
   "entrypoints": {
@@ -1540,6 +1592,216 @@
         "path": "services/interior-renovations-service.json",
         "bytes": 5288,
         "purpose": "schema"
+      },
+      {
+        "path": "services/custom-interior-remodeling-service.json",
+        "bytes": 847,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-renovations-remodels-service.json",
+        "bytes": 849,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/whole-home-renovations-service.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structural-reconfiguration-service.json",
+        "bytes": 847,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/open-concept-floor-plans-service.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-renovations-service.json",
+        "bytes": 833,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pantry-renovations-service.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-renovations-service.json",
+        "bytes": 835,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-cabinetry-service.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-millwork-service.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/high-end-finish-upgrades-service.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-additions-service.json",
+        "bytes": 823,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/primary-suite-additions-service.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/great-room-additions-service.json",
+        "bytes": 835,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/multi-story-additions-service.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-expansions-service.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessory-dwelling-units-adus-service.json",
+        "bytes": 857,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/guest-houses-service.json",
+        "bytes": 819,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rental-adus-service.json",
+        "bytes": 817,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/backyard-offices-service.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/creative-studios-service.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-conversions-service.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/new-construction-service.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ground-up-home-construction-service.json",
+        "bytes": 849,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-home-construction-service.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/architectural-design-coordination-service.json",
+        "bytes": 861,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/design-build-services-service.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structural-engineering-coordination-service.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/project-management-service.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/construction-management-service.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/permit-management-service.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/zoning-navigation-service.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/utility-integration-service.json",
+        "bytes": 833,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/budget-management-service.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/timeline-management-service.json",
+        "bytes": 833,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/digital-project-updates-service.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/solar-energy-integration-service.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/battery-storage-integration-service.json",
+        "bytes": 849,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/energy-efficient-construction-planning-service.json",
+        "bytes": 871,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/federal-and-state-tax-credit-strategy-service.json",
+        "bytes": 869,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/historic-rehabilitation-incentive-support-service.json",
+        "bytes": 877,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/development-incentive-documentation-support-service.json",
+        "bytes": 881,
+        "purpose": "schema"
       }
     ],
     "team": [
@@ -1551,31 +1813,6 @@
       {
         "path": "team/eric-lin-southern-california.json",
         "bytes": 4214,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/eric-lin-residential-design-build-southern-california-faq.json",
-        "bytes": 3103,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/eric-lin-residential-construction-southern-california-faq.json",
-        "bytes": 3103,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/eric-lin-general-contracting-southern-california-faq.json",
-        "bytes": 3083,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/eric-lin-architectural-design-coordination-southern-california-faq.json",
-        "bytes": 3139,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/eric-lin-residential-design-southern-california-faq.json",
-        "bytes": 3079,
         "purpose": "schema"
       }
     ],
@@ -1790,13 +2027,6 @@
         "purpose": "schema"
       }
     ],
-    "organization": [
-      {
-        "path": "organization/linework-development-organization.json",
-        "bytes": 5226,
-        "purpose": "schema"
-      }
-    ],
     "press": [
       {
         "path": "press/san-marino-design-build-firm-expands-services.json",
@@ -2006,45 +2236,52 @@
         "purpose": "schema"
       }
     ],
+    "organization": [
+      {
+        "path": "organization/linework-development-organization.json",
+        "bytes": 9128,
+        "purpose": "schema"
+      }
+    ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 13828,
+        "bytes": 20251,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 69309,
+        "bytes": 68877,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 19421,
+        "bytes": 49860,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 26651,
+        "bytes": 33651,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 10413,
+        "bytes": 17608,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 200453,
+        "bytes": 207558,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 33128,
+        "bytes": 40314,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 37643,
+        "bytes": 28259,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -2056,7 +2293,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 1370,
+        "bytes": 2586,
         "purpose": "LLM hint"
       },
       {
@@ -2081,32 +2318,32 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 178309,
+        "bytes": 191177,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 49752,
+        "bytes": 54737,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 49752,
+        "bytes": 54737,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 1371,
+        "bytes": 2588,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 58345,
+        "bytes": 62255,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 52915,
+        "bytes": 57089,
         "purpose": "AI sitemap"
       },
       {
