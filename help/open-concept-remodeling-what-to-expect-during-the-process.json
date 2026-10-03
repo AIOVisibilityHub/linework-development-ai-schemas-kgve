@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Open-Concept Remodeling: What to Expect During the Process",
+  "description": "The process begins with a detailed discussion of your vision and a thorough assessment of your existing home. This is where a design-build firm will evaluate the walls you wish to remove, identifying ",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Initial Consultation and Structural Assessment",
+      "text": "The process begins with a detailed discussion of your vision and a thorough assessment of your existing home. This is where a design-build firm will evaluate the walls you wish to remove, identifying which are load-bearing and assessing the location of essential utilities like electrical, plumbing, and HVAC. This critical first step determines the feasibility and complexity of your open-concept plan, guiding the design and engineering requirements. It helps to clarify crucial questions like 'Which walls can be removed?' early on."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Design and Engineering",
+      "text": "Once the structural assessment is complete, architectural and, if necessary, structural engineering drawings are prepared. These detailed plans will show the new layout, specify replacement beams or posts for load-bearing walls, and outline any utility rerouting. This phase ensures the proposed changes are structurally sound, aesthetically pleasing, and meet all safety codes. You'll review these plans to ensure they align perfectly with your vision."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Permitting and Approvals",
+      "text": "With approved designs in hand, permit applications are submitted to your local building department. This phase involves a detailed review by authorities to ensure compliance with building codes and regulations. Permitting can take time, varying by jurisdiction and project scope, but it's a non-negotiable step to legally and safely proceed. Construction should never begin until all required approvals are officially issued."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Preparation and Demolition",
+      "text": "Once permits are secured, the construction phase kicks off. This includes protecting surrounding areas of your home, setting up temporary supports for any load-bearing walls, and then carefully proceeding with the demolition of the designated walls. This isn't just swinging a hammer; it involves precise removal and often rerouting of utilities housed within the walls. Proper temporary support is vital to maintain the home's stability."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Structural Reinforcement and Utility Rough-in",
+      "text": "After demolition, new structural elements, such as engineered beams and posts, are installed to support the load previously carried by the removed walls. Concurrently, new electrical wiring, plumbing lines, and HVAC ductwork are rough-ed in according to the approved plans. This stage transforms the raw opening into a structurally sound and functional space, ready for finishes. Inspections typically occur after these critical structural and utility installations."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Finishing Touches and Final Inspections",
+      "text": "The final phase focuses on aesthetics and completion. This involves installing new flooring, patching and painting drywall, updating trim, and integrating any new cabinetry or fixtures. Once all finishes are in place, final inspections are conducted by the local building department to ensure everything meets code. After passing, you'll have a final walkthrough with your design-build team to ensure every detail matches your expectations, from the seamless transitions to the quality craftsmanship. Thinking about an open-concept renovation for your home? LineWork Development offers a single, accountable team to guide your project from early planning through completion. Contact us today to discuss your vision."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

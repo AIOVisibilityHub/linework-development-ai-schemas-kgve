@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Choosing the Right Partner for Your Multi-Story Addition",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Deciding to add another story to your home is a big step, and picking the right team to bring it to life is crucial. You're not just hiring someone to build; you're looking for a partner who understands the complexities of vertical expansions and how to integrate them flawlessly into your existing home. It's about finding a firm that offers a single, accountable team to guide you through the whole process, from concept to completion, just like LineWork Development does.\n\nFirst, look for demonstrated experience with vertical additions. This isn't every contractor's specialty. You want to see their track record and references for comparable occupied-home projects. They should clearly show how they coordinate between architects and structural engineers, which is super important for an addition that alters load-bearing walls or requires foundation strengthening. LineWork Development excels here, bringing a strong architectural background to every project.\n\nAsk for a written scope of work and a detailed allowance schedule. This transparency helps manage expectations and budgets. Clarify who is responsible for navigating permits and inspections; this can be a maze, and you need a partner who knows the local rules in areas like San Gabriel Valley or Orange County. Confirm they have all required insurance and licensing. Lastly, ensure they include a realistic contingency for concealed conditions. When you open up walls, you never quite know what you'll find, and a good partner prepares for that.\n\nQuestions to Ask Before You Decide:\nWhat is your experience specifically with multi-story additions on existing homes? Can you provide references for projects similar to mine, especially those completed while the homeowners were still living there? How do you coordinate the architectural design with the structural engineering, and who leads that process? What digital tools do you use to keep clients updated on progress, budget, and schedule? How do you handle unforeseen issues that arise once construction begins? These questions will help you gauge their expertise and ensure they're a good fit for your vision. When you're ready for a partner who combines architectural precision with construction expertise, contact LineWork Development.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

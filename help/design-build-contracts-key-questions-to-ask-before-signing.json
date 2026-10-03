@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Design-Build Contracts: Key Questions to Ask Before Signing",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "When you choose a design-build firm for your home project, you're opting for a streamlined process where design and construction are integrated under one roof. This can save time and reduce stress, but like any significant investment, it's crucial to understand the contract you're entering into. Before you sign, arm yourself with questions to ensure clarity, protect your interests, and set expectations for a successful project. You'll want to know exactly what the design-builder is responsible for, from the initial architectural drawings to the final walkthrough. Understanding how design changes impact both the price and schedule is vital, as is clarifying who obtains all the necessary approvals and permits. Don't be afraid to dig into the details; a reputable firm will welcome your thoroughness. A clear, comprehensive contract is the foundation of a good working relationship and a successful project outcome. It's your blueprint for the entire journey, not just the construction.\n\n### Questions to Ask Before You Decide\n\nTo ensure a smooth design-build experience, ask these important questions before finalizing your contract:\n\n- **Who are the licensed professionals responsible for the design?** — Verify the credentials of the architects and engineers involved. Your contract should clearly identify them and their roles.\n- **What are the specific design deliverables included in the contract?** — Understand what drawings, specifications, and renderings you will receive at each design phase. This prevents misunderstandings about the design scope.\n- **How is the pricing basis determined (fixed price, cost-plus, guaranteed maximum)?** — Clarify how the project cost is calculated and if there are allowances or contingencies built in. Understand what's included and what might be extra.\n- **What is the process for managing design changes and how do they affect cost and schedule?** — A clear change-order process is crucial. Know how design revisions are documented, approved, and how they impact your budget and timeline.\n- **Who is responsible for obtaining all necessary permits and approvals?** — Confirm whether the design-build firm handles all permits (building, mechanical, plumbing, electrical, fire) or if certain responsibilities fall to you.\n- **What are the payment milestones and schedule?** — Understand the payment schedule, including down payments, progress payments, and final payments linked to project completion stages.\n- **What insurance does the firm carry, and what are the warranty terms?** — Ask about liability insurance and the warranty for both workmanship and materials. This protects you in case of issues after completion.\n- **What is the communication plan and how often will I receive updates?** — A good firm, like LineWork Development, will have transparent communication processes. Understand how project progress, budget updates, and decisions will be communicated to you.\n\nConsidering a design-build project? Contact LineWork Development for a consultation where we can answer all your questions and walk you through our transparent process.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

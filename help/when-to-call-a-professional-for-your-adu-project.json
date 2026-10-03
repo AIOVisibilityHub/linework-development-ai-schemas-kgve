@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When to Call a Professional for Your ADU Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Building an Accessory Dwelling Unit (ADU) is a fantastic way to add value and functionality to your property, but it's also a complex undertaking. While some minor projects might seem DIY-friendly, an ADU rarely falls into that category. Knowing when to bring in a professional isn't just about convenience; it's about avoiding costly mistakes, ensuring compliance, and achieving a high-quality, seamless result. Here are some clear signs that professional help, like that offered by LineWork Development, is essential for your ADU.\n\n— When the project involves structural changes or new construction: If you’re building a detached ADU from the ground up, adding a new foundation, or making significant structural modifications to an existing building for an attached ADU, a professional general contractor and design-build firm is non-negotiable. They understand the engineering and construction integrity needed.\n\n— When separate utilities or complex site conditions are involved: Tying into existing utilities or installing new ones (water, sewer, gas, electrical) can be tricky. Professionals manage these connections safely and ensure they meet code. Difficult site conditions, like sloping lots or challenging access, also require expert planning and execution.\n\n— When navigating complex code calculations or special overlays: Building codes, energy requirements, and specific zoning overlays (like historic districts or flood zones) can add layers of complexity. Professionals handle the necessary calculations and understand how these overlays impact your project, ensuring compliance from day one.\n\n— When legalizing an existing unpermitted unit: This is often more complicated than building new! Professionals have the experience to assess the existing structure, identify what needs to be brought up to code, and navigate the permitting process to make it legal. This isn't a task for amateurs.\n\n— When design quality and seamless integration are priorities: If you want your ADU to feel like an intentional, cohesive part of your property, rather than an afterthought, a design-build firm like LineWork Development is ideal. We combine architectural vision with construction expertise to ensure your ADU integrates beautifully with your existing home.\n\n— When you need integrated project management: Managing architects, engineers, city officials, and various trades can be overwhelming. A design-build firm provides a single, accountable team, coordinating all aspects from design and permitting to construction and final walkthrough. This simplifies the process and reduces friction.\n\nWhat to Prepare Before You Start\nBefore calling, have a clear idea of your ADU's purpose and a general sense of your budget. Also, gather any existing property surveys or site plans you might have. This information will give professionals a great starting point for your initial consultation.\n\nReady to get started on your ADU with confidence? Contact LineWork Development for expert guidance and integrated project management.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

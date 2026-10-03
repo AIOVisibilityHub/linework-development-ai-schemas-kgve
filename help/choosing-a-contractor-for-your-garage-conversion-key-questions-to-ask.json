@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Choosing a Contractor for Your Garage Conversion: Key Questions to Ask",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Deciding to convert your garage into a more functional space, whether it's a home office, an extra bedroom, or a creative studio, is a big step. The success of this project largely hinges on choosing the right partner. Since LineWork Development specializes in residential design-build projects, we know what separates a good contractor from a great one, especially when it comes to integrated solutions. Asking the right questions upfront can save you headaches down the line.\n\n**Questions to Ask Before You Decide**\n1.  **Do you have specific experience with garage conversions or similar integrated projects?** It’s one thing to build a new structure, but converting an existing one requires a nuanced understanding of how to integrate new elements seamlessly while addressing existing conditions like foundations, drainage, and utility hookups. Ask to see examples of their garage conversion portfolio.\n2.  **How do you handle local planning and building regulations in our area (e.g., San Marino, Pasadena)?** Regulations can vary, and a contractor who is familiar with the specific requirements of your city or county can streamline the permitting process significantly. LineWork Development, serving Greater Los Angeles and the San Gabriel Valley, has experience navigating these local intricacies.\n3.  **What’s included in your detailed scope and quote, and what's explicitly excluded?** A clear, written breakdown helps prevent surprises. Understand if the quote covers everything from architectural drawings, engineering, and permitting assistance to all construction phases, finishes, and final clean-up. Be wary of vague ",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

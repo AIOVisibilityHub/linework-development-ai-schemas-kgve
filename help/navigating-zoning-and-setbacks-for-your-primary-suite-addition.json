@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Navigating Zoning and Setbacks for Your Primary Suite Addition",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about adding a primary suite to your home? It's a fantastic way to enhance your living space, but before you even sketch out a dream layout, you'll need to get familiar with local zoning and setback rules. These aren't just suggestions; they're critical guidelines that dictate where and how you can build on your property. Ignoring them can lead to major headaches, costly redesigns, or even rejection of your project. Things like how close your new structure can be to property lines, how much of your lot can be covered by buildings, and even the maximum height of your addition are all typically regulated.\n\n### What to Prepare Before You Start\nBefore you dive deep into design, gather some essential information. Start by checking your local jurisdiction's planning department for their specific zoning ordinances and setback requirements for additions. You'll want to understand terms like \"front setback,\" \"side setback,\" \"rear setback,\" and \"lot coverage.\" It's also wise to get a copy of your property survey, which will show your exact property lines and existing structures. This initial legwork helps you visualize what’s possible within the legal confines of your lot, preventing you from falling in love with a design that simply won't get approved. Many homeowners discover that their initial ideas need significant adjustments once they understand these foundational rules. Having this information upfront will save you a lot of time and potential frustration down the road.\n\nWhen you're dealing with a significant expansion like a primary suite, confirming site constraints and zoning early in the process is a must. You'll need to know if your desired footprint fits within the required setbacks and lot-coverage limits. For instance, can your dream suite include a spacious bedroom, a luxurious bathroom, a walk-in closet, and perhaps even its own separate exterior access while still complying? These details often dictate the ultimate size and configuration of your addition. Your local zoning and building departments are the authorities on these requirements, and additions commonly trigger a need for zoning review in addition to standard building permits. This means your project needs to be compliant from both a land-use perspective and a construction safety perspective. Don't skip this crucial preliminary step, as it forms the bedrock of a successful addition project. It's truly where the first lines of your project should be drawn, aligning with both your vision and local regulations.\n\nTo get started on the right foot, consider reaching out to a design-build firm like LineWork Development. We specialize in coordinating architectural design and navigating permitting, ensuring your primary suite addition is well-planned and compliant from concept to completion. You can reach us at (626) 594-5005 for a consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

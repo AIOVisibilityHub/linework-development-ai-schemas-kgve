@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Planning Your Guest House: What to Prepare Before You Start",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Adding a guest house to your property can be a wonderful way to create extra space for visitors, family, or even a dedicated retreat. But like any significant construction project in places like the San Gabriel Valley, it requires careful planning and preparation to ensure a smooth journey from concept to completion. Getting organized upfront will save you time, stress, and potential headaches down the road. Here's a checklist of what to prepare before you break ground on your guest house.\n\n- [ ] Verify local zoning classification and permitted use — why: The term 'guest house' isn't uniformly regulated. What's allowed in Alhambra might differ from Arcadia. You need to confirm whether your proposed structure is classified as a guest house, a cabin, or even an ADU, as each has distinct rules. This affects everything from size to permissible features.\n\n- [ ] Confirm accessory status to the primary residence — why: Most jurisdictions consider a guest house to be accessory to your main home. This classification impacts what features are allowed and ensures it’s not considered a separate, independent dwelling unit, which would involve different regulations.\n\n- [ ] Create a detailed site plan — why: This isn't just a sketch. You'll need a professional site plan showing your property boundaries, all existing structures, the exact location of your proposed guest house, parking arrangements, and critical zoning information. This document is fundamental for permit applications and helps avoid setbacks or utility conflicts.\n\n- [ ] Research specific size, occupancy, and feature rules — why: Local rules often dictate maximum square footage, whether a kitchen is allowed, bathroom requirements, and parking provisions for guest houses. Overlooking these can lead to costly redesigns or even permit denial. Don’t assume; confirm the specifics for your area.\n\n- [ ] Plan for utility connections and infrastructure — why: Will your guest house share utilities with the main house, or will it need separate hookups for water, sewer, and electricity? This is a significant consideration, especially if new infrastructure or grading is required. It impacts costs and project complexity.\n\n- [ ] Consider the design and architectural continuity — why: You want your guest house to feel like a natural extension of your property, not an afterthought. Think about how its design, materials, and aesthetic will complement your main home. LineWork Development specializes in creating seamless transitions that maintain architectural integrity.\n\nHow to use this checklist: Go through each item and ensure you have considered or addressed it before moving too far into the design phase. This proactive approach will clarify your project scope and regulatory hurdles.\n\nReady to plan your perfect guest house? Contact LineWork Development to discuss your vision and navigate the preparations with expert guidance.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

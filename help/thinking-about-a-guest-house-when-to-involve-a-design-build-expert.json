@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Thinking About a Guest House: When to Involve a Design-Build Expert",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Dreaming of adding a guest house to your property? It's a fantastic way to boost your home's functionality and value, whether for family, friends, or even potential rental income. But before you dive in, understanding when to bring in a design-build expert can save you a lot of headaches and ensure your vision truly comes to life.\n\nWhen Professional Guidance Helps\nOne of the biggest advantages of working with a firm like LineWork Development is navigating the complexities from concept to completion. If you're exploring a change of use for an existing structure, or if your property might require significant renovation or new construction, a design-build partner becomes invaluable. They can assess your property's permitted use, help plan necessary changes, and design fire-safety systems that comply with local regulations. Plus, for specialized installations like fire doors and alarm systems, certified installers are often a must, and we ensure all compliance documentation is retained.\n\nEvaluating a property's potential for a guest house involves more than just aesthetics. You'll need to consider local zoning and planning rules, especially for short-stay accommodations. A design-build firm can help you understand these requirements early on. They'll also be critical in designing and executing any building or accessibility work, ensuring everything is up to code and functional.\n\nFor projects that include food service, even a simple breakfast nook, food-safety requirements come into play. A design-build team can guide you through these considerations, integrating necessary features seamlessly into the design without compromising the overall look and feel.\n\nBringing in an integrated design-build partner like LineWork Development early means you get architectural vision, construction expertise, and detailed project management all under one roof. This single-team approach protects your design intent, ensures construction quality, and guarantees the practical usability of your finished guest house.\n\nWhat to Do Next\nIf you're considering a guest house, reach out to LineWork Development. We can help assess your property's potential and guide you through the initial planning stages to ensure a smooth, successful project.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

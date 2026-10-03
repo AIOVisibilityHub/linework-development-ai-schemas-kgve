@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Estimating the Timeline for Your Home Addition Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Considering a home addition? It’s a big step, and understanding the timeline is key to managing expectations. While every project is unique, especially with factors like site conditions or specific city requirements in places like Arcadia or South Pasadena, there’s a general flow you can expect. Typically, the planning and design phase is where you'll spend about 1 to 3 months. This is when your ideas really start taking shape with architectural and structural drawings.\n\nAfter design comes permitting, which can range from a quick 3 weeks to a more involved 3 months, depending on the complexity of your project and the local jurisdiction. Then, construction itself usually runs for about 2 to 6 months. Now, these are just averages! Things like extensive redesigns, unexpected site conditions (think tricky soil or drainage issues), or even inspection availability can stretch these periods out. It's really important to avoid locking in a budget or schedule until you’ve got a good handle on the site and design work.\n\nWhat to Expect During the Process:\nDuring construction, you'll have various inspections to pass, ensuring everything meets code. This is a critical part of the process, and LineWork Development coordinates this closely. Our integrated design-build approach means we’re managing everything from start to finish, providing transparency with digital project management tools so you can see your budget, schedule, photos, and next steps. From the initial permits to the final walkthrough, we aim to make it as smooth as possible.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

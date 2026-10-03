@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "When Does a Great Room Addition Need an Engineer?",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about a great room addition? It's a fantastic way to add space and functionality, but sometimes it's not as simple as just extending a wall. Understanding when you'll need the expertise of an engineer or architect can really streamline your project and keep things safe and compliant. LineWork Development has an architectural background, which means we bring a deeper understanding of structure, form, and functionality to every project, helping us navigate these complexities.\n\nWhat Can Change the Right Choice:\n\nIf your great room addition involves any of the following, a qualified architect or structural engineer becomes super important:\n\n-   **Removing load-bearing walls:** If you’re opening up an existing space to connect to your new great room, and that wall is supporting weight from above, you'll need an engineer to design a new support system like a beam.\n-   **Adding substantial roof or floor loads:** A larger space means more weight, and your existing structure needs to be able to handle it. An engineer will calculate these loads and design appropriate support.\n-   **Changing the foundation:** If your addition requires extending or modifying the foundation, an engineer will ensure it's properly designed for stability and to prevent settling.\n-   **Complex framing:** Unusual rooflines, large spans, or unique architectural features often require an engineer's calculations to ensure structural integrity.\n-   **Jurisdictional requirements:** Many local building departments will require stamped plans from a licensed professional for any significant structural changes. It's not just a good idea, it's often a legal necessity to get permits approved.\n\nAt LineWork Development, our integrated design-build approach means we coordinate architectural design and structural engineering right from the start. This ensures that these critical considerations are addressed early in the planning phase, preventing costly surprises and delays during construction. We’re well-versed in the permitting process and how to work with these professionals to get your project done right. Our goal is to make sure your addition is not only beautiful but also structurally sound and compliant.\n\nIf you’re unsure whether your great room addition requires specialized engineering, it’s always best to consult with experienced professionals. Contact LineWork Development to discuss your project; we can help assess your specific needs.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

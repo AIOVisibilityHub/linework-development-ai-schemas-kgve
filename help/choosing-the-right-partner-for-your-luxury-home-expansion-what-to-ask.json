@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Choosing the Right Partner for Your Luxury Home Expansion: What to Ask",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Deciding to expand your luxury home is a big step, and picking the right design-build partner is crucial for a smooth, successful project. You’re not just hiring someone to build; you’re looking for a team that understands architectural vision, quality craftsmanship, and seamless integration with your existing home. A great partner will make sure your new space feels like an original, not an afterthought.\n\nHere are some questions that can help you find a partner who truly gets it:\n\n**Questions to Ask Before You Decide**\n\n*   **Do you specialize in high-end additions and renovations?** Look for firms with proven experience in luxury projects, especially those that prioritize architectural continuity and structural engineering. This ensures they understand the nuances of integrating new structures with existing, often unique, homes.\n*   **How do you coordinate architectural design and construction?** A design-build firm like LineWork Development, which integrates design, engineering, permitting, and project management, offers a single, accountable team. This can simplify communication and protect your design intent from concept to completion.\n*   **Can you show me examples of similar projects you've completed?** Ask for a portfolio that showcases seamless additions, where the new spaces feel intentionally cohesive with the original architecture. This demonstrates their ability to match styles and finishes.\n*   **What is your process for managing budgets and schedules?** Transparent communication and organized project control are vital. Inquire about their use of digital project management tools to provide visibility into budgets, schedules, progress photos, and decision-making.\n*   **How do you handle unforeseen challenges or changes?** Even with the best planning, construction can have surprises. A clear process for change orders and contingencies, along with realistic scheduling, indicates a mature and reliable partner.\n\nChoosing a firm that excels in coordinating all aspects, from design to execution, means you have a single point of contact responsible for delivering a beautifully integrated and functional living space.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Expanding Your Home: Avoiding Common Home Addition Mistakes",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "A home addition is a significant investment that can dramatically improve your living situation, but it's also a complex project where missteps can be costly. Many homeowners dream of expanding for a growing family or adding an income-producing ADU, but overlooking key details can lead to delays, budget overruns, or a finished space that doesn't quite meet expectations. Don't let common pitfalls derail your vision. Understanding these mistakes upfront helps ensure your expansion, whether in Pasadena or Arcadia, integrates seamlessly and adds real value.\n\nCommon Mistakes to Avoid\n\n1.  Designing Before Checking Zoning: Many homeowners get excited about design ideas before verifying local zoning and building codes. This can lead to plans that aren't permissible due to setbacks, lot coverage, or height restrictions. How to avoid it: Always start by obtaining current property information and understanding all local restrictions. A design-build firm can help navigate these complexities from day one.\n\n2.  Underestimating Permit and Inspection Time: The permitting process isn't instant. Plan review by local authorities can take weeks or even months, and construction can't begin until approvals are issued. How to avoid it: Factor in realistic timelines for planning, design, and permitting, understanding that these estimates are not universal deadlines. Start the permitting process early.\n\n3.  Overlooking Drainage or Utility Conflicts: New additions can impact existing drainage patterns or run into underground utility lines. Failing to account for these can cause significant problems during construction or lead to future issues. How to avoid it: A thorough site survey and careful planning, including understanding site and utility coordination, are essential. This is where professional experience with complex sites really pays off.\n\n4.  Failing to Coordinate with Existing Structures: An addition should feel like an original part of the house, not an afterthought. This requires careful consideration of how the new foundation, roof, and architectural style connect to the existing home. How to avoid it: Choose a design-build partner like LineWork Development that specializes in \"invisible transitions\" and cohesive integration, ensuring architectural continuity.\n\n5.  Using Incomplete Drawings or Scope of Work: Vague plans or an unclear scope can lead to misunderstandings, change orders, and inflated costs during construction. How to avoid it: Insist on detailed architectural plans, structural engineering documents when applicable, and a comprehensive written scope of work. Transparency in documentation prevents disputes.\n\n6.  Omitting Contingency Funds: Unexpected issues, like concealed conditions within existing walls or unforeseen structural requirements, can arise. Without contingency funds, these can quickly blow your budget. How to avoid it: Always allocate a percentage (typically 10-20%) of your budget for contingencies. This provides a buffer for the inevitable surprises in construction.\n\nBy avoiding these common mistakes, you'll be well on your way to a successful home addition that enhances your lifestyle and property value. LineWork Development’s integrated approach helps clients throughout Greater Los Angeles, the San Gabriel Valley, and Orange County navigate these challenges with expertise.\n\nConsidering an addition for your home? Connect with LineWork Development for expert guidance and a smooth project from concept to completion.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

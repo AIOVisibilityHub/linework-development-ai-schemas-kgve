@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Get Your ADU Permit Approved Faster",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Getting your Accessory Dwelling Unit (ADU) permit approved efficiently can feel like a race against time, but there are definitely ways to speed up the process. The most critical step is to submit a complete and accurate application package right from the start. This means having all your ducks in a row: detailed, scaled architectural plans, structural engineering calculations, a comprehensive site plan showing setbacks and utility connections, and all necessary supporting documents like ownership information. Any missing piece or inconsistency is almost guaranteed to trigger review comments and delays. Think of it like this: the clearer and more thorough your initial submission, the less back-and-forth there will be with the reviewing authorities in places like San Marino, Pasadena, or throughout the San Gabriel Valley.\n\nWhat to Expect During the Process\n\nOnce your application is submitted, it enters the plan review phase. You should anticipate receiving comments from the planning and building departments. Don't be discouraged; this is a normal part of the process. Your prompt and thorough response to these comments is key to avoiding further delays. This often involves making revisions to your plans or providing additional information. After plan review, you’ll obtain your issued permit – but remember, no covered work should begin before this permit is in hand! Throughout construction, you’ll need to schedule required inspections at various stages, such as before footings are poured or rough framing is concealed. LineWork Development specializes in ADU projects, handling everything from custom planning and site coordination to navigating permit requirements and managing inspections, ensuring a seamless journey to turnkey delivery.\n\nWhen Professional Guidance Helps\n\nFor ADU projects, especially those with unique site constraints, complex code interpretations, or specific local zoning requirements, professional guidance is invaluable. A qualified design-build firm like LineWork Development can help identify the applicable permit types and reviewing authorities right away, saving you research time. We prepare comprehensive plans and supporting documents, ensuring they meet local standards. Our team responds effectively to plan-review comments and manages all submissions and corrections on your behalf. This expertise becomes particularly important if you're building a guest suite, rental unit, or detached workspace where every detail needs to be perfect. Leveraging a design-build firm's experience significantly reduces the chances of common permit mistakes like beginning work before issuance or failing to track important deadlines, ultimately helping you get your ADU built faster and without unnecessary hiccups.\n\nReady to build your ADU? Contact LineWork Development for expert permit management.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

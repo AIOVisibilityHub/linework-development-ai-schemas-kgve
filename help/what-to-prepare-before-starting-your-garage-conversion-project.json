@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What to Prepare Before Starting Your Garage Conversion Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "So, you’re ready to turn that garage into something amazing – maybe an ADU, an extra bedroom, or a dedicated workspace. That's a fantastic way to maximize your home's potential! But before you jump into design ideas, there are a few key things you should prepare. Getting these ducks in a row early can make the whole process smoother and help you avoid common delays. Start by clearly defining what you want the space to *be* and *do*. Will it be a living area, a guest suite, or something else entirely? This proposed use is crucial because it dictates many of the requirements. Next, take a good look at your existing garage's condition, especially the floor, walls, roof, and any signs of dampness. Knowing the current state helps anticipate potential challenges. And finally, be ready to dive into some local research. Rules about zoning, parking, and fire access vary, and understanding these upfront is a game-changer. The more information you gather now, the more efficiently your project can move forward.\n\n### What to Prepare Before You Start\n\nBefore you even think about swinging a hammer, preparing these items will put you in a strong position:\n\n- [ ]  **Define Proposed Use** — Clearly decide if the space will be a bedroom, independent dwelling, office, or other use. This guides all subsequent design and approval steps.\n- [ ]  **Inspect Existing Structure** — Check the current condition of the floor, walls, roof, foundations, and damp protection. This helps identify potential issues early.\n- [ ]  **Confirm Zoning & Parking Requirements** — Research your local jurisdiction's rules for garage conversions, including any requirements for replacing lost parking. This is vital for obtaining permits.\n- [ ]  **Check Ceiling Height** — Measure your garage's current ceiling height to ensure it meets residential code requirements for habitable space. Sometimes, this needs to be raised.\n- [ ]  **Consider Utility Needs** — Think about electrical, plumbing, and HVAC requirements for the new space. Will you need new lines or upgrades to existing ones?\n- [ ]  **Document Existing Layout** — Have a basic sketch or photos of your current garage layout. This provides a baseline for your design-build team.\n\nHow to use this checklist: This checklist is your starting point for a successful garage conversion. Go through each item, gathering information or taking notes. The more details you have, the better prepared you'll be when discussing your project with a design-build professional like LineWork Development. This preparation helps them understand your vision and the existing conditions, leading to a more accurate plan and smoother execution.\n\nReady to transform your garage? Contact LineWork Development today to discuss your vision and take the first step.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

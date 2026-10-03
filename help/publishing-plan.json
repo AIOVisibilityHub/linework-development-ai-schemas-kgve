@@ -1,0 +1,1269 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "Custom Interior Remodeling: What to Prepare Before Demolition Begins",
+      "anchorSlug": "custom-interior-remodeling-what-to-prepare-before-demolition-begins",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-interior-remodeling-what-to-prepare-before-demolition-begins.html"
+    },
+    {
+      "title": "Custom Interior Remodeling: Avoiding Unexpected Costs",
+      "anchorSlug": "custom-interior-remodeling-avoiding-unexpected-costs",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-interior-remodeling-avoiding-unexpected-costs.html"
+    },
+    {
+      "title": "Home Renovations & Remodels: What to Know About Permits and Inspections",
+      "anchorSlug": "home-renovations-remodels-what-to-know-about-permits-and-inspections",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-renovations-remodels-what-to-know-about-permits-and-inspections.html"
+    },
+    {
+      "title": "Home Renovations & Remodels: Budgeting for Your Whole-Home Project",
+      "anchorSlug": "home-renovations-remodels-budgeting-for-your-whole-home-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-renovations-remodels-budgeting-for-your-whole-home-project.html"
+    },
+    {
+      "title": "Home Renovations & Remodels: Choosing the Right Contractor",
+      "anchorSlug": "home-renovations-remodels-choosing-the-right-contractor",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-renovations-remodels-choosing-the-right-contractor.html"
+    },
+    {
+      "title": "Custom Interior Remodeling: Is an Integrated Design-Build Approach Right for You?",
+      "anchorSlug": "custom-interior-remodeling-is-an-integrated-design-build-approach-right-",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-interior-remodeling-is-an-integrated-design-build-approach-right-.html"
+    },
+    {
+      "title": "Interior Renovations: How to Avoid Common Pitfalls When Remodeling Your Home",
+      "anchorSlug": "interior-renovations-how-to-avoid-common-pitfalls-when-remodeling-your-h",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/interior-renovations-how-to-avoid-common-pitfalls-when-remodeling-your-h.html"
+    },
+    {
+      "title": "Choosing an Interior Renovation Partner: What to Look for in a Design-Build Firm",
+      "anchorSlug": "choosing-an-interior-renovation-partner-what-to-look-for-in-a-design-bui",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-an-interior-renovation-partner-what-to-look-for-in-a-design-bui.html"
+    },
+    {
+      "title": "Is an Interior Renovation Right for Your Property? Factors to Consider",
+      "anchorSlug": "is-an-interior-renovation-right-for-your-property-factors-to-consider",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-interior-renovation-right-for-your-property-factors-to-consider.html"
+    },
+    {
+      "title": "Whole-Home Renovation Planning: How to Prepare for a Major Project",
+      "anchorSlug": "whole-home-renovation-planning-how-to-prepare-for-a-major-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/whole-home-renovation-planning-how-to-prepare-for-a-major-project.html"
+    },
+    {
+      "title": "Considering a Whole-Home Remodel? When Professional Guidance Helps",
+      "anchorSlug": "considering-a-whole-home-remodel-when-professional-guidance-helps",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-a-whole-home-remodel-when-professional-guidance-helps.html"
+    },
+    {
+      "title": "Whole-Home Renovations vs. Phased Updates: How to Compare Your Options",
+      "anchorSlug": "whole-home-renovations-vs-phased-updates-how-to-compare-your-options",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/whole-home-renovations-vs-phased-updates-how-to-compare-your-options.html"
+    },
+    {
+      "title": "When Your Home Needs Structural Reconfiguration: Signs to Look For",
+      "anchorSlug": "when-your-home-needs-structural-reconfiguration-signs-to-look-for",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-your-home-needs-structural-reconfiguration-signs-to-look-for.html"
+    },
+    {
+      "title": "Planning an Open-Concept Remodel: What Walls Can Really Go?",
+      "anchorSlug": "planning-an-open-concept-remodel-what-walls-can-really-go",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-an-open-concept-remodel-what-walls-can-really-go.html"
+    },
+    {
+      "title": "Choosing a Contractor for Structural Wall Removal: Key Questions to Ask",
+      "anchorSlug": "choosing-a-contractor-for-structural-wall-removal-key-questions-to-ask",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-contractor-for-structural-wall-removal-key-questions-to-ask.html"
+    },
+    {
+      "title": "Navigating Permits for Structural Changes: A Homeowner's Checklist",
+      "anchorSlug": "navigating-permits-for-structural-changes-a-homeowner-s-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permits-for-structural-changes-a-homeowner-s-checklist.html"
+    },
+    {
+      "title": "Is an Open-Concept Floor Plan Right for Your Home? How to Decide",
+      "anchorSlug": "is-an-open-concept-floor-plan-right-for-your-home-how-to-decide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-open-concept-floor-plan-right-for-your-home-how-to-decide.html"
+    },
+    {
+      "title": "Avoiding Pitfalls in Open-Concept Conversions: Mistakes to Sidestep",
+      "anchorSlug": "avoiding-pitfalls-in-open-concept-conversions-mistakes-to-sidestep",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-pitfalls-in-open-concept-conversions-mistakes-to-sidestep.html"
+    },
+    {
+      "title": "Deciding to Remove a Load-Bearing Wall: What to Consider First",
+      "anchorSlug": "deciding-to-remove-a-load-bearing-wall-what-to-consider-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-to-remove-a-load-bearing-wall-what-to-consider-first.html"
+    },
+    {
+      "title": "Why Your Kitchen Renovation Quote Looks So Different",
+      "anchorSlug": "why-your-kitchen-renovation-quote-looks-so-different",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-renovation-quote-looks-so-different.html"
+    },
+    {
+      "title": "Considering a Kitchen Remodel? What to Prepare Before You Start",
+      "anchorSlug": "considering-a-kitchen-remodel-what-to-prepare-before-you-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-a-kitchen-remodel-what-to-prepare-before-you-start.html"
+    },
+    {
+      "title": "Planning a Kitchen Layout Change: When to Get Professional Help",
+      "anchorSlug": "planning-a-kitchen-layout-change-when-to-get-professional-help",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-a-kitchen-layout-change-when-to-get-professional-help.html"
+    },
+    {
+      "title": "What to Consider When Enlarging Your Pantry",
+      "anchorSlug": "what-to-consider-when-enlarging-your-pantry",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-when-enlarging-your-pantry.html"
+    },
+    {
+      "title": "Pantry Renovation: How to Avoid Common Mistakes",
+      "anchorSlug": "pantry-renovation-how-to-avoid-common-mistakes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/pantry-renovation-how-to-avoid-common-mistakes.html"
+    },
+    {
+      "title": "When to Bring in an Expert for Your Pantry Project",
+      "anchorSlug": "when-to-bring-in-an-expert-for-your-pantry-project",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-an-expert-for-your-pantry-project.html"
+    },
+    {
+      "title": "Choosing a Bathroom Renovation Contractor: What to Consider",
+      "anchorSlug": "choosing-a-bathroom-renovation-contractor-what-to-consider",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-bathroom-renovation-contractor-what-to-consider.html"
+    },
+    {
+      "title": "Bathroom Remodeling: Avoiding Common Pitfalls",
+      "anchorSlug": "bathroom-remodeling-avoiding-common-pitfalls",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/bathroom-remodeling-avoiding-common-pitfalls.html"
+    },
+    {
+      "title": "Planning Your Bathroom Renovation: A Step-by-Step Guide",
+      "anchorSlug": "planning-your-bathroom-renovation-a-step-by-step-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-bathroom-renovation-a-step-by-step-guide.html"
+    },
+    {
+      "title": "Custom Cabinetry: When to Invest in a Bespoke Solution",
+      "anchorSlug": "custom-cabinetry-when-to-invest-in-a-bespoke-solution",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-cabinetry-when-to-invest-in-a-bespoke-solution.html"
+    },
+    {
+      "title": "Understanding Custom Cabinetry Lead Times: What to Expect",
+      "anchorSlug": "understanding-custom-cabinetry-lead-times-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-custom-cabinetry-lead-times-what-to-expect.html"
+    },
+    {
+      "title": "Custom Cabinets: Mistakes to Steer Clear Of",
+      "anchorSlug": "custom-cabinets-mistakes-to-steer-clear-of",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/custom-cabinets-mistakes-to-steer-clear-of.html"
+    },
+    {
+      "title": "Why Your Custom Millwork Project Might Be Delayed",
+      "anchorSlug": "why-your-custom-millwork-project-might-be-delayed",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-custom-millwork-project-might-be-delayed.html"
+    },
+    {
+      "title": "Choosing a Custom Millwork Partner: What to Look For",
+      "anchorSlug": "choosing-a-custom-millwork-partner-what-to-look-for",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-custom-millwork-partner-what-to-look-for.html"
+    },
+    {
+      "title": "When You Need a Pro for Complex Millwork",
+      "anchorSlug": "when-you-need-a-pro-for-complex-millwork",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-you-need-a-pro-for-complex-millwork.html"
+    },
+    {
+      "title": "Navigating High-End Finish Upgrades: Common Mistakes",
+      "anchorSlug": "navigating-high-end-finish-upgrades-common-mistakes",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-high-end-finish-upgrades-common-mistakes.html"
+    },
+    {
+      "title": "What to Expect During a High-End Finish Upgrade Project",
+      "anchorSlug": "what-to-expect-during-a-high-end-finish-upgrade-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-high-end-finish-upgrade-project.html"
+    },
+    {
+      "title": "How to Pick the Right High-End Finish for Your Home",
+      "anchorSlug": "how-to-pick-the-right-high-end-finish-for-your-home",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-pick-the-right-high-end-finish-for-your-home.html"
+    },
+    {
+      "title": "Navigating Home Addition Permits: What to Expect",
+      "anchorSlug": "navigating-home-addition-permits-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-home-addition-permits-what-to-expect.html"
+    },
+    {
+      "title": "Avoiding Pitfalls in Your Home Addition Project",
+      "anchorSlug": "avoiding-pitfalls-in-your-home-addition-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-pitfalls-in-your-home-addition-project.html"
+    },
+    {
+      "title": "Planning Your Home Addition: A Step-by-Step Guide",
+      "anchorSlug": "planning-your-home-addition-a-step-by-step-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-home-addition-a-step-by-step-guide.html"
+    },
+    {
+      "title": "Is a Primary Suite Addition Right for Your Home?",
+      "anchorSlug": "is-a-primary-suite-addition-right-for-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-primary-suite-addition-right-for-your-home.html"
+    },
+    {
+      "title": "Common Mistakes When Planning a Primary Suite Addition",
+      "anchorSlug": "common-mistakes-when-planning-a-primary-suite-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-when-planning-a-primary-suite-addition.html"
+    },
+    {
+      "title": "Making Your Primary Suite Addition Flow Seamlessly",
+      "anchorSlug": "making-your-primary-suite-addition-flow-seamlessly",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-your-primary-suite-addition-flow-seamlessly.html"
+    },
+    {
+      "title": "Great Room Addition Planning: Avoiding Costly Mistakes",
+      "anchorSlug": "great-room-addition-planning-avoiding-costly-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/great-room-addition-planning-avoiding-costly-mistakes.html"
+    },
+    {
+      "title": "Considering a Great Room Addition? What to Prepare Before You Start",
+      "anchorSlug": "considering-a-great-room-addition-what-to-prepare-before-you-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-a-great-room-addition-what-to-prepare-before-you-start.html"
+    },
+    {
+      "title": "Why Your Great Room Addition Might Need an Architect or Engineer",
+      "anchorSlug": "why-your-great-room-addition-might-need-an-architect-or-engineer",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-great-room-addition-might-need-an-architect-or-engineer.html"
+    },
+    {
+      "title": "Multi-Story Addition: How to Know if Your Home Can Support It",
+      "anchorSlug": "multi-story-addition-how-to-know-if-your-home-can-support-it",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-story-addition-how-to-know-if-your-home-can-support-it.html"
+    },
+    {
+      "title": "Multi-Story Addition Projects: Questions to Ask Before You Decide",
+      "anchorSlug": "multi-story-addition-projects-questions-to-ask-before-you-decide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-story-addition-projects-questions-to-ask-before-you-decide.html"
+    },
+    {
+      "title": "Open-Concept Floor Plans: Navigating Load-Bearing Walls",
+      "anchorSlug": "open-concept-floor-plans-navigating-load-bearing-walls",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/open-concept-floor-plans-navigating-load-bearing-walls.html"
+    },
+    {
+      "title": "Home Addition Planning: A Step-by-Step Guide",
+      "anchorSlug": "home-addition-planning-a-step-by-step-guide",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/home-addition-planning-a-step-by-step-guide.html"
+    },
+    {
+      "title": "Unlocking Your Space: Open Concept Remodeling Checklist",
+      "anchorSlug": "unlocking-your-space-open-concept-remodeling-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/unlocking-your-space-open-concept-remodeling-checklist.html"
+    },
+    {
+      "title": "Expanding Your Home: Avoiding Common Home Addition Mistakes",
+      "anchorSlug": "expanding-your-home-avoiding-common-home-addition-mistakes",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/expanding-your-home-avoiding-common-home-addition-mistakes.html"
+    },
+    {
+      "title": "Open-Concept Remodeling: What to Expect During the Process",
+      "anchorSlug": "open-concept-remodeling-what-to-expect-during-the-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/open-concept-remodeling-what-to-expect-during-the-process.html"
+    },
+    {
+      "title": "Maximizing Your Property: When to Choose a Home Addition",
+      "anchorSlug": "maximizing-your-property-when-to-choose-a-home-addition",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/maximizing-your-property-when-to-choose-a-home-addition.html"
+    },
+    {
+      "title": "Navigating Zoning and Setbacks for Your Primary Suite Addition",
+      "anchorSlug": "navigating-zoning-and-setbacks-for-your-primary-suite-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-zoning-and-setbacks-for-your-primary-suite-addition.html"
+    },
+    {
+      "title": "What to Expect When Permitting Your Primary Suite Addition",
+      "anchorSlug": "what-to-expect-when-permitting-your-primary-suite-addition",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-when-permitting-your-primary-suite-addition.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Your Primary Suite Addition",
+      "anchorSlug": "avoiding-common-mistakes-in-your-primary-suite-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-your-primary-suite-addition.html"
+    },
+    {
+      "title": "Creating a Seamless Great Room Addition for Your Home",
+      "anchorSlug": "creating-a-seamless-great-room-addition-for-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/creating-a-seamless-great-room-addition-for-your-home.html"
+    },
+    {
+      "title": "Questions to Ask Before You Decide on a Great Room Addition",
+      "anchorSlug": "questions-to-ask-before-you-decide-on-a-great-room-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/questions-to-ask-before-you-decide-on-a-great-room-addition.html"
+    },
+    {
+      "title": "When Professional Guidance Helps with Your Great Room Addition",
+      "anchorSlug": "when-professional-guidance-helps-with-your-great-room-addition",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-professional-guidance-helps-with-your-great-room-addition.html"
+    },
+    {
+      "title": "Can Your Foundation Handle a Multi-Story Addition?",
+      "anchorSlug": "can-your-foundation-handle-a-multi-story-addition",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-your-foundation-handle-a-multi-story-addition.html"
+    },
+    {
+      "title": "Avoiding Delays in Your Multi-Story Addition Project",
+      "anchorSlug": "avoiding-delays-in-your-multi-story-addition-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-delays-in-your-multi-story-addition-project.html"
+    },
+    {
+      "title": "Choosing the Right Partner for Your Multi-Story Addition",
+      "anchorSlug": "choosing-the-right-partner-for-your-multi-story-addition",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-partner-for-your-multi-story-addition.html"
+    },
+    {
+      "title": "Matching Your Luxury Expansion to Your Existing Home",
+      "anchorSlug": "matching-your-luxury-expansion-to-your-existing-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/matching-your-luxury-expansion-to-your-existing-home.html"
+    },
+    {
+      "title": "Budgeting for a Luxury Home Expansion: What to Consider",
+      "anchorSlug": "budgeting-for-a-luxury-home-expansion-what-to-consider",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/budgeting-for-a-luxury-home-expansion-what-to-consider.html"
+    },
+    {
+      "title": "When to Bring in the Experts for Your Luxury Home Expansion",
+      "anchorSlug": "when-to-bring-in-the-experts-for-your-luxury-home-expansion",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-the-experts-for-your-luxury-home-expansion.html"
+    },
+    {
+      "title": "Navigating ADU Regulations: What to Consider Before You Build",
+      "anchorSlug": "navigating-adu-regulations-what-to-consider-before-you-build",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-adu-regulations-what-to-consider-before-you-build.html"
+    },
+    {
+      "title": "ADU Construction: What to Expect During the Permitting Process",
+      "anchorSlug": "adu-construction-what-to-expect-during-the-permitting-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-construction-what-to-expect-during-the-permitting-process.html"
+    },
+    {
+      "title": "When to Call a Professional for Your ADU Project",
+      "anchorSlug": "when-to-call-a-professional-for-your-adu-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-professional-for-your-adu-project.html"
+    },
+    {
+      "title": "Guest House vs. ADU: Which is Right for Your Property?",
+      "anchorSlug": "guest-house-vs-adu-which-is-right-for-your-property",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/guest-house-vs-adu-which-is-right-for-your-property.html"
+    },
+    {
+      "title": "Planning Your Guest House: What to Prepare Before You Start",
+      "anchorSlug": "planning-your-guest-house-what-to-prepare-before-you-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-guest-house-what-to-prepare-before-you-start.html"
+    },
+    {
+      "title": "Guest House Permitting: Common Mistakes to Avoid",
+      "anchorSlug": "guest-house-permitting-common-mistakes-to-avoid",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/guest-house-permitting-common-mistakes-to-avoid.html"
+    },
+    {
+      "title": "Rental ADUs: Is Your Property Ready for One?",
+      "anchorSlug": "rental-adus-is-your-property-ready-for-one",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rental-adus-is-your-property-ready-for-one.html"
+    },
+    {
+      "title": "Rental ADUs: Steps to a Smooth Permitting Process",
+      "anchorSlug": "rental-adus-steps-to-a-smooth-permitting-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rental-adus-steps-to-a-smooth-permitting-process.html"
+    },
+    {
+      "title": "Rental ADUs: Questions to Ask Before You Hire a Contractor",
+      "anchorSlug": "rental-adus-questions-to-ask-before-you-hire-a-contractor",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/rental-adus-questions-to-ask-before-you-hire-a-contractor.html"
+    },
+    {
+      "title": "Backyard Offices: Do You Need a Permit for Your Remote Workspace?",
+      "anchorSlug": "backyard-offices-do-you-need-a-permit-for-your-remote-workspace",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/backyard-offices-do-you-need-a-permit-for-your-remote-workspace.html"
+    },
+    {
+      "title": "Backyard Offices: Key Considerations Before You Build",
+      "anchorSlug": "backyard-offices-key-considerations-before-you-build",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/backyard-offices-key-considerations-before-you-build.html"
+    },
+    {
+      "title": "Backyard Offices: Checklist for a Successful Project",
+      "anchorSlug": "backyard-offices-checklist-for-a-successful-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/backyard-offices-checklist-for-a-successful-project.html"
+    },
+    {
+      "title": "Planning a Creative Studio Conversion: Avoiding Common Pitfalls",
+      "anchorSlug": "planning-a-creative-studio-conversion-avoiding-common-pitfalls",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-a-creative-studio-conversion-avoiding-common-pitfalls.html"
+    },
+    {
+      "title": "When is Professional Help Essential for Your Creative Studio Project?",
+      "anchorSlug": "when-is-professional-help-essential-for-your-creative-studio-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-professional-help-essential-for-your-creative-studio-project.html"
+    },
+    {
+      "title": "Converting Your Garage into a Creative Studio: What to Know Before You Start",
+      "anchorSlug": "converting-your-garage-into-a-creative-studio-what-to-know-before-you-st",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/converting-your-garage-into-a-creative-studio-what-to-know-before-you-st.html"
+    },
+    {
+      "title": "Garage Conversion Timeline: What to Expect from Start to Finish",
+      "anchorSlug": "garage-conversion-timeline-what-to-expect-from-start-to-finish",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/garage-conversion-timeline-what-to-expect-from-start-to-finish.html"
+    },
+    {
+      "title": "Making Your Garage a Studio: Mistakes That Can Derail Your Vision",
+      "anchorSlug": "making-your-garage-a-studio-mistakes-that-can-derail-your-vision",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/making-your-garage-a-studio-mistakes-that-can-derail-your-vision.html"
+    },
+    {
+      "title": "Choosing a Contractor for Your Garage Conversion: Key Questions to Ask",
+      "anchorSlug": "choosing-a-contractor-for-your-garage-conversion-key-questions-to-ask",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-contractor-for-your-garage-conversion-key-questions-to-ask.html"
+    },
+    {
+      "title": "Choosing a Builder for Your New Custom Home: What to Ask First",
+      "anchorSlug": "choosing-a-builder-for-your-new-custom-home-what-to-ask-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-builder-for-your-new-custom-home-what-to-ask-first.html"
+    },
+    {
+      "title": "What to Expect During Your New Home Construction Timeline",
+      "anchorSlug": "what-to-expect-during-your-new-home-construction-timeline",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-new-home-construction-timeline.html"
+    },
+    {
+      "title": "When is a Design-Build Firm Best for Your New Home?",
+      "anchorSlug": "when-is-a-design-build-firm-best-for-your-new-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-design-build-firm-best-for-your-new-home.html"
+    },
+    {
+      "title": "Avoiding Mistakes in Your New Home Construction Project",
+      "anchorSlug": "avoiding-mistakes-in-your-new-home-construction-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-mistakes-in-your-new-home-construction-project.html"
+    },
+    {
+      "title": "Preparing Your Site for New Home Construction: Essential Steps",
+      "anchorSlug": "preparing-your-site-for-new-home-construction-essential-steps",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-site-for-new-home-construction-essential-steps.html"
+    },
+    {
+      "title": "How to Budget Effectively for Ground-Up Home Construction",
+      "anchorSlug": "how-to-budget-effectively-for-ground-up-home-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-budget-effectively-for-ground-up-home-construction.html"
+    },
+    {
+      "title": "Understanding the Permitting Process for Your New Construction",
+      "anchorSlug": "understanding-the-permitting-process-for-your-new-construction",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-permitting-process-for-your-new-construction.html"
+    },
+    {
+      "title": "When to Hire a Custom Home Builder for a Complex Project",
+      "anchorSlug": "when-to-hire-a-custom-home-builder-for-a-complex-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-hire-a-custom-home-builder-for-a-complex-project.html"
+    },
+    {
+      "title": "Avoiding Costly Mistakes in Custom Home Construction",
+      "anchorSlug": "avoiding-costly-mistakes-in-custom-home-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-costly-mistakes-in-custom-home-construction.html"
+    },
+    {
+      "title": "Understanding the Custom Home Construction Timeline",
+      "anchorSlug": "understanding-the-custom-home-construction-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-custom-home-construction-timeline.html"
+    },
+    {
+      "title": "Why Architectural Design Coordination is Crucial for Your Project",
+      "anchorSlug": "why-architectural-design-coordination-is-crucial-for-your-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-architectural-design-coordination-is-crucial-for-your-project.html"
+    },
+    {
+      "title": "Navigating Design Conflicts in Your Home Build",
+      "anchorSlug": "navigating-design-conflicts-in-your-home-build",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-design-conflicts-in-your-home-build.html"
+    },
+    {
+      "title": "Navigating Home Addition Regulations: What You Need to Know",
+      "anchorSlug": "navigating-home-addition-regulations-what-you-need-to-know",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-home-addition-regulations-what-you-need-to-know.html"
+    },
+    {
+      "title": "Estimating the Timeline for Your Home Addition Project",
+      "anchorSlug": "estimating-the-timeline-for-your-home-addition-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/estimating-the-timeline-for-your-home-addition-project.html"
+    },
+    {
+      "title": "Avoiding Common Home Addition Mistakes: A Homeowner's Guide",
+      "anchorSlug": "avoiding-common-home-addition-mistakes-a-homeowner-s-guide",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-home-addition-mistakes-a-homeowner-s-guide.html"
+    },
+    {
+      "title": "Deciding on a Primary Suite Addition: Is It Right for You?",
+      "anchorSlug": "deciding-on-a-primary-suite-addition-is-it-right-for-you",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-on-a-primary-suite-addition-is-it-right-for-you.html"
+    },
+    {
+      "title": "What to Consider for Your Primary Suite Design",
+      "anchorSlug": "what-to-consider-for-your-primary-suite-design",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-for-your-primary-suite-design.html"
+    },
+    {
+      "title": "When to Bring in Experts for Your Primary Suite",
+      "anchorSlug": "when-to-bring-in-experts-for-your-primary-suite",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-experts-for-your-primary-suite.html"
+    },
+    {
+      "title": "Choosing a Partner for Your Great Room Addition: What to Look For",
+      "anchorSlug": "choosing-a-partner-for-your-great-room-addition-what-to-look-for",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-partner-for-your-great-room-addition-what-to-look-for.html"
+    },
+    {
+      "title": "Great Room Addition Planning: Mistakes That Delay Your Project",
+      "anchorSlug": "great-room-addition-planning-mistakes-that-delay-your-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/great-room-addition-planning-mistakes-that-delay-your-project.html"
+    },
+    {
+      "title": "When Does a Great Room Addition Need an Engineer?",
+      "anchorSlug": "when-does-a-great-room-addition-need-an-engineer",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-does-a-great-room-addition-need-an-engineer.html"
+    },
+    {
+      "title": "Considering a Multi-Story Addition? What to Prepare First",
+      "anchorSlug": "considering-a-multi-story-addition-what-to-prepare-first",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-a-multi-story-addition-what-to-prepare-first.html"
+    },
+    {
+      "title": "Multi-Story Addition: How to Pick the Right Design-Build Firm",
+      "anchorSlug": "multi-story-addition-how-to-pick-the-right-design-build-firm",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/multi-story-addition-how-to-pick-the-right-design-build-firm.html"
+    },
+    {
+      "title": "What to Expect During a Multi-Story Addition",
+      "anchorSlug": "what-to-expect-during-a-multi-story-addition",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-multi-story-addition.html"
+    },
+    {
+      "title": "Choosing the Right Partner for Your Luxury Home Expansion: What to Ask",
+      "anchorSlug": "choosing-the-right-partner-for-your-luxury-home-expansion-what-to-ask",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-partner-for-your-luxury-home-expansion-what-to-ask.html"
+    },
+    {
+      "title": "What to Expect During a Luxury Home Expansion Project",
+      "anchorSlug": "what-to-expect-during-a-luxury-home-expansion-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-luxury-home-expansion-project.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Luxury Home Expansions",
+      "anchorSlug": "avoiding-common-mistakes-in-luxury-home-expansions",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-luxury-home-expansions.html"
+    },
+    {
+      "title": "Deciding on an ADU for Your Property: What to Consider First",
+      "anchorSlug": "deciding-on-an-adu-for-your-property-what-to-consider-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-on-an-adu-for-your-property-what-to-consider-first.html"
+    },
+    {
+      "title": "Navigating ADU Permitting: A Step-by-Step Guide",
+      "anchorSlug": "navigating-adu-permitting-a-step-by-step-guide",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-adu-permitting-a-step-by-step-guide.html"
+    },
+    {
+      "title": "Unlocking Property Value with an ADU: A Checklist",
+      "anchorSlug": "unlocking-property-value-with-an-adu-a-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/unlocking-property-value-with-an-adu-a-checklist.html"
+    },
+    {
+      "title": "Thinking About a Guest House: When to Involve a Design-Build Expert",
+      "anchorSlug": "thinking-about-a-guest-house-when-to-involve-a-design-build-expert",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-about-a-guest-house-when-to-involve-a-design-build-expert.html"
+    },
+    {
+      "title": "Getting Started with Your Guest House Project: What to Prepare",
+      "anchorSlug": "getting-started-with-your-guest-house-project-what-to-prepare",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-started-with-your-guest-house-project-what-to-prepare.html"
+    },
+    {
+      "title": "Avoiding Guest House Project Pitfalls: Common Mistakes to Sidestep",
+      "anchorSlug": "avoiding-guest-house-project-pitfalls-common-mistakes-to-sidestep",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-guest-house-project-pitfalls-common-mistakes-to-sidestep.html"
+    },
+    {
+      "title": "Considering a Creative Studio: Why Design-Build Matters",
+      "anchorSlug": "considering-a-creative-studio-why-design-build-matters",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/considering-a-creative-studio-why-design-build-matters.html"
+    },
+    {
+      "title": "Planning Your Creative Studio: Essential Questions to Ask",
+      "anchorSlug": "planning-your-creative-studio-essential-questions-to-ask",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-creative-studio-essential-questions-to-ask.html"
+    },
+    {
+      "title": "Ensuring Your Creative Studio Project Stays on Track: What to Expect",
+      "anchorSlug": "ensuring-your-creative-studio-project-stays-on-track-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ensuring-your-creative-studio-project-stays-on-track-what-to-expect.html"
+    },
+    {
+      "title": "Converting Your Garage: How to Know if You Need Professional Help",
+      "anchorSlug": "converting-your-garage-how-to-know-if-you-need-professional-help",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/converting-your-garage-how-to-know-if-you-need-professional-help.html"
+    },
+    {
+      "title": "What to Prepare Before Starting Your Garage Conversion Project",
+      "anchorSlug": "what-to-prepare-before-starting-your-garage-conversion-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-prepare-before-starting-your-garage-conversion-project.html"
+    },
+    {
+      "title": "Garage Conversion: Mistakes to Avoid That Could Cost You",
+      "anchorSlug": "garage-conversion-mistakes-to-avoid-that-could-cost-you",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/garage-conversion-mistakes-to-avoid-that-could-cost-you.html"
+    },
+    {
+      "title": "When a Design-Build Approach Is Right for Your Home Project",
+      "anchorSlug": "when-a-design-build-approach-is-right-for-your-home-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-a-design-build-approach-is-right-for-your-home-project.html"
+    },
+    {
+      "title": "Design-Build Contracts: Key Questions to Ask Before Signing",
+      "anchorSlug": "design-build-contracts-key-questions-to-ask-before-signing",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/design-build-contracts-key-questions-to-ask-before-signing.html"
+    },
+    {
+      "title": "Understanding the Design-Build Process: From Vision to Reality",
+      "anchorSlug": "understanding-the-design-build-process-from-vision-to-reality",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-design-build-process-from-vision-to-reality.html"
+    },
+    {
+      "title": "Structural Engineering Coordination: When Your Home Renovation Needs a Deeper Look",
+      "anchorSlug": "structural-engineering-coordination-when-your-home-renovation-needs-a-de",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/structural-engineering-coordination-when-your-home-renovation-needs-a-de.html"
+    },
+    {
+      "title": "Navigating Structural Engineering for Your ADU: A Homeowner's Checklist",
+      "anchorSlug": "navigating-structural-engineering-for-your-adu-a-homeowner-s-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-structural-engineering-for-your-adu-a-homeowner-s-checklist.html"
+    },
+    {
+      "title": "Structural Engineering Coordination: Mistakes to Avoid for a Smooth Project",
+      "anchorSlug": "structural-engineering-coordination-mistakes-to-avoid-for-a-smooth-proje",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/structural-engineering-coordination-mistakes-to-avoid-for-a-smooth-proje.html"
+    },
+    {
+      "title": "Project Management for Home Builds: Ensuring Your Vision Stays on Track",
+      "anchorSlug": "project-management-for-home-builds-ensuring-your-vision-stays-on-track",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/project-management-for-home-builds-ensuring-your-vision-stays-on-track.html"
+    },
+    {
+      "title": "Choosing a Project Manager for Your Custom Home: How to Compare Your Options",
+      "anchorSlug": "choosing-a-project-manager-for-your-custom-home-how-to-compare-your-opti",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-project-manager-for-your-custom-home-how-to-compare-your-opti.html"
+    },
+    {
+      "title": "Project Management: Deciding When Professional Help Makes a Difference",
+      "anchorSlug": "project-management-deciding-when-professional-help-makes-a-difference",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/project-management-deciding-when-professional-help-makes-a-difference.html"
+    },
+    {
+      "title": "Choosing a Construction Manager: What to Prioritize",
+      "anchorSlug": "choosing-a-construction-manager-what-to-prioritize",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-a-construction-manager-what-to-prioritize.html"
+    },
+    {
+      "title": "What to Expect During Construction Management",
+      "anchorSlug": "what-to-expect-during-construction-management",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-construction-management.html"
+    },
+    {
+      "title": "Avoiding Cost Overruns in Your Home Construction Project",
+      "anchorSlug": "avoiding-cost-overruns-in-your-home-construction-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-cost-overruns-in-your-home-construction-project.html"
+    },
+    {
+      "title": "Navigating Permit Applications: What to Know First",
+      "anchorSlug": "navigating-permit-applications-what-to-know-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-permit-applications-what-to-know-first.html"
+    },
+    {
+      "title": "Common Permit Mistakes That Delay Construction",
+      "anchorSlug": "common-permit-mistakes-that-delay-construction",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-permit-mistakes-that-delay-construction.html"
+    },
+    {
+      "title": "How to Get Your ADU Permit Approved Faster",
+      "anchorSlug": "how-to-get-your-adu-permit-approved-faster",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-your-adu-permit-approved-faster.html"
+    },
+    {
+      "title": "Navigating Zoning Hurdles for Your ADU: What to Expect",
+      "anchorSlug": "navigating-zoning-hurdles-for-your-adu-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-zoning-hurdles-for-your-adu-what-to-expect.html"
+    },
+    {
+      "title": "Avoiding Zoning Application Mistakes: A Pre-Construction Checklist",
+      "anchorSlug": "avoiding-zoning-application-mistakes-a-pre-construction-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-zoning-application-mistakes-a-pre-construction-checklist.html"
+    },
+    {
+      "title": "When to Seek Expert Help with Complex Zoning Approvals",
+      "anchorSlug": "when-to-seek-expert-help-with-complex-zoning-approvals",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-seek-expert-help-with-complex-zoning-approvals.html"
+    },
+    {
+      "title": "Integrating Utilities into Your Home Renovation: What to Consider Early",
+      "anchorSlug": "integrating-utilities-into-your-home-renovation-what-to-consider-early",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/integrating-utilities-into-your-home-renovation-what-to-consider-early.html"
+    },
+    {
+      "title": "Preventing Utility Connection Delays on Your Project",
+      "anchorSlug": "preventing-utility-connection-delays-on-your-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preventing-utility-connection-delays-on-your-project.html"
+    },
+    {
+      "title": "Who Pays for Utility Upgrades on a New Build?",
+      "anchorSlug": "who-pays-for-utility-upgrades-on-a-new-build",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/who-pays-for-utility-upgrades-on-a-new-build.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://lineworkdevelopment.aiovisibility.net/articles.html",
+    "https://lineworkdevelopment.aiovisibility.net/articles/getting-started.html",
+    "https://lineworkdevelopment.aiovisibility.net/articles/services-and-process.html",
+    "https://lineworkdevelopment.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://lineworkdevelopment.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://lineworkdevelopment.aiovisibility.net/articles/local-service-guidance.html",
+    "https://lineworkdevelopment.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}

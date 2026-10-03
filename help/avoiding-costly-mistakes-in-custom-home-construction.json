@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Avoiding Costly Mistakes in Custom Home Construction",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Building a custom home is an exciting journey, but it's also easy to stumble into common pitfalls that can quickly inflate your budget and delay your timeline. One big mistake homeowners often make is starting construction before all the detailed drawings are completely approved. This can lead to significant rework down the line. Another common issue is underestimating site-development costs or selecting finishes too late, which can throw off your schedule and budget.\n\nCommon Mistakes to Avoid\n- [ ] **Starting construction without fully approved detailed drawings** — Make sure every line, every detail, is signed off on before the first shovel hits the dirt. This prevents expensive changes mid-build.\n- [ ] **Underestimating site-development costs** — Factor in expenses for things like surveys, soil investigations, and utility hookups right from the start. These aren't 'nice-to-haves,' they're necessities.\n- [ ] **Selecting finishes too late in the process** — Decide on your fixtures, flooring, and cabinetry early. Delays here can hold up entire phases of your project and lead to material availability issues.\n- [ ] **Failing to define allowances and exclusions clearly** — Ensure your contract specifies what's included and what's not, especially for items with allowances. This avoids surprise costs later.\n- [ ] **Making informal changes without written pricing** — Always get change orders in writing with an updated cost and timeline. Verbal agreements can lead to misunderstandings and disputes.\n- [ ] **Choosing a builder without proper vetting** — Verify licensing, insurance, and check references. A builder's financial capacity to maintain payments during the project is also key to preventing liens and delays.\n\nHow to use this checklist\nGo through this list with your chosen builder and make sure each point is addressed before your project kicks off. It’s a great tool for ensuring transparency and keeping everyone on the same page. A clear, well-defined plan helps safeguard your investment and ensures a smoother custom home build. LineWork Development prioritizes organized project control and transparent communication to help you avoid these very issues.\n\nIf you're ready to start your custom home journey with a partner focused on precision and clarity, contact LineWork Development for a consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

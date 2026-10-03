@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Navigating ADU Permitting: A Step-by-Step Guide",
+  "description": "Before anything else, you need to verify that an ADU is allowed on your property and what type (conversion, attached, or detached) is permitted. This initial check will also identify any site constrai",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Confirm Zoning and Feasibility",
+      "text": "Before anything else, you need to verify that an ADU is allowed on your property and what type (conversion, attached, or detached) is permitted. This initial check will also identify any site constraints, such as setbacks, fire-code requirements, or utility capacities. A design-build firm can conduct a preliminary site assessment to clarify what's possible and permissible, grounding your project in reality from the start."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Prepare Detailed Plans and Documents",
+      "text": "This phase involves developing architectural plans, site plans, floor plans, elevations, and structural engineering documents. For example, Los Angeles County typically requires architectural plans, property photos, and application materials. These aren't just pretty drawings; they must meet local building codes and specific requirements. Incomplete or inconsistent submissions are a common reason for delays, so precision here is paramount."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Submit for Planning and Building Approvals",
+      "text": "Once your plans are complete and meticulously prepared, they are submitted to the local permitting agency. California law, for qualifying lots, mandates that the permitting agency must approve or deny a *completed* ADU application within 60 days. However, if your application isn't complete or requires zoning relief, this timeline can be extended. Multiple approvals, such as separate city and county permits, may also be necessary depending on your exact location."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Address Review Comments and Obtain Permits",
+      "text": "It’s common for the permitting agency to have comments or require revisions to your submitted plans. Working with a design-build team means they can efficiently address these comments and make necessary adjustments to secure the permits. This includes ensuring all required trade permits – electrical, plumbing, and mechanical – are also obtained, not just the main building permit."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Construction and Inspections",
+      "text": "With permits in hand, construction can begin. Throughout the building process, various inspections will be conducted by the local authorities to ensure everything is built to code and matches the approved plans. Your design-build partner will coordinate these inspections and ensure the site is ready for each check, minimizing potential re-inspection delays."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Final Approval and Certificate of Occupancy",
+      "text": "Upon successful completion of all construction and final inspections, you'll receive final approval or a Certificate of Occupancy. This document officially recognizes your ADU as a legal, habitable dwelling. For example, Los Angeles County notes that an approved ADU must be submitted for a building permit within two years of Regional Planning approval, so timing is important. Navigating this process can be complex, but with a partner like LineWork Development, who understands the local landscape and coordinates everything from architectural design to permitting and construction, you'll have a clear path to your new ADU."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

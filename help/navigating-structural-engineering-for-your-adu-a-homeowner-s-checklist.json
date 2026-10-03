@@ -1,0 +1,115 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Navigating Structural Engineering for Your ADU: A Homeowner's Checklist",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Building an Accessory Dwelling Unit (ADU) or a large addition is an exciting way to expand your living space, but it brings unique structural challenges. Ensuring your new structure is integrated safely and correctly with the existing property, or stands strong as a new build, is paramount. This checklist will help you prepare for the structural engineering coordination aspects of your ADU project, making sure you cover all the bases before construction begins. It’s about proactive planning to avoid headaches later on, guaranteeing your ADU is not only beautiful but also built to last and compliant with local regulations.\n\n- [ ] **Collect Current Architectural Drawings** — These provide the initial vision and dimensions that structural engineers will base their work on. Ensure they are the latest versions to prevent using outdated information.\n- [ ] **Gather Existing Property Information** — This includes details on the current foundation, soil reports, and any previous structural modifications, which are vital for understanding the site’s constraints and opportunities.\n- [ ] **Define Responsibility for Interface Conditions** — Clearly establish who is responsible for coordinating the connections between your new ADU and existing utilities or structures to prevent oversight.\n- [ ] **Review Constructability and Material Selections** — Discuss with your team how the proposed design will actually be built and if the chosen materials are structurally appropriate and cost-effective.\n- [ ] **Understand Local Code Requirements** — Confirm the specific structural codes and permitting requirements for ADUs in your area. This ensures your design will be approved without delays.\n- [ ] **Plan for Inspection and Testing Hold Points** — Schedule specific points in the construction process where structural elements will be inspected and tested before proceeding, ensuring quality and compliance.\n\n**How to use this checklist:** Use this as a guide to organize your thoughts and information before meeting with your design-build team or structural engineer. A thorough preparation means fewer surprises and a more efficient project flow. It empowers you to ask informed questions and ensure all critical structural aspects are addressed from the outset.\n\nFor expert guidance on your ADU structural coordination, reach out to LineWork Development.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Navigating Structural Engineering for Your ADU: A Homeowner's Checklist",
+    "numberOfItems": 6,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Collect Current Architectural Drawings — These provide the initial vision and dimensions that structural en…",
+        "description": "Collect Current Architectural Drawings — These provide the initial vision and dimensions that structural engineers will base their work on. Ensure they are the latest versions to prevent using outdated information."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gather Existing Property Information — This includes details on the current foundation, soil reports, and a…",
+        "description": "Gather Existing Property Information — This includes details on the current foundation, soil reports, and any previous structural modifications, which are vital for understanding the site’s constraints and opportunities."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Define Responsibility for Interface Conditions — Clearly establish who is responsible for coordinating the…",
+        "description": "Define Responsibility for Interface Conditions — Clearly establish who is responsible for coordinating the connections between your new ADU and existing utilities or structures to prevent oversight."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Review Constructability and Material Selections — Discuss with your team how the proposed design will actua…",
+        "description": "Review Constructability and Material Selections — Discuss with your team how the proposed design will actually be built and if the chosen materials are structurally appropriate and cost-effective."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Understand Local Code Requirements — Confirm the specific structural codes and permitting requirements for…",
+        "description": "Understand Local Code Requirements — Confirm the specific structural codes and permitting requirements for ADUs in your area. This ensures your design will be approved without delays."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Plan for Inspection and Testing Hold Points — Schedule specific points in the construction process where st…",
+        "description": "Plan for Inspection and Testing Hold Points — Schedule specific points in the construction process where structural elements will be inspected and tested before proceeding, ensuring quality and compliance."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}

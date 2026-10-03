@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Great Room Addition Planning: Mistakes That Delay Your Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "A great room addition can transform your living space, but it’s easy to stumble into common pitfalls that can really slow things down. Understanding these upfront can save you time, stress, and money. We’ve seen quite a few projects hit snags, often due to overlooked details in the early stages. LineWork Development approaches each addition with a detailed, coordinated process, anticipating these challenges.\n\nCommon Mistakes to Avoid:\n\n1.  **Starting before permits are ready:** This is a big one. You might be eager to get going, but beginning work without proper permits almost guarantees delays, fines, or even having to undo work. Local requirements for structural changes and footprint expansions usually require permits, and jurisdictions vary.\n2.  **Ignoring zoning and setback requirements:** Every property has rules about how close you can build to property lines or how much of your lot can be covered. Failing to verify these can lead to significant design changes or outright rejection of your plans.\n3.  **Underestimating the structural impact:** Simply adding square footage isn't enough. You need to know if your existing foundation and walls can support the new space. Overlooking structural engineering needs, especially for load-bearing elements, can lead to safety issues and costly rework.\n4.  **Not detailing the connection between old and new:** For a great room to feel like a natural extension, the transition needs meticulous planning. An insufficiently detailed connection can leave you with a space that feels tacked on rather than integrated.\n5.  **Forgetting about concealed conditions:** During demolition, you might uncover unexpected issues like old plumbing, electrical, or structural problems. Not budgeting for these 'unknowns' can derail your timeline and budget.\n\nMaking sure your design-build partner has a strong architectural background, like LineWork Development, can help avoid these issues. Our team manages projects with precision, from planning and permitting to execution and final walkthrough, ensuring a smoother process.\n\nIf you're planning a great room addition, let's talk about how to avoid these common mistakes and keep your project on track. Contact LineWork Development today.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

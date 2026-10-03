@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Multi-Story Addition: How to Pick the Right Design-Build Firm",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Embarking on a multi-story addition is a significant investment, and choosing the right design-build firm can make all the difference between a smooth experience and a challenging one. You need a partner who truly understands the complexities of building up, not just out. LineWork Development is a residential design-build firm specializing in additions, and we bring a deep understanding of structure and functionality to every project.\n\nHow to Compare Your Options:\n\nWhen you're evaluating potential partners for a multi-story addition, here are some key criteria to focus on:\n\n-   **Documented experience with vertical additions:** This isn't a project for a general contractor without specific expertise in adding stories. Look for firms with a proven track record of successful multi-level additions, not just single-story extensions. Ask for references and see their past work.\n-   **Access to licensed professionals:** A second-story addition almost always requires a licensed architect and structural engineer. Ensure the firm either has these professionals in-house or a strong, established working relationship with them. LineWork Development integrates architectural design and engineering coordination into our process.\n-   **Written investigation of existing conditions:** A reputable firm will perform a thorough assessment of your home’s existing foundation, walls, and framing *before* planning begins. This avoids major surprises and ensures your home can structurally support the new level.\n-   **Detailed structural drawings:** Your plans should include comprehensive structural details, not just aesthetic layouts. These are crucial for permitting, construction, and ensuring the safety and longevity of your addition.\n-   **Plan for temporary protection and safety:** Adding a story means opening up your home to the elements and a construction zone. Ask about their plan for weather protection, site security, and ensuring the safety of occupants if you plan to stay in the home during construction.\n-   **Clear exclusions and allowances:** Understand what's included and what's not in the proposal, especially regarding material selections. This helps manage your budget and expectations.\n\nLineWork Development operates as an integrated design-build partner, coordinating architectural design, structural engineering, permitting, and construction management under one roof. This unified approach gives you a single point of contact and ensures that the design intent, construction quality, and practical usability of your finished space are protected. We handle every phase, from planning to final walkthrough.\n\nIf you're considering a multi-story addition in the Los Angeles area, including Pasadena, San Marino, or Arcadia, contact LineWork Development. We can discuss our process and show you how we deliver beautifully executed living spaces.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

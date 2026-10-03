@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Unlocking Property Value with an ADU: A Checklist",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Adding an Accessory Dwelling Unit (ADU) to your property is more than just building a new structure; it's about strategically enhancing your estate's value and functionality. Whether you're aiming for a guest house, a dedicated home office, or a new source of rental income, a well-planned ADU can significantly benefit your Southern California property. This checklist will help you consider all the important factors before you begin, ensuring your project maximizes its potential while avoiding common pitfalls.\n\nHere’s a checklist to help you get started on your ADU journey:\n\n- [ ] **Verify local zoning and eligibility** — Why it matters: Regulations vary by city (e.g., San Marino, Pasadena, or within Greater Los Angeles), affecting ADU size, type, and even if one is allowed on your specific lot.\n- [ ] **Assess your site for placement and access** — Why it matters: Consider the best location for your ADU that allows for privacy, easy access, sufficient parking, and proper drainage without negatively impacting your main home or neighbors.\n- [ ] **Determine the primary purpose of the ADU** — Why it matters: Knowing if it's for rental income, family housing, or a workspace will guide design choices, features, and overall budget, impacting its long-term value.\n- [ ] **Review existing utility capacity (electrical, water, sewer)** — Why it matters: Older properties might require costly utility upgrades to support a new ADU, and understanding this early prevents budget surprises and delays.\n- [ ] **Gather property surveys and existing home plans** — Why it matters: These documents are crucial for accurate site planning and can expedite the design and permitting process by providing essential details to your design-build team.\n- [ ] **Understand local permitting application requirements** — Why it matters: Specific documents, like architectural plans and photos, along with application fees, are required. Incomplete submissions are a common cause of project delays.\n- [ ] **Identify potential structural alterations for conversions** — Why it matters: If converting an existing garage or other structure, be aware that structural changes will require professional engineering and specific permits, not just a simple renovation.\n- [ ] **Obtain references from ADU-experienced contractors** — Why it matters: Hiring a contractor with a proven track record in ADU projects in your area ensures they understand the specific challenges and permitting nuances, which is a key buying criterion.\n- [ ] **Factor in fire separation and egress requirements** — Why it matters: These safety requirements are crucial for permitting and can influence design, especially for attached ADUs or those near property lines.\n\n**How to use this checklist**\nGo through each item and consider how it applies to your property and your ADU vision. This preparation will not only help you clearly articulate your needs to a design-build professional but also ensure you’re making informed decisions every step of the way. When you’re ready, reaching out to LineWork Development can help you turn this checklist into a beautifully executed ADU.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Unlocking Property Value with an ADU: A Checklist",
+    "numberOfItems": 9,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Verify local zoning and eligibility — Why it matters: Regulations vary by city (e.g., San Marino, Pasadena,…",
+        "description": "Verify local zoning and eligibility — Why it matters: Regulations vary by city (e.g., San Marino, Pasadena, or within Greater Los Angeles), affecting ADU size, type, and even if one is allowed on your specific lot."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Assess your site for placement and access — Why it matters: Consider the best location for your ADU that al…",
+        "description": "Assess your site for placement and access — Why it matters: Consider the best location for your ADU that allows for privacy, easy access, sufficient parking, and proper drainage without negatively impacting your main home or neighbors."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Determine the primary purpose of the ADU — Why it matters: Knowing if it's for rental income, family housin…",
+        "description": "Determine the primary purpose of the ADU — Why it matters: Knowing if it's for rental income, family housing, or a workspace will guide design choices, features, and overall budget, impacting its long-term value."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Review existing utility capacity (electrical, water, sewer) — Why it matters: Older properties might requir…",
+        "description": "Review existing utility capacity (electrical, water, sewer) — Why it matters: Older properties might require costly utility upgrades to support a new ADU, and understanding this early prevents budget surprises and delays."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Gather property surveys and existing home plans — Why it matters: These documents are crucial for accurate…",
+        "description": "Gather property surveys and existing home plans — Why it matters: These documents are crucial for accurate site planning and can expedite the design and permitting process by providing essential details to your design-build team."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Understand local permitting application requirements — Why it matters: Specific documents, like architectur…",
+        "description": "Understand local permitting application requirements — Why it matters: Specific documents, like architectural plans and photos, along with application fees, are required. Incomplete submissions are a common cause of project delays."
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Identify potential structural alterations for conversions — Why it matters: If converting an existing garag…",
+        "description": "Identify potential structural alterations for conversions — Why it matters: If converting an existing garage or other structure, be aware that structural changes will require professional engineering and specific permits, not just a simple renovation."
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Obtain references from ADU-experienced contractors — Why it matters: Hiring a contractor with a proven trac…",
+        "description": "Obtain references from ADU-experienced contractors — Why it matters: Hiring a contractor with a proven track record in ADU projects in your area ensures they understand the specific challenges and permitting nuances, which is a key buying criterion."
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "name": "Factor in fire separation and egress requirements — Why it matters: These safety requirements are crucial f…",
+        "description": "Factor in fire separation and egress requirements — Why it matters: These safety requirements are crucial for permitting and can influence design, especially for attached ADUs or those near property lines."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}

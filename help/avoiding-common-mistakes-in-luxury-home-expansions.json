@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Avoiding Common Mistakes in Luxury Home Expansions",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Luxury home expansions are significant investments, designed to enhance your living space and lifestyle. However, without careful planning and the right partner, it's easy to stumble into common pitfalls that can lead to delays, budget overruns, or a finished product that doesn't meet your expectations. Knowing these mistakes upfront helps you navigate your project with confidence, ensuring a seamless and high-quality outcome.\n\n**Common Mistakes to Avoid**\n\n*   **Starting detailed design before confirming feasibility** — **How to avoid it:** Always begin with a thorough feasibility review. A qualified design-build firm will assess zoning, site constraints, structural conditions, utilities, and drainage to ensure your vision is buildable before significant design costs are incurred.\n*   **Using incomplete plans for bidding** — **How to avoid it:** Insist on comprehensive architectural, structural, and technical plans before soliciting bids. Incomplete plans lead to inaccurate estimates and costly change orders down the line. A design-build firm coordinates all these aspects upfront.\n*   **Selecting a contractor on price alone** — **How to avoid it:** While cost is a factor, prioritize experience, references, and the quality of previous high-end additions. A firm with a strong architectural background and a track record of seamless integrations, like LineWork Development, offers value beyond just the lowest bid.\n*   **Failing to define allowances and exclusions** — **How to avoid it:** Ensure your contract clearly itemizes what's included and what's not, especially for finishes and fixtures. Transparent allowances and change-order procedures prevent misunderstandings and unexpected expenses.\n*   **Underestimating contingency funds** — **How to avoid it:** Always budget for unforeseen circumstances, typically 10-15% of the total project cost. This allows for flexibility without derailing your financial plan if unexpected issues arise during construction.\n*   **Making major design changes after construction begins** — **How to avoid it:** Finalize all design decisions during the planning phase. Post-construction design changes are typically expensive and can significantly prolong the project timeline. An integrated design-build process helps solidify decisions earlier.\n*   **Not leveraging local expertise for approvals** — **How to avoid it:** Permitting and zoning requirements vary significantly by location. Work with a firm familiar with the specific regulations in areas like San Marino, Pasadena, or Greater Los Angeles. Their expertise can prevent delays and ensure compliance.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

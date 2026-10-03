@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Understanding the Permitting Process for Your New Construction",
+  "description": "This is where it all begins. Your builder, often with the help of an architect or designer, will prepare and submit detailed plans and documents to your local building department (e.g., in San Marino,",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Application Submission:",
+      "text": "This is where it all begins. Your builder, often with the help of an architect or designer, will prepare and submit detailed plans and documents to your local building department (e.g., in San Marino, Pasadena, or other parts of the San Gabriel Valley). These plans typically include architectural drawings, structural engineering details, site plans, and sometimes specific forms for grading, plumbing, electrical, and mechanical work. Ensure everything is complete; incomplete applications are a major cause of delays."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Plan Review and Corrections:",
+      "text": "Once submitted, city or county officials will review your plans to ensure they comply with all applicable building codes, zoning ordinances, and other local regulations. This often involves reviews by various departments like planning, engineering, fire, and public works. It’s common for reviewers to request corrections or additional information. Your builder or design-build firm will address these comments and resubmit revised plans. Review times vary by jurisdiction; for example, some places might aim for a 15-business-day review, but this is not a universal rule."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Permit Issuance:",
+      "text": "After all corrections have been addressed and your plans meet every requirement, the building department will issue your permits. This is a big milestone! You'll typically receive physical permit cards or placards that must be posted on your construction site. It's crucial that work does not begin until all required permits are officially issued. Starting work prematurely is a frequent mistake that can lead to stop-work orders and penalties."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Scheduled Inspections:",
+      "text": "Throughout the construction process, various inspections will be required at specific milestones. These aren't just random checks; they ensure that each phase of work (like foundation, framing, plumbing rough-in, electrical, and insulation) meets code before it gets covered up. Your builder is responsible for scheduling these inspections after the work is ready. Work cannot proceed to the next phase until the current inspection has been passed. This systematic approach ensures quality and safety at every stage."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Final Approval and Certificate of Occupancy:",
+      "text": "Once all construction is complete and all required inspections have passed, a final inspection will be conducted. If everything is up to code, the jurisdiction will issue a final approval or, for new homes, a Certificate of Occupancy. This document is your official green light, confirming that the home is safe and ready for habitation. You generally cannot legally occupy a new home without this certificate. LineWork Development's integrated design-build model coordinates architectural design, structural engineering, and permitting, helping you navigate this entire process seamlessly. For expert assistance with your new construction permitting, contact LineWork Development."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

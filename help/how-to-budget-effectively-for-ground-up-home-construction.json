@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How to Budget Effectively for Ground-Up Home Construction",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Building a new home from scratch is a significant investment, and getting your budget right from the start is absolutely crucial. It’s easy to get caught up in the dream home vision, but an effective budget keeps that dream realistic and prevents unexpected financial stress. Let’s break down how to approach your ground-up home construction budget effectively.\n\nQuestions to Ask Before You Decide:\nBefore you even think about designs, ask yourself: Is the lot suitable for the intended home? What permits are required? Are water, sewer, power, and road access readily available? What is included in the base price from builders, and what might be excluded (like site work or utility connections)? How much contingency is truly needed, and how will selections or upgrades affect the final price and schedule? NAHB recommends locating the land and determining the budget before beginning design, and LineWork Development's experience in San Marino and throughout the San Gabriel Valley can help you navigate these questions.\n\nWhat to Prepare Before You Start:\nStart by establishing a realistic budget that covers not just the house structure, but also land costs, site development, utilities, permits, and a substantial contingency fund (typically 10-20% of the total project cost). Understand that a low initial estimate may exclude crucial elements like extensive site work, utility connections, or specific finishes, leading to overruns. Get clarity on allowances for items like cabinetry, flooring, and fixtures. Will these allowances truly meet your quality and aesthetic expectations, or will you likely exceed them? Documenting all potential costs, including soft costs like architectural and engineering fees, is key.\n\nCommon Mistakes to Avoid:\n\n- [ ] Assuming the initial house price is the complete project budget — why: This is one of the most common pitfalls. The 'house price' often doesn't include land, site work, utility extensions, landscaping, or even all permits. Understand every line item and what is explicitly included versus excluded in any quote. Don't rely on vague allowances; get specific figures for as many elements as possible. LineWork Development emphasizes transparency in project control, providing clients visibility into project budgets.\n\n- [ ] Underestimating site development and utility costs — why: These can be huge budgetbusters. If your land needs extensive grading, retaining walls, or if utilities like water, sewer, or power need to be brought a long distance to your site, these costs can easily add tens of thousands. Always get detailed quotes for site work and utility connections after a thorough site evaluation. Failing to test soil or verify drainage can also lead to unforeseen foundation costs.\n\n- [ ] Not building in a sufficient contingency fund — why: Even with the best planning, unforeseen issues can arise during construction—like discovering unexpected rock during excavation or material delays. A contingency fund, typically 10-20% of your total budget, acts as a financial buffer against these inevitable surprises. This is not 'extra' money; it's a necessary part of a responsible budget. Having this in place means you won't have to compromise on quality or halt the project due to unexpected expenses.\n\n- [ ] Making design changes after construction begins without budget review — why: While some design changes might seem minor, they can significantly impact your budget and timeline. Every change order should be accompanied by a clear cost breakdown and impact on the schedule before you approve it. LineWork Development’s design-build model aims to minimize these mid-construction changes by integrating design and construction planning from the outset. This careful planning helps ensure your ground-up home construction stays on budget. For a well-planned and beautifully executed new home, contact LineWork Development for a free consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Rental ADUs: Steps to a Smooth Permitting Process",
+  "description": "Before anything else, you need to verify that an ADU is even allowed on your property and what specific local rules apply to its size, height, and placement. This involves reviewing your property's zo",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Confirm Zoning and Site Eligibility",
+      "text": "Before anything else, you need to verify that an ADU is even allowed on your property and what specific local rules apply to its size, height, and placement. This involves reviewing your property's zoning designation and understanding setback requirements, lot coverage limits, and any owner-occupancy clauses. This foundational step dictates what kind of ADU you can build and where it can be located on your lot."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Prepare Design and Engineering Documents",
+      "text": "Once eligibility is confirmed, you’ll need detailed plans. This includes a site plan showing the ADU's location relative to your main house and property lines, floor plans, and elevations. Structural and utility documents are also crucial, detailing how the ADU will be built and connected to water, sewer, and electricity. This is where architectural precision meets engineering requirements."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Obtain Planning Approval (If Required)",
+      "text": "Some jurisdictions require a separate planning approval before you can even apply for a building permit. This might be a ministerial review, meaning it's a straightforward check against a set of standards, or it could involve a more in-depth discretionary review. Understanding which type of approval is needed and securing it upfront prevents delays later in the process."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Submit Building and Trade Permit Applications",
+      "text": "With planning approval in hand, you'll apply for the main building permit. This application will include all your detailed plans and engineering documents. Simultaneously, you’ll apply for 'trade permits' for specific work like electrical, plumbing, and mechanical systems. Each of these needs to be approved before that particular work can commence."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Complete Required Inspections",
+      "text": "Construction isn't a free-for-all; it’s a carefully monitored process. As different phases of construction are completed (e.g., foundation, framing, plumbing rough-in, electrical rough-in, insulation, drywall, and final), your local building department will conduct inspections. Each inspection must pass before you can move on to the next construction phase. Failing an inspection means rework and rescheduling, so quality work is key."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Obtain Certificate of Occupancy",
+      "text": "The final hurdle is securing the Certificate of Occupancy (CO) from your local building department. This document officially certifies that your ADU meets all safety and building codes and is legally ready for habitation. You absolutely cannot occupy or rent out your ADU until this certificate is issued. This is a critical step for both legality and insurance."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7: Confirm Rental Terms and Regulations",
+      "text": "Before placing tenants, double-check any local regulations regarding rental terms. Some counties, like Los Angeles, require rental periods of at least 30 continuous days for ADUs. If you’re considering short-term rentals, you might need an additional permit. Ensuring you comply with these rules prevents legal issues and ensures a smooth rental experience. When Professional Guidance Helps Dealing with all these steps can be overwhelming, especially when local codes are constantly evolving. A licensed design-build firm like LineWork Development can handle the entire process, from initial zoning checks and architectural design to permit navigation and construction management. This integrated approach minimizes your stress and ensures compliance, particularly when dealing with complex sites or unique structural challenges. Professional help becomes invaluable when you want to avoid costly mistakes and keep your project on schedule. Considering a rental ADU and want expert help navigating the permitting process? Contact LineWork Development for a free consultation."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

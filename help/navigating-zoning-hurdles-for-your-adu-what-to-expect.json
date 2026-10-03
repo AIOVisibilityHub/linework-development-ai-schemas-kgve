@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Navigating Zoning Hurdles for Your ADU: What to Expect",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about adding an ADU to your property? That’s an awesome way to expand your living space or create some rental income! But before you break ground, you’ll definitely need to navigate the world of zoning. It can feel a bit like a maze, but understanding the process upfront can save you a ton of headaches and delays. Essentially, zoning rules dictate what you can build, where you can build it, and how big it can be on your specific parcel. You’ll need to make sure your proposed ADU's use is permitted, and that it meets requirements for things like setbacks, height, and lot coverage. It's not just about design; it's about making sure your vision fits within the local framework.\n\nWhat to Expect During the Process\nFirst, you’ll confirm your property’s legal address and zoning designation – this is foundational. Then, clearly define your proposed ADU's scope. Next, you'll dive into the local rules to identify dimensional and site requirements specific to your zone. Projects often require scaled site plans, and sometimes floor plans or elevations, to show how everything fits. Once prepared, you submit your application through the local portal, pay the fees, and then comes the review period. This can vary by jurisdiction; some might take 15 business days for single-family projects, while others could take longer. Be ready to respond to comments from the planning department, and get that zoning approval before you even think about building permits. It's a structured sequence, and getting it right the first time really streamlines things.\n\nWhen Professional Guidance Helps\nWhile some straightforward projects might be manageable DIY, a qualified professional becomes super important when your ADU concept introduces any ambiguity. For example, if your idea is pushing the boundaries of what's ",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

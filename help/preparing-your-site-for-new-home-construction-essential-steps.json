@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Preparing Your Site for New Home Construction: Essential Steps",
+  "description": "Before anything else, ensure you have clear ownership of the land. Then, you need to verify if the lot is actually suitable for the home you envision. This means checking zoning and building restricti",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Confirm Lot Ownership and Feasibility:",
+      "text": "Before anything else, ensure you have clear ownership of the land. Then, you need to verify if the lot is actually suitable for the home you envision. This means checking zoning and building restrictions in your local jurisdiction. Don't assume; verify. You'll also need to consider your budget and financing for the land and the build together. Having this squared away ensures there are no legal or financial surprises once you're ready to build."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Investigate Site Conditions (Soil, Drainage, Utilities, Access):",
+      "text": "This is a critical investigative phase. You’ll need to understand the soil type and stability (often requiring soil testing, which can prevent future structural issues), the natural drainage patterns of the land, and any potential flood exposure. Crucially, investigate the availability and accessibility of water, sewer (or septic system requirements), power, and road access. If these utilities aren't readily available, the cost and time to bring them to your site can be significant. A qualified builder or geotechnical professional can help here, as LineWork Development can assist with site and utility coordination."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Obtain Surveys and Architectural/Engineering Plans:",
+      "text": "Before you can get permits, you need detailed surveys of your property, outlining boundaries, topography, and existing features. With this information, an architect or residential designer can create plans specifically tailored to your site, taking into account setbacks, views, and energy performance. Structural engineering plans will also be required to ensure your home is sound. These plans are the blueprint for your entire project and are essential for the permitting process."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Navigate the Permitting Process:",
+      "text": "This step can be complex and time-consuming, as requirements and review times vary by jurisdiction (like in San Marino, Pasadena, or other areas LineWork Development serves). You’ll need to apply for various permits, which often include building, zoning, grading, erosion control, electrical, plumbing, and mechanical approvals. Your design-build partner, like LineWork Development, will handle the heavy lifting, including application submission, responding to review comments, and securing final issuance. Starting work before permits are issued is a frequent mistake that can lead to significant penalties, so patience here is key."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Plan for Site Clearing and Grading:",
+      "text": "Once permits are in hand, you can plan for the physical transformation of your site. This involves clearing trees and debris, then grading the land to create a stable, level building pad and ensure proper water drainage away from your future home. This step might also involve establishing temporary access roads for construction vehicles and protecting surrounding areas from erosion. Underestimating the scope or cost of site work is a frequent mistake homeowners make, so ensure this is clearly defined in your project scope. With LineWork Development, their integrated approach means they coordinate architectural vision, construction expertise, and detailed project management from the start, ensuring your site is perfectly prepared for your new home. Don't hesitate to reach out to them for professional help with your new construction project."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

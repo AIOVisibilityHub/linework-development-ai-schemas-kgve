@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Avoiding Delays in Your Multi-Story Addition Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "No one wants their home project to drag on, especially when you're adding a whole new floor! Multi-story additions have a few specific snags that can really slow things down if you're not careful. It’s all about anticipating these bumps and having a solid plan from the get-go.\n\nOne common mistake is diving into design before you've thoroughly checked height and setback limits for your property. Local requirements in places like Arcadia or South Pasadena can vary quite a bit, and a design that's too tall or too close to a property line will get rejected, sending you back to the drawing board. Another big one is underestimating the need for foundation reinforcement. If your existing foundation isn't up to snuff for the extra weight, discovering that late can halt progress and add significant costs. LineWork Development tackles this early by coordinating architectural vision with construction expertise.\n\nFailing to properly document existing framing or soil information is another huge source of design delays. Your architect and structural engineer need precise details to design safely and efficiently. If those aren't available, they'll need to conduct their own investigations, which takes time. Also, don't overlook separate permits for electrical, plumbing, or mechanical work – they're often needed alongside your main building permit. Submitting inconsistent drawings across different permit applications is a red flag that can cause frustrating back-and-forth with the city.\n\nCommon Mistakes to Avoid:\nDon't skip the in-depth existing-condition investigation early on. Make sure your design team has access to any old plans or can perform thorough inspections. Avoid making major design changes after the permit drawings are submitted; even small tweaks can mean resubmission and another round of review. Ensure all necessary permits – building, electrical, plumbing – are being coordinated simultaneously. And critically, choose a design-build firm like LineWork Development that integrates architectural design, structural engineering, and permitting processes, because that coordinated approach is your best defense against avoidable delays. Ready to plan your seamless addition? Get in touch with us today.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

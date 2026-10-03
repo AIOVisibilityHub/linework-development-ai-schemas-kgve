@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Integrating Utilities into Your Home Renovation: What to Consider Early",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Embarking on a home renovation, ADU project, or new custom build is exciting, but let's be honest, the 'behind-the-walls' stuff, like utilities, can quickly become a puzzle. It’s not always glamorous, but seamlessly integrating your home’s utilities—electricity, gas, water, sewer, and even telecom—is absolutely critical for a functional and safe living space. Thinking about these early in the design process, not as an afterthought, can save you from major headaches and unexpected costs down the line. We're talking about everything from figuring out where connection points are to understanding the capacity available to your site. This proactive approach ensures your beautiful new design actually works.\n\nWhat to Prepare Before You Start\nBefore any digging or major construction, you'll want to gather some key information. First, identify what existing utility infrastructure serves your site and any property interests, like easements, that might be present. Then, clearly define your project's demand. Are you adding a new bathroom, a second kitchen in an ADU, or a whole new custom home? This impacts your power and water needs significantly. Reach out to prospective utility providers well in advance to discuss feasibility and connection advice. Official guidance always recommends early feasibility studies and timely connection requests. Coordinating utility layouts with your civil, site, and building plans is also a must. You don’t want a new foundation blocking a sewer line, right? Get estimates, designs, and approvals, and prepare for any necessary easements before things really kick off. Being organized here truly pays off.\n\nWhen Professional Guidance Helps\nWhile simple utility modifications might be handled by your general contractor, a qualified professional becomes essential when your site demands new or upgraded main lines, off-site extensions, or utility relocation. If your project involves shared infrastructure, complex easements, or particularly high electrical or water demand (think a large custom home), the coordination becomes intricate. Similarly, if you have constrained rights-of-way or phased construction, or if you need to coordinate among several providers and public agencies, the expertise of a design-build firm like LineWork Development is invaluable. We ensure that these technical aspects are managed smoothly, reducing the risk of utility constraints emerging late in the design process after you've already invested heavily in architectural plans. Our integrated approach connects architectural vision with construction expertise, especially for critical elements like site and utility coordination.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

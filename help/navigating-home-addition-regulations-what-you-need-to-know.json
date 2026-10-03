@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Navigating Home Addition Regulations: What You Need to Know",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about expanding your living space with a home addition? That’s exciting! But before you grab a hammer, it’s super important to understand the local regulations. Different areas, like San Marino or Pasadena, have their own specific rules about what you can and can’t build. You’ll want to check things like setbacks – how far your new structure needs to be from property lines – and lot coverage, which limits how much of your land can be covered by buildings. Height restrictions, floor-area ratios, and even how much of your lot is taken up by impervious surfaces for drainage can all come into play.\n\nThen there are the structural safety, fire safety, and accessibility codes. These aren’t just suggestions; they’re there to protect everyone. Plus, you’ll need to think about how your addition impacts existing utilities, like water, sewer, and electrical, and how drainage will be handled. It can get pretty detailed with architectural drawings and approvals, so getting a handle on these upfront makes the whole process much smoother. It’s all about making sure your dream addition fits perfectly within the community’s guidelines and is safe and sound for years to come.\n\nWhat to Prepare Before You Start:\nBefore you even think about design, do a little homework. Get familiar with your property's specific zoning and any site constraints. Understanding these basic rules will help you define what’s actually feasible for your addition and prevent headaches down the road. If you're unsure where to start, looking up your local planning department's website for San Marino, Pasadena, or your specific San Gabriel Valley city is a great first step. They often have guides or FAQs for homeowners considering additions.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

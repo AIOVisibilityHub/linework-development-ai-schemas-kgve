@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Avoiding Guest House Project Pitfalls: Common Mistakes to Sidestep",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Building a guest house is a fantastic investment, adding versatility and value to your property. But without careful planning, it’s easy to stumble into common pitfalls that can delay your project, inflate costs, or lead to a less-than-ideal outcome. Here are some mistakes to watch out for and how LineWork Development helps you avoid them.\n\nCommon Mistakes to Avoid\n1.  **Failing to test crucial systems ahead of time.** — Don't assume plumbing, heating, bathrooms, internet, or room capacity will automatically work perfectly in a new build or renovation. We meticulously plan and test all systems during design and construction, ensuring everything functions flawlessly from day one.\n2.  **Underestimating cleaning and turnover time.** — If your guest house is for rentals, the time it takes to clean, inspect, and prepare for new arrivals is often overlooked. We can help integrate efficient design elements and discuss realistic expectations for maintenance and upkeep.\n3.  **Publishing unclear cancellation or arrival policies.** — For potential rental units, vague policies lead to guest frustration and potential disputes. While we focus on the build, we can advise on the importance of clear operational planning for your finished space.\n4.  **Opening before completing safety checks.** — Fire-risk assessments, proper escape routes, alarms, extinguishers, and emergency lighting are non-negotiable. Our integrated design-build approach ensures all necessary safety and building code compliance, like fire doors and alarm systems, are handled professionally before completion.\n5.  **Not conducting a trial stay to test bookings, check-in, and room turnover.** — This applies especially if you plan to rent the space. While LineWork Development's role concludes at project completion, we encourage clients to think through these operational details during the planning phase to ensure a truly successful long-term solution.\n\nMany of these mistakes stem from separating the design and construction phases. Our design-build model at LineWork Development minimizes these issues by integrating architectural vision with construction expertise. We coordinate everything from structural engineering to permitting and material selections, giving you a single, accountable team from start to finish. This holistic approach means fewer surprises and a more cohesive, functional guest house.\n\nWhat to Do Next\nIf you're considering a guest house project and want to avoid these common errors, connect with LineWork Development. We're here to guide you with our expertise.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

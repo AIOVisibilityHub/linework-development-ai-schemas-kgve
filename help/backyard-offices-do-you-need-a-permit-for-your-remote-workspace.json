@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Backyard Offices: Do You Need a Permit for Your Remote Workspace?",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "The dream of a dedicated backyard office is strong, especially when you're tired of working from the kitchen table. But before you order that sleek prefab unit or start planning a custom build, a critical question often comes up: Do I need a permit for this? The short answer is usually yes, even for smaller structures. Many homeowners mistakenly believe a 'shed' or 'modular unit' automatically bypasses permit requirements, but that's rarely the case, especially if it's intended for regular use with electrical or plumbing.\n\nLocal zoning and building codes classify these structures based on factors like size, foundation type, electrical capacity, plumbing, and even how you intend to use it. An office can have different requirements than a simple storage shed or a habitable dwelling. What applies in San Marino might be different from Pasadena, and understanding these local nuances is key. For example, if you plan to include a bathroom or kitchen, it almost certainly triggers additional regulations, changing its classification from a simple accessory structure to something closer to an ADU.\n\nCommon Mistakes to Avoid\nOne of the most frequent errors is assuming a small office is permit-free. Even a modest structure can require permits if it has electrical service, is permanently founded, or exceeds certain size thresholds. Overlooking property-line setbacks and easements is another common pitfall. You don't want to build too close to your neighbor's fence or over an underground utility line. Underestimating the costs and complexity of trenching for electrical or internet can also be a surprise. Finally, failing to consider drainage, insulation, ventilation, and foundation design for proper weatherproofing can lead to a less-than-ideal workspace over time. Getting this wrong upfront can lead to expensive rework or fines later.\n\nWhat to Do Next\nThe best first step is to contact your local building or planning department in your city (e.g., San Marino, Pasadena, Arcadia) before you do anything else. Clearly explain your plans for a backyard office, including its proposed size, foundation, and any planned electrical, plumbing, or internet connections. They can advise you on specific permit requirements, setbacks, and any other local regulations that apply. This early research can save you significant time and money by ensuring your project starts on the right foot and avoids costly mistakes.\n\nReady to build your ideal backyard office with full confidence? Contact LineWork Development to navigate the permit process.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

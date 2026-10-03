@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Navigating Permit Applications: What to Know First",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Getting started with a home renovation or new build in Southern California means navigating the permit process. It can seem daunting, but knowing a few key things upfront will make it much smoother. First off, you need to figure out if your proposed work actually requires a permit. Most additions, significant alterations, and new constructions, like ADUs, definitely will. The next step is identifying which local authority — be it San Marino, Pasadena, or another jurisdiction in the San Gabriel Valley — reviews your particular type of project. Each city might have slightly different requirements, so understanding these local nuances is essential before you even start drawing up plans. LineWork Development often helps homeowners in Greater Los Angeles and Orange County with this initial assessment, leveraging our experience with various local requirements.\n\nWhat to Prepare Before You Start\n\nBefore you submit anything, gather all the necessary documents. This typically includes complete, scaled plans, site plans showing property lines and setbacks, structural calculations, and proof of ownership. Make sure everything is consistent and accurate; incomplete submissions are a leading cause of delays. For example, omitting a scaled site plan or using the wrong permit category can send you right back to square one. You should also confirm if any supporting approvals, like from an HOA or a historic review board, are needed. LineWork Development excels at coordinating architectural design, structural engineering, and navigating zoning considerations, ensuring your plans are comprehensive and ready for submission. We help you prepare everything needed to respond effectively to plan-review comments, minimizing back-and-forth.\n\nWhen Professional Guidance Helps\n\nIf your project is complex—say, it involves multiple permits, intricate code questions, major structural alterations, or is on an environmentally sensitive site—hiring a qualified permit professional becomes incredibly valuable. It’s also wise if you simply don’t have the time to manage submissions, corrections, and inspections yourself. Professionals understand the local requirements and common pitfalls. LineWork Development handles the heavy lifting of permit navigation for everything from ground-up custom homes to guest houses and detached ADUs. We guide you through the process, respond to plan-review comments, and coordinate inspections, helping you avoid frequent mistakes like starting work before issuance or concealing work before inspection, ensuring a turnkey delivery for your project.\n\nReady to get your project permitted? Contact LineWork Development for expert assistance with permit management.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

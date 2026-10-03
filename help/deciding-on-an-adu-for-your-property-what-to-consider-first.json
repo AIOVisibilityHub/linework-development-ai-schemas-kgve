@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Deciding on an ADU for Your Property: What to Consider First",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about adding an Accessory Dwelling Unit (ADU) to your property? It's a fantastic way to unlock potential, whether for guest housing, rental income, or a private home office. But before you dive into designs, there are some crucial first steps to consider to ensure your ADU project is feasible and aligns with your goals. The goal is to maximize your property's value and functionality without running into unexpected hurdles.\n\n**What to Prepare Before You Start**\n\n*   **Confirm zoning and site feasibility:** The very first thing to check is whether an ADU is even allowed on your property and what specific regulations apply in your area, such as San Marino, Pasadena, or within Greater Los Angeles. This includes understanding setbacks, lot coverage limits, and any historic or environmental controls. A design-build firm familiar with local processes can help with this initial assessment.\n*   **Evaluate your property for potential locations:** Consider where an ADU would best fit – is there space for a detached unit, or could an existing garage, basement, or attic be converted? Think about access, privacy for both your main home and the ADU, parking requirements, and drainage. LineWork Development specializes in helping clients integrate ADUs seamlessly.\n*   **Understand utility connections and capacity:** Will your existing utility lines (water, sewer, electricity, gas) be sufficient, or will upgrades be needed? Separate utility connections might be required, which impacts cost and complexity. Overlooking utility capacity is a common mistake.\n*   **Define your purpose and desired use:** What will the ADU primarily be used for? A guest house, a rental unit, an elderly parent's accommodation, or a workspace? Your intended use will influence the design, size, and features, from simple studios to multi-generational living spaces. This clarity helps guide the design-build team effectively.\n*   **Research local permitting requirements:** Each jurisdiction has unique rules. For example, California’s regulations state that permitting agencies must approve or deny completed ADU applications within 60 days. However, the specific documents required (like architectural plans, site plans, and fees) will vary. Working with a firm experienced in navigating these complexities, like LineWork Development, can save you significant time and stress.\n*   **Budgeting for the full scope:** Beyond construction costs, factor in design fees, permits, utility upgrades, and landscaping. A clear understanding of your budget early on helps make realistic decisions about the ADU's size, finishes, and features. Look for a partner who provides itemized pricing and transparent terms.\n\nTaking these preparatory steps will set a solid foundation for your ADU project, ensuring you make informed decisions and partner with a team capable of delivering a turnkey living space that adds significant value to your estate.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

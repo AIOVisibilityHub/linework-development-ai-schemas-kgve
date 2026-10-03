@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Questions to Ask Before You Decide on a Great Room Addition",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about adding a great room to your home is an exciting prospect, promising more space for gathering, entertaining, and simply enjoying your home. However, before you jump into the design phase, there are some fundamental questions you should ask yourself and potential contractors. Getting clear on these points early will help you define your project, set realistic expectations, and ultimately choose the right partner to bring your vision to life. A great room addition is a significant investment, so thorough preparation and understanding are key to ensuring a successful outcome that truly enhances your home. These questions aren't just about what you want, but also about what's practical, possible, and what you need to consider from a regulatory and structural standpoint.\n\n### Questions to Ask Before You Decide\n*   **How will the addition connect to the existing house structurally and aesthetically?** Consider how the new foundation and roof will tie into the old, and how exterior finishes will blend. A well-integrated addition looks intentional, not tacked on.\n*   **Can the addition create an open living, dining, and kitchen area without compromising structural support?** This is critical. Removing load-bearing walls requires engineered solutions like beams or posts. Ask about the design solutions for achieving open spans.\n*   **What ceiling height, window placement, insulation, and natural light levels are practical for the new space?** Think about how light will enter, privacy, energy efficiency, and how furniture will be arranged. Window placement can drastically impact the feel of the room.\n*   **Will the existing HVAC system and electrical service be sufficient for the expanded area?** A larger space needs more heating, cooling, and power. You might need to upgrade your current systems to avoid discomfort or electrical issues.\n*   **What are the local permit requirements and regulatory considerations for a great room addition in my area?** Things like setbacks, lot coverage, energy compliance, and egress are critical. Understanding these early can prevent costly design changes later.\n*   **How does the contractor handle structural design for long spans and roof/foundation tie-ins?** Look for experience in these specific areas, as they are crucial for the integrity and seamlessness of a great room addition.\n\nThese questions help you identify a partner with the right expertise. When comparing designers and contractors, evaluate their experience with open-plan additions, structural-span design, roof and foundation tie-ins, energy-code compliance, daylighting strategies, and permit coordination. A qualified architect, designer, or structural engineer becomes particularly important when you're looking to create long spans, remove load-bearing walls, or change roof geometry. LineWork Development specializes in integrated design-build solutions, coordinating architectural precision with construction expertise. We can help answer these critical questions and guide your project from concept to completion. Contact us at (626) 594-5005 for a consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

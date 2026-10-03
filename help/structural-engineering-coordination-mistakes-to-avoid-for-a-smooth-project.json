@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Structural Engineering Coordination: Mistakes to Avoid for a Smooth Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Structural engineering coordination is a critical, often underestimated, part of any significant home renovation or new construction. When done right, it ensures your project is safe, compliant, and stays on schedule. However, certain common mistakes can lead to costly delays, rework, and even compromise the structural integrity of your home. It’s about more than just making sure beams fit; it’s about a holistic understanding of how all components interact. Avoiding these pitfalls requires a careful, integrated approach, ideally with a design-build partner who understands both the architectural vision and the construction realities. By being aware of these potential missteps, you can ensure a smoother process and a successful outcome for your project.\n\n**Common Mistakes to Avoid**\n\n1.  **Coordinating Outdated Drawings** — Using old plans means the structural design won’t match the current architectural vision, leading to clashes on-site. Always verify you're working with the most current versions of all drawings and models.\n2.  **Failing to Define Interface Responsibilities** — If responsibilities for how different structural elements connect or interact with other systems aren't clear, critical components can be overlooked. Establish clear roles for coordinating these intersections.\n3.  **Overlooking Penetrations or Equipment Loads** — Forgetting to account for pipes, ducts, or heavy equipment that will pass through or rest on structural members can weaken them. Integrate these considerations early in the design phase.\n4.  **Treating Coordination as Only a Visual Clash Review** — While visual clash detection is important, it’s not enough. You also need to check design intent, material specifications, constructability, and code requirements thoroughly.\n5.  **Ignoring Field Changes in Documentation** — Changes made during construction need to be formally documented and reviewed by the structural team to ensure they don't compromise safety or compliance. Don't let undocumented changes sneak through.\n\n**What to Do Next**\nEnsuring your structural engineering coordination is handled expertly is key to a successful project. If you're planning a project that involves structural changes, contact LineWork Development today to discuss how our integrated design-build approach can help you avoid these common mistakes.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

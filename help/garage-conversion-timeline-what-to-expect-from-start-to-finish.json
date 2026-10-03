@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Garage Conversion Timeline: What to Expect from Start to Finish",
+  "description": "This is where LineWork Development comes in to assess your garage's suitability, discuss your vision for the space (whether it's a studio, extra bedroom, etc.), and start sketching out initial designs",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Initial Assessment & Design (1-2 weeks)",
+      "text": "This is where LineWork Development comes in to assess your garage's suitability, discuss your vision for the space (whether it's a studio, extra bedroom, etc.), and start sketching out initial designs. We’ll consider structural integrity, your specific needs, and how the new space will integrate with your existing home."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Planning & Permit Acquisition (approx. 8 weeks, if needed)",
+      "text": "Depending on the scope and location (like in Pasadena or San Marino), you might need planning permission from the local council. Even without planning permission, building regulations will almost certainly apply. This phase involves preparing detailed drawings and specifications, submitting them, and waiting for approval. Client responsiveness for feedback is key here."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Structural Work & Demolition (1-2 weeks)",
+      "text": "Once approvals are in place, the physical work begins. This might involve removing the garage door and framing a new wall, creating new openings for windows or doors, and any necessary structural reinforcements. This phase sets the foundation for your new space."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Weatherproofing & Services (2-3 weeks)",
+      "text": "Here, we focus on insulating the walls, floor, and ceiling, ensuring damp-proofing is in place, and running new electrical wiring and plumbing if needed. This stage is crucial for making your new space comfortable and functional year-round."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Interior Finishes (2-3 weeks)",
+      "text": "This is where your vision really comes to life! Plastering, flooring, painting, installing new windows and doors, and fitting any custom cabinetry or fixtures. Our craftsmanship ensures a seamless transition between your original home and the newly converted space."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Final Inspections & Handover (1 week)",
+      "text": "Once all the work is complete, final inspections are carried out to ensure everything meets building regulations. After the sign-off, LineWork Development conducts a final walkthrough with you, ensuring every detail is perfect before you start enjoying your new space. Keep in mind these are estimates, and unforeseen issues or client-requested changes can influence the overall schedule. But with clear communication and a structured approach, LineWork Development makes sure you're always informed. Ready to explore your garage conversion? Get in touch with us today!"
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

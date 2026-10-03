@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Deciding on a Primary Suite Addition: Is It Right for You?",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Dreaming of a luxurious primary suite? It’s a fantastic way to add comfort and value to your home. But before you dive in, it’s worth considering if an addition is the best fit for your property and lifestyle. A true primary suite typically includes a spacious bedroom, a private bathroom, and a dedicated closet or dressing area, all designed for relaxation and privacy. You'll want to think about how this new space will connect seamlessly to your existing home, maintaining a good flow without compromising the original architecture.\n\nThen there’s the practical side: Will the proposed suite fit within your property’s boundaries while adhering to local setbacks and lot coverage rules? These can be pretty strict in areas like Temple City or San Marino. You'll also need to consider crucial elements like plumbing for the new bathroom, proper ventilation, and extending heating and cooling systems to the new area. Privacy and sound separation from other parts of the house are key, too. It's about creating a true sanctuary, not just another room.\n\nQuestions to Ask Before You Decide:\nBefore moving forward, ask yourself: How will this addition truly enhance my daily life? What level of privacy and luxury do I envision? Have I considered the impact on my existing yard space or outdoor areas? And importantly, have I explored the local zoning regulations for my specific property in the San Gabriel Valley to confirm feasibility? Thinking through these points upfront can help ensure your primary suite addition meets all your needs and expectations.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Navigating ADU Regulations: What to Consider Before You Build",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about adding an Accessory Dwelling Unit (ADU) to your property? That's awesome! ADUs can really unlock your property's potential, whether it's for family, rental income, or a dedicated workspace. But before you dive in, it’s super important to understand that ADU rules aren't one-size-fits-all. Every city, and sometimes even specific neighborhoods, can have different requirements for things like size, height, how far back it needs to be from your property line, parking, and how it connects to utilities. What might fly in Pasadena might be a no-go in San Marino or Arcadia, so getting clarity on local jurisdiction is your first big step.\n\nFirst, you'll need to confirm if an ADU is even allowed on your specific property. This means checking your local zoning regulations. It’s not just about the city, but your actual lot conditions, existing structures, and whether you're planning a detached unit, an attached one, or converting an existing garage or basement. These details really matter. Don't assume statewide rules automatically apply locally; always double-check with your specific planning and building departments.\n\nNext, think about the practicalities of the build itself. You'll need a site plan, floor plans, structural info, and energy documentation. It’s a pretty detailed package! LineWork Development, for instance, excels at coordinating architectural design, engineering, and permitting, helping to streamline this complex process. We ensure the design meets all the regulatory hurdles while still achieving your vision.\n\nWhat Can Change the Right Choice\nThe type of ADU you want (detached, attached, conversion) significantly impacts the regulations you'll face. For example, a garage conversion might have different setback rules than a brand-new detached unit. Also, consider the purpose of your ADU – is it a guest suite, a rental, or an office? This can sometimes affect specific requirements, especially regarding kitchen facilities or independent living spaces.\n\nCommon Mistakes to Avoid\nOne of the biggest pitfalls is assuming an existing unpermitted unit is compliant or trying to submit incomplete plans. Another frequent mistake is overlooking critical requirements like setbacks, lot coverage, or fire protection. These errors can lead to frustrating delays and unexpected costs. Getting professional help early on can save you a lot of headaches.\n\nReady to explore your ADU possibilities? Contact LineWork Development for a free consultation to discuss your property and project.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

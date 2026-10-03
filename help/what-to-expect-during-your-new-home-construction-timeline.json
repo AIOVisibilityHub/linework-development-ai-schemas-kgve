@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect During Your New Home Construction Timeline",
+  "description": "This initial phase is all about getting your ducks in a row before any dirt is even moved. You’ll be confirming lot ownership and feasibility, checking zoning and building restrictions, and investigat",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Land Due Diligence and Budget (Typically 1-3 months):",
+      "text": "This initial phase is all about getting your ducks in a row before any dirt is even moved. You’ll be confirming lot ownership and feasibility, checking zoning and building restrictions, and investigating critical elements like soil, drainage, flood exposure, and utility access. Simultaneously, you’ll establish your budget and financing. This is where you might bring in a surveyor or even a geotechnical professional to evaluate the site. Making informed decisions here prevents costly surprises down the line, ensuring the land you've chosen is truly suitable for your dream home."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Design and Permitting (Typically 3-6 months, can vary):",
+      "text": "Once your land is set, it's time for the creative design work! An architect or residential designer will develop plans that are responsive to your site and vision. This stage includes structural engineering. After designs are finalized, your builder will help navigate the often-complex permitting process, obtaining necessary approvals like building, zoning, grading, and utility permits. Jurisdictional review times vary greatly, so patience is a virtue here. LineWork Development emphasizes coordinating architectural design and navigating permits as part of their integrated service, which can streamline this phase significantly."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Site Preparation and Foundation (Typically 1-2 months):",
+      "text": "With permits in hand, the real physical work begins. This phase involves clearing the site, grading the land to the correct specifications, and installing the foundation. This might also include installing temporary utilities. Proper site preparation is crucial for the long-term stability and integrity of your home. Any issues with soil or drainage need to be addressed thoroughly now to avoid problems later on."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Framing and Enclosure (Typically 2-4 months):",
+      "text": "This is often when your new home starts to truly take shape! The framing crew will erect the skeletal structure of your house. Once framed, the home will be enclosed with roofing, exterior sheathing, windows, and doors, making it weather-tight. Inspections must be scheduled at specified milestones during this phase to ensure everything meets code. Work cannot be covered before these critical inspections are completed."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Rough-Ins and Insulation (Typically 1-2 months):",
+      "text": "Inside the now-enclosed structure, the mechanical, electrical, and plumbing (MEP) systems are installed – these are the 'guts' of your home. This includes running wires, pipes, and ductwork through the walls, ceilings, and floors. Once these systems are roughed in and inspected, insulation is installed, preparing the home for interior finishes. LineWork Development's meticulous execution ensures these vital systems are installed correctly for comfort and efficiency."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Interior Finishes and Exterior Details (Typically 2-4 months):",
+      "text": "This is where your vision truly comes to life! Drywall is hung and finished, interior doors are installed, cabinetry and flooring go in, and paint is applied. Exterior finishes like siding, stone, or stucco are completed, and landscaping begins. This phase requires significant coordination and attention to detail. Simultaneously, final inspections for each trade and overall building code compliance occur, leading up to the final approval or certificate of occupancy."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "name": "Step 7: Final Walkthrough and Punch List (Typically 1-2 weeks):",
+      "text": "Before you officially move in, you’ll do a thorough walkthrough with your builder. This is your chance to identify any minor imperfections or items that need attention. This 'punch list' is then addressed by the construction team. Once everything is complete and satisfactory, and all final approvals are secured, you'll receive the keys to your beautiful new home. Transparent communication and organized project control, like LineWork Development provides, help make this final stage smooth and satisfying. For expert guidance through every phase of your custom home build, contact LineWork Development."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

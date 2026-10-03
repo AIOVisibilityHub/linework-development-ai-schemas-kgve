@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Getting Started with Your Guest House Project: What to Prepare",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Ready to add a guest house to your property? It’s an exciting venture that can significantly enhance your living space, whether for family, rental, or a quiet retreat. Getting off on the right foot means a smoother journey and a result you'll love. Knowing what to prepare beforehand can make all the difference.\n\nWhat to Prepare Before You Start\nBefore you even break ground, there's a lot to consider to ensure your guest house meets your needs and local requirements. Start by thinking about the primary purpose of your guest house. Will it be for occasional visitors, long-term family, or income generation? This dictates key features like private bathrooms, kitchenettes, and room capacity.\n\nNext, research local zoning and planning rules in your area – especially if you're in San Marino, Pasadena, or anywhere in the San Gabriel Valley. These regulations can impact everything from the size and placement of your ADU to whether it can be used for short-term rentals. This is where a design-build firm like LineWork Development can be incredibly helpful, as we navigate these complexities regularly.\n\nConsider the practicalities. Think about how guests will access the unit, parking, and utility connections. Test plumbing, heating, internet, and HVAC in your existing home to understand potential challenges for a new structure. It's also wise to draft some preliminary ideas for check-in/check-out procedures, cleaning schedules, and any services you might offer, like breakfast, if you plan to rent it out. This foresight helps avoid common mistakes like underestimating turnover time or publishing unclear policies.\n\nFinally, reflect on what truly matters to you in terms of design quality, technical coordination, and communication during the construction process. LineWork Development excels in projects where meticulous execution and seamless transitions between old and new structures are paramount. We use digital project-management tools to keep you in the loop on budgets, schedules, and progress, ensuring transparency throughout.\n\nWhat to Do Next\nTo discuss your guest house vision and ensure you're prepared for a successful project, contact LineWork Development for an initial consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

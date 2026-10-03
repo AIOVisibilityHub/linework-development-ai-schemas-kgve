@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Preventing Utility Connection Delays on Your Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "You’ve got your dream home renovation or ADU design all buttoned up, permits are in progress, and you’re eager to start construction. But then, *bam* – a snag with utility connections throws a wrench in your timeline. This is way more common than you’d think! Utility work can significantly impact your overall development schedule, even if your planning approval is sailing smoothly. Factors like connection capacity, design review by providers, getting easements documented, or securing road-opening permits can all create separate milestones that easily lead to delays if not managed proactively. It’s not just about getting the green light for your build; it's also about ensuring your home can actually *connect* to the grid, water, and sewer systems efficiently. Being prepared is key to avoiding these frustrating slowdowns.\n\nCommon Mistakes to Avoid\n\n*   **Waiting Until Late Design Stages to Contact Providers:** This is a big one! Don't assume utility connections will just fall into place. Contact electric, gas, water, and sewer companies early, even before your final designs are complete, to understand their requirements and lead times.\n*   **Relying on Outdated Utility Records:** What’s on an old plat map might not reflect current infrastructure. Always verify existing utility locations, capacities, and connection points with the actual providers and through site investigations.\n*   **Failing to Verify Capacity:** Don't just assume there's enough electrical power or water pressure for your expanded home or new ADU. Confirm that existing services can handle your increased demand, or budget time and cost for upgrades.\n*   **Overlooking Utility Easements or Property Interests:** Easements define where utilities can run, and ignoring them can lead to design conflicts or even necessitate costly relocations. Identify these early and integrate them into your site plan.\n*   **Designing Conflicting Routes:** Your new foundation shouldn't impede future utility access, and your landscaping shouldn't clash with underground lines. Coordinate utility layouts with all other site and building plans to avoid physical conflicts.\n*   **Not Allocating Time for Provider Review, Upgrades, or Relocations:** Utility companies have their own review processes and schedules. Upgrades or relocations can take weeks or even months. Factor these into your overall project timeline, not just construction.\n\nBy avoiding these common pitfalls, you can significantly reduce the risk of unexpected utility-related delays. It's all about proactive planning and coordination. LineWork Development supports custom planning and site and utility coordination for all our ADU and new-construction projects. Contact us to ensure your project's utility integration is handled seamlessly from the start.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Guest House vs. ADU: Which is Right for Your Property?",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Deciding to add an extra living space to your property in places like San Marino or Pasadena is a smart move, but you might be wondering whether a 'guest house' or an 'Accessory Dwelling Unit (ADU)' is the right fit. While these terms are sometimes used interchangeably, they often have distinct definitions and regulatory implications that can significantly impact your project. Understanding these differences is key to making the best choice for your property and your goals.\n\nKey Differences\nAn ADU is legally defined as a secondary dwelling unit with its own kitchen, bathroom, and living area, designed for independent living. It can be rented out and is intended to add housing supply. Guest houses, on the other hand, are typically accessory structures to the primary residence, often without a full kitchen, and generally not intended for independent, long-term occupancy or rental income. The specific rules for each can vary widely by local jurisdiction regarding size, occupancy, and features.\n\nWhen to Choose Each\nChoose an ADU if you're looking for a rental income opportunity, a completely independent living space for family, or a standalone home office/studio that requires full amenities. ADUs are designed to function as separate residences. Choose a Guest House if you primarily need extra space for occasional visitors, a pool house, a hobby room, or a private retreat that doesn't need to be a fully independent dwelling. Guest houses often have simpler permitting requirements because they're not classified as separate dwellings.\n\nWhat Can Change the Right Choice\nYour local zoning classification is a huge factor. Some jurisdictions may have strict limits on guest house features (e.g., no full kitchen allowed), while also having more permissive ADU regulations. The size and acreage of your lot can also influence what's permissible. If your priority is generating rental income, an ADU is almost always the correct path. If it's purely for family and personal use without the need for independent dwelling facilities, a guest house might offer more flexibility.\n\nCost and Timeline\nGenerally, ADUs, because they include full kitchens and independent utilities, often involve higher costs and a more complex permitting process than a simpler guest house. The timeline for an ADU can be longer due to the more stringent building code and planning requirements. However, both add significant value to your property. LineWork Development specializes in navigating these complexities for both options, ensuring you get the right structure for your needs.\n\nQuestions to Ask Before You Decide\n1. What are the specific zoning requirements for both ADUs and guest houses in my city (e.g., San Marino, Pasadena)?\n2. Do I plan for this unit to be rented out, or is it strictly for personal use?\n3. What amenities (kitchen, separate entrance, etc.) are essential for my vision?\n4. What is my budget and desired timeline for the project?\n\nReady to add a new structure to your property? Contact LineWork Development to discuss whether a guest house or ADU is the best solution for your unique situation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

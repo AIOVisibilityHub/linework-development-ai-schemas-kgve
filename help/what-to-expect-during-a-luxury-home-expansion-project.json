@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect During a Luxury Home Expansion Project",
+  "description": "This is where you discuss your vision, and the design-build team assesses the potential of your property. They’ll look into zoning, site constraints, structural conditions, and utility access. This cr",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Initial Consultation and Feasibility Review",
+      "text": "This is where you discuss your vision, and the design-build team assesses the potential of your property. They’ll look into zoning, site constraints, structural conditions, and utility access. This critical first step helps confirm what's possible before any detailed design work begins. It also addresses common questions about whether your existing structure and site can support the addition."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Architectural Concepts and Design Development",
+      "text": "Based on the feasibility, architectural concepts are developed. This involves creating floor plans and elevations that integrate with your home's style. You’ll be involved in selecting materials and finishes, ensuring the new space aligns with your aesthetic and functional needs. The goal is to make sure your new primary suite or multi-story wing feels like an original part of the house, not just an add-on."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Engineering and Permitting",
+      "text": "Once the design is finalized, structural engineering and other technical plans are developed. The design-build firm then navigates the complex world of local planning and building approvals, handling everything from permit applications to zoning considerations. This phase can take time, as approval requirements vary by jurisdiction."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Construction and Project Management",
+      "text": "With permits in hand, construction begins. This phase involves everything from site preparation and foundation work to framing, interior finishes, and appliance integration. A firm like LineWork Development uses digital project management tools to keep you updated on budgets, schedules, progress photos, and decisions, maintaining transparency throughout."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Inspections and Final Walkthrough",
+      "text": "Regular inspections occur throughout construction to ensure compliance with building codes. Upon completion, a final walkthrough is conducted to ensure every detail meets your expectations and the project's high standards. This phase concludes with punch-list work and final approval, delivering a beautifully executed living space. This integrated approach ensures architectural vision, construction expertise, and detailed project management are all coordinated by a single, accountable team, reducing the typical headaches of managing multiple parties."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

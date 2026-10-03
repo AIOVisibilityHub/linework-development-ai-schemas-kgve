@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Common Permit Mistakes That Delay Construction",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Permit delays are a homeowner's nightmare, often pushing back timelines and adding unexpected stress to a construction project. Many of these delays stem from common mistakes that are totally avoidable with a bit of foresight. One of the biggest culprits is submitting incomplete or inconsistent plans. Imagine submitting a blueprint for your ADU that's missing critical dimensions or doesn't match the structural engineering calculations – that’s a guaranteed red flag for the reviewing authority. Another frequent error is omitting essential details like a scaled site plan, property lines, or setback information. It’s like trying to bake a cake without all the ingredients; it just won't come together. LineWork Development focuses on preparing complete and accurate documentation upfront, coordinating all aspects from architectural design to structural engineering, to prevent these issues.\n\nHow to Compare Your Options\n\nWhen you're dealing with permits, you essentially have two options: tackle it yourself or hire a professional. If your project is straightforward, you might manage. But for more complex renovations, additions, or new builds, the value of a professional permit manager becomes clear. Consider their experience with your local jurisdiction. Have they successfully navigated permits for ADUs or ground-up construction in San Marino, Pasadena, or the San Gabriel Valley before? A good permit professional understands the specific requirements and common hurdles. LineWork Development acts as an integrated design-build partner, coordinating architectural design, structural engineering, and crucially, permit navigation. This single-team approach means fewer communication gaps and a smoother process than trying to manage separate architects, contractors, and permit specialists.\n\nCommon Mistakes to Avoid\n\nBeyond incomplete plans, homeowners often make the mistake of using the wrong permit category, which can lead to significant delays and resubmissions. A major no-no is beginning work before your permit is officially issued – that can result in fines or stop-work orders. Equally problematic is concealing work (like electrical or plumbing) before the required inspection, or simply failing to track review comments, expiration dates, and final sign-off. These errors can lead to costly rework and extended project timelines. LineWork Development’s approach emphasizes organized project control, keeping all documentation, schedules, and inspections tracked digitally. Our team guides you through each step, ensuring all required inspections are scheduled and completed before work is concealed, and making sure all plan-review comments are addressed promptly. This meticulous oversight helps avoid those frustrating, preventable delays.\n\nNeed help with your construction permits? Contact LineWork Development for expert guidance and a smooth process.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

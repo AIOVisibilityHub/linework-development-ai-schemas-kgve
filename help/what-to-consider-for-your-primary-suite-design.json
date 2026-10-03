@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What to Consider for Your Primary Suite Design",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Designing a primary suite addition is all about creating a personal oasis. It’s not just adding a bedroom; it’s crafting a space where you can truly unwind. When you’re planning, think about how you’ll use every part of it. Will your bathroom feature a spa-like shower, a soaking tub, or both? How much closet space do you really need for your wardrobe, and do you envision a walk-in or a custom built-in system? These details make a big difference.\n\nBeyond aesthetics, consider the practical elements that make a suite truly comfortable. How will natural daylight enter the room, and what kind of lighting design will create the perfect ambiance day and night? Sound separation is also crucial – you want your suite to feel private and quiet. And don't forget the flow. How will you move from the bedroom to the bathroom to the closet? Good circulation prevents a cramped feeling. Finally, think about integrating systems like plumbing, ventilation, and heating/cooling efficiently. All these choices contribute to a cohesive, functional, and beautiful primary suite.\n\nCommon Mistakes to Avoid:\nMany homeowners underestimate the complexity of extending utilities like water, waste, and electrical systems into a new primary suite. It's not a simple swap. Another common mistake is failing to plan for proper privacy and circulation between the public and private areas of the home, which can disrupt the intended sanctuary feel. Overlooking the crucial integration of the new roof and foundation with the existing structure can lead to structural or waterproofing issues down the line. It's vital to have comprehensive drawings that account for all these elements.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

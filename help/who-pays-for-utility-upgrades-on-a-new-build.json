@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Who Pays for Utility Upgrades on a New Build?",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Building a new custom home or a significant addition is an incredible journey, and often, you’ll encounter questions about utility infrastructure. One of the big ones that comes up is: who actually foots the bill for utility upgrades or new connections? It's not always a straightforward answer, and understanding these costs upfront is crucial for accurate budgeting and preventing financial surprises. Sometimes, existing utilities on your property are sufficient, but often, especially with new construction or large ADUs, upgrades are necessary to meet the increased demand. This could involve new main lines, capacity boosts, or even off-site extensions, and the costs can vary wildly depending on the scope and the specific utility provider.\n\nQuestions to Ask Before You Decide\nBefore you finalize your budget or even your site plan, you should ask some specific questions to clarify who pays for what. First, inquire about which utilities currently serve your site and what their available capacity is. This is foundational. Ask the prospective providers (electric, gas, water, sewer, telecom) what their connection requirements are for a project of your size. Crucially, ask for estimated costs for extensions, upgrades, permits, inspections, and any necessary restoration after work. Get this in writing! Don't forget to ask about lead times for all these services, as delays here can easily push back your construction schedule. It's also wise to clarify if any utility easements are required for your project and who covers the legal and construction costs associated with them. The more detailed your questions, the clearer your financial picture will be, enabling you to make informed decisions.\n\nWhat Can Change the Right Choice\nSeveral factors can swing who is responsible for utility upgrade costs. If your project is a standard connection to existing, readily available infrastructure, the costs are usually limited to standard connection fees paid by the homeowner. However, if your home requires significant upgrades to the main lines, off-site extensions to reach the nearest suitable connection point, or if you need to relocate existing utilities, the costs can escalate. Often, these larger infrastructure costs fall to the property owner, though sometimes, especially in planned developments, a portion might be subsidized or shared. The specific policies of each utility provider and local jurisdiction play a huge role. Also, if the utility work requires significant road-opening permits or special construction sequencing, these additional complexities can drive up costs. The 'right choice' for your project often depends on a careful analysis of these variables and how they impact your overall budget and timeline. LineWork Development handles the heavy lifting, including site and utility coordination, to deliver turnkey living spaces. Let's discuss your project's unique utility needs to ensure a smooth, transparent process.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

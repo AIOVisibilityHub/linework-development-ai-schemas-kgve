@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Rental ADUs: Is Your Property Ready for One?",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about adding a rental Accessory Dwelling Unit (ADU) to your property? It's a fantastic way to maximize your land's potential, but before you get too far into design dreams, you’ll want to confirm if your property is actually a good fit. The rules around ADUs can be a bit of a maze, varying quite a bit depending on where you are in Southern California. You'll need to figure out the local zoning regulations first and foremost. Things like whether an ADU is even allowed, what size limits apply, and how far it needs to be from property lines are all crucial. Don’t forget to check on parking requirements, utility connections, and if there are any owner-occupancy rules in your specific area. Some places might say you, the homeowner, have to live on the property, while others don't. It’s all about understanding these local nuances upfront to avoid headaches down the line.\n\nWhat Can Change the Right Choice\nOne of the biggest variables here is your specific city or county. What’s perfectly fine in San Marino might be restricted in Pasadena, and vice versa. The type of rental you envision also matters. Do you want long-term tenants, or are you hoping for short-term rentals? Some jurisdictions have strict rules against short-term rentals for ADUs, or require special permits for them. Existing structures on your property, like a detached garage, might seem like an easy conversion, but checking if they were legally permitted in the first place is essential. If not, you might face a longer, more complex process than you anticipated. Understanding these factors early on will guide your entire project.\n\nStart by looking up your property's zoning classification and then dig into your local planning department's ADU ordinances. This initial research will tell you a lot about what's possible. From there, you can start to think about design and how an ADU would best fit into your current living situation and property layout. You want to make sure it not only meets all the regulations but also enhances your home and lifestyle.\n\nReady to explore the possibilities for a rental ADU on your property? Connect with LineWork Development to discuss your property's potential.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Considering a Multi-Story Addition? What to Prepare First",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Adding another story to your home is a major undertaking, but it can dramatically increase your living space and property value. Before diving into design ideas, there are some key preparations that will make the entire process smoother and more successful. LineWork Development specializes in these significant transformations, ensuring your new levels integrate perfectly with your existing home.\n\nWhat to Prepare Before You Start:\n\n1.  **Investigate your existing structure:** This is step one. Can your current foundation, walls, and framing actually support an entire new story? You'll need a professional assessment to determine this. Assuming it can without an investigation is a common, costly mistake.\n2.  **Review zoning and height limits:** Before you get too far along, check your local zoning regulations. There are often limits on building height and how much of your lot can be covered. These rules directly impact what you can build.\n3.  **Plan for circulation:** How will you get to the new floor? Stairs are a major consideration. Their placement, size, and connection to existing layouts need careful thought. Egress (how people exit the building safely) is also critical.\n4.  **Consider utility upgrades:** Adding a new floor often means more electrical, plumbing, and HVAC demands. Think about whether your current systems can handle the increased load or if upgrades will be necessary.\n5.  **Think about temporary living arrangements:** Can you stay in your home during construction? Multi-story additions can be quite disruptive, especially during the structural framing and weatherproofing phases. Planning for temporary accommodations can alleviate stress.\n\nThese initial preparations are crucial for any multi-story project. LineWork Development operates as an integrated design-build partner, coordinating architectural design, structural engineering, and permitting from the outset. This comprehensive approach ensures that all these critical factors are thoroughly investigated and planned for, setting your project up for success and minimizing surprises. We bring a strong architectural background to anticipate challenges and deliver results that align with your vision and the buildability of your home.\n\nReady to explore adding a second story? Contact LineWork Development to discuss your property and project. We're here to guide you through the preparation process.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

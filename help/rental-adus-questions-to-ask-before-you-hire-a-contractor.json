@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Rental ADUs: Questions to Ask Before You Hire a Contractor",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Deciding to build a rental Accessory Dwelling Unit (ADU) is a big step, and choosing the right design-build partner is crucial for its success. You want a team that not only understands construction but also the local regulations and the intricacies of making an ADU a valuable asset. Before you commit, asking the right questions can clarify expectations, identify potential red flags, and ensure you're partnering with a firm that aligns with your vision and priorities.\n\nWhat to Prepare Before You Start\nBefore you even begin interviewing contractors, have a clear idea of what you want your ADU to achieve. Is it purely for rental income, or will it house family members? What’s your approximate budget range, and what’s your desired timeline? Gathering any existing property surveys, site plans, or relevant zoning documents will also be incredibly helpful for potential contractors to assess your project accurately. The more information you can provide upfront, the more precise and useful their responses will be.\n\nQuestions to Ask Before You Decide\n- What is your experience with ADU projects specifically in my area? — This is vital because ADU regulations vary widely by municipality. A contractor with local experience will be familiar with specific zoning, permit requirements, and common challenges in your city (e.g., Pasadena, San Marino, Arcadia).\n- How do you handle the entire design-build process, from concept to completion? — LineWork Development, for instance, integrates architectural design, structural engineering, permitting, and construction. Understanding their full scope ensures you know exactly what’s included and where your responsibilities lie.\n- How do you manage project budgets and timelines, and what digital tools do you use for client communication? — Transparency in budgeting, scheduling, and communication is key. Ask about their process for change orders and how they keep you updated on progress, photos, and decisions.\n- Can you provide references from recent ADU clients, and can I see examples of similar projects you’ve completed? — Seeing their past work and hearing from previous clients gives you confidence in their craftsmanship and client service.\n- How do you address potential issues like difficult grading, utility connections, or existing unpermitted structures on my property? — These are common challenges in ADU construction. A good contractor will have a clear approach to identifying and solving such problems early.\n- What does your warranty cover, and for how long? — Understanding the post-completion support demonstrates the contractor's confidence in their work.\n- Does your quoted scope include all design, engineering, permits, site work, utility connections, and final inspections, or will there be additional costs? — Ensure the quote is comprehensive to avoid hidden fees. Clarify if interior finishes, appliances, or landscaping are part of the initial estimate.\n\nBy asking these questions, you’ll gain a much clearer picture of how a firm operates and if they’re the right fit to transform your property with a rental ADU. Choosing a partner like LineWork Development, which emphasizes integrated design-build and transparent communication, can make all the difference in delivering a beautifully executed and compliant living space.\n\nReady to discuss your rental ADU project with an experienced design-build firm? Reach out to LineWork Development today.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

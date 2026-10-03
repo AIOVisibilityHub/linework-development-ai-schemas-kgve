@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Avoiding Common Mistakes in Your Primary Suite Addition",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Embarking on a primary suite addition is a big undertaking, and while exciting, it comes with its share of potential pitfalls. Many homeowners make common mistakes that can lead to delays, budget overruns, or a final product that doesn't quite meet expectations. Knowing these ahead of time can save you a lot of trouble and ensure your project runs more smoothly. We've seen it all, and a little foresight goes a long way in creating a truly integrated and functional new space. The goal is to build an addition that feels like it was always part of your home, not an afterthought. Avoiding these common errors is key to achieving that seamless transition and maximizing the value of your investment, protecting both your time and your finances throughout the construction journey.\n\n### Common Mistakes to Avoid\n*   **Designing before confirming setbacks or lot coverage:** Don't get attached to a floor plan before verifying it complies with your local zoning ordinances. It's frustrating to scale back your vision after the fact. *How to avoid it:* Consult with your design-build partner or local planning department early to understand all dimensional limitations on your property.\n*   **Underestimating the effect of a new bathroom on plumbing and drainage:** Adding a bathroom dramatically increases demand on your home's water supply and waste systems. *How to avoid it:* Ensure your existing plumbing infrastructure can handle the load, and plan for any necessary upgrades or new connections from the outset.\n*   **Failing to coordinate roof elevations and exterior finishes:** A primary suite addition should seamlessly blend with your home's existing architecture. A mismatched roofline or exterior materials can make the addition look tacked on. *How to avoid it:* Work with a design-build firm that emphasizes architectural integration and uses materials that complement your current home.\n*   **Overlooking HVAC capacity and electrical-panel limitations:** Your new, larger space will need adequate heating, cooling, and power. An undersized system means discomfort and potential electrical issues. *How to avoid it:* Have a professional assess your current HVAC and electrical systems to determine if upgrades are necessary to support the additional load.\n*   **Starting work before permits are issued:** This is a major regulatory no-no and can lead to fines, stop-work orders, or even requiring demolition of unpermitted work. *How to avoid it:* Always ensure all necessary permits are officially issued before any construction begins. A reputable contractor will insist on this.\n\nThese mistakes highlight the importance of thorough planning and expert coordination, especially for complex projects like primary suite additions. It's about more than just building; it's about thoughtful integration and compliance. LineWork Development, serving homeowners in areas like San Marino and Pasadena, excels in this integrated approach. We manage architectural design, engineering, and permitting, helping you navigate these complexities. When professional guidance helps you avoid these pitfalls, your project benefits from a smoother process and a superior outcome. To discuss your primary suite addition and how we can help you avoid these headaches, call us at (626) 594-5005 for a free consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

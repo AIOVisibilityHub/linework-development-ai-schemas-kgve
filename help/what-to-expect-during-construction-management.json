@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "What to Expect During Construction Management",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Embarking on a home renovation or new build is exciting, but knowing what to expect during the construction management phase can make the process much smoother. It all kicks off with clearly defining your project scope and goals. This means getting really specific about what you want to achieve, whether it’s a kitchen remodel, a new ADU, or a full home expansion. After that, your construction manager will help assess the feasibility of your ideas and identify any potential constraints. They’ll establish design criteria, create a preliminary budget, map out a procurement strategy, and set up a realistic schedule for your project.\n\nWhat to Expect During the Process\n\nOnce the initial planning is complete, the construction management really ramps up. You can expect coordination of bidding and procurement, making sure you get the best value and quality for materials and subcontractors. During the build, there will be ongoing management of construction activities, regular inspections, and careful handling of submittals and requests for information (RFIs). Your manager will keep a close eye on costs, manage any changes that arise, prioritize safety on site, and ensure the highest quality of work. LineWork Development, for example, integrates architectural design and construction, managing everything from initial planning through structural engineering, permitting, and material selections, right up to the final walkthrough. This integrated approach means fewer surprises and a more cohesive result.\n\nCommon Mistakes to Avoid\n\nA big pitfall homeowners face is starting a project with an unclear scope or approving an unrealistic schedule. These issues can lead to significant delays and cost overruns down the line. Another common mistake is failing to update cost estimates as the design develops, or having weak documentation for change orders. Inadequate coordination between the owner, designer, and contractors can also cause major headaches. LineWork Development addresses these challenges by acting as a single, accountable team, using digital project management tools to provide transparent communication, budget visibility, and schedule updates. This proactive approach helps protect the design intent and construction quality, ensuring your project stays on track and within budget.\n\nWant to learn more about our construction management process? Reach out to LineWork Development today for a free consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-03",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

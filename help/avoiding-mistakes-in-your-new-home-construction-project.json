@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Avoiding Mistakes in Your New Home Construction Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Building a new home is an exciting endeavor, but it’s also one where a few missteps can lead to big headaches, delays, or unexpected costs. Knowing the common pitfalls can help you steer clear of them and ensure a smoother, more enjoyable construction journey. Nobody wants surprises halfway through!\n\nCommon Mistakes to Avoid:\n\n- [ ] Starting work before permits are issued — why: This is a major regulatory no-no and can lead to stop-work orders, fines, and delays. Always ensure all necessary permits (building, zoning, grading, etc.) are officially issued and displayed before any physical work begins on your site. Review times vary by jurisdiction, so factor this into your timeline.\n\n- [ ] Underestimating site, utility, grading, or stormwater work — why: Many homeowners focus primarily on the house itself and forget the significant costs and complexities of preparing the land. Factors like challenging topography, distant utility connections, extensive grading, or specialized stormwater management systems can add substantial unforeseen expenses. Get a thorough site evaluation early on.\n\n- [ ] Relying on vague allowances or incomplete scopes — why: A low initial estimate might look appealing but could hide exclusions for site work, utility connections, or finishes. Vague allowances mean you might spend more than anticipated when you select specific materials. Ensure your construction contract clearly specifies the work scope, completion timing, payment requirements, and detailed allowances for finishes or fixtures. LineWork Development prides itself on transparent communication and organized project control.\n\n- [ ] Making design changes after construction begins — why: While some flexibility is natural, significant design changes once framing or other structural elements are underway can be incredibly costly and time-consuming. These 'change orders' can require tearing down work, re-engineering, and obtaining new approvals. Try to finalize your design decisions as much as possible during the planning phase. LineWork Development’s integrated design-build model is designed to minimize these issues by coordinating design and construction from the start.\n\n- [ ] Failing to document changes in writing — why: Any changes to the original plan, no matter how small, should always be documented in writing and signed by both you and your builder. Verbal agreements can lead to misunderstandings and disputes. This includes changes to materials, timelines, or costs. Clear documentation protects both parties and maintains transparency throughout the project. The firm’s use of digital project-management tools helps keep track of all documentation and decisions.\n\n- [ ] Not vetting your builder thoroughly — why: Choosing the right builder is paramount. Don’t just go with the lowest bid. Compare builders based on their relevant project experience, references, licensing, insurance, and warranty coverage. Ask how they manage subcontractors and their schedule controls. A qualified builder or general contractor is essential for coordination, sequencing, inspections, and quality control, especially for complex projects. LineWork Development is a premier residential design-build firm in Southern California, led by Eric Lin, that ensures architectural vision, construction expertise, and detailed project management are all integrated. Contact them for a free consultation and ensure you have the right partner for your new home.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

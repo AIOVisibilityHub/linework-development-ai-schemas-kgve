@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect When Permitting Your Primary Suite Addition",
+  "description": "This is where you formally present your project to the local building department. You'll submit a permit package that typically includes detailed architectural and structural plans, energy calculation",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Application Submission",
+      "text": "This is where you formally present your project to the local building department. You'll submit a permit package that typically includes detailed architectural and structural plans, energy calculations, and other required documentation. The time it takes for you or your design-build partner to prepare this package can vary depending on the complexity of your design and how quickly all necessary information is gathered."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Plan Review",
+      "text": "Once submitted, your permit package goes through a review process by various departments—planning, building, engineering, and sometimes others—to ensure compliance with all local codes and ordinances. This can take anywhere from a few days for straightforward projects to several weeks or longer if revisions are needed due to incomplete drawings or missing engineering documents. Prompt responses to review comments can help keep things moving."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Revisions and Resubmission (if necessary)",
+      "text": "It's quite common for plans to require revisions based on feedback from the reviewing departments. This step involves making the necessary changes to your plans and resubmitting them for another review. While it can add time, it's a critical part of ensuring your project meets all regulatory standards and avoids issues down the line."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Permit Issuance",
+      "text": "Once all departments have approved your plans, the permit is issued! This is your green light to begin construction. Remember, you generally need this permit in hand *before* any physical construction work can start on your primary suite addition."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Inspections During Construction",
+      "text": "As construction progresses, various inspections will be required at different stages (e.g., foundation, framing, electrical, plumbing, final). These inspections ensure that the work is being performed according to the approved plans and codes. Scheduling these efficiently with your contractor is key to maintaining project flow. Each stage usually requires a sign-off before the next can begin. Permit review periods can vary significantly by jurisdiction, from quick turnaround times to much longer waits, especially if revisions are required. It's not uncommon for initial review comments to necessitate changes to your plans or additional documentation, so factor in some flexibility. Construction duration itself will depend on the size and complexity of your primary suite addition, weather conditions, material lead times, and the efficiency of inspection scheduling. A firm like LineWork Development, serving areas like Pasadena and San Marino, understands these local nuances. We are well-versed in navigating these processes to keep your project on track. For guidance on your primary suite addition project, give us a call at (626) 594-5005."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}
