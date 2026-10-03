@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-02T23:26:13.424Z",
+  "generatedAt": "2026-10-03T00:02:42.011Z",
   "client": {
     "name": "LineWork Development",
     "canonicalUrl": "https://lineworkdevelopment.aiovisibility.net",
@@ -79,11 +79,11 @@
     ]
   },
   "package": {
-    "totalFiles": 445,
-    "totalBytes": 1217712,
+    "totalFiles": 625,
+    "totalBytes": 2709993,
     "stats": {
-      "faqs": 295,
-      "helpArticles": 0,
+      "faqs": 323,
+      "helpArticles": 144,
       "services": 43,
       "webpages": 0,
       "personnel": 2,
@@ -96,7 +96,7 @@
       "reviews": 20,
       "qna": 0,
       "research": 0,
-      "total": 423
+      "total": 595
     }
   },
   "entrypoints": {
@@ -110,12 +110,1390 @@
     "readme": "README.md"
   },
   "categories": {
-    "faqs": [
+    "services": [
       {
-        "path": "faqs/question.json",
-        "bytes": 381,
+        "path": "services/interior-renovations-service.json",
+        "bytes": 5288,
         "purpose": "schema"
       },
+      {
+        "path": "services/custom-interior-remodeling-service.json",
+        "bytes": 847,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-renovations-remodels-service.json",
+        "bytes": 849,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/whole-home-renovations-service.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structural-reconfiguration-service.json",
+        "bytes": 847,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/open-concept-floor-plans-service.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/kitchen-renovations-service.json",
+        "bytes": 833,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pantry-renovations-service.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bathroom-renovations-service.json",
+        "bytes": 835,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-cabinetry-service.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-millwork-service.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/high-end-finish-upgrades-service.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-additions-service.json",
+        "bytes": 823,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/primary-suite-additions-service.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/great-room-additions-service.json",
+        "bytes": 835,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/multi-story-additions-service.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-expansions-service.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/accessory-dwelling-units-adus-service.json",
+        "bytes": 857,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/guest-houses-service.json",
+        "bytes": 819,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rental-adus-service.json",
+        "bytes": 817,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/backyard-offices-service.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/creative-studios-service.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/garage-conversions-service.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/new-construction-service.json",
+        "bytes": 827,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ground-up-home-construction-service.json",
+        "bytes": 849,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/custom-home-construction-service.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/architectural-design-coordination-service.json",
+        "bytes": 861,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/design-build-services-service.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/structural-engineering-coordination-service.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/project-management-service.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/construction-management-service.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/permit-management-service.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/zoning-navigation-service.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/utility-integration-service.json",
+        "bytes": 833,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/budget-management-service.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/timeline-management-service.json",
+        "bytes": 833,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/digital-project-updates-service.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/solar-energy-integration-service.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/battery-storage-integration-service.json",
+        "bytes": 849,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/energy-efficient-construction-planning-service.json",
+        "bytes": 871,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/federal-and-state-tax-credit-strategy-service.json",
+        "bytes": 869,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/historic-rehabilitation-incentive-support-service.json",
+        "bytes": 877,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/development-incentive-documentation-support-service.json",
+        "bytes": 881,
+        "purpose": "schema"
+      }
+    ],
+    "team": [
+      {
+        "path": "team/eric-lin-profile.json",
+        "bytes": 4216,
+        "purpose": "schema"
+      },
+      {
+        "path": "team/eric-lin-southern-california.json",
+        "bytes": 4214,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/linework-development-office.json",
+        "bytes": 338,
+        "purpose": "schema"
+      }
+    ],
+    "awards": [
+      {
+        "path": "awards/san-gabriel-valley-contractor-of-the-year.json",
+        "bytes": 370,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/pasadena-historic-preservation-award.json",
+        "bytes": 340,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/best-adu-design-build-project.json",
+        "bytes": 340,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/luxury-kitchen-remodel-excellence.json",
+        "bytes": 354,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/green-building-innovation-award.json",
+        "bytes": 338,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/craftsman-restoration-masterwork.json",
+        "bytes": 339,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/design-build-firm-of-the-year.json",
+        "bytes": 330,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/multigenerational-housing-design.json",
+        "bytes": 335,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/outdoor-living-space-excellence.json",
+        "bytes": 345,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/emerging-contractor-achievement.json",
+        "bytes": 332,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/cslb-excellence-in-licensing.json",
+        "bytes": 338,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/san-marino-business-spotlight.json",
+        "bytes": 339,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/reader-s-choice-kitchen-remodel.json",
+        "bytes": 328,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/bbb-torch-award-for-marketplace-ethics.json",
+        "bytes": 349,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/home-addition-innovation.json",
+        "bytes": 323,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/adu-jadu-specialist-recognition.json",
+        "bytes": 342,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/houzz-best-of-service-2024.json",
+        "bytes": 308,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/client-satisfaction-diamond-award.json",
+        "bytes": 326,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/preservation-project-of-the-year.json",
+        "bytes": 338,
+        "purpose": "schema"
+      },
+      {
+        "path": "awards/sustainable-remodel-leadership.json",
+        "bytes": 325,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/pasadena-craftsman-adu-conversion.json",
+        "bytes": 560,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/beverly-hills-chef-s-kitchen-remodel.json",
+        "bytes": 569,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-marino-historic-whole-home-restoration.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/south-pasadena-family-room-addition.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/la-canada-garage-to-adu-transformation.json",
+        "bytes": 563,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/brentwood-contemporary-home-addition.json",
+        "bytes": 568,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/culver-city-kitchen-bath-remodel.json",
+        "bytes": 543,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-gabriel-historic-bungalow-refresh.json",
+        "bytes": 558,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/woodland-hills-outdoor-living-oasis.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/sherman-oaks-multigenerational-suite.json",
+        "bytes": 537,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/santa-monica-modern-adu-pool.json",
+        "bytes": 528,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/glendale-foundation-systems-retrofit.json",
+        "bytes": 538,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/calabasas-contemporary-farmhouse.json",
+        "bytes": 546,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/hollywood-hills-kitchen-remodel.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/mar-vista-green-kitchen-remodel.json",
+        "bytes": 530,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/century-city-penthouse-addition.json",
+        "bytes": 512,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/burbank-home-office-gym-suite.json",
+        "bytes": 519,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/san-gabriel-valley-pool-house.json",
+        "bytes": 519,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/pasadena-historic-kitchen-restoration.json",
+        "bytes": 547,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/beverly-hills-whole-home-remodel.json",
+        "bytes": 546,
+        "purpose": "schema"
+      }
+    ],
+    "press": [
+      {
+        "path": "press/san-marino-design-build-firm-expands-services.json",
+        "bytes": 376,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/local-contractor-masters-adu-permitting-streamline.json",
+        "bytes": 379,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/historic-pasadena-bungalow-restoration-showcase.json",
+        "bytes": 380,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/design-build-success-linework-s-chef-kitchen.json",
+        "bytes": 367,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/southern-california-adu-leader-profile.json",
+        "bytes": 369,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/san-gabriel-valley-contractor-of-the-year.json",
+        "bytes": 368,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/multigenerational-design-excellence.json",
+        "bytes": 359,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/green-building-pioneer-in-pasadena.json",
+        "bytes": 353,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/luxury-outdoor-kitchen-feature.json",
+        "bytes": 348,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/craftsman-restoration-masterclass.json",
+        "bytes": 348,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/linework-development-houzz-profile-launch.json",
+        "bytes": 358,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/san-marino-contractor-expands-to-beverly-hills.json",
+        "bytes": 365,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/adu-conversion-specialist-spotlight.json",
+        "bytes": 330,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/design-build-firm-tackles-historic-challenges.json",
+        "bytes": 359,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/pasadena-kitchen-remodel-wins-local-award.json",
+        "bytes": 348,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/southern-california-home-addition-experts.json",
+        "bytes": 347,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/linework-featured-in-bbb-spotlight.json",
+        "bytes": 342,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/emerging-design-build-firms-2023.json",
+        "bytes": 347,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/san-marino-contractor-license-milestone.json",
+        "bytes": 369,
+        "purpose": "schema"
+      },
+      {
+        "path": "press/local-firm-specializes-in-adu-jadu.json",
+        "bytes": 345,
+        "purpose": "schema"
+      }
+    ],
+    "reviews": [
+      {
+        "path": "reviews/seamless-design-build-process-1-review.json",
+        "bytes": 534,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/outstanding-adu-conversion-2-review.json",
+        "bytes": 521,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/whole-home-renovation-experts-3-review.json",
+        "bytes": 506,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/kitchen-remodel-perfection-4-review.json",
+        "bytes": 487,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/professional-and-reliable-5-review.json",
+        "bytes": 477,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/historic-restoration-masters-6-review.json",
+        "bytes": 503,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/accessory-dwelling-unit-success-7-review.json",
+        "bytes": 479,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/complete-home-transformation-8-review.json",
+        "bytes": 466,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/attention-to-every-detail-9-review.json",
+        "bytes": 478,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/professional-from-start-to-finish-10-review.json",
+        "bytes": 486,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/modern-farmhouse-masterpiece-11-review.json",
+        "bytes": 479,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/trustworthy-and-skilled-12-review.json",
+        "bytes": 467,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/exceptional-craftsmanship-13-review.json",
+        "bytes": 464,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/reliable-local-contractor-14-review.json",
+        "bytes": 452,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/design-build-done-right-15-review.json",
+        "bytes": 450,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/highly-recommend-eric-lin-16-review.json",
+        "bytes": 481,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/true-professionals-17-review.json",
+        "bytes": 448,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/outstanding-customer-service-18-review.json",
+        "bytes": 441,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/perfectionists-in-construction-19-review.json",
+        "bytes": 461,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/beyond-expectations-20-review.json",
+        "bytes": 429,
+        "purpose": "schema"
+      },
+      {
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 220,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/linework-development-organization.json",
+        "bytes": 9128,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/custom-interior-remodeling-what-to-prepare-before-demolition-begins.json",
+        "bytes": 3075,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-interior-remodeling-avoiding-unexpected-costs.json",
+        "bytes": 3106,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-renovations-remodels-what-to-know-about-permits-and-inspections.json",
+        "bytes": 3384,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-renovations-remodels-budgeting-for-your-whole-home-project.json",
+        "bytes": 3202,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-renovations-remodels-choosing-the-right-contractor.json",
+        "bytes": 3482,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-interior-remodeling-is-an-integrated-design-build-approach-right-for-you.json",
+        "bytes": 3300,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/interior-renovations-how-to-avoid-common-pitfalls-when-remodeling-your-home.json",
+        "bytes": 3117,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-an-interior-renovation-partner-what-to-look-for-in-a-design-build-firm.json",
+        "bytes": 3078,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-an-interior-renovation-right-for-your-property-factors-to-consider.json",
+        "bytes": 3394,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/whole-home-renovation-planning-how-to-prepare-for-a-major-project.json",
+        "bytes": 2176,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/considering-a-whole-home-remodel-when-professional-guidance-helps.json",
+        "bytes": 3561,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/whole-home-renovations-vs-phased-updates-how-to-compare-your-options.json",
+        "bytes": 3576,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-your-home-needs-structural-reconfiguration-signs-to-look-for.json",
+        "bytes": 4390,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-an-open-concept-remodel-what-walls-can-really-go.json",
+        "bytes": 4543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-contractor-for-structural-wall-removal-key-questions-to-ask.json",
+        "bytes": 5002,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-permits-for-structural-changes-a-homeowner-s-checklist.json",
+        "bytes": 9637,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-an-open-concept-floor-plan-right-for-your-home-how-to-decide.json",
+        "bytes": 4678,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-pitfalls-in-open-concept-conversions-mistakes-to-sidestep.json",
+        "bytes": 4621,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deciding-to-remove-a-load-bearing-wall-what-to-consider-first.json",
+        "bytes": 4412,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-kitchen-renovation-quote-looks-so-different.json",
+        "bytes": 2193,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/considering-a-kitchen-remodel-what-to-prepare-before-you-start.json",
+        "bytes": 2062,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-a-kitchen-layout-change-when-to-get-professional-help.json",
+        "bytes": 2094,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-when-enlarging-your-pantry.json",
+        "bytes": 2124,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/pantry-renovation-how-to-avoid-common-mistakes.json",
+        "bytes": 2182,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-an-expert-for-your-pantry-project.json",
+        "bytes": 2108,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-bathroom-renovation-contractor-what-to-consider.json",
+        "bytes": 2015,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/bathroom-remodeling-avoiding-common-pitfalls.json",
+        "bytes": 2963,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-bathroom-renovation-a-step-by-step-guide.json",
+        "bytes": 3754,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-cabinetry-when-to-invest-in-a-bespoke-solution.json",
+        "bytes": 3274,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-custom-cabinetry-lead-times-what-to-expect.json",
+        "bytes": 3023,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/custom-cabinets-mistakes-to-steer-clear-of.json",
+        "bytes": 3419,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-custom-millwork-project-might-be-delayed.json",
+        "bytes": 2684,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-custom-millwork-partner-what-to-look-for.json",
+        "bytes": 5975,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-you-need-a-pro-for-complex-millwork.json",
+        "bytes": 3344,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-high-end-finish-upgrades-common-mistakes.json",
+        "bytes": 3285,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-high-end-finish-upgrade-project.json",
+        "bytes": 3580,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-pick-the-right-high-end-finish-for-your-home.json",
+        "bytes": 3180,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-home-addition-permits-what-to-expect.json",
+        "bytes": 3041,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-pitfalls-in-your-home-addition-project.json",
+        "bytes": 3061,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-home-addition-a-step-by-step-guide.json",
+        "bytes": 4329,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-primary-suite-addition-right-for-your-home.json",
+        "bytes": 3201,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-planning-a-primary-suite-addition.json",
+        "bytes": 3296,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-primary-suite-addition-flow-seamlessly.json",
+        "bytes": 3320,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/great-room-addition-planning-avoiding-costly-mistakes.json",
+        "bytes": 2829,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/considering-a-great-room-addition-what-to-prepare-before-you-start.json",
+        "bytes": 2711,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-great-room-addition-might-need-an-architect-or-engineer.json",
+        "bytes": 2912,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-story-addition-how-to-know-if-your-home-can-support-it.json",
+        "bytes": 2774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-story-addition-projects-questions-to-ask-before-you-decide.json",
+        "bytes": 3307,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/open-concept-floor-plans-navigating-load-bearing-walls.json",
+        "bytes": 3913,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/home-addition-planning-a-step-by-step-guide.json",
+        "bytes": 4033,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/unlocking-your-space-open-concept-remodeling-checklist.json",
+        "bytes": 7348,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/expanding-your-home-avoiding-common-home-addition-mistakes.json",
+        "bytes": 4399,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/open-concept-remodeling-what-to-expect-during-the-process.json",
+        "bytes": 4510,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/maximizing-your-property-when-to-choose-a-home-addition.json",
+        "bytes": 3724,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-zoning-and-setbacks-for-your-primary-suite-addition.json",
+        "bytes": 3767,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-when-permitting-your-primary-suite-addition.json",
+        "bytes": 3938,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-your-primary-suite-addition.json",
+        "bytes": 4204,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/creating-a-seamless-great-room-addition-for-your-home.json",
+        "bytes": 4289,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/questions-to-ask-before-you-decide-on-a-great-room-addition.json",
+        "bytes": 4009,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-professional-guidance-helps-with-your-great-room-addition.json",
+        "bytes": 4304,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-your-foundation-handle-a-multi-story-addition.json",
+        "bytes": 3132,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-delays-in-your-multi-story-addition-project.json",
+        "bytes": 3123,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-partner-for-your-multi-story-addition.json",
+        "bytes": 3148,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/matching-your-luxury-expansion-to-your-existing-home.json",
+        "bytes": 3298,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/budgeting-for-a-luxury-home-expansion-what-to-consider.json",
+        "bytes": 3229,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-the-experts-for-your-luxury-home-expansion.json",
+        "bytes": 3264,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-adu-regulations-what-to-consider-before-you-build.json",
+        "bytes": 3433,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-construction-what-to-expect-during-the-permitting-process.json",
+        "bytes": 3475,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-professional-for-your-adu-project.json",
+        "bytes": 3932,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/guest-house-vs-adu-which-is-right-for-your-property.json",
+        "bytes": 4016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-guest-house-what-to-prepare-before-you-start.json",
+        "bytes": 3828,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/guest-house-permitting-common-mistakes-to-avoid.json",
+        "bytes": 4101,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rental-adus-is-your-property-ready-for-one.json",
+        "bytes": 3078,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rental-adus-steps-to-a-smooth-permitting-process.json",
+        "bytes": 4995,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/rental-adus-questions-to-ask-before-you-hire-a-contractor.json",
+        "bytes": 4358,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/backyard-offices-do-you-need-a-permit-for-your-remote-workspace.json",
+        "bytes": 3451,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/backyard-offices-key-considerations-before-you-build.json",
+        "bytes": 3996,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/backyard-offices-checklist-for-a-successful-project.json",
+        "bytes": 7412,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-a-creative-studio-conversion-avoiding-common-pitfalls.json",
+        "bytes": 2790,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-professional-help-essential-for-your-creative-studio-project.json",
+        "bytes": 3282,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/converting-your-garage-into-a-creative-studio-what-to-know-before-you-start.json",
+        "bytes": 3483,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/garage-conversion-timeline-what-to-expect-from-start-to-finish.json",
+        "bytes": 3552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/making-your-garage-a-studio-mistakes-that-can-derail-your-vision.json",
+        "bytes": 3674,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-contractor-for-your-garage-conversion-key-questions-to-ask.json",
+        "bytes": 2538,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-builder-for-your-new-custom-home-what-to-ask-first.json",
+        "bytes": 3623,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-your-new-home-construction-timeline.json",
+        "bytes": 5318,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-a-design-build-firm-best-for-your-new-home.json",
+        "bytes": 4096,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-mistakes-in-your-new-home-construction-project.json",
+        "bytes": 4373,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-your-site-for-new-home-construction-essential-steps.json",
+        "bytes": 4479,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-budget-effectively-for-ground-up-home-construction.json",
+        "bytes": 4833,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-permitting-process-for-your-new-construction.json",
+        "bytes": 4086,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-hire-a-custom-home-builder-for-a-complex-project.json",
+        "bytes": 2666,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-costly-mistakes-in-custom-home-construction.json",
+        "bytes": 3242,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-custom-home-construction-timeline.json",
+        "bytes": 5208,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-architectural-design-coordination-is-crucial-for-your-project.json",
+        "bytes": 3208,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-design-conflicts-in-your-home-build.json",
+        "bytes": 3356,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-home-addition-regulations-what-you-need-to-know.json",
+        "bytes": 2644,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/estimating-the-timeline-for-your-home-addition-project.json",
+        "bytes": 2444,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-home-addition-mistakes-a-homeowner-s-guide.json",
+        "bytes": 2594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deciding-on-a-primary-suite-addition-is-it-right-for-you.json",
+        "bytes": 2454,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-consider-for-your-primary-suite-design.json",
+        "bytes": 2552,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-bring-in-experts-for-your-primary-suite.json",
+        "bytes": 2772,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-partner-for-your-great-room-addition-what-to-look-for.json",
+        "bytes": 2562,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/great-room-addition-planning-mistakes-that-delay-your-project.json",
+        "bytes": 3141,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-does-a-great-room-addition-need-an-engineer.json",
+        "bytes": 3345,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/considering-a-multi-story-addition-what-to-prepare-first.json",
+        "bytes": 3296,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/multi-story-addition-how-to-pick-the-right-design-build-firm.json",
+        "bytes": 3774,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-multi-story-addition.json",
+        "bytes": 4116,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-partner-for-your-luxury-home-expansion-what-to-ask.json",
+        "bytes": 3071,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-luxury-home-expansion-project.json",
+        "bytes": 3446,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-luxury-home-expansions.json",
+        "bytes": 3522,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deciding-on-an-adu-for-your-property-what-to-consider-first.json",
+        "bytes": 3833,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-adu-permitting-a-step-by-step-guide.json",
+        "bytes": 4194,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/unlocking-property-value-with-an-adu-a-checklist.json",
+        "bytes": 7878,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thinking-about-a-guest-house-when-to-involve-a-design-build-expert.json",
+        "bytes": 3153,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/getting-started-with-your-guest-house-project-what-to-prepare.json",
+        "bytes": 3115,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-guest-house-project-pitfalls-common-mistakes-to-sidestep.json",
+        "bytes": 3485,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/considering-a-creative-studio-why-design-build-matters.json",
+        "bytes": 3194,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-creative-studio-essential-questions-to-ask.json",
+        "bytes": 3567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ensuring-your-creative-studio-project-stays-on-track-what-to-expect.json",
+        "bytes": 3647,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/converting-your-garage-how-to-know-if-you-need-professional-help.json",
+        "bytes": 3217,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-prepare-before-starting-your-garage-conversion-project.json",
+        "bytes": 3699,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/garage-conversion-mistakes-to-avoid-that-could-cost-you.json",
+        "bytes": 3934,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-a-design-build-approach-is-right-for-your-home-project.json",
+        "bytes": 3725,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/design-build-contracts-key-questions-to-ask-before-signing.json",
+        "bytes": 4017,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-design-build-process-from-vision-to-reality.json",
+        "bytes": 5012,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/structural-engineering-coordination-when-your-home-renovation-needs-a-deeper-loo.json",
+        "bytes": 2778,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-structural-engineering-for-your-adu-a-homeowner-s-checklist.json",
+        "bytes": 5778,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/structural-engineering-coordination-mistakes-to-avoid-for-a-smooth-project.json",
+        "bytes": 3277,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/project-management-for-home-builds-ensuring-your-vision-stays-on-track.json",
+        "bytes": 2633,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-project-manager-for-your-custom-home-how-to-compare-your-options.json",
+        "bytes": 3346,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/project-management-deciding-when-professional-help-makes-a-difference.json",
+        "bytes": 3037,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-a-construction-manager-what-to-prioritize.json",
+        "bytes": 3215,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-construction-management.json",
+        "bytes": 3320,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-cost-overruns-in-your-home-construction-project.json",
+        "bytes": 3428,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-permit-applications-what-to-know-first.json",
+        "bytes": 3594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-permit-mistakes-that-delay-construction.json",
+        "bytes": 3773,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-get-your-adu-permit-approved-faster.json",
+        "bytes": 3728,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-zoning-hurdles-for-your-adu-what-to-expect.json",
+        "bytes": 2715,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-zoning-application-mistakes-a-pre-construction-checklist.json",
+        "bytes": 6453,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-seek-expert-help-with-complex-zoning-approvals.json",
+        "bytes": 3732,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/integrating-utilities-into-your-home-renovation-what-to-consider-early.json",
+        "bytes": 3570,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preventing-utility-connection-delays-on-your-project.json",
+        "bytes": 3699,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/who-pays-for-utility-upgrades-on-a-new-build.json",
+        "bytes": 3837,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/publishing-plan.json",
+        "bytes": 46629,
+        "purpose": "schema"
+      }
+    ],
+    "faqs": [
       {
         "path": "faqs/how-does-the-design-build-process-at-linework-development-work.json",
         "bytes": 963,
@@ -1585,703 +2963,227 @@
         "path": "faqs/what-maintenance-is-required-for-outdoor-kitchens-pool-houses.json",
         "bytes": 855,
         "purpose": "schema"
-      }
-    ],
-    "services": [
-      {
-        "path": "services/interior-renovations-service.json",
-        "bytes": 5288,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/custom-interior-remodeling-service.json",
-        "bytes": 847,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/home-renovations-remodels-service.json",
-        "bytes": 849,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/whole-home-renovations-service.json",
-        "bytes": 839,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/structural-reconfiguration-service.json",
-        "bytes": 847,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/open-concept-floor-plans-service.json",
-        "bytes": 843,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/kitchen-renovations-service.json",
-        "bytes": 833,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/pantry-renovations-service.json",
-        "bytes": 831,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/bathroom-renovations-service.json",
-        "bytes": 835,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/custom-cabinetry-service.json",
-        "bytes": 827,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/custom-millwork-service.json",
-        "bytes": 825,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/high-end-finish-upgrades-service.json",
-        "bytes": 843,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/home-additions-service.json",
-        "bytes": 823,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/primary-suite-additions-service.json",
-        "bytes": 841,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/great-room-additions-service.json",
-        "bytes": 835,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/multi-story-additions-service.json",
-        "bytes": 837,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/luxury-home-expansions-service.json",
-        "bytes": 839,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/accessory-dwelling-units-adus-service.json",
-        "bytes": 857,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/guest-houses-service.json",
-        "bytes": 819,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/rental-adus-service.json",
-        "bytes": 817,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/backyard-offices-service.json",
-        "bytes": 827,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/creative-studios-service.json",
-        "bytes": 827,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/garage-conversions-service.json",
-        "bytes": 831,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/new-construction-service.json",
-        "bytes": 827,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/ground-up-home-construction-service.json",
-        "bytes": 849,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/custom-home-construction-service.json",
-        "bytes": 843,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/architectural-design-coordination-service.json",
-        "bytes": 861,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/design-build-services-service.json",
-        "bytes": 837,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/structural-engineering-coordination-service.json",
-        "bytes": 865,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/project-management-service.json",
-        "bytes": 831,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/construction-management-service.json",
-        "bytes": 841,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/permit-management-service.json",
-        "bytes": 829,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/zoning-navigation-service.json",
-        "bytes": 829,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/utility-integration-service.json",
-        "bytes": 833,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/budget-management-service.json",
-        "bytes": 829,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/timeline-management-service.json",
-        "bytes": 833,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/digital-project-updates-service.json",
-        "bytes": 841,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/solar-energy-integration-service.json",
-        "bytes": 843,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/battery-storage-integration-service.json",
-        "bytes": 849,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/energy-efficient-construction-planning-service.json",
-        "bytes": 871,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/federal-and-state-tax-credit-strategy-service.json",
-        "bytes": 869,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/historic-rehabilitation-incentive-support-service.json",
-        "bytes": 877,
-        "purpose": "schema"
-      },
-      {
-        "path": "services/development-incentive-documentation-support-service.json",
-        "bytes": 881,
-        "purpose": "schema"
-      }
-    ],
-    "team": [
-      {
-        "path": "team/eric-lin-profile.json",
-        "bytes": 4216,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/eric-lin-southern-california.json",
-        "bytes": 4214,
-        "purpose": "schema"
-      }
-    ],
-    "locations": [
-      {
-        "path": "locations/linework-development-office.json",
-        "bytes": 338,
-        "purpose": "schema"
-      }
-    ],
-    "awards": [
-      {
-        "path": "awards/san-gabriel-valley-contractor-of-the-year.json",
-        "bytes": 370,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/pasadena-historic-preservation-award.json",
-        "bytes": 340,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/best-adu-design-build-project.json",
-        "bytes": 340,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/luxury-kitchen-remodel-excellence.json",
-        "bytes": 354,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/green-building-innovation-award.json",
-        "bytes": 338,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/craftsman-restoration-masterwork.json",
-        "bytes": 339,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/design-build-firm-of-the-year.json",
-        "bytes": 330,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/multigenerational-housing-design.json",
-        "bytes": 335,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/outdoor-living-space-excellence.json",
-        "bytes": 345,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/emerging-contractor-achievement.json",
-        "bytes": 332,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/cslb-excellence-in-licensing.json",
-        "bytes": 338,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/san-marino-business-spotlight.json",
-        "bytes": 339,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/reader-s-choice-kitchen-remodel.json",
-        "bytes": 328,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/bbb-torch-award-for-marketplace-ethics.json",
-        "bytes": 349,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/home-addition-innovation.json",
-        "bytes": 323,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/adu-jadu-specialist-recognition.json",
-        "bytes": 342,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/houzz-best-of-service-2024.json",
-        "bytes": 308,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/client-satisfaction-diamond-award.json",
-        "bytes": 326,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/preservation-project-of-the-year.json",
-        "bytes": 338,
-        "purpose": "schema"
-      },
-      {
-        "path": "awards/sustainable-remodel-leadership.json",
-        "bytes": 325,
-        "purpose": "schema"
-      }
-    ],
-    "case-studies": [
-      {
-        "path": "case-studies/pasadena-craftsman-adu-conversion.json",
-        "bytes": 560,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/beverly-hills-chef-s-kitchen-remodel.json",
-        "bytes": 569,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/san-marino-historic-whole-home-restoration.json",
-        "bytes": 568,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/south-pasadena-family-room-addition.json",
-        "bytes": 563,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/la-canada-garage-to-adu-transformation.json",
-        "bytes": 563,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/brentwood-contemporary-home-addition.json",
-        "bytes": 568,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/culver-city-kitchen-bath-remodel.json",
-        "bytes": 543,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/san-gabriel-historic-bungalow-refresh.json",
-        "bytes": 558,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/woodland-hills-outdoor-living-oasis.json",
-        "bytes": 530,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/sherman-oaks-multigenerational-suite.json",
-        "bytes": 537,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/santa-monica-modern-adu-pool.json",
-        "bytes": 528,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/glendale-foundation-systems-retrofit.json",
-        "bytes": 538,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/calabasas-contemporary-farmhouse.json",
-        "bytes": 546,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/hollywood-hills-kitchen-remodel.json",
-        "bytes": 530,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/mar-vista-green-kitchen-remodel.json",
-        "bytes": 530,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/century-city-penthouse-addition.json",
-        "bytes": 512,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/burbank-home-office-gym-suite.json",
-        "bytes": 519,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/san-gabriel-valley-pool-house.json",
-        "bytes": 519,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/pasadena-historic-kitchen-restoration.json",
-        "bytes": 547,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/beverly-hills-whole-home-remodel.json",
-        "bytes": 546,
-        "purpose": "schema"
-      }
-    ],
-    "press": [
-      {
-        "path": "press/san-marino-design-build-firm-expands-services.json",
-        "bytes": 376,
-        "purpose": "schema"
-      },
-      {
-        "path": "press/local-contractor-masters-adu-permitting-streamline.json",
-        "bytes": 379,
-        "purpose": "schema"
-      },
-      {
-        "path": "press/historic-pasadena-bungalow-restoration-showcase.json",
-        "bytes": 380,
-        "purpose": "schema"
-      },
-      {
-        "path": "press/design-build-success-linework-s-chef-kitchen.json",
-        "bytes": 367,
-        "purpose": "schema"
-      },
-      {
-        "path": "press/southern-california-adu-leader-profile.json",
-        "bytes": 369,
-        "purpose": "schema"
-      },
-      {
-        "path": "press/san-gabriel-valley-contractor-of-the-year.json",
-        "bytes": 368,
-        "purpose": "schema"
       },
       {
-        "path": "press/multigenerational-design-excellence.json",
-        "bytes": 359,
+        "path": "faqs/how-long-does-a-typical-kitchen-renovation-project-take.json",
+        "bytes": 1296,
         "purpose": "schema"
       },
       {
-        "path": "press/green-building-pioneer-in-pasadena.json",
-        "bytes": 353,
+        "path": "faqs/when-should-i-consider-a-structural-reconfiguration-for-my-home.json",
+        "bytes": 1418,
         "purpose": "schema"
       },
       {
-        "path": "press/luxury-outdoor-kitchen-feature.json",
-        "bytes": 348,
+        "path": "faqs/what-are-the-benefits-of-adding-an-accessory-dwelling-unit-adu-to-my-property-in.json",
+        "bytes": 1481,
         "purpose": "schema"
       },
       {
-        "path": "press/craftsman-restoration-masterclass.json",
-        "bytes": 348,
+        "path": "faqs/what-is-the-process-for-designing-and-installing-custom-cabinetry.json",
+        "bytes": 1425,
         "purpose": "schema"
       },
       {
-        "path": "press/linework-development-houzz-profile-launch.json",
-        "bytes": 358,
+        "path": "faqs/how-do-i-choose-between-different-contractors-for-my-luxury-home-expansion-proje.json",
+        "bytes": 1470,
         "purpose": "schema"
       },
       {
-        "path": "press/san-marino-contractor-expands-to-beverly-hills.json",
-        "bytes": 365,
+        "path": "faqs/what-should-i-prepare-before-a-consultation-for-a-home-addition.json",
+        "bytes": 1369,
         "purpose": "schema"
       },
       {
-        "path": "press/adu-conversion-specialist-spotlight.json",
-        "bytes": 330,
+        "path": "faqs/what-is-involved-in-high-end-finish-upgrades-for-a-renovation.json",
+        "bytes": 1415,
         "purpose": "schema"
       },
       {
-        "path": "press/design-build-firm-tackles-historic-challenges.json",
-        "bytes": 359,
+        "path": "faqs/what-permits-are-typically-required-for-a-multi-story-addition-in-pasadena.json",
+        "bytes": 1475,
         "purpose": "schema"
       },
       {
-        "path": "press/pasadena-kitchen-remodel-wins-local-award.json",
-        "bytes": 348,
+        "path": "faqs/how-much-does-a-bathroom-renovation-typically-cost.json",
+        "bytes": 1388,
         "purpose": "schema"
       },
       {
-        "path": "press/southern-california-home-addition-experts.json",
-        "bytes": 347,
+        "path": "faqs/what-is-the-difference-between-custom-home-construction-and-ground-up-home-const.json",
+        "bytes": 1526,
         "purpose": "schema"
       },
       {
-        "path": "press/linework-featured-in-bbb-spotlight.json",
-        "bytes": 342,
+        "path": "faqs/when-should-i-consider-a-garage-conversion-versus-new-construction-for-an-additi.json",
+        "bytes": 1534,
         "purpose": "schema"
       },
       {
-        "path": "press/emerging-design-build-firms-2023.json",
-        "bytes": 347,
+        "path": "faqs/what-is-involved-in-the-architectural-design-coordination-process.json",
+        "bytes": 1448,
         "purpose": "schema"
       },
       {
-        "path": "press/san-marino-contractor-license-milestone.json",
-        "bytes": 369,
+        "path": "faqs/how-does-the-design-build-service-simplify-my-construction-project.json",
+        "bytes": 1403,
         "purpose": "schema"
       },
       {
-        "path": "press/local-firm-specializes-in-adu-jadu.json",
-        "bytes": 345,
+        "path": "faqs/what-permits-are-typically-required-for-new-construction-in-the-san-gabriel-vall.json",
+        "bytes": 1428,
         "purpose": "schema"
-      }
-    ],
-    "reviews": [
-      {
-        "path": "reviews/seamless-design-build-process-1-review.json",
-        "bytes": 534,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/outstanding-adu-conversion-2-review.json",
-        "bytes": 521,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/whole-home-renovation-experts-3-review.json",
-        "bytes": 506,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/kitchen-remodel-perfection-4-review.json",
-        "bytes": 487,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/professional-and-reliable-5-review.json",
-        "bytes": 477,
-        "purpose": "schema"
       },
       {
-        "path": "reviews/historic-restoration-masters-6-review.json",
-        "bytes": 503,
+        "path": "faqs/what-should-i-prepare-before-contacting-linework-development-about-a-custom-home.json",
+        "bytes": 1441,
         "purpose": "schema"
       },
       {
-        "path": "reviews/accessory-dwelling-unit-success-7-review.json",
-        "bytes": 479,
+        "path": "faqs/how-long-does-a-typical-backyard-office-or-creative-studio-build-take.json",
+        "bytes": 1362,
         "purpose": "schema"
       },
       {
-        "path": "reviews/complete-home-transformation-8-review.json",
-        "bytes": 466,
+        "path": "faqs/what-factors-influence-the-cost-of-a-ground-up-home-construction-project.json",
+        "bytes": 1343,
         "purpose": "schema"
       },
       {
-        "path": "reviews/attention-to-every-detail-9-review.json",
-        "bytes": 478,
+        "path": "faqs/can-linework-development-assist-with-architectural-design-for-my-project.json",
+        "bytes": 1381,
         "purpose": "schema"
       },
       {
-        "path": "reviews/professional-from-start-to-finish-10-review.json",
-        "bytes": 486,
+        "path": "faqs/what-is-the-benefit-of-a-creative-studio-versus-a-standard-room-addition.json",
+        "bytes": 1480,
         "purpose": "schema"
       },
       {
-        "path": "reviews/modern-farmhouse-masterpiece-11-review.json",
-        "bytes": 479,
+        "path": "faqs/what-is-the-difference-between-a-garage-conversion-and-a-new-backyard-office-and.json",
+        "bytes": 1613,
         "purpose": "schema"
       },
       {
-        "path": "reviews/trustworthy-and-skilled-12-review.json",
-        "bytes": 467,
+        "path": "faqs/what-permits-are-typically-required-for-a-garage-conversion-in-the-san-gabriel-v.json",
+        "bytes": 1516,
         "purpose": "schema"
       },
       {
-        "path": "reviews/exceptional-craftsmanship-13-review.json",
-        "bytes": 464,
+        "path": "faqs/how-long-does-a-custom-home-construction-project-typically-take-from-design-to-c.json",
+        "bytes": 1518,
         "purpose": "schema"
       },
       {
-        "path": "reviews/reliable-local-contractor-14-review.json",
-        "bytes": 452,
+        "path": "faqs/what-should-i-prepare-before-contacting-a-design-build-firm-for-a-new-home-proje.json",
+        "bytes": 1443,
         "purpose": "schema"
       },
       {
-        "path": "reviews/design-build-done-right-15-review.json",
-        "bytes": 450,
+        "path": "faqs/what-are-the-benefits-of-using-design-build-services-for-a-custom-home-compared.json",
+        "bytes": 1664,
         "purpose": "schema"
       },
       {
-        "path": "reviews/highly-recommend-eric-lin-16-review.json",
-        "bytes": 481,
+        "path": "faqs/how-does-linework-development-handle-architectural-design-coordination-for-groun.json",
+        "bytes": 1638,
         "purpose": "schema"
       },
       {
-        "path": "reviews/true-professionals-17-review.json",
-        "bytes": 448,
+        "path": "faqs/what-factors-influence-the-cost-of-building-a-backyard-office.json",
+        "bytes": 1438,
         "purpose": "schema"
       },
       {
-        "path": "reviews/outstanding-customer-service-18-review.json",
-        "bytes": 441,
+        "path": "faqs/when-is-the-best-time-to-start-planning-a-custom-home-construction-project.json",
+        "bytes": 1446,
         "purpose": "schema"
       },
       {
-        "path": "reviews/perfectionists-in-construction-19-review.json",
-        "bytes": 461,
+        "path": "faqs/what-are-common-challenges-faced-during-ground-up-home-construction-and-how-are.json",
+        "bytes": 1587,
         "purpose": "schema"
       },
-      {
-        "path": "reviews/beyond-expectations-20-review.json",
-        "bytes": 429,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/aggregate-rating.json",
-        "bytes": 220,
-        "purpose": "schema"
-      }
-    ],
-    "organization": [
       {
-        "path": "organization/linework-development-organization.json",
-        "bytes": 9128,
+        "path": "faqs/what-design-considerations-are-important-for-maximizing-the-functionality-of-a-b.json",
+        "bytes": 1595,
         "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 15699,
+        "bytes": 20481,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 64465,
+        "bytes": 69046,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 45338,
+        "bytes": 49897,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 29441,
+        "bytes": 33688,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13323,
+        "bytes": 17645,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 203237,
+        "bytes": 228522,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 19457,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 35928,
+        "bytes": 40351,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 23996,
+        "bytes": 28296,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/getting-started.html",
+        "bytes": 135267,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/services-and-process.html",
+        "bytes": 66118,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/planning-and-preparation.html",
+        "bytes": 276147,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/pricing-and-estimates.html",
+        "bytes": 93461,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/local-service-guidance.html",
+        "bytes": 30065,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/care-and-maintenance.html",
+        "bytes": 26265,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -2293,7 +3195,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3441,
+        "bytes": 2586,
         "purpose": "LLM hint"
       },
       {
@@ -2313,42 +3215,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3995,
+        "bytes": 1676,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 193086,
+        "bytes": 274181,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 55592,
+        "bytes": 78014,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 55592,
+        "bytes": 78014,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3443,
+        "bytes": 2611,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 63110,
+        "bytes": 90991,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 57089,
+        "bytes": 82168,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1036,
+        "bytes": 1752,
         "purpose": "Standard sitemap"
       }
     ]
@@ -2358,25 +3260,6 @@
       "url": "https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve",
       "pagesUrl": "https://lineworkdevelopment.aiovisibility.net/",
       "repo": "AIOVisibilityHub/linework-development-ai-schemas-kgve"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/linework-development-ai-schemas-y9s8",
-      "pagesUrl": "https://linework-development-ai-schemas-y9s8-0cd220.gitlab.io/"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/linework-development-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/linework-development-ai-schemas/",
-      "repo": "aiovisibilityhub/linework-development-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/linework-development-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23112291"
     }
   }
 }
