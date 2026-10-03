@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are typically required for a garage conversion in the San Gabriel Valley area?",
+  "description": "Garage conversions in the San Gabriel Valley require building permits and potentially plumbing, electrical, and mechanical permits. Local zoning and building co",
+  "url": "https://lineworkdevelopment.com/faq/what-permits-are-typically-required-for-a-garage-conversion-in-the-san-gabriel-v",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are typically required for a garage conversion in the San Gabriel Valley area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Garage conversions in the San Gabriel Valley typically require building permits, and depending on the scope, plumbing, electrical, and mechanical permits may also be necessary. Local jurisdictions like Pasadena or San Marino have specific zoning ordinances and building codes that dictate what can be converted and how. It's essential to understand these requirements early in the process, as they can influence design choices, material specifications, and the overall project timeline. We assist with navigating these local permitting processes.",
+        "description": "Garage conversions in the San Gabriel Valley require building permits and potentially plumbing, electrical, and mechanical permits. Local zoning and building codes influence the process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

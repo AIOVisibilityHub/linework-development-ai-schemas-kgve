@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of using design-build services for a custom home compared to traditional separate architect and builder contracts?",
+  "description": "Design-build services offer integrated design and construction under one contract, leading to better communication, cost control, and a streamlined project time",
+  "url": "https://lineworkdevelopment.com/faq/what-are-the-benefits-of-using-design-build-services-for-a-custom-home-compared",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using design-build services for a custom home compared to traditional separate architect and builder contracts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Design-build services integrate architectural design and construction under one contract, offering a single point of responsibility. This approach often leads to better communication, cost control, and a more streamlined project timeline compared to traditional separate contracts. With design-build, potential construction challenges can be identified and addressed during the design phase, reducing unexpected issues later on. This integrated process fosters a collaborative environment, ensuring the project stays aligned with your vision and budget from conception to completion.",
+        "description": "Design-build services offer integrated design and construction under one contract, leading to better communication, cost control, and a streamlined project timeline. This approach minimizes unexpected issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

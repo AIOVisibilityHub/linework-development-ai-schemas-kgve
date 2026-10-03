@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a custom home construction project typically take from design to completion?",
+  "description": "Custom home construction typically takes 12-24 months after design. Design complexity, site conditions, permitting, and material availability are key factors.",
+  "url": "https://lineworkdevelopment.com/faq/how-long-does-a-custom-home-construction-project-typically-take-from-design-to-c",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a custom home construction project typically take from design to completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for custom home construction varies significantly, generally ranging from 12 to 24 months, excluding architectural design. Factors influencing this duration include the complexity of the design, site conditions, permitting process, material availability, and the owner's responsiveness during decision-making phases. Our design-build services aim to streamline this process by coordinating architectural design and construction efforts from the outset, which can help mitigate delays. Effective communication and timely selections are crucial for staying on schedule.",
+        "description": "Custom home construction typically takes 12-24 months after design. Design complexity, site conditions, permitting, and material availability are key factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common challenges faced during ground-up home construction, and how are they managed?",
+  "description": "Ground-up construction challenges include site conditions, material delays, and permitting. We manage these with upfront evaluations, strong supplier relations,",
+  "url": "https://lineworkdevelopment.com/faq/what-are-common-challenges-faced-during-ground-up-home-construction-and-how-are",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common challenges faced during ground-up home construction, and how are they managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common challenges during ground-up home construction include unexpected site conditions, material procurement delays, permitting hurdles, and budget creep. We manage these by conducting thorough site evaluations upfront, maintaining strong relationships with suppliers to mitigate material delays, and proactively navigating the permitting process with local authorities. Regular communication, detailed planning, and our integrated design-build approach allow us to address issues efficiently. We prioritize transparency and keep clients informed about potential impacts and solutions.",
+        "description": "Ground-up construction challenges include site conditions, material delays, and permitting. We manage these with upfront evaluations, strong supplier relations, and proactive permitting. We keep clients informed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

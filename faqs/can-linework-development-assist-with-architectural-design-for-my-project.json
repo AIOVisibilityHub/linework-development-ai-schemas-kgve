@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can LineWork Development assist with architectural design for my project?",
+  "description": "LineWork Development assists with architectural design coordination by collaborating with architects to ensure buildable and cost-effective plans.",
+  "url": "https://lineworkdevelopment.com/faq/can-linework-development-assist-with-architectural-design-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can LineWork Development assist with architectural design for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, LineWork Development offers architectural design coordination as part of our comprehensive services. While we do not have in-house architects, we collaborate closely with trusted architectural partners or work with your chosen architect to ensure a seamless integration of design and construction. Our role is to facilitate the architectural process, ensuring the plans are buildable, cost-effective, and aligned with your vision. This collaboration allows us to provide a complete design-build solution.",
+        "description": "LineWork Development assists with architectural design coordination by collaborating with architects to ensure buildable and cost-effective plans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

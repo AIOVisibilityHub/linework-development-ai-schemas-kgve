@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of adding an Accessory Dwelling Unit (ADU) to my property in San Marino?",
+  "description": "ADUs in San Marino can increase property value or provide rental income. Local regulations dictate design and placement, requiring experienced contractors for c",
+  "url": "https://lineworkdevelopment.com/faq/what-are-the-benefits-of-adding-an-accessory-dwelling-unit-adu-to-my-property-in",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of adding an Accessory Dwelling Unit (ADU) to my property in San Marino?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding an ADU in areas like San Marino can provide significant benefits, including increased property value, a dedicated space for guests or family, or potential rental income. Local regulations in the San Gabriel Valley, including specific zoning and permit requirements, dictate the size, placement, and design of ADUs. Understanding these local guidelines and working with a contractor experienced in the region is crucial to navigating the permitting process smoothly and ensuring compliance with all municipal codes.",
+        "description": "ADUs in San Marino can increase property value or provide rental income. Local regulations dictate design and placement, requiring experienced contractors for compliance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

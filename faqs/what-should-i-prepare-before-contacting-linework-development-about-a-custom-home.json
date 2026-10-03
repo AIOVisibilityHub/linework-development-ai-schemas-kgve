@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before contacting LineWork Development about a custom home project?",
+  "description": "Prepare your desired aesthetic, functional needs, approximate budget, and property characteristics before discussing a custom home project.",
+  "url": "https://lineworkdevelopment.com/faq/what-should-i-prepare-before-contacting-linework-development-about-a-custom-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before contacting LineWork Development about a custom home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contacting us for a custom home project, it's helpful to gather initial thoughts on your desired aesthetic, functional needs, and approximate budget. Consider compiling inspiration images, a list of 'must-have' features, and any preliminary ideas for the number of rooms or square footage. Having a general understanding of your property's characteristics, such as lot size or existing structures, can also aid in our initial consultation. This preparation helps us understand your vision and provide a more accurate initial assessment.",
+        "description": "Prepare your desired aesthetic, functional needs, approximate budget, and property characteristics before discussing a custom home project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

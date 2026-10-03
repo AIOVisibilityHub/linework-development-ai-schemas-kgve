@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of building a backyard office?",
+  "description": "Backyard office costs depend on size, design complexity, material choices, utility connections, and local permitting fees. High-end finishes and custom features",
+  "url": "https://lineworkdevelopment.com/faq/what-factors-influence-the-cost-of-building-a-backyard-office",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of building a backyard office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building a backyard office is influenced by several factors, including its size, complexity of design, choice of materials, and the extent of utility connections (e.g., plumbing, HVAC). High-end finishes, custom features, and significant site work can increase costs. Additionally, local permitting fees and specific building code requirements in your area, such as San Gabriel or Alhambra, can impact the overall budget. We provide detailed estimates that break down these costs, helping you understand where your investment is allocated.",
+        "description": "Backyard office costs depend on size, design complexity, material choices, utility connections, and local permitting fees. High-end finishes and custom features can increase costs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

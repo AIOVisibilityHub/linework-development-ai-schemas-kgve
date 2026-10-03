@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Open-Concept Floor Plans: Navigating Load-Bearing Walls",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Dreaming of a more open, connected living space? You're not alone! Many homeowners want to knock down walls to create that airy, modern feel. But before you grab a sledgehammer, it's crucial to understand which walls are structural and what that means for your project. Removing a load-bearing wall isn't a simple DIY job; it requires careful planning, engineering, and execution to ensure your home's safety and integrity. You'll need to know where replacement beams or posts will go and how that impacts your overall design. Getting this wrong can lead to serious structural issues down the line. It's much more than just opening up a room; it's about reimagining your home's core.\n\nWhat to Prepare Before You Start\nBefore you get too deep into the design, gather as much information as you can about your home's existing structure. This means understanding where your mechanical systems like plumbing, electrical, heating, and cooling run. These systems often live inside walls and will need to be rerouted, which can significantly impact your project's scope and budget. Knowing this upfront will save you headaches later. Also, consider how an open space will affect storage – you might be losing valuable wall space for cabinetry or built-ins. Think about privacy needs too; an open concept doesn't mean sacrificing every quiet corner. Understanding these elements from the start helps you develop a realistic plan.\n\nThe typical process for an open-concept renovation starts with assessing your existing structure and mechanical systems. Then, you'll define your desired layout and, crucially, verify which walls are structural. This often involves detailed architectural and, if necessary, engineered drawings. Permits are a must for structural changes, so applying for those is a key step. Once permits are in hand, temporary supports are installed, and the structural, electrical, plumbing, and finishing work can begin, followed by required inspections. Remember, load-bearing wall removal almost always requires engineered beams or posts to maintain structural integrity.\n\nWhen Professional Guidance Helps\nA qualified professional, especially a design-build firm like LineWork Development, becomes incredibly important when your project involves load-bearing walls, major utility relocations, or any changes impacting your home's structural integrity or code compliance. A structural engineer might be needed to calculate loads and design appropriate supports. A licensed contractor with experience in structural remodeling will coordinate the construction and ensure all inspections are passed. Our integrated design-build approach means we handle the architectural vision, structural engineering, permitting, and construction, making the whole process smoother for you. It ensures your initial vision isn't lost and that the execution is flawless.\n\nReady to explore an open-concept living space for your home? Contact LineWork Development to discuss your vision and get a clear understanding of the process.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider a garage conversion versus new construction for an additional living space?",
+  "description": "Consider a garage conversion for existing space and budget efficiency; opt for new construction for complete design freedom and custom specifications.",
+  "url": "https://lineworkdevelopment.com/faq/when-should-i-consider-a-garage-conversion-versus-new-construction-for-an-additi",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider a garage conversion versus new construction for an additional living space?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A garage conversion is an excellent option if you need to maximize existing space, want to utilize an existing foundation, or have budget constraints, as it often has a shorter timeline and lower cost than new construction. New construction provides complete design flexibility, allowing you to build an entirely new structure to your exact specifications. When deciding, consider the existing garage's structural integrity, utility access, and the desired size and function of the new space. Existing conditions of your garage will influence the feasibility and cost more than a ground-up build.",
+        "description": "Consider a garage conversion for existing space and budget efficiency; opt for new construction for complete design freedom and custom specifications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

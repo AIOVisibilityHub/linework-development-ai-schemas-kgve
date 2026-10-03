@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider a structural reconfiguration for my home?",
+  "description": "Consider structural reconfiguration when you want to change your home's layout, like creating an open-concept plan, which requires engineering and permits.",
+  "url": "https://lineworkdevelopment.com/faq/when-should-i-consider-a-structural-reconfiguration-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider a structural reconfiguration for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider a structural reconfiguration when your current home layout no longer meets your needs, such as desiring an open-concept floor plan or needing to improve flow between living spaces. This process typically involves removing or adding load-bearing walls, which requires careful engineering and permitting to ensure the home's integrity. Engaging with a contractor early allows for evaluation of feasibility and identification of potential challenges, like rerouting utilities or reinforcing existing structures, before design even begins.",
+        "description": "Consider structural reconfiguration when you want to change your home's layout, like creating an open-concept plan, which requires engineering and permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

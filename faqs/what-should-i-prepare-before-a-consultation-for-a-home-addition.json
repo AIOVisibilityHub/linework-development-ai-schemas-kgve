@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before a consultation for a home addition?",
+  "description": "Before a home addition consultation, gather existing plans, list your needs, budget, timeline, and design inspirations to help the contractor.",
+  "url": "https://lineworkdevelopment.com/faq/what-should-i-prepare-before-a-consultation-for-a-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before a consultation for a home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before a home addition consultation, gather any existing architectural plans of your home, and create a list of your specific needs and desired outcomes for the new space. Consider your budget range, ideal timeline, and any design inspirations you've collected. Having a clear understanding of your vision, even if preliminary, helps the contractor assess feasibility and provide more accurate initial estimates and recommendations. Think about how the new addition will integrate with your existing home and impact your daily life.",
+        "description": "Before a home addition consultation, gather existing plans, list your needs, budget, timeline, and design inspirations to help the contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

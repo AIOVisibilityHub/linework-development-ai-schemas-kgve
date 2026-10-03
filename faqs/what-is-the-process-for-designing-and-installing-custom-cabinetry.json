@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for designing and installing custom cabinetry?",
+  "description": "Custom cabinetry involves consultation, design, fabrication, and installation, ensuring a perfect fit and unique aesthetic for your space.",
+  "url": "https://lineworkdevelopment.com/faq/what-is-the-process-for-designing-and-installing-custom-cabinetry",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for designing and installing custom cabinetry?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for custom cabinetry begins with a detailed consultation to understand your functional needs, aesthetic preferences, and budget. This is followed by design conceptualization, where sketches and 3D renderings are often presented for your review and approval. Once the design is finalized, precise measurements are taken, materials are sourced, and the cabinetry is fabricated off-site. Installation then occurs, which involves careful placement, leveling, and finishing touches. This custom approach ensures optimal space utilization and a unique aesthetic tailored to your home.",
+        "description": "Custom cabinetry involves consultation, design, fabrication, and installation, ensuring a perfect fit and unique aesthetic for your space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

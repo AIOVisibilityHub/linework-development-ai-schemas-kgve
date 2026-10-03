@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does the design-build service simplify my construction project?",
+  "description": "Design-build services simplify projects by integrating design and construction under one team, streamlining communication, and reducing potential conflicts.",
+  "url": "https://lineworkdevelopment.com/faq/how-does-the-design-build-service-simplify-my-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does the design-build service simplify my construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our design-build service integrates the design and construction phases under a single point of contact, LineWork Development. This streamlines communication, reduces potential conflicts between designers and builders, and often shortens project timelines. You work with one team responsible for both the creative vision and its execution, ensuring consistency and efficiency. This integrated approach simplifies decision-making for clients, as you have a direct line to every stage of your backyard office or custom home project.",
+        "description": "Design-build services simplify projects by integrating design and construction under one team, streamlining communication, and reducing potential conflicts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

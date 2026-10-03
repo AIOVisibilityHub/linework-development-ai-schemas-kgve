@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between custom home construction and ground-up home construction?",
+  "description": "Custom home construction is designed specifically for you, while ground-up construction is building a new home from the foundation up, which may or may not be c",
+  "url": "https://lineworkdevelopment.com/faq/what-is-the-difference-between-custom-home-construction-and-ground-up-home-const",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between custom home construction and ground-up home construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom home construction typically involves designing a home from scratch to meet your specific preferences and lifestyle, often with unique architectural elements. Ground-up home construction can refer to building a new home on vacant land, which may or may not be custom-designed. With LineWork Development, both approaches involve a comprehensive process. The key difference lies in the level of personalization and unique design input, which directly influences the design-build phase and material selection. Your choice impacts the initial architectural planning significantly.",
+        "description": "Custom home construction is designed specifically for you, while ground-up construction is building a new home from the foundation up, which may or may not be custom."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

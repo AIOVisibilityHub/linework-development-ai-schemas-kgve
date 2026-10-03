@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are typically required for a multi-story addition in Pasadena?",
+  "description": "Multi-story additions in Pasadena require building, zoning, and often other specialized permits, depending on the project scope and local ordinances.",
+  "url": "https://lineworkdevelopment.com/faq/what-permits-are-typically-required-for-a-multi-story-addition-in-pasadena",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are typically required for a multi-story addition in Pasadena?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A multi-story addition in Pasadena typically requires several permits, including building permits, zoning permits, and potentially special permits for aspects like grading, electrical, plumbing, and mechanical systems. The exact requirements depend on the scale and complexity of the addition, as well as specific local ordinances in Pasadena. Working with a contractor familiar with Pasadena's building codes and permit application process is essential to ensure compliance and avoid delays. They can help navigate the submission of architectural plans and structural engineering documents.",
+        "description": "Multi-story additions in Pasadena require building, zoning, and often other specialized permits, depending on the project scope and local ordinances."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

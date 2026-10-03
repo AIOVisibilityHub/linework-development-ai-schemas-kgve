@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does LineWork Development handle architectural design coordination for ground-up home construction?",
+  "description": "We coordinate architectural design for ground-up construction, ensuring designs are buildable and compliant with local regulations. We facilitate communication",
+  "url": "https://lineworkdevelopment.com/faq/how-does-linework-development-handle-architectural-design-coordination-for-groun",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does LineWork Development handle architectural design coordination for ground-up home construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LineWork Development provides comprehensive architectural design coordination for ground-up home construction, working closely with your chosen architect or connecting you with experienced professionals. Our role involves ensuring the design is buildable, cost-effective, and aligns with local regulations in areas like San Marino and Pasadena. We facilitate communication between you, the architect, and our construction team from the initial concept phase, helping to translate design visions into practical construction plans. This collaborative approach minimizes potential conflicts and ensures a cohesive project execution.",
+        "description": "We coordinate architectural design for ground-up construction, ensuring designs are buildable and compliant with local regulations. We facilitate communication between clients, architects, and our team."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

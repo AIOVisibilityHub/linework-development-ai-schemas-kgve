@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical kitchen renovation project take?",
+  "description": "Kitchen renovation timelines vary; basic refreshes take 4-6 weeks, while extensive custom projects can take 10-16 weeks or more.",
+  "url": "https://lineworkdevelopment.com/faq/how-long-does-a-typical-kitchen-renovation-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical kitchen renovation project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a kitchen renovation varies significantly based on its scope, from minor cosmetic updates to a complete gut and reconfiguration. A basic refresh might take 4-6 weeks, while a more extensive custom kitchen with cabinetry and structural changes could take 10-16 weeks or more from design to completion. Factors like material lead times, permit approvals, and the complexity of custom millwork can extend the timeline. Early planning and material selection are key to keeping a project on schedule.",
+        "description": "Kitchen renovation timelines vary; basic refreshes take 4-6 weeks, while extensive custom projects can take 10-16 weeks or more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

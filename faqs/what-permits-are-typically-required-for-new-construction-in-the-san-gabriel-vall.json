@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are typically required for new construction in the San Gabriel Valley area?",
+  "description": "New construction in the San Gabriel Valley requires building, zoning, and trade-specific permits; specific needs vary by city and project scope.",
+  "url": "https://lineworkdevelopment.com/faq/what-permits-are-typically-required-for-new-construction-in-the-san-gabriel-vall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are typically required for new construction in the San Gabriel Valley area?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New construction projects in the San Gabriel Valley area generally require various permits, including building permits, zoning permits, and potentially specific permits for electrical, plumbing, and mechanical systems. The exact requirements depend on the city (e.g., San Marino, Pasadena) and the scope of your project. We assist in navigating these local regulations and submitting necessary documentation. Understanding your specific municipality's requirements is a key preparation step before beginning any new build.",
+        "description": "New construction in the San Gabriel Valley requires building, zoning, and trade-specific permits; specific needs vary by city and project scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to start planning a custom home construction project?",
+  "description": "Start planning a custom home 18-24 months before your desired move-in date. This allows time for design, permits, material selection, and buffer for delays.",
+  "url": "https://lineworkdevelopment.com/faq/when-is-the-best-time-to-start-planning-a-custom-home-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to start planning a custom home construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The best time to start planning a custom home construction project is typically well in advance of your desired move-in date, often 18-24 months prior. This allows ample time for architectural design, securing necessary permits, and careful material selection, which can be a lengthy process depending on the complexity and local jurisdiction. Early planning also provides a buffer for unexpected delays and ensures you can secure preferred contractors and designers. Starting early allows for a more relaxed and thoughtful decision-making process.",
+        "description": "Start planning a custom home 18-24 months before your desired move-in date. This allows time for design, permits, material selection, and buffer for delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

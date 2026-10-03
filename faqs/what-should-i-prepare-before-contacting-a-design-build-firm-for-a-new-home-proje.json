@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before contacting a design-build firm for a new home project?",
+  "description": "Before contacting a design-build firm, prepare your project scope, preliminary budget, inspiration images, and a list of needs for your new home.",
+  "url": "https://lineworkdevelopment.com/faq/what-should-i-prepare-before-contacting-a-design-build-firm-for-a-new-home-proje",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before contacting a design-build firm for a new home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before contacting a design-build firm, it's beneficial to have a clear understanding of your project's scope, a preliminary budget, and a collection of inspiration images or ideas for your desired home style. Preparing a list of your family's needs, desired number of rooms, and any specific features you envision can help us understand your vision better. Having a basic understanding of your property's characteristics, like size and potential challenges, is also valuable. This preparation helps us provide a more accurate initial assessment.",
+        "description": "Before contacting a design-build firm, prepare your project scope, preliminary budget, inspiration images, and a list of needs for your new home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
