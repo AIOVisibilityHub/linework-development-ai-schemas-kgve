@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Planning an Open-Concept Remodel: What Walls Can Really Go?",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Dreaming of a more open, spacious feel in your home? Open-concept floor plans are incredibly popular for a reason—they can transform a series of closed-off rooms into a bright, flowing living space. However, not every wall can simply disappear. The first step in planning an open-concept remodel is understanding which walls are truly candidates for removal or alteration, and which ones play a crucial role in your home's structural integrity. It's a common question we get: 'Can this wall come down?' Often, what looks like a simple partition might be a load-bearing wall, supporting floors, the roof, or even upper stories. These walls require careful assessment and often, the installation of new support beams or posts.\n\nBeyond structural concerns, you also need to think about what's inside those walls. Plumbing lines, electrical wiring, HVAC ducts, and even fire protection systems can all be hidden from view. Relocating these utilities can add significant complexity and cost to your project. And let's not forget the impact on your home's overall functionality. Removing walls changes daylight patterns, acoustics, and can affect heating and cooling distribution. You'll also need to consider where furniture will go and how you'll maintain privacy in the new open space. A successful open-concept remodel isn't just about demolition; it's about thoughtful design that integrates these elements seamlessly.\n\nCommon Mistakes to Avoid\n\nWhen planning an open-concept remodel, it's easy to overlook crucial details, leading to costly mistakes. One frequent error is treating an open plan as purely a demolition project without considering the structural implications. Assuming a wall is nonstructural because it's light framing is a big no-no; always verify. Another common misstep is designing around a preferred kitchen island or furniture layout before confirming the feasibility of wall removal, beam depth, and post locations. Homeowners sometimes underestimate the impact on acoustics, creating a noisy environment, or neglect proper ventilation, lighting, and heating/cooling distribution in the new, larger space. Lastly, making unpermitted changes can lead to serious issues, including fines and having to redo work.\n\nTo avoid these pitfalls, engage a professional like LineWork Development early in the process. We start by documenting existing conditions, identifying bearing walls and utilities, and then designing appropriate solutions. Our integrated design-build approach means we coordinate all aspects, from structural engineering and permitting to utility relocation and finish work, ensuring a smooth and compliant transformation. We'll help you think through everything from beam placement to furniture zones so your new open space is both beautiful and functional.\n\nWhat to Do Next\n\nIf an open-concept remodel is on your horizon, the best next step is to get a professional assessment. Understanding your home's specific structural characteristics and utility layouts is critical before any demolition begins. LineWork Development offers expertise in coordinating architectural design, structural engineering, and construction management for complex residential projects. We can help you define your functional goals, evaluate structural conditions, and navigate the permitting process from start to finish. Our team specializes in creating seamless transitions between original and newly built areas, ensuring your remodel feels intentional and cohesive. Contact LineWork Development today to discuss your open-concept vision and explore the possibilities for your San Marino, Pasadena, or Greater Los Angeles home.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

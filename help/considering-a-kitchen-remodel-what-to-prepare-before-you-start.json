@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Considering a Kitchen Remodel? What to Prepare Before You Start",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about diving into a kitchen remodel? That's exciting! Getting a few things in order before you even talk to a design-build firm can make the whole process smoother and more efficient. It helps us understand your vision and deliver exactly what you're hoping for. First, think about what you dislike most about your current kitchen and what your dream kitchen would solve. Is it lack of counter space, poor flow, outdated appliances, or not enough storage? Next, consider your lifestyle. Do you entertain often? Are you a gourmet chef or a quick-meal pro? How many people are in your household, and what are their needs? Gathering some inspiration photos is super helpful too; think about the aesthetic you’re drawn to – modern, traditional, something in between? You should also have a rough idea of how you’ll manage without your kitchen during construction, as it can be unusable for roughly 8–16 weeks. Thinking through these points helps us at LineWork Development craft a space that’s not just beautiful, but truly functional for your life, ensuring that architectural vision, construction expertise, and detailed project management align perfectly.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

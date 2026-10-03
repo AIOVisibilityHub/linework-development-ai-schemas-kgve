@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Planning Your Home Addition: A Step-by-Step Guide",
+  "description": "This initial phase is all about figuring out what you want your new space to be, what problems it will solve, and how much you're comfortable investing. We'll work with you to understand your program ",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Define Your Vision and Budget",
+      "text": "This initial phase is all about figuring out what you want your new space to be, what problems it will solve, and how much you're comfortable investing. We'll work with you to understand your program requirements, like how many rooms, their purpose, and desired features, while also establishing a realistic budget to guide the project. This phase helps set clear expectations and outlines the scope of work."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Verify Feasibility and Constraints",
+      "text": "Before diving into detailed designs, we need to ensure your vision is feasible. This step involves carefully checking local zoning regulations, such as setback requirements, lot coverage limits, and height restrictions. We’ll also assess site constraints like topography or existing structures. Understanding these boundaries early on is crucial to avoid costly redesigns later and ensures your project complies with all local ordinances."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Develop Comprehensive Plans",
+      "text": "This is where your vision starts to take concrete shape. Our team will develop detailed architectural plans, including floor plans, elevations, and sections, showing precisely how the addition will integrate with your existing home. We also coordinate structural and service plans, making sure everything from the foundation to the HVAC system is thoughtfully designed and engineered for optimal performance and safety. This integrated design ensures all components work together seamlessly."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Secure Permits and Approvals",
+      "text": "With the comprehensive plans in hand, we'll submit all necessary documentation to the relevant authorities for plan review and permitting. This usually includes site plans, detailed drawings, and HVAC calculations. We manage this entire process, addressing any correction notices and working to obtain all required building and trade permits. Remember, construction can't begin until these permits are officially issued, so patience here is key."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Construction and Project Management",
+      "text": "Once permits are secured, construction begins! Our integrated design-build model means we meticulously manage the entire build process. We coordinate all trades, oversee the schedule, maintain budget transparency using digital tools, and ensure high-quality craftsmanship. Regular inspections will be scheduled throughout this phase to ensure compliance with building codes and approved plans, ensuring your project stays on track and meets our high standards."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Final Walkthrough and Project Closeout",
+      "text": "As construction wraps up, we’ll conduct a thorough final walkthrough with you. This is your chance to review every detail and ensure everything meets your expectations and our agreed-upon vision. We’ll address any punch-list items and complete all necessary closeout documentation, ensuring you’re delighted with your new, beautifully integrated living space. Our goal is a seamless transition and a finished product that exceeds your dreams. What to Do Next Ready to plan your home addition with an expert team? Contact LineWork Development at (626) 594-5005 for a free consultation and let's start building your vision."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

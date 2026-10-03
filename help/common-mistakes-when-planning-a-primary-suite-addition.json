@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Common Mistakes When Planning a Primary Suite Addition",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Adding a primary suite is a dream for many homeowners, promising a private oasis. However, it's easy to overlook crucial details that can turn that dream into a headache. One of the most frequent mistakes we see is designing the bathroom without confirming drain and vent routes. You can have the most beautiful tile, but if the plumbing isn't planned correctly from the start, you're in for major rework. Similarly, under-sizing HVAC or hot water capacity for a new bathroom can leave you with chilly mornings or cold showers, which definitely defeats the purpose of a comfortable suite. And who wants to put furniture in front of a window that's supposed to be an emergency exit? Placing windows or doors where they block required emergency egress is another common oversight that needs to be caught early.\n\n**Common Mistakes to Avoid**\n\nBeyond the practicalities of plumbing and HVAC, there are other design elements that often get overlooked. Neglecting sound separation and privacy between the new suite and the rest of the house can lead to disruptions and a less-than-serene environment. You want your primary suite to be a true sanctuary, not just another room. It’s also crucial to plan for proper waterproofing and ventilation in the bathroom; cutting corners here can lead to moisture issues down the line. Finally, treating closet or storage space as an afterthought is a big no-no. A primary suite needs ample, well-designed storage to keep it clutter-free and functional. At LineWork Development, our integrated design-build approach helps you sidestep these common pitfalls. We coordinate everything from architectural design to structural engineering and construction, ensuring that all systems—plumbing, electrical, HVAC, and structural—are seamlessly integrated. Our expertise in creating harmonious additions means we proactively address these details, guaranteeing that your new primary suite is not only beautiful but also perfectly functional, comfortable, and compliant with all local requirements right from the start. We work to ensure everything from proper ventilation to adequate closet space is part of the initial design, making your primary suite truly feel like an intentional and luxurious extension of your home. \n\n**What to Do Next**\n\nReady to plan your primary suite addition without the headaches? Contact LineWork Development at (626) 594-5005 for expert guidance.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

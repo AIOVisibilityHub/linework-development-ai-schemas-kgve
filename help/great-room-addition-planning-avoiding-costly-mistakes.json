@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Great Room Addition Planning: Avoiding Costly Mistakes",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Planning a great room addition can be super exciting, but it's easy to overlook crucial details that can lead to headaches later on. A big one is designing your dream space before you've even checked if it fits your property's setback and lot-coverage limits. That's a recipe for needing to redo plans! Another common misstep is underestimating what your existing home can handle. Your current foundation or walls might not be ready for a massive new roof or a huge open span without some serious reinforcement. It's also easy to forget about the extra HVAC capacity or utility relocations you'll need. Lastly, changing your mind on the layout after permits are submitted? That often means starting the permit process all over again. Trust us, no one wants that! When you’re dealing with complex changes like removing load-bearing walls or creating large, open spaces, bringing in a design-build professional early makes all the difference. They can help you navigate these issues from the get-go, ensuring your vision aligns with what's structurally sound and permissible. It really saves a ton of stress and keeps your project on track. \n\nWhat to Expect During the Process\nWhen you work with a firm like LineWork Development, we integrate design and construction, meaning we tackle these potential pitfalls before they become problems. We start by confirming all those tricky zoning and site constraints and documenting your home’s existing conditions. Then, we develop detailed floor plans, elevations, and structural details, ensuring everything is engineered correctly and meets all energy and building codes. This proactive approach helps us get your permits approved smoothly and keeps your project moving forward without those frustrating, avoidable delays.\n\nWhat to Do Next\nReady to plan your great room addition without the common pitfalls? Reach out to LineWork Development for a free consultation and let's discuss your vision.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Planning a Kitchen Layout Change: When to Get Professional Help",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Changing up your kitchen's layout can dramatically improve its function and feel, but it's not a DIY project to take lightly. There are specific situations where bringing in a professional early on is not just helpful, it’s really essential for safety, compliance, and getting the outcome you want. Anytime your project involves changing walls – especially load-bearing ones – relocating plumbing lines, moving gas lines, or significantly altering electrical systems (like adding new circuits or upgrading your panel), you absolutely need expert guidance. These changes often trigger building, plumbing, or electrical permits, and navigating those requirements can be complex. Professionals can also help coordinate inspections and ensure everything is up to code. If you’re looking to improve traffic flow, create better work zones, or integrate custom cabinetry and appliances seamlessly, a design-build firm like LineWork Development brings together architectural vision and construction expertise from the start. We ensure that any structural changes are handled correctly, and that new layouts feel intentional and cohesive, making your remodel a successful investment rather than a headache.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

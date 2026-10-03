@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Choosing a Contractor for Structural Wall Removal: Key Questions to Ask",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Deciding to remove a structural wall in your home is a big step, one that significantly impacts your property's integrity and value. When it comes to choosing a contractor for this specialized work, you can't just pick anyone. You need a partner who understands the complexities of structural reconfiguration and has a proven track record. It’s not just about swinging a sledgehammer; it’s about engineering, precision, and safety. You’ll want to know if they have relevant residential alteration experience, particularly with projects involving load-bearing walls or significant structural reinforcement. A contractor who approaches this work as just another remodeling job, without a deep understanding of load paths and building science, can put your home at risk.\n\nAnother critical area is their approach to design and permitting. Will they obtain structural calculations and drawings where required? Do they work with licensed or registered design professionals? In many jurisdictions, removing a structural beam or altering an egress route is not treated as an ordinary repair and requires construction documents sealed by an architect or professional engineer. You need a contractor who transparently handles permits, inspections, temporary shoring, and utility relocation. Don't be afraid to ask for references for comparable wall-removal or reinforcement projects, and always verify their documented insurance. This due diligence ensures you're hiring a team that prioritizes both the aesthetics of your new space and the long-term safety of your home.\n\nQuestions to Ask Before You Decide\n\nWhen interviewing contractors for structural wall removal, make sure to ask these specific questions to gauge their expertise and suitability: 1) “Can you provide examples of similar structural reconfiguration projects you’ve completed, particularly involving load-bearing walls?” This helps you assess their direct experience. 2) “How do you identify load-bearing walls and what is your process for securing temporary support?” Look for answers that detail structural assessments and proper shoring techniques. 3) “Do you work with licensed structural engineers or architects for calculations and sealed drawings, and what is your process for obtaining all necessary permits?” A reputable firm will have a clear, compliant process. 4) “How do you manage potential utility relocation (plumbing, electrical, HVAC) that might be inside the wall?” They should have a coordinated approach. 5) “What is your process for inspections, both during and after demolition and structural work?” Ensuring proper inspections before concealment is crucial for safety and compliance. 6) “Can you detail your insurance coverage for this type of work?” Always verify their liability and worker's compensation insurance.\n\nThese questions will help you distinguish between contractors who merely offer remodeling services and those, like LineWork Development, who specialize in integrated design-build solutions for complex structural alterations. We prioritize coordination of architectural design, engineering, permitting, and skilled craftsmanship to deliver a safe, beautifully executed project.\n\nWhat to Do Next\n\nReady to move forward with a structural wall removal but want to ensure it's done right? The next logical step is to consult with a design-build firm experienced in complex structural reconfigurations. LineWork Development specializes in precisely this type of project, integrating architectural vision with construction expertise. We guide homeowners through every phase, from initial structural assessment and design to permitting, execution, and final walkthroughs. Our approach reduces the friction of coordinating multiple parties and ensures your project's design intent, construction quality, and practical usability are all protected. If you're in San Marino, Pasadena, or anywhere in the Greater Los Angeles area and considering a structural change, contact LineWork Development to schedule a consultation and experience our coordinated process firsthand.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

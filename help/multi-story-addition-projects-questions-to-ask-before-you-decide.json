@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Multi-Story Addition Projects: Questions to Ask Before You Decide",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Considering a multi-story addition is a big step, and you'll want to be as informed as possible before moving forward. It’s definitely more complex than a ground-level expansion, so asking the right questions upfront can save you significant time and money. For starters, you need to know: can the existing foundation and framing actually carry another story? This is fundamental, and a professional assessment is key. How will the new loads transfer safely to the ground? You also need to confirm if the addition will meet critical requirements like height limits, setbacks, fire safety, and emergency egress. Don’t forget about stairs and energy efficiency, too. A practical concern is whether you can remain in the house during construction; multi-story projects often involve significant disruption. Finally, what about permits and zoning? Will you need variances, and what specific documentation, possibly from licensed professionals, will the local building department require? \n\nQuestions to Ask Before You Decide\nWhen you're interviewing potential design-build firms or contractors for a multi-story addition, here are some crucial questions to cover:\n\n*   What is your experience with similar vertical additions, particularly those requiring significant structural work?\n*   How do you assess the existing foundation and framing, and what kind of reinforcement is typically needed?\n*   Can you provide references from clients with multi-story projects you’ve completed?\n*   What's your plan for weather protection and ensuring the safety of the site during construction?\n*   How will you handle all necessary permits, including architectural and structural plans, and coordination with local officials?\n*   What is your typical sequencing for a project like this, and what kind of timeline should we expect?\n*   How do you manage unforeseen conditions, especially when uncovering existing framing or utilities?\n\nAsking these questions helps you gauge expertise, anticipate potential challenges, and understand the contractor's approach to complex structural projects. It ensures you're choosing a partner who can manage the unique demands of building upward, making sure the new structure integrates seamlessly and safely with your existing home.\n\nWhat to Do Next\nReady to get detailed answers about your multi-story addition? Connect with LineWork Development for a free consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

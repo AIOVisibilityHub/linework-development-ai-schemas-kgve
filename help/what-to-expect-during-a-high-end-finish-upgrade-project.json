@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "What to Expect During a High-End Finish Upgrade Project",
+  "description": "First, we'll talk about what you need from your finishes. Is it durability, moisture resistance, or lightfastness? This helps us choose the right products that fit your lifestyle and home's demands.",
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Step 1: Define Performance Requirements",
+      "text": "First, we'll talk about what you need from your finishes. Is it durability, moisture resistance, or lightfastness? This helps us choose the right products that fit your lifestyle and home's demands."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Step 2: Select Materials and Finish Systems",
+      "text": "Next, we'll dive into material options – from specialty paints to unique plasters or veneers. We'll explore various systems that provide the look and performance you're after. This often includes discussions about what best suits the intended use of the space."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Step 3: Review Samples or Control Samples",
+      "text": "This is where you get to see and feel the options. We'll provide samples for your review, and for complex projects, control samples ensure consistency across larger areas. This is crucial for verifying that the look and feel are exactly what you expect."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Step 4: Confirm Substrate and Preparation Requirements",
+      "text": "No finish is better than its foundation. We'll assess the surfaces to be finished, ensuring they're properly prepared – smooth, clean, and ready to accept the new materials. This step often includes documentation of the specification to ensure clear guidelines for application."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Step 5: Procure Materials and Application",
+      "text": "Once everything is approved, we'll procure the high-quality materials. Then, our skilled craftsmen will begin the application, adhering to precise techniques to ensure a flawless and consistent finish. Timing here can vary based on specialty material availability and required cure times."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "name": "Step 6: Inspect and Protect",
+      "text": "Finally, we meticulously inspect the finished work to ensure it meets our high standards and your expectations. We’ll then protect the newly finished surfaces during any remaining construction or before handover. This protects your investment from accidental damage. A qualified finisher or designer is important when the upgrade involves complex staining, custom color matching, or strict appearance requirements. LineWork Development manages every phase of construction, from planning to final walkthrough, ensuring seamless execution and beautifully crafted living spaces. Our integrated design-build approach ensures that this process is handled with precision and transparent management. What to Do Next: Ready to upgrade your home’s finishes? Contact LineWork Development to start your project with confidence and clarity."
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  }
+}

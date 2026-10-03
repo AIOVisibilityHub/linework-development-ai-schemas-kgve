@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Navigating Home Addition Permits: What to Expect",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Thinking about adding onto your home? It’s an exciting step, but navigating the world of permits can feel a bit daunting. Most home additions, whether they're expanding your living room or adding a new bedroom, will absolutely need a building permit. You might also find yourself needing separate permits for electrical, plumbing, mechanical, or even roofing, depending on exactly what your project entails. The important thing to remember is that you really can't kick off construction until that permit is officially issued. Jurisdiction review times can vary quite a bit, but don't be surprised if the initial review takes about 10 business days, and the whole processing period could stretch to two or three weeks for some applications. It's not always a quick process, but it’s crucial for ensuring everything is safe and up to code.\n\n**What to Expect During the Process**\n\nWhen you apply for permits, you'll typically need to submit a range of documents. This usually includes a site plan, which shows where your house sits on the property and where the new addition will go. You’ll also need detailed floor plans, elevations showing what the addition will look like from different angles, and sections that cut through the structure to show its internal layout. Don’t forget foundation and roof plans, plus HVAC calculations if you’re adding new heating and cooling. These detailed drawings are critical for the municipal review process. Incomplete or non-compliant plans are a common reason for delays, often leading to correction notices and requiring resubmission. Working with a design-build firm like LineWork Development means we coordinate these plans and submissions for you, aiming to smooth out this often-bumpy road. It makes a huge difference to have a single team managing both the design and the build, because they inherently understand how the design affects the permitting process and what’s needed for a successful submission. \n\n**What to Do Next**\n\nReady to explore what’s possible for your home addition? Contact LineWork Development at (626) 594-5005 to discuss your project and get clarity on the permitting process.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

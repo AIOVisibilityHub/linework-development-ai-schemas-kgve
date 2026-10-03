@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Why Your Great Room Addition Might Need an Architect or Engineer",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "When you're planning a great room addition, you might initially think it’s just a matter of adding square footage. However, depending on your vision, you might find yourself needing the specialized expertise of an architect or structural engineer. This becomes especially true when your plans involve more than just a simple bump-out. For instance, if you're looking to remove load-bearing walls to create that expansive, open feel, or if your design calls for large openings and spans that exceed typical construction, you're definitely stepping into territory that requires professional analysis. The same goes for altering the roofline, modifying the foundation, or integrating complex HVAC and utility systems. These aren't DIY projects or tasks for just any builder; they need careful design and structural calculations to ensure safety and compliance. Many jurisdictions also specifically require licensed professionals to sign off on plan-based permits for such complex changes, ensuring everything is up to code. \n\nWhen Professional Guidance Helps\nA qualified architect, structural engineer, or an integrated design-build professional like LineWork Development becomes absolutely essential when your project touches on critical structural elements. This includes any project that: \n*   Removes or significantly alters load-bearing walls. \n*   Creates large, open spans or wide openings. \n*   Requires modifications to your existing roof or foundation. \n*   Involves complex utility work beyond simple extensions. \nThese situations demand expert design and engineering to guarantee the structural integrity and long-term safety of your home. It’s about more than just building; it's about smart, safe, and compliant construction.\n\nWhat to Do Next\nIf your great room addition involves any of these complex elements, don't hesitate. Contact LineWork Development today for a free consultation. We can assess your project needs and guide you through the process with our integrated design-build approach.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

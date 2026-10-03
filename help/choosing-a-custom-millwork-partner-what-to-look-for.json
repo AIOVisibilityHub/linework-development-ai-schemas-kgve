@@ -1,0 +1,121 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Choosing a Custom Millwork Partner: What to Look For",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "When you're ready to add beautiful custom millwork to your San Gabriel Valley home, picking the right partner is super important. It's not just about the final product; it's about the whole experience. You want someone who really understands your vision and can bring it to life without a hitch.\n\nHere’s a checklist to help you make a smart decision:\n- [ ] **Check their portfolio for relevant work** — Does their past work align with the style and complexity you're aiming for? Look for examples that showcase quality and attention to detail, especially in residential projects similar to yours.\n- [ ] **Ensure they produce coordinated shop drawings** — This is crucial! Detailed drawings show dimensions, door/drawer configs, and hardware. They help ensure everyone's on the same page before fabrication starts.\n- [ ] **Ask about material and finish samples** — Can they provide physical samples for you to see and approve? This helps ensure the final product matches your expectations for color and texture.\n- [ ] **Inquire about their quality-control procedures** — How do they maintain high standards throughout the fabrication and finishing process? You want confidence that the craftsmanship will be top-notch.\n- [ ] **Understand their installation capability** — Who handles the installation? Professional installation is key to ensuring those custom pieces fit perfectly into your verified site conditions.\n- [ ] **Clarify their warranty or correction policy** — What happens if there's an issue after installation? Knowing this upfront provides peace of mind.\n- [ ] **Review their proposed schedule, including approval milestones** — A clear schedule helps you track progress and understand when your input, like approving shop drawings, is needed.\n\nHow to use this checklist:\nGo through these points when interviewing potential millwork providers. It's designed to help you ask the right questions and ensure you’re choosing a partner who prioritizes precision, communication, and master craftsmanship, just like LineWork Development. This helps ensure your project aligns with both vision and buildability.\n\nWhat to Do Next:\nFor a custom millwork project you can trust, contact LineWork Development to discuss our detailed process and see how we integrate design and construction seamlessly.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Choosing a Custom Millwork Partner: What to Look For",
+    "numberOfItems": 7,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Check their portfolio for relevant work — Does their past work align with the style and complexity you're a…",
+        "description": "Check their portfolio for relevant work — Does their past work align with the style and complexity you're aiming for? Look for examples that showcase quality and attention to detail, especially in residential projects similar to yours."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Ensure they produce coordinated shop drawings — This is crucial! Detailed drawings show dimensions, door/dr…",
+        "description": "Ensure they produce coordinated shop drawings — This is crucial! Detailed drawings show dimensions, door/drawer configs, and hardware. They help ensure everyone's on the same page before fabrication starts."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Ask about material and finish samples — Can they provide physical samples for you to see and approve? This…",
+        "description": "Ask about material and finish samples — Can they provide physical samples for you to see and approve? This helps ensure the final product matches your expectations for color and texture."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Inquire about their quality-control procedures — How do they maintain high standards throughout the fabrica…",
+        "description": "Inquire about their quality-control procedures — How do they maintain high standards throughout the fabrication and finishing process? You want confidence that the craftsmanship will be top-notch."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Understand their installation capability — Who handles the installation? Professional installation is key t…",
+        "description": "Understand their installation capability — Who handles the installation? Professional installation is key to ensuring those custom pieces fit perfectly into your verified site conditions."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Clarify their warranty or correction policy — What happens if there's an issue after installation? Knowing…",
+        "description": "Clarify their warranty or correction policy — What happens if there's an issue after installation? Knowing this upfront provides peace of mind."
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Review their proposed schedule, including approval milestones — A clear schedule helps you track progress a…",
+        "description": "Review their proposed schedule, including approval milestones — A clear schedule helps you track progress and understand when your input, like approving shop drawings, is needed."
+      }
+    ]
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  }
+}

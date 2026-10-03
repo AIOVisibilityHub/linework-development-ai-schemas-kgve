@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Multi-Story Addition: How to Know if Your Home Can Support It",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Adding a second story or a multi-story extension is a fantastic way to gain significant space without sacrificing yard area. But before you get too excited about the extra bedrooms or a new home office upstairs, the biggest question is whether your existing home can actually handle it. This isn't just about wishing for more space; it's a serious structural engineering challenge. You absolutely need to know if your current foundation and framing are robust enough to carry an entire new level. How those new loads will transfer safely all the way down to the ground is critical, and often overlooked. Beyond the structural, you also have to consider if the addition will meet height, setback, fire, stair, egress, energy, and zoning requirements in your area. It's a lot to think about, and getting this wrong can lead to costly redesigns or even permit rejections. \n\nWhat Can Change the Right Choice\nDeciding on a multi-story addition really hinges on a thorough structural assessment of your current property. Factors like the age and condition of your existing foundation, the type of framing in your walls, and even the soil conditions beneath your home can all influence feasibility and cost. If your foundation needs significant reinforcement, or your framing requires extensive upgrades to handle lateral loads, that could change the scope and timeline considerably. Also, the specifics of local zoning laws regarding height limits and setbacks can dictate the scale of what's possible. Sometimes, a full second story might be too complex or expensive, leading you to consider a more modest vertical expansion or a different approach altogether.\n\nWhat to Do Next\nThinking about going up? The first step is a professional feasibility study. Contact LineWork Development for a free consultation. We’ll help you understand your home's potential for a multi-story addition.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

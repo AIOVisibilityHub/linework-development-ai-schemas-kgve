@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Making Your Primary Suite Addition Flow Seamlessly",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "A primary suite addition should feel like it was always meant to be part of your home, not just tacked on. Achieving that seamless flow is about more than just matching paint colors; it’s about thoughtful design, structural integration, and careful planning of all the functional elements. You want the new space to enhance your home's existing architecture while providing all the comfort and convenience you desire. From ensuring the new bedroom meets light and ventilation standards to strategically placing the bathroom and closets, every decision contributes to the overall success and harmony of your primary suite. It's about blending the old with the new in a way that feels organic and elevates your entire living experience.\n\n**What to Prepare Before You Start**\n\nBefore you dive into a primary suite addition, doing a little prep work can make the whole process much smoother. First, confirm your desired requirements for the bedroom, bathroom, storage, and general circulation within the suite. Think about how you’ll use the space and what features are non-negotiable. Next, assess your existing home and site. Are there any tricky slopes, existing utility lines, or property boundary issues that could impact where and how you build? It's also super helpful to verify zoning and setback requirements with your local municipality. Knowing these upfront can prevent surprises. When you work with a design-build firm like LineWork Development, we take a holistic approach. We assess your site and existing structure to ensure the proposed design is not only beautiful but also structurally sound and compliant. Our team will coordinate all the necessary plans—architectural, structural, plumbing, electrical, ventilation, and HVAC—ensuring they all work together perfectly. This integrated approach is especially important for primary suites, which often involve complex connections to existing systems. We focus on creating seamless transitions, ensuring your addition feels intentional and cohesive. We're well-versed in navigating permit requirements across Greater Los Angeles and the San Gabriel Valley, which means we can help ensure your project adheres to local building codes, from bedroom egress to bathroom ventilation and accessibility standards. \n\n**What to Do Next**\n\nReady to design a primary suite that perfectly flows with your home? Contact LineWork Development at (626) 594-5005 for a consultation.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

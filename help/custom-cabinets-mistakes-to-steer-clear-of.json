@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Custom Cabinets: Mistakes to Steer Clear Of",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Investing in custom cabinetry is a fantastic way to elevate your home, offering tailored storage and a unique aesthetic. However, even with the best intentions, it's easy to make a few common missteps that can lead to frustration, delays, and unexpected costs. Knowing what to watch out for can save you a lot of headaches and ensure your project goes smoothly.\n\nCommon Mistakes to Avoid\n- [ ] **Inaccurate field measurements** — why: Custom cabinets are built precisely to your space. If the initial measurements are off, even slightly, the cabinets won't fit correctly, leading to costly adjustments or re-fabrication.\n- [ ] **Approving drawings without checking appliance/plumbing clearances** — why: Your beautiful new cabinets need to seamlessly integrate with your appliances and plumbing. Ensure there's adequate space and proper alignment for everything before signing off on drawings.\n- [ ] **Failing to identify finished-floor or wall conditions** — why: Cabinets are installed based on the final floor and wall heights. If these aren't accounted for, your cabinets might end up too high, too low, or misaligned with other elements.\n- [ ] **Changing hardware or finishes after approval** — why: Custom production relies on approved specifications. Late changes can significantly impact both the cost and the timeline, as materials may have already been ordered or fabrication started.\n- [ ] **Not confirming who handles delivery, installation, trim, and fillers** — why: A custom cabinet project involves many moving parts. Clearly define who is responsible for each phase, from getting the cabinets to your home to the final touches like trim and fillers, to avoid gaps in service.\n- [ ] **Overlooking wall blocking or structural support** — why: Especially for heavy wall-mounted units, integrated lighting, or thick countertops, proper internal wall blocking or structural support is essential for safety and longevity. This needs to be planned early.\n\nHow to use this checklist: Before you finalize your custom cabinet order or even begin the design phase, review these points carefully. Use it as a conversation starter with your design-build team to ensure every detail is covered and potential issues are addressed proactively. This vigilance helps ensure your custom cabinetry project is a success.\n\nLineWork Development brings meticulous attention to detail to every custom cabinetry project, helping clients avoid these common pitfalls. Let us guide you. Contact us at (626) 594-5005 for expert assistance.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

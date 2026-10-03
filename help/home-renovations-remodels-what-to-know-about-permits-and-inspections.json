@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Home Renovations & Remodels: What to Know About Permits and Inspections",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Embarking on a home renovation or remodel in areas like San Marino or Pasadena? Understanding permits and inspections is absolutely key to a smooth project. It might seem like extra bureaucracy, but these steps are designed to ensure your home is safe, up to code, and properly built. Skipping them can lead to major headaches down the road, including fines, difficulty selling your home, or even being forced to undo work.\n\nGenerally, if your project involves structural changes, electrical rewiring, plumbing relocation, or additions that change your home's footprint, you'll need permits. Even seemingly small changes can sometimes trigger requirements, so it's always best to check with your local building department early on. Things like moving walls, altering load-bearing elements, or significantly changing the layout of a bathroom or kitchen usually require approval.\n\nPermit review times can vary quite a bit—from a few weeks to several months, depending on your jurisdiction and the complexity of your project. This is why planning ahead is so important! Once permits are issued, various inspections will be required at different stages of construction, such as foundation, framing, electrical rough-in, plumbing rough-in, and final inspections. These ensure that the work meets safety and building codes before it's covered up. LineWork Development manages the entire permitting and inspection process as part of their integrated design-build model, ensuring everything is handled correctly.\n\nWhat to Expect During the Process:\n\nDuring a major home renovation, anticipate a phased approach for permits and inspections. The initial design and planning phase will involve preparing architectural drawings and submitting them to the local building department for review. This can take some time, so patience is key. Once permits are issued, work can begin, but specific stages of construction will require inspections by municipal officials. For instance, the framing, plumbing, and electrical systems will all need to be inspected before they are covered by drywall. Your contractor, like LineWork Development, will typically coordinate these inspections, making sure they happen at the right time and that the work is ready for approval. The final inspection will occur once all work is complete, ensuring everything meets code and allowing for project closeout. Maintaining clear communication with your builder about the inspection schedule is always a good idea.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}

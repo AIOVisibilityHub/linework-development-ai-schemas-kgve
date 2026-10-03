@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Avoiding Pitfalls in Your Home Addition Project",
+  "author": {
+    "@type": "Organization",
+    "name": "LineWork Development"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "LineWork Development",
+    "url": "https://lineworkdevelopment.com"
+  },
+  "articleBody": "Embarking on a home addition is a big undertaking, and like any complex project, there are common missteps that can cause headaches and delays. One of the biggest mistakes we see is homeowners starting construction before all the necessary approvals are in place. Seriously, don't do it! It can lead to costly rework and even fines. Another frequent issue is overlooking critical zoning requirements like setback lines or lot coverage limits. These aren't just suggestions; they’re rules that determine how much of your property you can build on and where, and ignoring them will definitely lead to problems down the road. Plus, it's easy to submit incomplete plans, which means more back-and-forth with the city and extended timelines.\n\n**Common Mistakes to Avoid**\n\nBeyond the initial planning and permits, coordination is key. Failing to properly coordinate structural, HVAC, plumbing, and electrical requirements can lead to big headaches. Imagine having your new walls up only to find out there's no way to run the necessary plumbing or wiring efficiently! It's also super common to underestimate the challenge of seamlessly tying the new addition into your existing structure. You want it to look and feel like it was always meant to be there, not like an afterthought. Lastly, incomplete or noncompliant plans are a guaranteed way to get correction notices and resubmission requests, which slows everything down. Our integrated design-build approach at LineWork Development is designed to tackle these exact challenges. By handling architectural design, structural engineering, and construction all under one roof, we ensure that every detail is coordinated from the start. This integrated approach means fewer surprises and a smoother process for you, because everyone on the team is working with the same vision and understanding of the project's requirements. We're all about making sure your addition feels intentional, functional, and cohesive with your home’s existing architecture. \n\n**What to Do Next**\n\nAvoid common home addition mistakes by partnering with an experienced design-build firm. Call LineWork Development at (626) 594-5005 to discuss your project.",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "San Marino"
+    },
+    {
+      "@type": "City",
+      "name": "Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "South Pasadena"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel Valley"
+    },
+    {
+      "@type": "City",
+      "name": "Alhambra"
+    },
+    {
+      "@type": "City",
+      "name": "Arcadia"
+    },
+    {
+      "@type": "City",
+      "name": "Temple City"
+    },
+    {
+      "@type": "City",
+      "name": "San Gabriel"
+    },
+    {
+      "@type": "City",
+      "name": "Rosemead"
+    },
+    {
+      "@type": "City",
+      "name": "Monterey Park"
+    }
+  ],
+  "datePublished": "2026-10-02",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  }
+}
