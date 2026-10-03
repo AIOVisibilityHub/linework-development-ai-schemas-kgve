@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T00:07:02.737Z",
+  "generatedAt": "2026-10-03T00:10:37.228Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,66 +37,6 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://lineworkdevelopment.aiovisibility.net/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/linework-development-ai-schemas-y9s8"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://linework-development-ai-schemas-y9s8-0cd220.gitlab.io/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "huggingface",
-      "label": "Hugging Face repository",
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/linework-development-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "huggingface",
-      "label": "Hugging Face — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub-linework-development-ai-schemas.static.hf.space/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "codeberg",
-      "label": "Codeberg repository",
-      "url": "https://codeberg.org/aiovisibilityhub/linework-development-ai-schemas"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "codeberg",
-      "label": "Codeberg — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.codeberg.page/linework-development-ai-schemas/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/linework-development-ai-schemas"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/23112621"
     }
   ],
   "destinations": {
@@ -104,30 +44,6 @@
       "url": "https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve",
       "pagesUrl": "https://lineworkdevelopment.aiovisibility.net/",
       "repo": "AIOVisibilityHub/linework-development-ai-schemas-kgve"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/linework-development-ai-schemas-y9s8",
-      "pagesUrl": "https://linework-development-ai-schemas-y9s8-0cd220.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/linework-development-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-linework-development-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/linework-development-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/linework-development-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/linework-development-ai-schemas/",
-      "repo": "aiovisibilityhub/linework-development-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/linework-development-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23112621"
     }
   }
 }
