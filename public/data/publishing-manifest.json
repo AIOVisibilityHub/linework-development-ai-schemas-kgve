@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-03T00:07:02.744Z",
+  "generatedAt": "2026-10-03T00:10:37.245Z",
   "client": {
     "name": "LineWork Development",
     "canonicalUrl": "https://lineworkdevelopment.aiovisibility.net",
@@ -80,7 +80,7 @@
   },
   "package": {
     "totalFiles": 625,
-    "totalBytes": 2655395,
+    "totalBytes": 2709993,
     "stats": {
       "faqs": 323,
       "helpArticles": 144,
@@ -3113,77 +3113,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 15929,
+        "bytes": 20481,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 64634,
+        "bytes": 69046,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 45375,
+        "bytes": 49897,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 29478,
+        "bytes": 33688,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13360,
+        "bytes": 17645,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 224201,
+        "bytes": 228522,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 15147,
+        "bytes": 19457,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 35965,
+        "bytes": 40351,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 24033,
+        "bytes": 28296,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 130896,
+        "bytes": 135267,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 61677,
+        "bytes": 66118,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 271735,
+        "bytes": 276147,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 89013,
+        "bytes": 93461,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 25723,
+        "bytes": 30065,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 21815,
+        "bytes": 26265,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -3195,7 +3195,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3707,
+        "bytes": 2586,
         "purpose": "LLM hint"
       },
       {
@@ -3215,32 +3215,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 4720,
+        "bytes": 1676,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 276659,
+        "bytes": 274181,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 79135,
+        "bytes": 78014,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 79135,
+        "bytes": 78014,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3732,
+        "bytes": 2611,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 92112,
+        "bytes": 90991,
         "purpose": "Repository README"
       },
       {
@@ -3260,30 +3260,6 @@
       "url": "https://github.com/AIOVisibilityHub/linework-development-ai-schemas-kgve",
       "pagesUrl": "https://lineworkdevelopment.aiovisibility.net/",
       "repo": "AIOVisibilityHub/linework-development-ai-schemas-kgve"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/linework-development-ai-schemas-y9s8",
-      "pagesUrl": "https://linework-development-ai-schemas-y9s8-0cd220.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/linework-development-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-linework-development-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/linework-development-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/linework-development-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/linework-development-ai-schemas/",
-      "repo": "aiovisibilityhub/linework-development-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/linework-development-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23112621"
     }
   }
 }
